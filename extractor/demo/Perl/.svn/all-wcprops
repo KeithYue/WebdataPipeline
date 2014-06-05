@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/7/trunk/demo/Perl
+END
+TextExtract_to_TXT.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/demo/Perl/TextExtract_to_TXT.exe
+END
+使用说明.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/demo/Perl/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf
+END
+TextExtract_to_XML.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/demo/Perl/TextExtract_to_XML.exe
+END
+clear.exe
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/demo/Perl/clear.exe
+END

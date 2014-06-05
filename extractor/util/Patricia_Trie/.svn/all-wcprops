@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/trunk/util/Patricia_Trie
+END
+nPatriciaTrie.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/util/Patricia_Trie/nPatriciaTrie.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/trunk/util/Patricia_Trie/main.cpp
+END
+bsearch_method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/trunk/util/Patricia_Trie/bsearch_method.cpp
+END
+nPatriciaTrieNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/util/Patricia_Trie/nPatriciaTrieNode.h
+END

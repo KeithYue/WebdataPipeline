@@ -1,0 +1,1505 @@
+http://www.opoqo.net/bbs/index.php?m=bbs
+2014-05-21 14:16:53.608781
+http://www.opoqo.net/bbs/read.php?tid-83629.html.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="html">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>中国矿业论坛--三人行矿业学院,煤矿论坛-煤矿、金属与非金属地质测量,采矿技术,选矿技术,矿山机电,矿业设备,矿业招聘求职与商务信息交流平台</title>
+<meta name="keywords" content="三人行矿业学院,矿山机电论坛,煤矿论坛,煤炭论坛,金属矿山,有色金属,非金属矿,地质勘探,采矿技术,通风安全,矿山机电,煤矿安全,选矿技术,矿业软件,数字矿山,矿业招聘,矿业求职,免费下载">
+<meta name="description" content="三人行矿业学院,矿山机电论坛,煤矿论坛,煤炭论坛,煤矿设备,金属矿采矿方法,有色金属行情,非金属矿山,地质勘探,采矿技术,通风安全,机电设备,煤矿安全,选矿技术,安全措施,矿业软件,数字矿山,六大系统,矿石化验,选矿设备,稀土价格,矿业人才,矿业培训,矿山安全,矿山企业,矿业网">
+<meta name="generator" content="PHPWind 7.5 SP3" />
+<meta name="description" content="三人行矿业学院,矿山机电,中国煤矿论坛,煤炭论坛,碰巧论坛,煤矿,金属矿山,有色金属,非金属矿山,地质,采矿,通风,机电,安全,选矿,选煤,采煤,免费,下载,资料,软件" />
+<meta name="keywords" content="三人行矿业学院,矿山机电论坛,中国煤矿论坛,煤炭论坛,碰巧论坛,煤矿,金属矿山,有色金属,非金属矿山,地质,采矿,通风,机电,安全,选矿,选煤,采煤,免费,下载,资料,软件" />
+<link rel="shortcut" href="/favicon.ico" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<link rel='archives' title='中国矿业论坛' href='http://www.opoqo.net/bbs/simple/' />
+<base id="headbase" href="http://www.opoqo.net/bbs/" />
+<link rel="stylesheet" type="text/css" href="images/wind-reset.css" /><link rel="stylesheet" type="text/css" href="data/bbscache/wind_wind.css" />
+<!--[if IE]>
+<style type="text/css">
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.t table{border-collapse:collapse;}
+.t {padding:0}
+</style>
+<![endif]-->
+<SCRIPT type="text/javascript" LANGUAGE="JavaScript" src="js/core/core.js"></SCRIPT>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+<script language="JavaScript">
+var imgpath = 'images';
+var verifyhash = '45135100';
+var modeimg = '';
+var modeBase = '';
+var winduid = '';
+var windid	= '';
+var groupid	= 'guest';
+var basename = '';
+var temp_basename = '';
+</script>
+</head>
+<body onkeydown="try{keyCodes(event);}catch(e){}">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2482a6bb41d287618942ff825e761aee' type='text/javascript'%3E%3C/script%3E"));
+</script><div class="new_topbar_wrap"><div class="new_topbar">
+    	<div class="cc">    <span class="new_topbar_left">
+<a onclick="showLoginDiv();" title="展开登录框" style="cursor:pointer" hidefocus="true">登录</a><a href="pq_rgt0iOuser.php" hidefocus="true">注册</a>
+<div id="user-login" class="menu-post" style="display:none;">    <form action="login.php" name="login_FORM" method="post">
+<input type="hidden" name="jumpurl" value="http://www.opoqo.net/bbs/index.php?m=bbs" />
+<input type="hidden" name="step" value="2" />
+<input type="hidden" name="cktime" value="31536000" />
+<div class="menu-b" style="width:400px;">
+    <div class="h b"><span class="fr" onclick="read.close();" style="cursor:pointer;" title="关闭"><img src="images/close.gif" /></span>登录</div>
+<table width="400" cellpadding="0" cellspacing="0">
+    <tr class="user-table"><td width="30%"><select name="lgt"><option value="0" selected>用户名</option><option value="1" >UID</option><option value="2" >Email</option></select></td><td class="tal"><input class="input gray" type="text" onfocus="checkinput(this);" onblur="if(getObj('logintab')) getObj('logintab').style.display='';checkinput(this,'输入用户名');" style="width:150px" name="pwuser" id="pwuser" value="输入用户名" tabindex="1" /></td>
+    </tr>
+    <tr class="user-table"><td>密  码</td><td class="tal"><input class="input" type="password" name="pwpwd" style="width:150px;" tabindex="2" /></td>
+    </tr>
+    <tr class="user-table"><td>安全问题</td><td class="tal">    <select name="question" onchange="showcustomquest_l(this.value)" tabindex="4"><option value="0">无安全问题</option><option value="1">我爸爸的出生地</option><option value="2">我妈妈的出生地</option><option value="3">我的小学校名</option><option value="4">我的中学校名</option><option value="5">我最喜欢的运动</option><option value="6">我最喜欢的歌曲</option><option value="7">我最喜欢的电影</option><option value="8" >我最喜欢的颜色</option><option value="-1">自定义问题</option></select>    <input id="customquest_l" type="text" style="display:none" class="input" size="10" tabindex="5" /></td>
+    </tr>
+    <tr class="user-table"><td>您的答案</td><td class="tal"><input name="answer" type="text" class="input" size="25" tabindex="6" /></td>
+    </tr>
+    <tr class="user-table"><td></td><td class="tal"><input class="btn fl" type="submit" value=" 登 录 " tabindex="8" />    <a href="sendpwd.php" class="fl">找回密码</a></td>
+    </tr>
+</table>
+    </div>    </form>
+    </div>    </span>    <ul class="new_topbar_right"><li><a href="columns.php?action=columns">左右分栏</a></li><li><a href="http://www.opoqo.net/bbs/userpay-htm-action-buy.html" id="td_ID19" target="_blank"><font color="#FF0000"><b>充值获取积分</b></font></a></li><li><a href="http://www.opoqo.net/bbs/profile.php?action=buy" id="td_ID82" title="成为VIP会员，赞助论坛建设、享受超级权限！"><font color="#FF00FF">成为VIP会员</font></a></li><li><a href="http://www.opoqo.net/bbs/userpay.php?action=change" id="td_ID22" target="_blank"><font color="#4B0082">积分相互转换</font></a></li><li><a href="http://www.opoqo.net/bbs/read.php?tid-83629.html.html" id="td_ID23" title="帮助新加入的会员快速熟悉论坛常用操作！"><font color="#008000">新手必读</font></a></li>    </ul></div>
+    </div>
+</div>
+<div id="header"><div id="head">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr><td><a href="http://www.opoqo.net/bbs/" class="fl"><img src="../bbs/images/wind/logo.gif" /></a></td><td id="banner" align="right"><a title="中国矿业论坛招募版主，欢迎加入这个大家庭！" href="http://www.opoqo.net/bbs/read-htm-tid-106940.html" target="_blank"><img src="http://www.opoqo.net/bbs/attachment/week_0848/27_144097_8f9f5a28249e544.gif"/></a></td>
+</tr>
+</table></div><div class="nav-wrap"><div id="nav"><span class="nav-left fl"></span>    <div id="nav-s">
+<a href="javascript:;" class="fr" onclick="goAdvanceSearch();return false;">高级</a>
+<form name="sF" action="search.php?#submit" method="post" target="_blank">
+<input type="hidden" name="step" value="2" />
+<input type="hidden" name="method" value="AND" />
+<input type="hidden" name="sch_area" value="0" />
+<input type="hidden" name="sch_area" value="0" />
+<input type="hidden" name="f_fid" value="all" />
+<input type="hidden" name="sch_time" value="all" />
+<input class="s-input" type="text" id="keyword" name="keyword" />
+<input class="s-btn" type="submit" name="submit" value=" " />
+</form>
+</div>
+<script language="JavaScript">
+function goAdvanceSearch(){
+var keyword = getObj('keyword').value;
+var url = 'search.php?advanced=1&keyword='+keyword;
+window.location = url;
+}
+</script>
+<div id="nav-global">
+<!-- <div id="shortcut" class="fr cp">我的快捷通道</div> -->
+<div id="td_mymenu_old">我的快捷通道</div>
+<ul class="cc"><li><a href="http://www.opoqo.net" id="td_KEYarea" title="矿业设备 矿业公司 矿业人才" target="_blank">矿业在线</a></li><li class="current"><a href="index.php" id="td_KEYbbs">论坛</a></li><li><a href="index-htm-m-o.html" id="td_KEYo" target="_blank">微博</a></li><li><a href="read-htm-tid-83629.html.html" id="td_ID94" title="新手必读 论坛成长手册" target="_blank"><font color="#FFE4E1">新手必读</font></a></li><li><a href="hack.php?H_name=bbx" id="td_ID113" title="常用工具 百宝箱 电影 电视剧 查询 手机 IP">百宝箱</a></li><li><a href="hack.php?H_name=actives" id="td_ID136" title="论坛精彩活动" target="_blank"><b>活动聚焦</b></a></li>
+</ul>
+</div></div>
+     </div>
+</div>
+<div class="index-info cc">
+<table cellpadding="0" cellspacing="0" width="100%" style="table-layout:fixed;"><tr class="vt"><td class="tal s5" width="450"><form action="login.php" name="login_FORM" method="post"><input type="hidden" name="jumpurl" value="http://www.opoqo.net/bbs/index.php?m=bbs" /><input type="hidden" name="step" value="2" /><input type="hidden" name="cktime" value="31536000" /><div class="cc">
+<div class="fl input mr5" style="padding-left:3px;">
+<input class="fl gray" onfocus="navCheckinput(this);" onblur="navCheckinput(this);" style="width:85px;border:0;padding:0;" name="pwuser" id="nav_pwuser" value="输入用户名" tabindex="10" />
+<a href="javascript:;" title="切换登入方式" class="select_arrow fl" onclick="showLoginType();">下拉</a>
+</div>
+<input class="input fl mr5" type="password" name="pwpwd" style="width:85px;" onfocus="if(IsElement('nav_logintab')) getObj('nav_logintab').style.display='';this.value='';var o_nav_logintab = IsElement('nav_logintab') ? getObj('nav_logintab') : ''; PW_popEvent(o_nav_logintab);" tabindex="11" />
+<input class="btn fl" type="submit" value="登录" tabindex="8" />
+<a href="pq_rgt0iOuser.php" class="b">注册</a></div><input type="hidden" name="lgt" id="nav_lgt" value="0"><div class="t5 f_two sel_name" id="login_type_list" style="width:5em;padding:0 10px 5px;position:absolute;margin-left:25px;display:none;">
+<ul>
+<li><a href="javascript:;" onclick="selectLoginType('0','用户名')">用户名</a></li>
+<li><a href="javascript:;" onclick="selectLoginType('1','UID')">UID</a></li>
+<li><a href="javascript:;" onclick="selectLoginType('2','Email')">Email</a></li>
+</ul></div><div id="nav_logintab" style="width:330px;position:absolute;margin-top:.2em;display:none;z-index:1">
+<div class="t5 f_two"  style="line-height:25px;">
+<table cellspacing="0" cellpadding="1" align="center" style="width:95%; margin:auto"><tr><td width="20%">安全问题</td><td><select name="question" onchange="showcustomquest(this.value)" tabindex="13">
+<option value="0">无安全问题</option>
+<option value="1">我爸爸的出生地</option>
+<option value="2">我妈妈的出生地</option>
+<option value="3">我的小学校名</option>
+<option value="4">我的中学校名</option>
+<option value="5">我最喜欢的运动</option>
+<option value="6">我最喜欢的歌曲</option>
+<option value="7">我最喜欢的电影</option>
+<option value="8">我最喜欢的颜色</option>
+<option value="-1">自定义问题</option></select>
+<input id="othercustomquest" style="display:none" name="customquest" class="input" size="17" tabindex="14" />
+</td></tr><tr>
+<td>您的答案</td>
+<td><input name="answer" class="input" size="30" tabindex="15" /></td></tr></table>
+</div>
+</div></form>
+<script language="JavaScript">
+var default_login_type = '0';
+var default_input_value = '输入' + '用户名';function showLoginType(){if(getObj('login_type_list').style.display=='none'){getObj('login_type_list').style.display = '';} else {getObj('login_type_list').style.display = 'none';}if (IsElement('nav_logintab')){getObj('nav_logintab').style.display = 'none';}
+}function showcustomquest(qid){getObj('othercustomquest').style.display = qid==-1 ? '' : 'none';
+}
+function navCheckinput(obj){if (obj.className.indexOf('gray')!=-1) {obj.value = '';obj.className = obj.className.replace('gray', 'black');} else if (obj.value=='') {obj.value = obj.defaultValue = default_input_value;if (obj.className.indexOf('black') == -1) {
+obj.className += ' gray';} else {
+obj.className = obj.className.replace('black', 'gray');}}
+}
+function changeDefaultInputValue(text){getObj('nav_pwuser').value = text;getObj('nav_lgt').value = default_login_type;
+}function selectLoginType(type,text){
+var nav_pwuser = getObj('nav_pwuser');nav_pwuser.value = '输入'+text;if (nav_pwuser.className.indexOf('black') != -1) {nav_pwuser.className = nav_pwuser.className.replace('black', 'gray');}getObj('nav_lgt').value = type;getObj('login_type_list').style.display = 'none';
+}changeDefaultInputValue(default_input_value);
+</script>
+</td>
+<td class="tar"><a href="search.php?sch_time=newatc" id="td_KEYlastpost">最新帖子</a><a href="javascript:;" id="td_KEYhack">社区服务</a><div id="menu_KEYhack" class="menu menu-post cc" style="display:none;"><div class="menu-b" style="width:9em;">
+<p><a href="hack.php?H_name=xqqiandao" id="td_KEYhack_xqqiandao">每日心情签到</a></p>
+<p><a href="hack.php?H_name=valentine" id="td_KEYhack_valentine">祝福墙</a></p>
+<p><a href="hack.php?H_name=ques" id="td_KEYhack_ques">问卷调查</a></p>
+<p><a href="hack.php?H_name=bbx" id="td_KEYhack_bbx">百宝箱</a></p>
+<p><a href="hack.php?H_name=bank" id="td_KEYhack_bank">碰巧银行</a></p>
+<p><a href="hack.php?H_name=medal" id="td_KEYhack_medal">勋章中心</a></p>
+<p><a href="hack.php?H_name=famehall" id="td_KEYhack_famehall">碰巧名人堂</a></p></div></div><a href="member.php" id="td_KEYmember">会员列表</a><a href="sort.php" id="td_KEYsort">统计排行</a><div id="menu_KEYsort" class="menu menu-post cc" style="display:none;"><div class="menu-b" style="width:9em;">
+<p><a href="sort.php" id="td_KEYsort_basic">基本信息</a></p>
+<p><a href="sort.php?action=ipstate" id="td_KEYsort_ipstate">到访IP统计</a></p>
+<p><a href="sort.php?action=team" id="td_KEYsort_team">管理团队</a></p>
+<p><a href="sort.php?action=admin" id="td_KEYsort_admin">管理操作</a></p>
+<p><a href="sort.php?action=online" id="td_KEYsort_online">在线会员</a></p>
+<p><a href="sort.php?action=member" id="td_KEYsort_member">会员排行</a></p>
+<p><a href="sort.php?action=article" id="td_KEYsort_article">帖子排行</a></p>
+<p><a href="job.php?action=taglist" id="td_KEYsort_taglist">标签排行</a></p></div></div><a href="javascript:;" id="td_KEYapp">游戏与应用</a><div id="menu_KEYapp" class="menu menu-post cc" style="display:none;"><div class="menu-b" style="width:9em;">
+<p><a href="hack.php?H_name=tcmusic" id="td_KEYhack_tcmusic">百度音乐盒</a></p>
+<p><a href="hack.php?H_name=casino" id="td_KEYhack_casino" title="斗地主和象棋">斗地主和象棋</a></p>
+<p><a href="hack.php?H_name=11rpfarm" id="td_KEYhack_11rpfarm">运气农牧场</a></p>
+<p><a href="hack.php?H_name=getimages" id="td_KEYhack_getimages">社区图库</a></p>
+<p><a href="apps.php?q=article" id="td_KEYapp_article">帖子</a></p>
+<p><a href="apps.php?q=photos" id="td_KEYapp_photos">相册</a></p>
+<p><a href="apps.php?q=diary" id="td_KEYapp_diary">日志</a></p>
+<p><a href="apps.php?q=groups" id="td_KEYapp_groups">群组</a></p>
+<p><a href="apps.php?q=hot" id="td_KEYapp_hot">热榜</a></p>
+<p><a href="apps.php?q=share" id="td_KEYapp_share">分享</a></p>
+<p><a href="apps.php?q=write" id="td_KEYapp_write">记录</a></p></div></div><a href="search.php?digest=1" id="td_KEYdigest">精华区</a><a href="search.php" id="td_KEYsearch">搜索</a><a href="faq.php" id="td_KEYfaq">帮助</a>
+</td></tr></table></div>
+<div id="menu_shortcut" class="menu menu-post cc" style="display:none;"><div class="menu-b" style="width:9em;width:150px;"><a href="thread-htm-fid-211.html">碰巧灌水专区</a><a href="thread-htm-fid-247.html">矿业资讯及评论</a><a href="thread-htm-fid-201.html">煤矿机电设备</a><a href="thread-htm-fid-190.html">掘进与采煤技术</a><a href="thread-htm-fid-238.html">矿业标准分享</a><a href="thread-htm-fid-47.html">期刊与论文发表</a></div>
+</div>
+<div class="main-wrap">
+<div id="main">
+<style type="text/css">
+.t table tr.tr2 td.f{width:22%;}
+.t table tr.tr2 td.e{width:10em;}
+</style>
+<script type="text/javascript" src="http://app.phpwind.net/static/js/client.js"></script>
+<script language="JavaScript">
+var server = new PwJs.Server("pwthread");
+server.start();
+</script>
+<div class="forum-info cc gray">
+<div class="fr">主题:110675 | 帖子:687183 | 会员:199455  
+<span class="f10 s3 fn">(8)</span> | 新会员:<span class="black"><a href="u.php?action=show&username=%C4%E3%D4%CA%D0%ED%B8%C9%CA%B2%C3%B4" target="_blank">你允许干什么</a></span>&nbsp;<a href="rss.php" target="_blank" title="RSS订阅本版面最新帖子"><img src="images/wind/rss.png" align="absmiddle" /></a></div>今日:116 | 昨日:150 |最高:4000 | </div><div class="noticebg"><div id="notice"><div id="notice0" style="width:98%;height:18px;line-height:18px;overflow-y:hidden;">
+<ul>
+<li><a href="http://www.opoqo.net/bbs/read-htm-tid-197530.html"><font color=red>宣传论坛，将获得大幅碰巧币奖励-没有碰巧币的不要错过!</font></a> <span class="f9 gray">11-12-24</span></li>
+<li><a href="http://www.opoqo.net/bbs/read-htm-tid-197343.html"><font color=green>鼓励发表和参与技术交流、技术交流贴和求助帖置顶的建议！！</font></a> <span class="f9 gray">11-12-19</span></li>
+<li><a href="http://www.opoqo.net/bbs/read-htm-tid-83629.html.html"><font color=green>请新加入会员认真阅读“新手必读”，磨刀不误砍柴工！</font></a> <span class="f9 gray">09-06-11</span></li>
+<li><a href="http://www.opoqo.net/bbs/read-htm-tid-107259.html"><font color=green size=2>敦促各版主加大主题帖的发表数量，各超版、总版请加强管理！</font></a> <span class="f9 gray">09-01-11</span></li>
+</ul></div><div style="height: 36px;overflow-y: hidden;"></div></div>
+</div>
+<script language="javascript">
+function bbsNoticePlay() {if (bbsNoticeC.scrollHeight < 36) {bbsNoticeO = setTimeout('bbsNoticePlay()',4000);bbsNoticeF.scrollTop = bbsNoticeC.scrollTop = 0;bbsNoticeH = true;return ;}if (bbsNoticeH) {bbsNoticeF.scrollTop = 36;if (bbsNoticeC.scrollHeight-18 <= bbsNoticeC.scrollTop) {
+bbsNoticeC.scrollTop = 0;} else {
+bbsNoticeC.scrollTop += 18;}bbsNoticeH = false;bbsNoticeO = setTimeout('bbsNoticePlay()',500);} else {bbsNoticeF.scrollTop = 0;bbsNoticeH = true;bbsNoticeO = setTimeout('bbsNoticePlay()',4000);}
+}
+var bbsNoticeH = true;
+var bbsNoticeF = getObj('notice');
+var bbsNoticeC = getObj('notice0');
+bbsNoticeF.scrollTop = bbsNoticeC.scrollTop = 0;
+bbsNoticeF.onmouseover = function(){if(bbsNoticeO && bbsNoticeH){clearTimeout(bbsNoticeO);bbsNoticeO=0;}};
+bbsNoticeF.onmouseout  = function(){if(!bbsNoticeO){bbsNoticeO = setTimeout('bbsNoticePlay()',4000);bbsNoticeH=true;}};
+var bbsNoticeO = setTimeout('bbsNoticePlay()',4000);
+</script>
+<div style="margin-top:7px;"></div>
+<style>
+#indextopList{height:auto;}
+#indextopList .t{float:left; border:0; padding:0; overflow:hidden }
+#indextopList .t table {border:0;table-layout:fixed}
+#indextopList td.tguide{line-height:110%;border-right:1px solid #c7e1ef}
+#indextopList .lt .tguide{border-right:0}
+.grid_style{background:;}
+.grid_1_style{width:36%;background:;}
+.grid_2_style{width:64%;background:;}
+.grid_3_style{width:0%;background:;}
+</style>
+<!--[if ie]>
+<style>
+#indextopList{padding:0; }
+#indextopList .lt{float:none; width:auto;}
+#indextopList .lt{float:left;}
+.grid_3_width{width:;}
+</style>
+<![endif]-->
+<div class="t cc grid_style" id="indextopList">
+<div class="t grid_1_style"  id="indextopList_grid_1"><table cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td class="h"><b><font color="#FF1493">最新精彩图片</font></b></td>
+  </tr>
+  <tr><td style="padding:1px 1px 0 1px;">
+<script type="text/javascript">
+<!--
+var swf_width=document.getElementById("indextopList_grid_1").offsetWidth    
+var swf_height=216
+var config='3|0xffffff|0x984B98|50|0xffffff|0x0099ff|0x000000'
+var files='http://www.opoqo.net/bbs/attachment/Mon_1405/238_207599_1d21946389a3fc5.jpg|http://www.opoqo.net/bbs/attachment/Mon_1405/247_110590_7d3b67f11a78b9e.jpg|http://www.opoqo.net/bbs/attachment/Mon_1405/238_207599_7e6e281dd66eaec.jpg|http://www.opoqo.net/bbs/attachment/Mon_1405/238_207599_57fbc5ac7cadd59.jpg|http://www.opoqo.net/bbs/attachment/Mon_1405/247_110590_93ffeccccd26696.jpg'
+var links='read.php?tid=274976|read.php?tid=274970|read.php?tid=274966|read.php?tid=274954|read.php?tid=274953'
+var texts='39项安全行业标准目录|贵州地矿113队打井队首战告捷|GB-T 16865-1997 变形铝、镁及其合金加工制品 拉伸试验用试样|GBT 18834-2002 土壤质量 词汇|深圳首创“地陷办” 24亿修补地下空洞'
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+document.write('<param name="movie" value="images/indextop/focus.swf" />');
+document.write('<param name="quality" value="high" />');
+document.write('<param name="menu" value="false" />');
+document.write('<param name=wmode value="opaque" />');
+document.write('<param name="FlashVars" value="config='+config+'&bcastr_flie='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'" />');
+document.write('<embed src="images/indextop/focus.swf" wmode="opaque" FlashVars="config='+config+'&bcastr_flie='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'& menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+document.write('</object>');//-->
+</script>
+    </td>
+  </tr>
+</table>
+</div>
+<div class="t grid_2_style"  id="indextopList_grid_2"><script language=JavaScript> 
+function showList(listId){for(var i=1;i<=10;i++){ if(i==listId){
+document.getElementById("multilist_"+listId).style.display="block";
+document.getElementById("multilist_nav_"+listId).className="multilist_hover";}else{
+document.getElementById("multilist_"+i).style.display="none";
+document.getElementById("multilist_nav_"+i).className="multilist_nav";}}
+} 
+</script>
+<style>
+.listdot{margin:0;padding:0;width:15px;height:12px;line-height:12px;font-size:9px;color:#fff;text-align:center;}
+.listdot_bg{background:url(images/indextop/listdot.png) no-repeat;}
+.listdot_bg2{background:url(images/indextop/listdot2.png) no-repeat;}
+.multilist{margin:0;list-style:none;}
+.multilist li{float:left;margin:0;padding:0;*word-wrap:normal;*white-space:nowrap;cursor:hand;text-align:center;width:11%}
+.multilist_nav{background:repeat-x;color:#333;}
+.multilist_hover{background:#87bcd8;color:#333;}
+.multilist_authorcolor{color:#FF1493;}
+.multilist_forumcolor{color:green;}
+.multilist_subjectcolor{color:#0066FF;}
+.multilist_li{margin:0 5px;padding:.3em 0 .1em;list-style:none;color:;}
+.multilist_li li{line-height:25px;height:25px;overflow:hidden;border-bottom:1px dashed #c7e1ef;}
+.multilist_li li div{position:relative;float:left;top:5px;left:5px;}
+</style>
+<table cellspacing="0" cellpadding="0" width="100%"><tr><td class="h">
+<ul class="multilist">
+<li id="multilist_nav_1" class="multilist_hover" onmouseover="showList('1')" >最新主题</li>
+<li id="multilist_nav_2" class="multilist_nav" onmouseover="showList('2')" >最新回复</li>
+<li id="multilist_nav_3" class="multilist_nav" onmouseover="showList('3')" >热门主题</li>
+<li id="multilist_nav_4" class="multilist_nav" onmouseover="showList('4')" >精彩主题</li>
+<li id="multilist_nav_5" class="multilist_nav" onmouseover="showList('5')" >推荐主题</li>
+<li id="multilist_nav_6" class="multilist_nav" onmouseover="showList('6')" >精华主题</li>
+<li id="multilist_nav_7" class="multilist_nav" onmouseover="showList('7')" style='display:none'>今日热版</li>
+<li id="multilist_nav_8" class="multilist_nav" onmouseover="showList('8')" >今日发帖</li>
+<li id="multilist_nav_9" class="multilist_nav" onmouseover="showList('9')" >本月发帖</li>
+<li id="multilist_nav_10" class="multilist_nav" onmouseover="showList('10')" >在线时间</li>
+</ul>     </td></tr><tr><td>
+<ul id="multilist_1" class="multilist_li" ><li><span class="fr"><a href="u.php?action=show&uid=110590" ><font class="multilist_authorcolor">作者:24680</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-247.html" ><font class="multilist_forumcolor">[矿业资讯及评论]</font></a>&nbsp;<a href="read-htm-tid-274978.html" title="主题:地 质 矿产 资讯-5.20
+作者:24680
+发表时间:2014-05-21 11:08
+浏览次数:80 次" ><font class="multilist_subjectcolor">地 质 矿产 资讯-5.20</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=110590" ><font class="multilist_authorcolor">作者:24680</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-247.html" ><font class="multilist_forumcolor">[矿业资讯及评论]</font></a>&nbsp;<a href="read-htm-tid-274977.html" title="主题:地 质 灾 害 资讯-5.20
+作者:24680
+发表时间:2014-05-21 10:42
+浏览次数:65 次" ><font class="multilist_subjectcolor">地 质 灾 害 资讯-5.20</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=207599" ><font class="multilist_authorcolor">作者:zxq</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-238.html" ><font class="multilist_forumcolor">[矿业标准分享]</font></a>&nbsp;<a href="read-htm-tid-274976.html" title="主题:39项安全行业标准目录
+作者:zxq
+发表时间:2014-05-21 09:50
+浏览次数:21 次" ><font class="multilist_subjectcolor">39项安全行业标准目录</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=263168" ><font class="multilist_authorcolor">作者:srky8888</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-267.html" ><font class="multilist_forumcolor">[矿业百科]</font></a>&nbsp;<a href="read-htm-tid-274975.html" title="主题:做高效能主管该咋当
+作者:srky8888
+发表时间:2014-05-21 09:07
+浏览次数:19 次" ><font class="multilist_subjectcolor">做高效能主管该咋当</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=65030" ><font class="multilist_authorcolor">作者:opoqo.net</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-211.html" ><font class="multilist_forumcolor">[碰巧灌水专区]</font></a>&nbsp;<a href="read-htm-tid-274974.html" title="主题:签到啦，送分啦，感谢您对中国矿业论坛的大力支持。 (5月21日)
+作者:opoqo.net
+发表时间:2014-05-21 01:52
+浏览次数:150 次" ><font class="multilist_subjectcolor">签到啦，送分啦，感谢您对中国矿业论坛的大力支持。 (5月21日)</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=151174" ><font class="multilist_authorcolor">作者:劳人</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-247.html" ><font class="multilist_forumcolor">[矿业资讯及评论]</font></a>&nbsp;<a href="read-htm-tid-274973.html" title="主题:中国能源报：美国煤炭占领欧洲
+作者:劳人
+发表时间:2014-05-21 00:32
+浏览次数:46 次" ><font class="multilist_subjectcolor">中国能源报：美国煤炭占领欧洲</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=151174" ><font class="multilist_authorcolor">作者:劳人</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-247.html" ><font class="multilist_forumcolor">[矿业资讯及评论]</font></a>&nbsp;<a href="read-htm-tid-274972.html" title="主题:中央国家机关采购计算机禁止安装Win8操作系统
+作者:劳人
+发表时间:2014-05-21 00:31
+浏览次数:36 次" ><font class="multilist_subjectcolor">中央国家机关采购计算机禁止安装Win8操作系统</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=239201" ><font class="multilist_authorcolor">作者:lytfh</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-190.html" ><font class="multilist_forumcolor">[掘进与采煤技术]</font></a>&nbsp;<a href="read-htm-tid-274971.html" title="主题:大倾角煤层开采技术研究
+作者:lytfh
+发表时间:2014-05-20 19:34
+浏览次数:45 次" ><font class="multilist_subjectcolor">大倾角煤层开采技术研究</font></a></li></ul>
+<ul id="multilist_2" class="multilist_li" style="display:none;"><li><span class="fr"><a href="u.php?action=show&uid=319646" ><font class="multilist_authorcolor">by:lixingjin</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-217.html" ><font class="multilist_forumcolor">[矿物分选技术]</font></a>&nbsp;<a href="read-htm-tid-262215-page-e.html#a" >先看看有用不。[s:11]..</a>&nbsp;<a href="read-htm-tid-262215.html" title="主题:球磨机最全培训 ..
+作者:sangyongqiang
+发表时间:2013-01-06 06:23
+浏览次数:1014 次
+最新回复:lixingjin
+回复时间:2014-05-21 14:03
+回复次数:15 次" ><font class="multilist_subjectcolor">回复主题:球磨机最全培训 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=142185" ><font class="multilist_authorcolor">by:大捏了</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-240.html" ><font class="multilist_forumcolor">[AutoCAD与GIS]</font></a>&nbsp;<a href="read-htm-tid-106515-page-e.html#a" >找不到下载地方啊，点了又回到本 ....</a>&nbsp;<a href="read-htm-tid-106515.html" title="主题:采矿CAD软件--M ..
+作者:zzxsp
+发表时间:2009-01-05 20:21
+浏览次数:70883 次
+最新回复:大捏了
+回复时间:2014-05-21 13:58
+回复次数:974 次" ><font class="multilist_subjectcolor">回复主题:采矿CAD软件--M ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=319646" ><font class="multilist_authorcolor">by:lixingjin</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-201.html" ><font class="multilist_forumcolor">[煤矿机电设备]</font></a>&nbsp;<a href="read-htm-tid-273185-page-e.html#a" >有图看看不？[s:2]..</a>&nbsp;<a href="read-htm-tid-273185.html" title="主题:压球机系列生产 ..
+作者:zhao825
+发表时间:2014-01-14 11:47
+浏览次数:156 次
+最新回复:lixingjin
+回复时间:2014-05-21 13:14
+回复次数:2 次" ><font class="multilist_subjectcolor">回复主题:压球机系列生产 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=319646" ><font class="multilist_authorcolor">by:lixingjin</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-211.html" ><font class="multilist_forumcolor">[碰巧灌水专区]</font></a>&nbsp;<a href="read-htm-tid-274974-page-e.html#a" >签到版块：矿物分选技术。签到心 ....</a>&nbsp;<a href="read-htm-tid-274974.html" title="主题:签到啦，送分啦 ..
+作者:opoqo.net
+发表时间:2014-05-21 01:52
+浏览次数:150 次
+最新回复:lixingjin
+回复时间:2014-05-21 13:04
+回复次数:55 次" ><font class="multilist_subjectcolor">回复主题:签到啦，送分啦 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=146805" ><font class="multilist_authorcolor">by:bentian</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-211.html" ><font class="multilist_forumcolor">[碰巧灌水专区]</font></a>&nbsp;<a href="read-htm-tid-274974-page-e.html#a" >签到版块：矿山精彩图片。签到心 ....</a>&nbsp;<a href="read-htm-tid-274974.html" title="主题:签到啦，送分啦 ..
+作者:opoqo.net
+发表时间:2014-05-21 01:52
+浏览次数:150 次
+最新回复:bentian
+回复时间:2014-05-21 12:29
+回复次数:55 次" ><font class="multilist_subjectcolor">回复主题:签到啦，送分啦 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=146805" ><font class="multilist_authorcolor">by:bentian</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-220.html" ><font class="multilist_forumcolor">[矿山精彩图片]</font></a>&nbsp;<a href="read-htm-tid-133395-page-e.html#a" >有道是：踏破铁鞋无觅处，得来还 ....</a>&nbsp;<a href="read-htm-tid-133395.html" title="主题:辛苦的矿山测量 ..
+作者:ahf0425
+发表时间:2009-07-17 16:51
+浏览次数:2071 次
+最新回复:bentian
+回复时间:2014-05-21 12:28
+回复次数:15 次" ><font class="multilist_subjectcolor">回复主题:辛苦的矿山测量 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=168790" ><font class="multilist_authorcolor">by:燕山河</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-211.html" ><font class="multilist_forumcolor">[碰巧灌水专区]</font></a>&nbsp;<a href="read-htm-tid-274974-page-e.html#a" >签到版块：煤矿设计建设。签到心 ....</a>&nbsp;<a href="read-htm-tid-274974.html" title="主题:签到啦，送分啦 ..
+作者:opoqo.net
+发表时间:2014-05-21 01:52
+浏览次数:150 次
+最新回复:燕山河
+回复时间:2014-05-21 12:12
+回复次数:55 次" ><font class="multilist_subjectcolor">回复主题:签到啦，送分啦 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=318312" ><font class="multilist_authorcolor">by:肥龙2000</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-247.html" ><font class="multilist_forumcolor">[矿业资讯及评论]</font></a>&nbsp;<a href="read-htm-tid-274973-page-e.html#a" >美国是个资源大国..</a>&nbsp;<a href="read-htm-tid-274973.html" title="主题:中国能源报：美 ..
+作者:劳人
+发表时间:2014-05-21 00:32
+浏览次数:46 次
+最新回复:肥龙2000
+回复时间:2014-05-21 11:29
+回复次数:1 次" ><font class="multilist_subjectcolor">回复主题:中国能源报：美 ..</font></a></li></ul>
+<ul id="multilist_3" class="multilist_li" style="display:none;"><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-83629.html" title="主题:新手必读－论坛常用功能一览表--论坛成长手册
+作者:0001
+发表时间:2008-02-02 17:28
+浏览次数:195301 次
+最新回复:钟淑
+回复时间:2010-08-16 16:15
+回复次数:619 次" ><font class="multilist_subjectcolor">新手必读－论坛常用功能一览表--论坛成长手册</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:czy466</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-190.html" ><font class="multilist_forumcolor">[掘进与采煤技术]</font></a> &nbsp;<a href="read-htm-tid-80823.html" title="主题:矿图（修订本，供学习用）
+作者:czy466
+发表时间:2007-12-19 23:58
+浏览次数:73110 次
+最新回复:煤矿大力神
+回复时间:2014-05-05 14:14
+回复次数:1038 次" ><font class="multilist_subjectcolor">矿图（修订本，供学习用）</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:zzxsp</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-240.html" ><font class="multilist_forumcolor">[AutoCAD与GIS]</font></a> &nbsp;<a href="read-htm-tid-106515.html" title="主题:采矿CAD软件--MineCAD
+作者:zzxsp
+发表时间:2009-01-05 20:21
+浏览次数:70883 次
+最新回复:大捏了
+回复时间:2014-05-21 13:58
+回复次数:974 次" ><font class="multilist_subjectcolor">采矿CAD软件--MineCAD</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:gztbgs</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-137599.html" title="主题:取得碰巧币的方法
+作者:gztbgs
+发表时间:2009-09-02 16:46
+浏览次数:68827 次
+最新回复:li982551388
+回复时间:2014-05-17 16:53
+回复次数:499 次" ><font class="multilist_subjectcolor">取得碰巧币的方法</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:edumine</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-231780.html" title="主题:新会员报道帖——报道即拥有下载权限！
+作者:edumine
+发表时间:2011-08-01 22:03
+浏览次数:63923 次
+最新回复:dagefacai2012
+回复时间:2014-05-21 09:15
+回复次数:1827 次" ><font class="multilist_subjectcolor">新会员报道帖——报道即拥有下载权限！</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:duzihenten</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-220.html" ><font class="multilist_forumcolor">[矿山精彩图片]</font></a> &nbsp;<a href="read-htm-tid-117440.html" title="主题:让大家开开眼啊，露天矿图片大全（至少百张&nbsp;&nbsp;张张经 ..
+作者:duzihenten
+发表时间:2009-03-26 14:55
+浏览次数:61874 次
+最新回复:沧海一笑
+回复时间:2014-05-19 12:04
+回复次数:959 次" ><font class="multilist_subjectcolor">让大家开开眼啊，露天矿图片大全（至少百张&nbsp;&nbsp;张张经 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-77126.html" title="主题:如何获得贡献值，不懂得请看过来！
+作者:0001
+发表时间:2007-09-28 21:23
+浏览次数:60467 次
+最新回复:cyychengyuan
+回复时间:2013-12-24 17:56
+回复次数:571 次" ><font class="multilist_subjectcolor">如何获得贡献值，不懂得请看过来！</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-87737.html" title="主题:中国矿业论坛QQ群一览表，请选择您的专业加入
+作者:0001
+发表时间:2008-06-14 22:16
+浏览次数:54917 次
+最新回复:hzmdvip
+回复时间:2010-11-09 09:08
+回复次数:225 次" ><font class="multilist_subjectcolor">中国矿业论坛QQ群一览表，请选择您的专业加入</font></a></li></ul>
+<ul id="multilist_4" class="multilist_li" style="display:none;"><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:edumine</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-231780.html" title="主题:新会员报道帖——报道即拥有下载权限！
+作者:edumine
+发表时间:2011-08-01 22:03
+浏览次数:63923 次
+最新回复:dagefacai2012
+回复时间:2014-05-21 09:15
+回复次数:1827 次" ><font class="multilist_subjectcolor">新会员报道帖——报道即拥有下载权限！</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:edumine</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-197530.html" title="主题:宣传论坛，将获得大幅碰巧币奖励-没有碰巧币的不要错过!
+作者:edumine
+发表时间:2010-11-08 11:56
+浏览次数:54702 次
+最新回复:cxz7115
+回复时间:2014-05-18 11:12
+回复次数:1158 次" ><font class="multilist_subjectcolor">宣传论坛，将获得大幅碰巧币奖励-没有碰巧币的不要错过!</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:czy466</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-190.html" ><font class="multilist_forumcolor">[掘进与采煤技术]</font></a> &nbsp;<a href="read-htm-tid-80823.html" title="主题:矿图（修订本，供学习用）
+作者:czy466
+发表时间:2007-12-19 23:58
+浏览次数:73110 次
+最新回复:煤矿大力神
+回复时间:2014-05-05 14:14
+回复次数:1038 次" ><font class="multilist_subjectcolor">矿图（修订本，供学习用）</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:zzxsp</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-240.html" ><font class="multilist_forumcolor">[AutoCAD与GIS]</font></a> &nbsp;<a href="read-htm-tid-106515.html" title="主题:采矿CAD软件--MineCAD
+作者:zzxsp
+发表时间:2009-01-05 20:21
+浏览次数:70883 次
+最新回复:大捏了
+回复时间:2014-05-21 13:58
+回复次数:974 次" ><font class="multilist_subjectcolor">采矿CAD软件--MineCAD</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:duzihenten</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-220.html" ><font class="multilist_forumcolor">[矿山精彩图片]</font></a> &nbsp;<a href="read-htm-tid-117440.html" title="主题:让大家开开眼啊，露天矿图片大全（至少百张&nbsp;&nbsp;张张经 ..
+作者:duzihenten
+发表时间:2009-03-26 14:55
+浏览次数:61874 次
+最新回复:沧海一笑
+回复时间:2014-05-19 12:04
+回复次数:959 次" ><font class="multilist_subjectcolor">让大家开开眼啊，露天矿图片大全（至少百张&nbsp;&nbsp;张张经 ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:jiaruxuan</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-223.html" ><font class="multilist_forumcolor">[投诉建议答疑]</font></a> &nbsp;<a href="read-htm-tid-201799.html" title="主题:新人必看 下载附件需具备的条件及下载方法
+作者:jiaruxuan
+发表时间:2010-12-04 13:48
+浏览次数:26074 次
+最新回复:dagefacai2012
+回复时间:2014-05-21 09:03
+回复次数:783 次" ><font class="multilist_subjectcolor">新人必看 下载附件需具备的条件及下载方法</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-83629.html" title="主题:新手必读－论坛常用功能一览表--论坛成长手册
+作者:0001
+发表时间:2008-02-02 17:28
+浏览次数:195301 次
+最新回复:钟淑
+回复时间:2010-08-16 16:15
+回复次数:619 次" ><font class="multilist_subjectcolor">新手必读－论坛常用功能一览表--论坛成长手册</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-27.html" ><font class="multilist_forumcolor">[论坛公告发布]</font></a> &nbsp;<a href="read-htm-tid-88682.html" title="主题:论坛积分、成长计划及消费策略
+作者:0001
+发表时间:2008-07-06 09:52
+浏览次数:48146 次
+最新回复:nongfu
+回复时间:2013-12-17 09:01
+回复次数:599 次" ><font class="multilist_subjectcolor">论坛积分、成长计划及消费策略</font></a></li></ul>
+<ul id="multilist_5" class="multilist_li" style="display:none;"><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:shuaizai</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-190.html" ><font class="multilist_forumcolor">[掘进与采煤技术]</font></a> &nbsp;<a href="read-htm-tid-95436.html" title="主题:采煤工艺学
+作者:shuaizai
+发表时间:2008-10-11 17:18
+浏览次数:37000 次
+最新回复:机械设计g
+回复时间:2014-05-02 12:19
+回复次数:287 次" ><font class="multilist_subjectcolor">采煤工艺学</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:龙姝</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-216.html" ><font class="multilist_forumcolor">[矿山机电设备]</font></a> &nbsp;<a href="read-htm-tid-257631.html" title="主题:摇台及阻车器cad图纸
+作者:龙姝
+发表时间:2012-08-16 17:07
+浏览次数:2470 次
+最新回复:lpl2010
+回复时间:2014-05-20 16:20
+回复次数:45 次" ><font class="multilist_subjectcolor">摇台及阻车器cad图纸</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:121212767</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-216.html" ><font class="multilist_forumcolor">[矿山机电设备]</font></a> &nbsp;<a href="read-htm-tid-117816.html" title="主题:液压传动动画打包下载
+作者:121212767
+发表时间:2009-03-28 19:44
+浏览次数:12788 次
+最新回复:19871011m
+回复时间:2014-02-09 23:08
+回复次数:145 次" ><font class="multilist_subjectcolor">液压传动动画打包下载</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:czy466</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-190.html" ><font class="multilist_forumcolor">[掘进与采煤技术]</font></a> &nbsp;<a href="read-htm-tid-80823.html" title="主题:矿图（修订本，供学习用）
+作者:czy466
+发表时间:2007-12-19 23:58
+浏览次数:73110 次
+最新回复:煤矿大力神
+回复时间:2014-05-05 14:14
+回复次数:1038 次" ><font class="multilist_subjectcolor">矿图（修订本，供学习用）</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:yanglinee</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-240.html" ><font class="multilist_forumcolor">[AutoCAD与GIS]</font></a> &nbsp;<a href="read-htm-tid-98209.html" title="主题:《中文版AutoCAD 2008基础教程》课件
+作者:yanglinee
+发表时间:2008-11-05 16:58
+浏览次数:26349 次
+最新回复:jins12
+回复时间:2014-01-02 11:05
+回复次数:243 次" ><font class="multilist_subjectcolor">《中文版AutoCAD 2008基础教程》课件</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:24680</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-183.html" ><font class="multilist_forumcolor">[煤矿地质测量]</font></a> &nbsp;<a href="read-htm-tid-88962.html" title="主题:区域地质调查野外工作方法
+作者:24680
+发表时间:2008-07-13 08:40
+浏览次数:17096 次
+最新回复:jmyxf6868
+回复时间:2013-06-03 18:08
+回复次数:26 次" ><font class="multilist_subjectcolor">区域地质调查野外工作方法</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:lyd</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-239.html" ><font class="multilist_forumcolor">[矿业基础学科]</font></a> &nbsp;<a href="read-htm-tid-141559.html" title="主题:有限元/有限元和边界元法.rar
+作者:lyd
+发表时间:2009-10-26 20:14
+浏览次数:11231 次
+最新回复:jayjayzhl
+回复时间:2013-04-28 19:53
+回复次数:108 次" ><font class="multilist_subjectcolor">有限元/有限元和边界元法.rar</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:wensete</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-223.html" ><font class="multilist_forumcolor">[投诉建议答疑]</font></a> &nbsp;<a href="read-htm-tid-127228.html" title="主题:短时间内重复下载同一附件不再重复扣碰巧币
+作者:wensete
+发表时间:2009-05-30 09:46
+浏览次数:14590 次
+最新回复:skdckgc
+回复时间:2014-05-17 08:06
+回复次数:132 次" ><font class="multilist_subjectcolor">短时间内重复下载同一附件不再重复扣碰巧币</font></a></li></ul>
+<ul id="multilist_6" class="multilist_li" style="display:none;"><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:361956762</font></a></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="thread-htm-fid-270.html" ><font class="multilist_forumcolor">[矿山三维可视化]</font></a> &nbsp;<a href="read-htm-tid-264794.html" title="主题:浅孔留矿法标准矿块模型（Surpac做的）
+作者:361956762
+发表时间:2013-03-26 13:47
+浏览次数:2361 次
+最新回复:kooking
+回复时间:2014-05-20 17:47
+回复次数:34 次" ><font class="multilist_subjectcolor">浅孔留矿法标准矿块模型（Surpac做的）</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:zuoluo007</font></a></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="thread-htm-fid-203.html" ><font class="multilist_forumcolor">[煤矿设计建设]</font></a> &nbsp;<a href="read-htm-tid-262900.html" title="主题:原创：六步画出双道起坡二次回转甩车场（cad图解）
+作者:zuoluo007
+发表时间:2013-01-26 22:05
+浏览次数:3558 次
+最新回复:劳人
+回复时间:2014-05-02 18:05
+回复次数:64 次" ><font class="multilist_subjectcolor">原创：六步画出双道起坡二次回转甩车场（cad图解）</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:sany2006</font></a></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="thread-htm-fid-200.html" ><font class="multilist_forumcolor">[通风安全技术]</font></a> &nbsp;<a href="read-htm-tid-262779.html" title="主题:山东科技大学精品课程--矿井通风与安全
+作者:sany2006
+发表时间:2013-01-23 11:01
+浏览次数:2887 次
+最新回复:dinglijuan
+回复时间:2014-05-19 19:37
+回复次数:39 次" ><font class="multilist_subjectcolor">山东科技大学精品课程--矿井通风与安全</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:清泉</font></a></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="thread-htm-fid-203.html" ><font class="multilist_forumcolor">[煤矿设计建设]</font></a> &nbsp;<a href="read-htm-tid-257832.html" title="主题:（申请加精）煤炭建设项目经济评价方法与参数（住城建字366号） ..
+作者:清泉
+发表时间:2012-08-24 15:58
+浏览次数:3252 次
+最新回复:sft_60816
+回复时间:2014-01-17 16:40
+回复次数:31 次" ><font class="multilist_subjectcolor">（申请加精）煤炭建设项目经济评价方法与参数（住城建字366号） ..</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:老马居士</font></a></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="thread-htm-fid-215.html" ><font class="multilist_forumcolor">[矿山地质测量]</font></a> &nbsp;<a href="read-htm-tid-254554.html" title="主题:【申精】吕古贤研究员关于胶东金矿的博士论文1篇及期刊论文52篇
+作者:老马居士
+发表时间:2012-06-25 00:14
+浏览次数:2685 次
+最新回复:gflyingcm
+回复时间:2013-02-12 10:21
+回复次数:10 次" ><font class="multilist_subjectcolor">【申精】吕古贤研究员关于胶东金矿的博士论文1篇及期刊论文52篇</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:zhaowenzhi</font></a></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="thread-htm-fid-203.html" ><font class="multilist_forumcolor">[煤矿设计建设]</font></a> &nbsp;<a href="read-htm-tid-253119.html" title="主题:煤矿总工程师技术手册(新版)
+作者:zhaowenzhi
+发表时间:2012-05-15 20:08
+浏览次数:10762 次
+最新回复:何人弯你腰
+回复时间:2014-05-09 11:29
+回复次数:187 次" ><font class="multilist_subjectcolor">煤矿总工程师技术手册(新版)</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="thread-htm-fid-47.html" ><font class="multilist_forumcolor">[期刊与论文发表]</font></a> &nbsp;<a href="read-htm-tid-249725.html" title="主题:带压开采防治水主要技术问题及研究方向
+作者:0001
+发表时间:2012-03-15 08:55
+浏览次数:4868 次
+最新回复:蓝亭墨客
+回复时间:2013-09-14 10:04
+回复次数:32 次" ><font class="multilist_subjectcolor">带压开采防治水主要技术问题及研究方向</font></a></li><li><span class="fr"><a href="u.php?action=show&uid=" ><font class="multilist_authorcolor">作者:0001</font></a></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="thread-htm-fid-240.html" ><font class="multilist_forumcolor">[AutoCAD与GIS]</font></a> &nbsp;<a href="read-htm-tid-240763.html" title="主题:CAD插件大全（含使用说明）-不断补充完善中！
+作者:0001
+发表时间:2011-11-06 20:28
+浏览次数:22482 次
+最新回复:blunbaby
+回复时间:2014-04-29 21:01
+回复次数:221 次" ><font class="multilist_subjectcolor">CAD插件大全（含使用说明）-不断补充完善中！</font></a></li></ul>
+<ul id="multilist_7" class="multilist_li" style="display:none;"></ul>
+<ul id="multilist_8" class="multilist_li" style="display:none;"><li><span class="fr">今日 41 帖</span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=110590" ><font class="multilist_authorcolor">24680</font></a>&nbsp;&nbsp;级别:研究员&nbsp;&nbsp;发帖:22914 篇</li><li><span class="fr">今日 4 帖</span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=312883" ><font class="multilist_authorcolor">46185932</font></a>&nbsp;&nbsp;级别:技术员&nbsp;&nbsp;发帖:68 篇</li><li><span class="fr">今日 3 帖</span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=320047" ><font class="multilist_authorcolor">dagefacai2012</font></a>&nbsp;&nbsp;级别:技术员&nbsp;&nbsp;发帖:3 篇</li><li><span class="fr">今日 3 帖</span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=207599" ><font class="multilist_authorcolor">zxq</font></a>&nbsp;&nbsp;级别:研究员&nbsp;&nbsp;发帖:11716 篇</li><li><span class="fr">今日 3 帖</span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=151174" ><font class="multilist_authorcolor">劳人</font></a>&nbsp;&nbsp;级别:高工&nbsp;&nbsp;发帖:5648 篇</li><li><span class="fr">今日 3 帖</span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=319646" ><font class="multilist_authorcolor">lixingjin</font></a>&nbsp;&nbsp;级别:助工&nbsp;&nbsp;发帖:138 篇</li><li><span class="fr">今日 2 帖</span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=146805" ><font class="multilist_authorcolor">bentian</font></a>&nbsp;&nbsp;级别:高工&nbsp;&nbsp;发帖:4521 篇</li><li><span class="fr">今日 2 帖</span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=158191" ><font class="multilist_authorcolor">yzsycddd</font></a>&nbsp;&nbsp;级别:助工&nbsp;&nbsp;发帖:138 篇</li></ul>
+<ul id="multilist_9" class="multilist_li" style="display:none;"><li><span class="fr">本月 235 帖</span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=110590" ><font class="multilist_authorcolor">24680</font></a>&nbsp;&nbsp;级别:研究员&nbsp;&nbsp;发帖:22914 篇</li><li><span class="fr">本月 94 帖</span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=239201" ><font class="multilist_authorcolor">lytfh</font></a>&nbsp;&nbsp;级别:工程师&nbsp;&nbsp;发帖:505 篇</li><li><span class="fr">本月 78 帖</span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=207599" ><font class="multilist_authorcolor">zxq</font></a>&nbsp;&nbsp;级别:研究员&nbsp;&nbsp;发帖:11716 篇</li><li><span class="fr">本月 64 帖</span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=151174" ><font class="multilist_authorcolor">劳人</font></a>&nbsp;&nbsp;级别:高工&nbsp;&nbsp;发帖:5648 篇</li><li><span class="fr">本月 49 帖</span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=263168" ><font class="multilist_authorcolor">srky8888</font></a>&nbsp;&nbsp;级别:工程师&nbsp;&nbsp;发帖:1112 篇</li><li><span class="fr">本月 47 帖</span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=255833" ><font class="multilist_authorcolor">wjshzlqz</font></a>&nbsp;&nbsp;级别:工程师&nbsp;&nbsp;发帖:1064 篇</li><li><span class="fr">本月 47 帖</span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=319901" ><font class="multilist_authorcolor">zmr0610</font></a>&nbsp;&nbsp;级别:技术员&nbsp;&nbsp;发帖:47 篇</li><li><span class="fr">本月 40 帖</span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=146805" ><font class="multilist_authorcolor">bentian</font></a>&nbsp;&nbsp;级别:高工&nbsp;&nbsp;发帖:4521 篇</li></ul>
+<ul id="multilist_10" class="multilist_li" style="display:none;"><li><span class="fr"><img src="images/indextop/48.gif" /></span><div class="listdot listdot_bg">1</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=110594" ><font class="multilist_authorcolor">simonsu</font></a>&nbsp;&nbsp;在线时长:14792 小时&nbsp;&nbsp;发帖:13467 篇</li><li><span class="fr"><img src="images/indextop/48.gif" /></span><div class="listdot listdot_bg">2</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=110590" ><font class="multilist_authorcolor">24680</font></a>&nbsp;&nbsp;在线时长:13415 小时&nbsp;&nbsp;发帖:22914 篇</li><li><span class="fr"><img src="images/indextop/48.gif" /></span><div class="listdot listdot_bg">3</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=151595" ><font class="multilist_authorcolor">j13t</font></a>&nbsp;&nbsp;在线时长:11992 小时&nbsp;&nbsp;发帖:773 篇</li><li><span class="fr"><img src="images/indextop/44.gif" /></span><div class="listdot listdot_bg2">4</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=232243" ><font class="multilist_authorcolor">edumine</font></a>&nbsp;&nbsp;在线时长:10272 小时&nbsp;&nbsp;发帖:949 篇</li><li><span class="fr"><img src="images/indextop/39.gif" /></span><div class="listdot listdot_bg2">5</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=138717" ><font class="multilist_authorcolor">sovran</font></a>&nbsp;&nbsp;在线时长:7835 小时&nbsp;&nbsp;发帖:11151 篇</li><li><span class="fr"><img src="images/indextop/36.gif" /></span><div class="listdot listdot_bg2">6</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=147239" ><font class="multilist_authorcolor">实话实说</font></a>&nbsp;&nbsp;在线时长:6917 小时&nbsp;&nbsp;发帖:5117 篇</li><li><span class="fr"><img src="images/indextop/34.gif" /></span><div class="listdot listdot_bg2">7</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=151174" ><font class="multilist_authorcolor">劳人</font></a>&nbsp;&nbsp;在线时长:6257 小时&nbsp;&nbsp;发帖:5648 篇</li><li><span class="fr"><img src="images/indextop/34.gif" /></span><div class="listdot listdot_bg2">8</div>&nbsp;&nbsp;<a href="u.php?action=show&uid=280841" ><font class="multilist_authorcolor">guiyu417</font></a>&nbsp;&nbsp;在线时长:6211 小时&nbsp;&nbsp;发帖:6 篇</li></ul></td></tr>
+</table>
+</div>
+<div class="t lt grid_3_style" style='display:none' id="indextopList_grid_3"><style>
+.marqueelist{font-size:9pt;margin:0;padding:.3em 0 .1em;list-style:none;color:#777;}
+.marqueelist li{padding:0 .6em;overflow:hidden; border-bottom:1px dashed #c7e1ef;}
+.marqueelist_authorcolor{color:#FF1493;}
+.marqueelist_forumcolor{color:green;}
+.marqueelist_subjectcolor{color:#0066FF;}
+.marqueelist_replycolor{color:#000000;}
+.marqueelist_hintcolor{color:red;}
+</style>
+<table cellspacing="0" cellpadding="0" width="100%">
+    <tr><td class="h"><b><font color="#0066FF">发帖动态</font></b></td></tr><tr><td>
+<script type="text/javascript">
+function addEventScroll(obj,evt,fn){
+    if(obj.addEventListener){    obj.addEventListener(evt,fn,false);}else if(obj.attachEvent){    obj.attachEvent('on'+evt,fn);}
+}
+addEventScroll(window,'load',initScrolling);var marqueeBox;
+var marqueeInterval;
+var reachedBottom = false;
+var marqueeBottom;
+function initScrolling(){
+    marqueeBox = document.getElementById("scrollText");marqueeBox.style.height = "216px";marqueeBox.style.width = "100%";marqueeBox.style.overflow = "hidden";marqueeInterval = setInterval("scrolling()",60);marqueeBox.onmouseover = over;marqueeBox.onmouseout = out; 
+}function scrolling(){
+    var scrollTopTemp = marqueeBox.scrollTop++;if(scrollTopTemp == marqueeBox.scrollTop){    if(!reachedBottom){    marqueeBox.innerHTML += marqueeBox.innerHTML;
+reachedBottom = true;
+marqueeBottom = scrollTopTemp;}else{    marqueeBox.scrollTop = marqueeBottom;}}
+}
+function over(){
+    clearInterval(marqueeInterval);
+}
+function out(){
+    marqueeInterval = setInterval("scrolling()",60);
+}
+</script>
+<div id="scrollText" style="overflow:hidden;height:216px;width:100%;">
+<ul class="marqueelist"><li><font class="marqueelist_authorcolor">24680</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274978.html" title="发表时间:2014-05-21 11:08
+最新回复:24680
+回复次数:19 次" ><font class="marqueelist_subjectcolor">地 质 矿产 资讯-5.20</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=247&tid=274978"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">24680</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274977.html" title="发表时间:2014-05-21 10:42
+最新回复:24680
+回复次数:18 次" ><font class="marqueelist_subjectcolor">地 质 灾 害 资讯-5.20</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=247&tid=274977"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">zxq</font> 在 <a href="thread-htm-fid-238.html" ><font class="marqueelist_forumcolor">矿业标准分享</font></a> 发表了主题帖:<a href="read-htm-tid-274976.html" title="发表时间:2014-05-21 09:50
+最新回复:zxq
+回复次数:1 次" ><font class="marqueelist_subjectcolor">39项安全行业标准目录</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=238&tid=274976"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">srky8888</font> 在 <a href="thread-htm-fid-267.html" ><font class="marqueelist_forumcolor">矿业百科</font></a> 发表了主题帖:<a href="read-htm-tid-274975.html" title="发表时间:2014-05-21 09:07
+最新回复:srky8888
+回复次数:0 次" ><font class="marqueelist_subjectcolor">做高效能主管该咋当</font></a>&nbsp;...&nbsp;还没人回复哦，快去&nbsp;<a href="post.php?action=reply&fid=267&tid=274975"><font class="marqueelist_hintcolor">[抢沙发]</font></a></li><li><font class="marqueelist_authorcolor">opoqo.net</font> 在 <a href="thread-htm-fid-211.html" ><font class="marqueelist_forumcolor">碰巧灌水专区</font></a> 发表了主题帖:<a href="read-htm-tid-274974.html" title="发表时间:2014-05-21 01:52
+最新回复:lixingjin
+回复次数:55 次" ><font class="marqueelist_subjectcolor">签到啦，送分啦，感谢您对中国矿业论坛的大力支持。 (5月21日)</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=211&tid=274974"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">劳人</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274973.html" title="发表时间:2014-05-21 00:32
+最新回复:肥龙2000
+回复次数:1 次" ><font class="marqueelist_subjectcolor">中国能源报：美国煤炭占领欧洲</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=247&tid=274973"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">劳人</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274972.html" title="发表时间:2014-05-21 00:31
+最新回复:劳人
+回复次数:0 次" ><font class="marqueelist_subjectcolor">中央国家机关采购计算机禁止安装Win8操作系统</font></a>&nbsp;...&nbsp;还没人回复哦，快去&nbsp;<a href="post.php?action=reply&fid=247&tid=274972"><font class="marqueelist_hintcolor">[抢沙发]</font></a></li><li><font class="marqueelist_authorcolor">lytfh</font> 在 <a href="thread-htm-fid-190.html" ><font class="marqueelist_forumcolor">掘进与采煤技术</font></a> 发表了主题帖:<a href="read-htm-tid-274971.html" title="发表时间:2014-05-20 19:34
+最新回复:lytfh
+回复次数:0 次" ><font class="marqueelist_subjectcolor">大倾角煤层开采技术研究</font></a>&nbsp;...&nbsp;还没人回复哦，快去&nbsp;<a href="post.php?action=reply&fid=190&tid=274971"><font class="marqueelist_hintcolor">[抢沙发]</font></a></li><li><font class="marqueelist_authorcolor">24680</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274970.html" title="发表时间:2014-05-20 18:00
+最新回复:lhw8277034
+回复次数:1 次" ><font class="marqueelist_subjectcolor">贵州地矿113队打井队首战告捷</font></a>&nbsp;...&nbsp;来晚啦，沙发没有啦，我要&nbsp;<a href="post.php?action=reply&fid=247&tid=274970"><font class="marqueelist_hintcolor">[盖楼]</font></a></li><li><font class="marqueelist_authorcolor">24680</font> 在 <a href="thread-htm-fid-247.html" ><font class="marqueelist_forumcolor">矿业资讯及评论</font></a> 发表了主题帖:<a href="read-htm-tid-274969.html" title="发表时间:2014-05-20 17:57
+最新回复:24680
+回复次数:0 次" ><font class="marqueelist_subjectcolor">地质找矿的“眼睛”</font></a>&nbsp;...&nbsp;还没人回复哦，快去&nbsp;<a href="post.php?action=reply&fid=247&tid=274969"><font class="marqueelist_hintcolor">[抢沙发]</font></a></li><li><font class="marqueelist_authorcolor">lixingjin</font> 对主题帖:<a href="read-htm-tid-262215-page-e.html#a" title="发表时间:2013-01-06 06:23
+主题作者:sangyongqiang
+回复次数:15 次" ><font class="marqueelist_subjectcolor">球磨机最全培训资料</font></a> 进行了回复:<font class="marqueelist_replycolor">先看看有用不。[s:11]</font></li><li><font class="marqueelist_authorcolor">大捏了</font> 对主题帖:<a href="read-htm-tid-106515-page-e.html#a" title="发表时间:2009-01-05 20:21
+主题作者:zzxsp
+回复次数:974 次" ><font class="marqueelist_subjectcolor">采矿CAD软件--MineCAD</font></a> 进行了回复:<font class="marqueelist_replycolor">找不到下载地方啊，点了又回到本页，不跳转下载页啊，请回答</font></li><li><font class="marqueelist_authorcolor">lixingjin</font> 对主题帖:<a href="read-htm-tid-273185-page-e.html#a" title="发表时间:2014-01-14 11:47
+主题作者:zhao825
+回复次数:2 次" ><font class="marqueelist_subjectcolor">压球机系列生产工艺流程</font></a> 进行了回复:<font class="marqueelist_replycolor">有图看看不？[s:2]</font></li><li><font class="marqueelist_authorcolor">lixingjin</font> 对主题帖:<a href="read-htm-tid-274974-page-e.html#a" title="发表时间:2014-05-21 01:52
+主题作者:opoqo.net
+回复次数:55 次" ><font class="marqueelist_subjectcolor">签到啦，送分啦，感谢您对中国矿业论坛的大力支持。 (5月21日)</font></a> 进行了回复:<font class="marqueelist_replycolor">签到版块：矿物分选技术。签到心情：普通。获得随机奖励：碰巧 ..</font></li><li><font class="marqueelist_authorcolor">bentian</font> 对主题帖:<a href="read-htm-tid-133395-page-e.html#a" title="发表时间:2009-07-17 16:51
+主题作者:ahf0425
+回复次数:15 次" ><font class="marqueelist_subjectcolor">辛苦的矿山测量工作者</font></a> 进行了回复:<font class="marqueelist_replycolor">有道是：踏破铁鞋无觅处，得来还得费工夫。</font></li><li><font class="marqueelist_authorcolor">肥龙2000</font> 对主题帖:<a href="read-htm-tid-274973-page-e.html#a" title="发表时间:2014-05-21 00:32
+主题作者:劳人
+回复次数:1 次" ><font class="marqueelist_subjectcolor">中国能源报：美国煤炭占领欧洲</font></a> 进行了回复:<font class="marqueelist_replycolor">美国是个资源大国</font></li><li><font class="marqueelist_authorcolor">24680</font> 对主题帖:<a href="read-htm-tid-274978-page-e.html#a" title="发表时间:2014-05-21 11:08
+主题作者:24680
+回复次数:19 次" ><font class="marqueelist_subjectcolor">地 质 矿产 资讯-5.20</font></a> 进行了回复:<font class="marqueelist_replycolor">[size=5]国土资源部副部长率队到广西地矿局展开工作调研
+2014- ..</font></li><li><font class="marqueelist_authorcolor">qoufeng2</font> 对主题帖:<a href="read-htm-tid-98207-page-e.html#a" title="发表时间:2008-11-05 16:56
+主题作者:小地主
+回复次数:12 次" ><font class="marqueelist_subjectcolor">关于变频器干扰的问题</font></a> 进行了回复:<font class="marqueelist_replycolor">露过，学习了。</font></li><li><font class="marqueelist_authorcolor">dc0511</font> 对主题帖:<a href="read-htm-tid-274875-page-e.html#a" title="发表时间:2014-05-14 07:55
+主题作者:lixj2009
+回复次数:1 次" ><font class="marqueelist_subjectcolor">CTS750×1800永磁筒式磁选机总图</font></a> 进行了回复:<font class="marqueelist_replycolor">是有图纸还是要图纸还是</font></li><li><font class="marqueelist_authorcolor">24680</font> 对主题帖:<a href="read-htm-tid-274977-page-e.html#a" title="发表时间:2014-05-21 10:42
+主题作者:24680
+回复次数:18 次" ><font class="marqueelist_subjectcolor">地 质 灾 害 资讯-5.20</font></a> 进行了回复:<font class="marqueelist_replycolor">[size=5]安徽池州市矿山生态环境保护与污染治理启动
+2014-05-2 ..</font></li></ul>
+</div></td></tr>
+</table>
+</div>
+</div>
+<div class="contentc"></div>
+<div id="content">
+<div class="contentwrap z">
+<div class="t" id="t_9"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('9',0)"><img id="img_9" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=edumine" class="cfont">edumine</a> <a href="u.php?action=show&username=%C7%D8%B7%E7" class="cfont">秦风</a> <a href="u.php?action=show&username=sovran" class="cfont">sovran</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-9.html" class="cfont">论坛管理专区</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_9" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_27" class="td1 f_one">
+<a href="thread-htm-fid-27.html"><img  src="attachment/forumlogo/27.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-27.html" id="fn_27" class="fnamecolor b"><font color=red>论坛公告发布</font></a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:131&nbsp;&nbsp;&nbsp;帖子:13817</span><br /><a href="read-htm-tid-231780-page-e.html#a">Re:新会员报道帖——报道即 ..</a><br /><span class="gray">by:dagefacai2012 <span class="f10">[2014-05-21 09:15]</span>
+</span>
+</div>
+</td>
+<td id="fid_223" class="td1 f_one">
+<a href="thread-htm-fid-223.html"><img  src="attachment/forumlogo/223.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-223.html" id="fn_223" class="fnamecolor b"><font color="#bb5599">投诉建议答疑</font></a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:1293&nbsp;&nbsp;&nbsp;帖子:7027</span><br /><a href="read-htm-tid-201799-page-e.html#a">Re:新人必看 下载附件需具 ..</a><br /><span class="gray">by:dagefacai2012 <span class="f10">[2014-05-21 09:03]</span>
+</span>
+</div>
+</td>
+<td id="fid_222" class="td1 f_one">
+<a href="thread-htm-fid-222.html"><img  src="attachment/forumlogo/222.png" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-222.html" id="fn_222" class="fnamecolor b"><font color=#9400D3>版主议事大厅</font></a>
+</h3><br />
+<span class="gray">主题:388&nbsp;&nbsp;&nbsp;帖子:2017</span><br />认证站点
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div class="t" id="t_249"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('249',0)"><img id="img_249" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=%C7%D8%B7%E7" class="cfont">秦风</a> <a href="u.php?action=show&username=307888140" class="cfont">307888140</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-249.html" class="cfont">行业资讯与职场</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_249" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_247" class="td1 f_one">
+<a href="thread-htm-fid-247.html"><img  src="attachment/forumlogo/247.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-247.html" id="fn_247" class="fnamecolor b">矿业资讯及评论</a> <span class="f10 s3 fn">(今日:44)</span>
+</h3><br />
+<span class="gray">主题:11213&nbsp;&nbsp;&nbsp;帖子:15318</span><br /><a href="read-htm-tid-274973-page-e.html#a">Re:中国能源报：美国煤炭占 ..</a><br /><span class="gray">by:肥龙2000 <span class="f10">[2014-05-21 11:29]</span>
+</span>
+</div>
+</td>
+<td id="fid_250" class="td1 f_one">
+<a href="thread-htm-fid-250.html"><img  src="attachment/forumlogo/250.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-250.html" id="fn_250" class="fnamecolor b">我的职业生涯</a>
+</h3><br />
+<span class="gray">主题:451&nbsp;&nbsp;&nbsp;帖子:5533</span><br /><a href="read-htm-tid-270490-page-e.html#a">Re:如何实现从矿工到矿长的 ..</a><br /><span class="gray">by:wit860112 <span class="f10">[2014-05-20 10:27]</span>
+</span>
+</div>
+</td>
+<td id="fid_220" class="td1 f_one">
+<a href="thread-htm-fid-220.html"><img  src="attachment/forumlogo/220.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-220.html" id="fn_220" class="fnamecolor b">矿山精彩图片</a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:2702&nbsp;&nbsp;&nbsp;帖子:45893</span><br /><a href="read-htm-tid-133395-page-e.html#a">Re:辛苦的矿山测量工作者</a><br /><span class="gray">by:bentian <span class="f10">[2014-05-21 12:28]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div class="t" id="t_271"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('271',0)"><img id="img_271" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=cumtjh" class="cfont">cumtjh</a> <a href="u.php?action=show&username=%CA%B5%BB%B0%CA%B5%CB%B5" class="cfont">实话实说</a> <a href="u.php?action=show&username=0001" class="cfont">0001</a> <a href="u.php?action=show&username=%CF%E6%B0%CD%C0%CF%B5%C4%C0%ED%CF%EB" class="cfont">湘巴老的理想</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-271.html" class="cfont">数字矿山建设</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_271" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_240" class="td1 f_one">
+<a href="thread-htm-fid-240.html"><img  src="attachment/forumlogo/240.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-240.html" id="fn_240" class="fnamecolor b">AutoCAD与GIS</a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:1298&nbsp;&nbsp;&nbsp;帖子:12446</span><br /><a href="read-htm-tid-106515-page-e.html#a">Re:采矿CAD软件--MineCAD</a><br /><span class="gray">by:大捏了 <span class="f10">[2014-05-21 13:58]</span>
+</span>
+</div>
+</td>
+<td id="fid_270" class="td1 f_one">
+<a href="thread-htm-fid-270.html"><img  src="attachment/forumlogo/270.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-270.html" id="fn_270" class="fnamecolor b">矿山三维可视化</a>
+</h3><br />
+<span class="gray">主题:289&nbsp;&nbsp;&nbsp;帖子:4597</span><br /><a href="read-htm-tid-264794-page-e.html#a">Re:浅孔留矿法标准矿块模型 ..</a><br /><span class="gray">by:kooking <span class="f10">[2014-05-20 17:47]</span>
+</span>
+</div>
+</td>
+<td id="fid_272" class="td1 f_one">
+<a href="thread-htm-fid-272.html"><img  src="attachment/forumlogo/272.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-272.html" id="fn_272" class="fnamecolor b">六大系统与自动化</a>
+</h3><br />
+<span class="gray">主题:482&nbsp;&nbsp;&nbsp;帖子:2222</span><br /><a href="read-htm-tid-205734-page-e.html#a">Re:矿井三维监控平台截图</a><br /><span class="gray">by:lytfh <span class="f10">[2014-05-19 20:55]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div class="t" id="t_297"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('297',0)"><img id="img_297" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=%C2%B6%CC%EC%B2%C9%BF%F3%C8%CB" class="cfont">露天采矿人</a> <a href="u.php?action=show&username=ynnjyyc" class="cfont">ynnjyyc</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-297.html" class="cfont">露天开采区</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_297" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_298" class="td1 f_one">
+<a href="thread-htm-fid-298.html"><img  src="attachment/forumlogo/298.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-298.html" id="fn_298" class="fnamecolor b">露天开采技术</a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:342&nbsp;&nbsp;&nbsp;帖子:2981</span><br /><a href="read-htm-tid-262761-page-e.html#a">Re:露天矿测量课件~~~</a><br /><span class="gray">by:tanzx <span class="f10">[2014-05-21 09:33]</span>
+</span>
+</div>
+</td>
+<td id="fid_299" class="td1 f_one">
+<a href="thread-htm-fid-299.html"><img  src="attachment/forumlogo/299.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-299.html" id="fn_299" class="fnamecolor b">边坡稳定与控制</a>
+</h3><br />
+<span class="gray">主题:198&nbsp;&nbsp;&nbsp;帖子:822</span><br /><a href="read-htm-tid-274508-page-e.html#a">Re:堆石坝设计&nbsp;&nbsp ..</a><br /><span class="gray">by:837109604 <span class="f10">[2014-05-14 09:45]</span>
+</span>
+</div>
+</td>
+<td id="fid_300" class="td1 f_one">
+<a href="thread-htm-fid-300.html"><img  src="attachment/forumlogo/300.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-300.html" id="fn_300" class="fnamecolor b">露天矿爆破技术</a>
+</h3><br />
+<span class="gray">主题:62&nbsp;&nbsp;&nbsp;帖子:673</span><br /><a href="read-htm-tid-116354-page-e.html#a">Re:爆破网络图</a><br /><span class="gray">by:ttddyy2013 <span class="f10">[2014-05-12 07:44]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div style="margin-bottom:5px;" class="tac"><script type="text/javascript">/*960600，创建于2011-2-10*/ var cpro_id = 'u372662';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="t z" id="t_188"><table cellspacing="0" cellpadding="0" width="100%"><tr>
+<th class="h" colspan="6"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('188',0)"><img id="img_188" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr a2 fn" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=trq2074" class="cfont">trq2074</a> <a href="u.php?action=show&username=zuoluo007" class="cfont">zuoluo007</a> <a href="u.php?action=show&username=zxq" class="cfont">zxq</a> <a href="u.php?action=show&username=sunlan1986" class="cfont">sunlan1986</a> </span>
+<h2>&raquo; <a href="index-htm-m-bbs-cateid-188.html" class="cfont">煤矿技术讨论区</a></h2>
+</th></tr><tbody id="cate_188" style="display:;"><tr class="tr2">
+<td width="*" colspan="2" class="tac">版块</td>
+<td class="tal y-style e">主题 / 文章</td>
+<td class="tal y-style f">最后发表</td></tr>
+<tr class="tr3 f_one" id="fid_183">
+<td class="icon tac" width="45"><a href="thread-htm-fid-183.html" target="_blank"><img src="images/wind/new.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-183.html" target="_blank"><img align="left" src="attachment/forumlogo/183.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-183.html" id="fn_183">煤矿地质测量</a></h3>
+<span class="s3">&nbsp;(今日:<span class="f10">2</span>)</span><div class="smalltxt gray" id="desc_183">煤田、矿山地质调查，矿产资源普查、详查、勘探与储量计算、矿山测量技术、<br>测量方法,先进测量设备及基础理论探讨与交流！ &nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=24680">24680</a> <a href="u.php?action=show&username=sovran">sovran</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">2918</span>/<span class="f10">18804</span></td>
+<th><a href="read-htm-tid-250370-page-e.html#a" class="a2">Re:手把手教你mapjis软件（ ..</a><br /><span class="gray">46185932</span><br /><span class="f9 gray">2014-05-21 08:38</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_203">
+<td class="icon tac" width="45"><a href="thread-htm-fid-203.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-203.html" target="_blank"><img align="left" src="attachment/forumlogo/203.jpg" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-203.html" id="fn_203">煤矿设计建设</a></h3>
+<div class="smalltxt gray" id="desc_203">煤矿矿山设计、地面工程建设、凿岩爆破及井巷工程等&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=trq2074">trq2074</a> <a href="u.php?action=show&username=qiujin">qiujin</a> <a href="u.php?action=show&username=song139256">song139256</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">4112</span>/<span class="f10">46675</span></td>
+<th><a href="read-htm-tid-198276-page-e.html#a" class="a2">Re:CAD的三机配套图纸</a><br /><span class="gray">llmlie</span><br /><span class="f9 gray">2014-05-20 21:29</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_190">
+<td class="icon tac" width="45"><a href="thread-htm-fid-190.html" target="_blank"><img src="images/wind/new.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-190.html" target="_blank"><img align="left" src="attachment/forumlogo/190.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-190.html" id="fn_190">掘进与采煤技术</a></h3>
+<span class="s3">&nbsp;(今日:<span class="f10">1</span>)</span><div class="smalltxt gray" id="desc_190">各种煤炭赋存条件下的采矿技术和采矿方法交流，矿压控制理论与实践交流：<br>掘进专业设备及技术、技术措施、工程实例与现场经验交流&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=zjy1986">zjy1986</a> <a href="u.php?action=show&username=307888140">307888140</a> <a href="u.php?action=show&username=sunlan1986">sunlan1986</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">5137</span>/<span class="f10">42390</span></td>
+<th><a href="read-htm-tid-162530-page-e.html#a" class="a2">Re:立井施工动画&nbsp;&nb ..</a><br /><span class="gray">yzsycddd</span><br /><span class="f9 gray">2014-05-21 09:08</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_201">
+<td class="icon tac" width="45"><a href="thread-htm-fid-201.html" target="_blank"><img src="images/wind/new.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-201.html" target="_blank"><img align="left" src="attachment/forumlogo/201.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-201.html" id="fn_201">煤矿机电设备</a></h3>
+<span class="s3">&nbsp;(今日:<span class="f10">2</span>)</span><div class="smalltxt gray" id="desc_201">煤矿采掘机电设备、选矿机电设备操作、维修和管理，矿山自动化技术交流，<br>矿用变频及自动化控制技术交流，矿山电工经验资料、工具与器材交流&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=wjshzlqz">wjshzlqz</a> <a href="u.php?action=show&username=%CE%DE%D7%A2%C3%F7">无注明</a> <a href="u.php?action=show&username=%B6%AD%D1%E5%BD%AD">董彦江</a> <a href="u.php?action=show&username=mhsv772008">mhsv772008</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">9822</span>/<span class="f10">66483</span></td>
+<th><a href="read-htm-tid-273185-page-e.html#a" class="a2">Re:压球机系列生产工艺流程</a><br /><span class="gray">lixingjin</span><br /><span class="f9 gray">2014-05-21 13:14</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_202">
+<td class="icon tac" width="45"><a href="thread-htm-fid-202.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-202.html" target="_blank"><img align="left" src="attachment/forumlogo/202.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-202.html" id="fn_202">煤矿运输与提升</a></h3>
+<div class="smalltxt gray" id="desc_202">煤矿井上下运输、转载和提升系统设备和自动化控制技术和设备交流。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=%CA%B5%BB%B0%CA%B5%CB%B5">实话实说</a> <a href="u.php?action=show&username=%B3%A4%B7%E7">长风</a> <a href="u.php?action=show&username=zhang285603419">zhang285603419</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">3326</span>/<span class="f10">25393</span></td>
+<th><a href="read-htm-tid-90767-page-e.html#a" class="a2">回 楼主(pingmei) 的帖子</a><br /><span class="gray">屋无五悟</span><br /><span class="f9 gray">2014-05-20 11:50</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_200">
+<td class="icon tac" width="45"><a href="thread-htm-fid-200.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-200.html" target="_blank"><img align="left" src="attachment/forumlogo/200.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-200.html" id="fn_200">通风安全技术</a></h3>
+<div class="smalltxt gray" id="desc_200">煤矿“一通三防”及防突水技术交流，瓦斯综合防治技术，安全监测监控系统运行和维护<br>交流，安全事故预防、预警、救护和事后调查分析，工作环境和劳保安全技术交流。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=%CD%F2%C8%CB">万人</a> <a href="u.php?action=show&username=gztbgs">gztbgs</a> <a href="u.php?action=show&username=jk2008">jk2008</a> <a href="u.php?action=show&username=nijunting">nijunting</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">9056</span>/<span class="f10">55333</span></td>
+<th><a href="read-htm-tid-90245-page-e.html#a" class="a2">回 2楼(mengfei08) 的帖子</a><br /><span class="gray">opoqozl</span><br /><span class="f9 gray">2014-05-20 11:14</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_191">
+<td class="icon tac" width="45"><a href="thread-htm-fid-191.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-191.html" target="_blank"><img align="left" src="attachment/forumlogo/191.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-191.html" id="fn_191">煤炭洗选与煤化工</a></h3>
+<div class="smalltxt gray" id="desc_191">选煤工艺、选煤方法、选煤设备与技术交流；煤化工,煤制油,煤制气技术与工艺设备交流<br>煤矿分选加工和煤炭资源综合利用，国内外矿物加工工艺、设备、技术交流和探讨！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"></span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">2002</span>/<span class="f10">11175</span></td>
+<th><a href="read-htm-tid-248472-page-e.html#a" class="a2">Re:重力选煤培训课件！！</a><br /><span class="gray">茹春彬</span><br /><span class="f9 gray">2014-05-20 20:16</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_268">
+<td class="icon tac" width="45"><a href="thread-htm-fid-268.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-268.html" target="_blank"><img align="left" src="attachment/forumlogo/268.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-268.html" id="fn_268">煤层气开采利用</a></h3>
+<div class="smalltxt gray" id="desc_268">煤层气开采方法、开采技术及经验展示与交流。煤层气综合利用技术探讨、实践与展望！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"></span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">169</span>/<span class="f10">1168</span></td>
+<th><a href="read-htm-tid-274607-page-e.html#a" class="a2">Re:煤层气开发井网优化设计 ..</a><br /><span class="gray">zxq</span><br /><span class="f9 gray">2014-04-23 09:10</span>
+&nbsp;</th></tr>
+<tr><td colspan="5" style="height:8px;"></td></tr></tbody></table>
+</div>
+<div style="margin-bottom:5px;" class="tac"><script type="text/javascript">/*960600，创建于2011-2-10*/ var cpro_id = 'u372662';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="t z" id="t_213"><table cellspacing="0" cellpadding="0" width="100%"><tr>
+<th class="h" colspan="6"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('213',0)"><img id="img_213" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr a2 fn" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=%C7%D8%B7%E7" class="cfont">秦风</a> <a href="u.php?action=show&username=sovran" class="cfont">sovran</a> </span>
+<h2>&raquo; <a href="index-htm-m-bbs-cateid-213.html" class="cfont">金属、非金属矿技术讨论区</a></h2>
+</th></tr><tbody id="cate_213" style="display:;"><tr class="tr2">
+<td width="*" colspan="2" class="tac">版块</td>
+<td class="tal y-style e">主题 / 文章</td>
+<td class="tal y-style f">最后发表</td></tr>
+<tr class="tr3 f_one" id="fid_215">
+<td class="icon tac" width="45"><a href="thread-htm-fid-215.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-215.html" target="_blank"><img align="left" src="attachment/forumlogo/215.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-215.html" id="fn_215">矿山地质测量</a></h3>
+<div class="smalltxt gray" id="desc_215">金属及非金属矿山地质调查、矿产资源普查、详查、勘探与储量计算，金属与非金属矿山<br>测量技术、测量方法,先进测量设备及基础理论探讨与交流！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=24680">24680</a> <a href="u.php?action=show&username=sovran">sovran</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">5452</span>/<span class="f10">25642</span></td>
+<th><a href="read-htm-tid-126351-page-e.html#a" class="a2">Re:CAD地形图图例(dwg格式）</a><br /><span class="gray">秋风88888</span><br /><span class="f9 gray">2014-05-20 15:17</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_214">
+<td class="icon tac" width="45"><a href="thread-htm-fid-214.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-214.html" target="_blank"><img align="left" src="attachment/forumlogo/214.jpg" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-214.html" id="fn_214">矿山开采建设</a></h3>
+<div class="smalltxt gray" id="desc_214">金属及非金属矿床采矿方法、开采工艺，矿压控制技术，中深孔爆破技术探讨与经验分享！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=sovran">sovran</a> <a href="u.php?action=show&username=chc2005">chc2005</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">4764</span>/<span class="f10">34280</span></td>
+<th><a href="read-htm-tid-154566-page-e.html#a" class="a2">Re:来自红土地的黑马&nbsp ..</a><br /><span class="gray">fzg698</span><br /><span class="f9 gray">2014-05-20 18:11</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_216">
+<td class="icon tac" width="45"><a href="thread-htm-fid-216.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-216.html" target="_blank"><img align="left" src="attachment/forumlogo/216.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-216.html" id="fn_216">矿山机电设备</a></h3>
+<div class="smalltxt gray" id="desc_216">属与非金属矿山凿岩爆破、运输提升、通风、排水、供电设备运行管理及维修，<br>矿山自动化控制技术及检测仪表技术！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=dop">dop</a> <a href="u.php?action=show&username=wjshzlqz">wjshzlqz</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">3577</span>/<span class="f10">21781</span></td>
+<th><a href="read-htm-tid-257631-page-e.html#a" class="a2">Re:摇台及阻车器cad图纸</a><br /><span class="gray">lpl2010</span><br /><span class="f9 gray">2014-05-20 16:20</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_217">
+<td class="icon tac" width="45"><a href="thread-htm-fid-217.html" target="_blank"><img src="images/wind/new.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-217.html" target="_blank"><img align="left" src="attachment/forumlogo/217.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-217.html" id="fn_217">矿物分选技术</a></h3>
+<span class="s3">&nbsp;(今日:<span class="f10">3</span>)</span><div class="smalltxt gray" id="desc_217">金属及非金属矿物分选加工和矿产资源综合利用技术，国内外矿物加工技术和行业发展探讨！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=%D6%B8%B5%E3%BD%AD%C9%BD">指点江山</a> <a href="u.php?action=show&username=tiger">tiger</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">4330</span>/<span class="f10">35125</span></td>
+<th><a href="read-htm-tid-262215-page-e.html#a" class="a2">Re:球磨机最全培训资料</a><br /><span class="gray">lixingjin</span><br /><span class="f9 gray">2014-05-21 14:03</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_228">
+<td class="icon tac" width="45"><a href="thread-htm-fid-228.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-228.html" target="_blank"><img align="left" src="attachment/forumlogo/228.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-228.html" id="fn_228">冶金及环境区</a></h3>
+<div class="smalltxt gray" id="desc_228">黑色和有色金属(包括重、轻、稀有和贵金属)冶金的基本理论、生产工艺和设备、实验<br>研究、矿物加工设计方法、环境保护及资源综合利用的基本理论和基本知识
+&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"></span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">2518</span>/<span class="f10">9151</span></td>
+<th><a href="read-htm-tid-132833-page-e.html#a" class="a2">Re:除尘工程设计手册</a><br /><span class="gray">影沉寒水</span><br /><span class="f9 gray">2014-05-21 00:00</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_269">
+<td class="icon tac" width="45"><a href="thread-htm-fid-269.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-269.html" target="_blank"><img align="left" src="attachment/forumlogo/269.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-269.html" id="fn_269">矿山安全与环保</a></h3>
+<div class="smalltxt gray" id="desc_269">矿山安全环保技术交流,矿山“一通三防”及防突水技术交流,安全监测监控系统运行和维护<br>交流安全事故预防、预警、救护和事后调查分析，工作环境和劳保安全技术交流。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=%D0%A1%C7%D8%C1%EB">小秦岭</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">726</span>/<span class="f10">2883</span></td>
+<th><a href="read-htm-tid-274693-page-e.html#a" class="a2">Re:安全责任意识培训</a><br /><span class="gray">通风08</span><br /><span class="f9 gray">2014-05-09 09:03</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_230">
+<td class="icon tac" width="45"><a href="thread-htm-fid-230.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-230.html" target="_blank"><img align="left" src="attachment/forumlogo/230.jpg" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-230.html" id="fn_230">石油及储运区</a></h3>
+<div class="smalltxt gray" id="desc_230">油气资源勘探，开采、冶炼、油气储运方法与技术交流；&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=weheven">weheven</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">1200</span>/<span class="f10">3900</span></td>
+<th><a href="read-htm-tid-274727-page-e.html#a" class="a2">Re:井斜坐标中巴半径计算</a><br /><span class="gray">zxq</span><br /><span class="f9 gray">2014-05-04 10:02</span>
+&nbsp;</th></tr>
+<tr><td colspan="5" style="height:8px;"></td></tr></tbody></table>
+</div>
+<div class="t z" id="t_218"><table cellspacing="0" cellpadding="0" width="100%"><tr>
+<th class="h" colspan="6"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('218',0)"><img id="img_218" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr a2 fn" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=qiujin" class="cfont">qiujin</a> <a href="u.php?action=show&username=xgxm" class="cfont">xgxm</a> </span>
+<h2>&raquo; <a href="index-htm-m-bbs-cateid-218.html" class="cfont">资格证书、论文发表与招聘求职</a></h2>
+</th></tr><tbody id="cate_218" style="display:;"><tr class="tr2">
+<td width="*" colspan="2" class="tac">版块</td>
+<td class="tal y-style e">主题 / 文章</td>
+<td class="tal y-style f">最后发表</td></tr>
+<tr class="tr3 f_one" id="fid_262">
+<td class="icon tac" width="45"><a href="thread-htm-fid-262.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-262.html" target="_blank"><img align="left" src="attachment/forumlogo/262.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-262.html" id="fn_262">考试与资格证书</a></h3>
+<div class="smalltxt gray" id="desc_262">矿业考研、考博信息交流,考试资料、考试经验分享,注册采矿工程师,<br>注册安全工程师,矿业权评估师,煤矿经理人考试信息、考试资料、考试心得交流。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=%D0%A1%C7%D8%C1%EB">小秦岭</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">752</span>/<span class="f10">3936</span></td>
+<th><a href="read-htm-tid-274929-page-e.html#a" class="a2">六级听力技巧如何过关</a><br /><span class="gray">srky8888</span><br /><span class="f9 gray">2014-05-17 17:42</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_47">
+<td class="icon tac" width="45"><a href="thread-htm-fid-47.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-47.html" target="_blank"><img align="left" src="attachment/forumlogo/47.jpg" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-47.html" id="fn_47">期刊与论文发表</a></h3>
+<div class="smalltxt gray" id="desc_47">这里将作为各学术期刊非官方的读者反馈之所，希望大家对每期的论文进行交流探讨,同时提供CNKI,万方,维普,超星等免费入口地址,文献密码,文献代理,论文免费下载&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=xgxm">xgxm</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">9580</span>/<span class="f10">17610</span></td>
+<th><a href="read-htm-tid-271432-page-e.html#a" class="a2">Re:SET5FⅡ防爆全站仪在贯 ..</a><br /><span class="gray">秋风88888</span><br /><span class="f9 gray">2014-05-20 15:18</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_253">
+<td class="icon tac" width="45"><a href="thread-htm-fid-253.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-253.html" target="_blank"><img align="left" src="attachment/forumlogo/253.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-253.html" id="fn_253">矿业招聘求职</a></h3>
+<div class="smalltxt gray" id="desc_253">职业交流、矿业求职、矿业招聘、矿业资质、专业资格证书挂靠，发布招聘信息，请提供详细的公司介绍、职位描述和联系方式，否则本版将视为无效信息予以删除！&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=edumine">edumine</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">1174</span>/<span class="f10">1753</span></td>
+<th><a href="read-htm-tid-249276-page-e.html#a" class="a2">回 36楼(weizps) 的帖子</a><br /><span class="gray">wit860112</span><br /><span class="f9 gray">2014-05-20 10:10</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_239">
+<td class="icon tac" width="45"><a href="thread-htm-fid-239.html" target="_blank"><img src="images/wind/old.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-239.html" target="_blank"><img align="left" src="attachment/forumlogo/239.jpg" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-239.html" id="fn_239">矿业基础学科</a></h3>
+<div class="smalltxt gray" id="desc_239">矿业行业基础理论，矿山所涉及的软件和数学、力学等国家级精品课程！<br>基础书籍、教学视频，上传大于100M的视频需向版主申请。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"><a href="u.php?action=show&username=qiujin">qiujin</a> </span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">1307</span>/<span class="f10">7117</span></td>
+<th><a href="read-htm-tid-274924-page-e.html#a" class="a2">大型工程监测方案的编制</a><br /><span class="gray">24680</span><br /><span class="f9 gray">2014-05-17 11:20</span>
+&nbsp;</th></tr>
+<tr class="tr3 f_one" id="fid_238">
+<td class="icon tac" width="45"><a href="thread-htm-fid-238.html" target="_blank"><img src="images/wind/new.gif" /></a></td>
+<th>
+<a href="thread-htm-fid-238.html" target="_blank"><img align="left" src="attachment/forumlogo/238.gif" style="padding-right:5px"></a><h3 class="b"><a href="thread-htm-fid-238.html" id="fn_238">矿业标准分享</a></h3>
+<span class="s3">&nbsp;(今日:<span class="f10">2</span>)</span><div class="smalltxt gray" id="desc_238">发布共享和矿业相关的标准文件。包含MT、AQ、HG、GB、YJ、JB、DL、ISO、<br>ASTM等。原书籍资料互助板块内容全部合并到本板块。&nbsp;</div><div><span class="gray">版主:</span><span class="forumslink s5"></span>
+</div>
+</th>
+<td class="tal y-style f10 e gray"><span class="s3">4241</span>/<span class="f10">7893</span></td>
+<th><a href="read-htm-tid-274976-page-e.html#a" class="a2">Re:39项安全行业标准目录</a><br /><span class="gray">zxq</span><br /><span class="f9 gray">2014-05-21 09:52</span>
+&nbsp;</th></tr>
+<tr><td colspan="5" style="height:8px;"></td></tr></tbody></table>
+</div>
+<div class="t" id="t_210"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('210',0)"><img id="img_210" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=%B5%D8%CF%C2%B5%B3%D4%B1" class="cfont">地下党员</a> <a href="u.php?action=show&username=edumine" class="cfont">edumine</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-210.html" class="cfont"> 科技创新与休闲灌水</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_210" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_266" class="td1 f_one">
+<a href="thread-htm-fid-266.html"><img  src="attachment/forumlogo/266.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-266.html" id="fn_266" class="fnamecolor b">小改小革</a>
+</h3><br />
+<span class="gray">主题:147&nbsp;&nbsp;&nbsp;帖子:1363</span><br /><a href="read-htm-tid-266613-page-e.html#a">Re:孔口除尘装置小改小革</a><br /><span class="gray">by:影相随 <span class="f10">[2014-05-17 14:15]</span>
+</span>
+</div>
+</td>
+<td id="fid_267" class="td1 f_one">
+<a href="thread-htm-fid-267.html"><img  src="attachment/forumlogo/267.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-267.html" id="fn_267" class="fnamecolor b">矿业百科</a> <span class="f10 s3 fn">(今日:1)</span>
+</h3><br />
+<span class="gray">主题:849&nbsp;&nbsp;&nbsp;帖子:1903</span><br /><a href="read-htm-tid-274975-page-e.html#a">做高效能主管该咋当</a><br /><span class="gray">by:srky8888 <span class="f10">[2014-05-21 09:07]</span>
+</span>
+</div>
+</td>
+<td id="fid_211" class="td1 f_one">
+<a href="thread-htm-fid-211.html"><img  src="attachment/forumlogo/211.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-211.html" id="fn_211" class="fnamecolor b"><font color=#dd00aa>碰巧灌水专区</font></a> <span class="f10 s3 fn">(今日:56)</span>
+</h3><br />
+<span class="gray">主题:5898&nbsp;&nbsp;&nbsp;帖子:119694</span><br /><a href="read-htm-tid-274974-page-e.html#a">今日第55位会员的第1次心情 ..</a><br /><span class="gray">by:lixingjin <span class="f10">[2014-05-21 13:04]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div class="t" id="t_246"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('246',0)"><img id="img_246" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=edumine" class="cfont">edumine</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-246.html" class="cfont">矿业商务信息区</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_246" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_251" class="td1 f_one">
+<a href="thread-htm-fid-251.html"><img  src="attachment/forumlogo/251.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-251.html" id="fn_251" class="fnamecolor b">会议及工程信息</a>
+</h3><br />
+<span class="gray">主题:70&nbsp;&nbsp;&nbsp;帖子:103</span><br /><a href="read-htm-tid-274884-page-e.html#a">2014北京国际土地复垦与生 ..</a><br /><span class="gray">by:wanderful <span class="f10">[2014-05-14 17:00]</span>
+</span>
+</div>
+</td>
+<td id="fid_248" class="td1 f_one">
+<a href="thread-htm-fid-248.html"><img  src="attachment/forumlogo/248.gif" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-248.html" id="fn_248" class="fnamecolor b">矿业设备展示</a>
+</h3><br />
+<span class="gray">主题:772&nbsp;&nbsp;&nbsp;帖子:1799</span><br /><a href="read-htm-tid-274870-page-e.html#a">贵州煤矿用CYH25煤矿用氧气 ..</a><br /><span class="gray">by:zxq <span class="f10">[2014-05-13 13:12]</span>
+</span>
+</div>
+</td>
+<td id="fid_252" class="td1 f_one">
+<a href="thread-htm-fid-252.html"><img  src="attachment/forumlogo/252.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-252.html" id="fn_252" class="fnamecolor b">矿业企业风采</a>
+</h3><br />
+<span class="gray">主题:387&nbsp;&nbsp;&nbsp;帖子:978</span><br /><a href="read-htm-tid-216276-page-e.html#a">Re:中国矿山之最大的</a><br /><span class="gray">by:zmr0610 <span class="f10">[2014-05-08 09:57]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+<div style="margin-bottom:5px;" class="tac"><script type="text/javascript">/*960*90仅文字，创建于2011-2-10*/ var cpro_id = 'u372682';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="t" id="t_241"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;"><tr>
+<th class="h" colspan="3"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('241',0)"><img id="img_241" src="images/wind/index/cate_fold.gif" /></a>
+<span class="fr" style="margin-right:20px">分栏版主:<a href="u.php?action=show&username=edumine" class="cfont">edumine</a> </span>
+&raquo;
+<h2><a href="index-htm-m-bbs-cateid-241.html" class="cfont">群组分类</a></h2>
+</th></tr><tr>
+<td colspan="3" style="padding:0;border-bottom:0;font:0/0 Arial"></td></tr><tbody id="cate_241" class="across" style="display:;">
+<tr class="tr1">
+<td id="fid_242" class="td1 f_one">
+<a href="thread-htm-fid-242.html"><img  src="attachment/forumlogo/245.png" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-242.html" id="fn_242" class="fnamecolor b">校友联盟</a>
+</h3><br />
+<span class="gray">主题:89&nbsp;&nbsp;&nbsp;帖子:512</span><br /><a href="read-htm-tid-218649-page-e.html#a">Re:河北工程大学（河北建筑 ..</a><br /><span class="gray">by:sjy09912 <span class="f10">[2013-11-17 10:49]</span>
+</span>
+</div>
+</td>
+<td id="fid_243" class="td1 f_one">
+<a href="thread-htm-fid-243.html"><img  src="attachment/forumlogo/245.png" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-243.html" id="fn_243" class="fnamecolor b">公司联盟</a>
+</h3><br />
+<span class="gray">主题:68&nbsp;&nbsp;&nbsp;帖子:297</span><br /><a href="read-htm-tid-274926-page-e.html#a">枣庄金圣高科硅业有限公司</a><br /><span class="gray">by:dsgch <span class="f10">[2014-05-17 13:45]</span>
+</span>
+</div>
+</td>
+<td id="fid_245" class="td1 f_one">
+<a href="thread-htm-fid-245.html"><img  src="attachment/forumlogo/245.png" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-245.html" id="fn_245" class="fnamecolor b">设计院联盟</a>
+</h3><br />
+<span class="gray">主题:69&nbsp;&nbsp;&nbsp;帖子:648</span><br /><a href="read-htm-tid-274876-page-e.html#a">摩擦绞车换钢丝绳</a><br /><span class="gray">by:lxh-0796 <span class="f10">[2014-05-14 08:09]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_273" class="td1 f_one">
+<a href="thread-htm-fid-273.html"><img  src="attachment/forumlogo/273.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-273.html" id="fn_273" class="fnamecolor b">中国矿业大学</a>
+</h3><br />
+<span class="gray">主题:22&nbsp;&nbsp;&nbsp;帖子:121</span><br /><a href="read-htm-tid-274437-page-e.html#a">哪位研究过矿物解离模型的 ..</a><br /><span class="gray">by:一如选煤深似海 <span class="f10">[2014-04-10 19:42]</span>
+</span>
+</div>
+</td>
+<td id="fid_274" class="td1 f_one">
+<a href="thread-htm-fid-274.html"><img  src="attachment/forumlogo/274.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-274.html" id="fn_274" class="fnamecolor b">辽宁工程技术大学</a>
+</h3><br />
+<span class="gray">主题:14&nbsp;&nbsp;&nbsp;帖子:52</span><br /><a href="read-htm-tid-274452-page-e.html#a">国家正规刊物联合征稿(发表 ..</a><br /><span class="gray">by:zhanyi88 <span class="f10">[2014-04-11 11:56]</span>
+</span>
+</div>
+</td>
+<td id="fid_275" class="td1 f_one">
+<a href="thread-htm-fid-275.html"><img  src="attachment/forumlogo/275.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-275.html" id="fn_275" class="fnamecolor b">河南理工大学</a>
+</h3><br />
+<span class="gray">主题:11&nbsp;&nbsp;&nbsp;帖子:65</span><br /><a href="read-htm-tid-191100-page-e.html#a">Re:有河南理工大学的吗？</a><br /><span class="gray">by:bobo00072027 <span class="f10">[2013-12-19 12:42]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_276" class="td1 f_one">
+<a href="thread-htm-fid-276.html"><img  src="attachment/forumlogo/276.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-276.html" id="fn_276" class="fnamecolor b">太原理工大学</a>
+</h3><br />
+<span class="gray">主题:3&nbsp;&nbsp;&nbsp;帖子:20</span><br /><a href="read-htm-tid-251101-page-e.html#a">回 3楼(lynn101) 的帖子</a><br /><span class="gray">by:325691 <span class="f10">[2014-01-08 16:34]</span>
+</span>
+</div>
+</td>
+<td id="fid_277" class="td1 f_one">
+<a href="thread-htm-fid-277.html"><img  src="attachment/forumlogo/277.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-277.html" id="fn_277" class="fnamecolor b">西安科技大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:29</span><br /><a href="read-htm-tid-270690-page-e.html#a">Re:西科的同仁们打声招呼</a><br /><span class="gray">by:wh10cy <span class="f10">[2014-03-09 12:50]</span>
+</span>
+</div>
+</td>
+<td id="fid_278" class="td1 f_one">
+<a href="thread-htm-fid-278.html"><img  src="attachment/forumlogo/278.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-278.html" id="fn_278" class="fnamecolor b">山东科技大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:69</span><br /><a href="read-htm-tid-274470-page-e.html#a">同是山科的来报个到</a><br /><span class="gray">by:worm2012 <span class="f10">[2014-04-13 21:12]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_279" class="td1 f_one">
+<a href="thread-htm-fid-279.html"><img  src="attachment/forumlogo/279.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-279.html" id="fn_279" class="fnamecolor b">华北科技学院</a>
+</h3><br />
+<span class="gray">主题:11&nbsp;&nbsp;&nbsp;帖子:42</span><br /><a href="read-htm-tid-269902-page-e.html#a">Re:踩一下。。机电工程系的</a><br /><span class="gray">by:sunldfj <span class="f10">[2013-08-05 09:02]</span>
+</span>
+</div>
+</td>
+<td id="fid_280" class="td1 f_one">
+<a href="thread-htm-fid-280.html"><img  src="attachment/forumlogo/280.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-280.html" id="fn_280" class="fnamecolor b">安徽理工大学</a>
+</h3><br />
+<span class="gray">主题:5&nbsp;&nbsp;&nbsp;帖子:85</span><br /><a href="read-htm-tid-191482-page-e.html#a">回 楼主(tan198810) 的帖子</a><br /><span class="gray">by:jiu868790 <span class="f10">[2014-01-05 13:13]</span>
+</span>
+</div>
+</td>
+<td id="fid_281" class="td1 f_one">
+<a href="thread-htm-fid-281.html"><img  src="attachment/forumlogo/281.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-281.html" id="fn_281" class="fnamecolor b">湖南科技大学</a>
+</h3><br />
+<span class="gray">主题:2&nbsp;&nbsp;&nbsp;帖子:34</span><br /><a href="read-htm-tid-268881-page-e.html#a">Re:湖南科技大学的校友们</a><br /><span class="gray">by:j15tty <span class="f10">[2014-03-15 14:17]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_282" class="td1 f_one">
+<a href="thread-htm-fid-282.html"><img  src="attachment/forumlogo/282.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-282.html" id="fn_282" class="fnamecolor b">黑龙江科技大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:45</span><br /><a href="read-htm-tid-157843-page-e.html#a">Re:寻找黑龙江科技学院校友</a><br /><span class="gray">by:nidongtai <span class="f10">[2014-05-19 21:01]</span>
+</span>
+</div>
+</td>
+<td id="fid_283" class="td1 f_one">
+<a href="thread-htm-fid-283.html"><img  src="attachment/forumlogo/283.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-283.html" id="fn_283" class="fnamecolor b">内蒙古科技大学</a>
+</h3><br />
+<span class="gray">主题:6&nbsp;&nbsp;&nbsp;帖子:30</span><br /><a href="read-htm-tid-252846-page-e.html#a">Re:科大的朋友们，欢迎回家 ..</a><br /><span class="gray">by:鹿城知客 <span class="f10">[2013-10-03 08:32]</span>
+</span>
+</div>
+</td>
+<td id="fid_284" class="td1 f_one">
+<a href="thread-htm-fid-284.html"><img  src="attachment/forumlogo/284.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-284.html" id="fn_284" class="fnamecolor b">新疆高等专科学校</a>
+</h3><br />
+<span class="gray">主题:1&nbsp;&nbsp;&nbsp;帖子:12</span><br /><a href="read-htm-tid-250851-page-e.html#a">Re:新疆工业高等专科学校即 ..</a><br /><span class="gray">by:zmr0610 <span class="f10">[2014-05-20 09:38]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_285" class="td1 f_one">
+<a href="thread-htm-fid-285.html"><img  src="attachment/forumlogo/285.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-285.html" id="fn_285" class="fnamecolor b">中南大学</a>
+</h3><br />
+<span class="gray">主题:12&nbsp;&nbsp;&nbsp;帖子:56</span><br /><a href="read-htm-tid-271783-page-e.html#a">Re:选矿软件推荐。。。</a><br /><span class="gray">by:lixingjin <span class="f10">[2014-03-24 22:29]</span>
+</span>
+</div>
+</td>
+<td id="fid_286" class="td1 f_one">
+<a href="thread-htm-fid-286.html"><img  src="attachment/forumlogo/286.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-286.html" id="fn_286" class="fnamecolor b">北京科技大学</a>
+</h3><br />
+<span class="gray">主题:2&nbsp;&nbsp;&nbsp;帖子:14</span><br /><a href="read-htm-tid-250970-page-e.html#a">Re:一个人也没有？看来没有 ..</a><br /><span class="gray">by:兔子317 <span class="f10">[2013-09-03 10:48]</span>
+</span>
+</div>
+</td>
+<td id="fid_287" class="td1 f_one">
+<a href="thread-htm-fid-287.html"><img  src="attachment/forumlogo/287.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-287.html" id="fn_287" class="fnamecolor b">东北大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:16</span><br /><a href="read-htm-tid-259160-page-e.html#a">Re:东大的学子来了，终于找 ..</a><br /><span class="gray">by:fiycani1 <span class="f10">[2013-06-06 16:47]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_288" class="td1 f_one">
+<a href="thread-htm-fid-288.html"><img  src="attachment/forumlogo/288.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-288.html" id="fn_288" class="fnamecolor b">昆明理工大学</a>
+</h3><br />
+<span class="gray">主题:3&nbsp;&nbsp;&nbsp;帖子:15</span><br /><a href="read-htm-tid-264820-page-e.html#a">昆明理工大学的矿物加工和 ..</a><br /><span class="gray">by:melon <span class="f10">[2013-03-27 00:18]</span>
+</span>
+</div>
+</td>
+<td id="fid_289" class="td1 f_one">
+<a href="thread-htm-fid-289.html"><img  src="attachment/forumlogo/289.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-289.html" id="fn_289" class="fnamecolor b">江西理工大学</a>
+</h3><br />
+<span class="gray">主题:5&nbsp;&nbsp;&nbsp;帖子:33</span><br /><a href="read-htm-tid-251376-page-e.html#a">Re:江西理工大学简介</a><br /><span class="gray">by:蓝帅qq2013 <span class="f10">[2014-01-08 13:11]</span>
+</span>
+</div>
+</td>
+<td id="fid_290" class="td1 f_one">
+<a href="thread-htm-fid-290.html"><img  src="attachment/forumlogo/290.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-290.html" id="fn_290" class="fnamecolor b">贵州大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:25</span><br /><a href="read-htm-tid-250915-page-e.html#a">Re:怎么都没有贵州的朋友进 ..</a><br /><span class="gray">by:落泪无痕 <span class="f10">[2014-03-21 15:57]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_291" class="td1 f_one">
+<a href="thread-htm-fid-291.html"><img  src="attachment/forumlogo/291.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-291.html" id="fn_291" class="fnamecolor b">西南科技大学</a>
+</h3><br />
+<span class="gray">主题:3&nbsp;&nbsp;&nbsp;帖子:19</span><br /><a href="read-htm-tid-252954-page-e.html#a">Re:西科大采矿交流总群474 ..</a><br /><span class="gray">by:|www.52zdsw.com <span class="f10">[2013-07-18 10:49]</span>
+</span>
+</div>
+</td>
+<td id="fid_292" class="td1 f_one">
+<a href="thread-htm-fid-292.html"><img  src="attachment/forumlogo/292.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-292.html" id="fn_292" class="fnamecolor b">河北工程大学</a>
+</h3><br />
+<span class="gray">主题:5&nbsp;&nbsp;&nbsp;帖子:29</span><br /><a href="read-htm-tid-257078-page-e.html#a">Re:中华南校区的报道了</a><br /><span class="gray">by:|www.52zdsw.com <span class="f10">[2013-07-18 10:55]</span>
+</span>
+</div>
+</td>
+<td id="fid_293" class="td1 f_one">
+<a href="thread-htm-fid-293.html"><img  src="attachment/forumlogo/293.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-293.html" id="fn_293" class="fnamecolor b">中国地质大学</a>
+</h3><br />
+<span class="gray">主题:4&nbsp;&nbsp;&nbsp;帖子:9</span><br /><a href="read-htm-tid-269514-page-e.html#a">汽车防盗遥控2</a><br /><span class="gray">by:谈红2 <span class="f10">[2013-07-25 21:17]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="tr1">
+<td id="fid_294" class="td1 f_one">
+<a href="thread-htm-fid-294.html"><img  src="attachment/forumlogo/294.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-294.html" id="fn_294" class="fnamecolor b">重庆大学</a>
+</h3><br />
+<span class="gray">主题:3&nbsp;&nbsp;&nbsp;帖子:20</span><br /><a href="read-htm-tid-250916-page-e.html#a">Re:重庆大学怎么样，进来投 ..</a><br /><span class="gray">by:dqmemory <span class="f10">[2013-11-05 18:19]</span>
+</span>
+</div>
+</td>
+<td id="fid_295" class="td1 f_one">
+<a href="thread-htm-fid-295.html"><img  src="attachment/forumlogo/295.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-295.html" id="fn_295" class="fnamecolor b">西安建筑科技大学</a>
+</h3><br />
+<span class="gray">主题:3&nbsp;&nbsp;&nbsp;帖子:10</span><br /><a href="read-htm-tid-273611-page-e.html#a">采矿单体设计标准</a><br /><span class="gray">by:l-qj <span class="f10">[2014-02-16 23:04]</span>
+</span>
+</div>
+</td>
+<td id="fid_296" class="td1 f_one">
+<a href="thread-htm-fid-296.html"><img  src="attachment/forumlogo/296.jpg" class="fl" style="margin:10px;"/></a>
+<div style="padding:5px 0;" class="fl">
+<h3>
+<a href="thread-htm-fid-296.html" id="fn_296" class="fnamecolor b">武汉科技大学</a>
+</h3><br />
+<span class="gray">主题:5&nbsp;&nbsp;&nbsp;帖子:24</span><br /><a href="read-htm-tid-274730-page-e.html#a">腊笔小新童装加盟绝对是骗 ..</a><br /><span class="gray">by:伦认划拈厄 <span class="f10">[2014-05-04 12:03]</span>
+</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="3" style="height:8px;" class="f_one"></td></tr></tbody></table>
+</div>
+</div></div>
+<div class="c"></div>
+<script language="JavaScript" src="js/Deploy.js"></script>
+<div class="t"><table cellspacing="0" cellpadding="0" width="100%"><tr>
+<th colspan="2" class="h"><a class="closeicon fr" style="cursor:pointer;" onclick="return IndexDeploy('info',0)"><img id="img_info" src="images/wind/index/cate_fold.gif" /></a><b>站点相关</b></th></tr><tbody id="cate_info" style="display:;">
+<tr class="tr2">
+<td colspan="2">  &raquo; 友情链接 </td>
+</tr>
+<tr class="tr3">
+<td class="f_one tac" width="4%"><img src="images/wind/index/share.gif" /></td>
+<th class="f_one black" width="96%" style="word-break: keep-all;border-right:none;"><a href="http://www.hebeu.edu.cn/" target="_blank" title="采矿工程专业被批准成为国家级特色专业建设点">[河北工程大学]</a> <a href="http://www.usc.edu.cn/" target="_blank" title="">[南华大学]</a> <a href="http://www.whut.edu.cn/index.html" target="_blank" title="">[武汉理工大学]</a> <a href="http://www.gxu.edu.cn/" target="_blank" title="">[广西大学]</a> <a href="http://bbs.91ex.com" target="_blank" title="">[防爆电气论坛]</a> <a href="http://www.ncist.edu.cn/" target="_blank" title="华北科技学院">[华北科技学院]</a> <a href="http://www.aust.edu.cn/2008/" target="_blank" title="">[安徽理工大学]</a> <a href="http://www.wust.edu.cn" target="_blank" title="采矿工程老牌院校">[武汉科技大学]</a> <a href="http://www.hnzjmy.com" target="_blank" title="湖南煤炭企业">[湖南资江煤业集团]</a> <a href="http://www.imust.cn/" target="_blank" title="内蒙古科技大学坐落在首批全国文明城市、美丽的草原钢城—包头，她始建于1956年，最初为包头钢铁工业学校和包头建筑工程学校，1958年两校合并组建包头工学院，1960年更名为包头钢铁学院，隶属原冶金工业部，1998年划归内蒙古自治区管理，成为中央与地方共建的高等学校。2000年内蒙古煤炭工业学校并入，2003年更名为内蒙古科技大学，2009年成为博士学位授权立项建设单位。">[内蒙古科技大学]</a> <a href="http://www.hebeu.edu.cn/" target="_blank" title="河北矿院">[河北工程大学]</a> <a href="http://www.sdust.edu.cn/" target="_blank" title="山东科技大学">[山东科技大学]</a> <a href="http://www.cumtb.edu.cn" target="_blank" title="中国矿业大学（北京） 徐州（http://www.cumt.edu.cn）">[中国矿业大学]</a> <a href="http://www.tyut.edu.cn" target="_blank" title="太原理工大学 山西矿业学院">[太原理工大学]</a> <a href="http://www.xust.edu.cn/" target="_blank" title="西安科技大学 原西安矿院">[西安科技大学]</a> <a href="http://www.lntu.edu.cn" target="_blank" title="辽宁工程技术大学">[辽宁工程技术大学]</a> <a href="http://www.hnust.edu.cn/" target="_blank" title="湖南科技大学 原湘潭矿业学院">[湖南科技大学]</a> <a href="http://www.usth.edu.cn/" target="_blank" title="学校">[黑龙江科技学院]</a> <a href="http://www.jzit.edu.cn/guide/load.htm" target="_blank" title="河南理工大学 原焦作矿院">[河南理工大学]</a> <a href="http://www.cqu.edu.cn/html/index.htm" target="_blank" title="重庆大学 资源与环境学院">[重庆大学]</a> <a href="http://www.chinacoal.gov.cn/" target="_blank" title="中国煤炭工业协会 通信信息中心">[中国煤炭工业协会]</a> <a href="http://www.coalchina.org.cn/" target="_blank" title="国家煤炭工业网 煤炭工业协会">[国家煤炭工业网]</a> <a href="http://www.csu.edu.cn/" target="_blank" title="中南大学 原中南矿冶院">[中南大学]</a> <a href="http://www.ustb.edu.cn/" target="_blank" title="北京科技大学 原北京钢铁学院">[北京科技大学]</a> <a href="http://www.neu.edu.cn/" target="_blank" title="东北大学">[东北大学]</a> <a href="http://www.kmust.edu.cn/" target="_blank" title="昆明理工大学">[昆明理工大学]</a> <a href="http://www.jxust.edu.cn/" target="_blank" title="江西理工大学">[江西理工大学]</a> <a href="http://www.swust.edu.cn/" target="_blank" title="西南科技大学">[西南科技大学]</a> <a href="http://www.xauat.edu.cn/jdzy/mindex.php" target="_blank" title="西安建筑科技大学">[西安建筑科技大学]</a> <a href="http://www.gzu.edu.cn/" target="_blank" title="贵州大学">[贵州大学]</a> <a href="http://www.chinasafety.gov.cn/newpage/" target="_blank" title="国家安全生产监督管理总局">[安全生产监督管理总局]</a> <a href="http://www.chinania.org.cn/web/website/index.htm" target="_blank" title="中国有色金属工业协会">[有色金属工业协会]</a> <a href="http://www.xikeren.cn/" target="_blank" title="西安科技大学学生论坛">[西科人BBS]</a> <a href="http://www.cumter.com" target="_blank" title="矿大人论坛">[矿大人论坛]</a> <a href="http://bbs.iyeya.cn" target="_blank" title="">[液压论坛]</a> <a href="http://www.3dportal.cn/" target="_blank" title="三维网技术论坛，原时空CAD、镇江CAD及三维网合并后的论坛，以机械、电器电子、液压等及各类CAD、CAM、CAE等软件交流，国内外标准等综合性论坛，资料丰富，会员众多，为中国机械制造行业提供全方面的信息资讯！">[三维网技术论坛]</a> <a href="http://bbs.bztdxxl.com" target="_blank" title="">[企业员工论坛]</a> <a href="http://www.shanli-lai.com/" target="_blank" title="山里来社区">[山里来社区]</a> <a href="http://www.kitco.cn/cn/" target="_blank" title="黄金价格 贵金属价格 有色金属价格">[金属价格指数]</a> <a href="http://www.baidu.com/" target="_blank" title="baidu 矿业 贴吧">[百度]</a> <a href="http://www.google.com.hk" target="_blank" title="谷歌 矿业">[谷歌]</a></th>
+</tr>
+<tr class="tr2">
+<td colspan="2">&raquo; 生日会员</td>
+</tr>
+<tr class="tr3">
+<td class="f_one tac" width="4%" style="padding:0"><img src="images/wind/index/birth.gif" /></td>
+<th class="f_one" width="95%" style="padding-right:8px;word-break:keep-all;border-right:none;">  <span><a href="u.php?action=show&username=wjs520131" title="wjs520131,今天 32 周岁了,生日快乐!">wjs520131</a></span> <span><a href="u.php?action=show&username=yikaotong1" title="yikaotong1先生,今天 34 周岁了,生日快乐!">yikaotong1</a></span> <span><a href="u.php?action=show&username=yjlpl0521" title="yjlpl0521先生,今天 4 周岁了,生日快乐!">yjlpl0521</a></span> <span><a href="u.php?action=show&username=zhw_0521" title="zhw_0521先生,今天 54 周岁了,生日快乐!">zhw_0521</a></span> <span><a href="u.php?action=show&username=zx19870115" title="zx19870115先生,今天 5 周岁了,生日快乐!">zx19870115</a></span> <span><a href="u.php?action=show&username=%C0%EE%B3%A4%B6%AB" title="李长东先生,今天 18 周岁了,生日快乐!">李长东</a></span> <span><a href="u.php?action=show&username=%B4%DE%D3%C0%C7%BF" title="崔永强先生,今天 27 周岁了,生日快乐!">崔永强</a></span> <span><a href="u.php?action=show&username=zh2513275" title="zh2513275,今天 32 周岁了,生日快乐!">zh2513275</a></span> <span><a href="u.php?action=show&username=wencheng" title="wencheng先生,今天 29 周岁了,生日快乐!">wencheng</a></span> <span><a href="u.php?action=show&username=inzajhi11" title="inzajhi11,今天 35 周岁了,生日快乐!">inzajhi11</a></span> <span><a href="u.php?action=show&username=zmkzmk521" title="zmkzmk521,今天 28 周岁了,生日快乐!">zmkzmk521</a></span> <span><a href="u.php?action=show&username=chenglu" title="chenglu小姐,今天 32 周岁了,生日快乐!">chenglu</a></span> <span><a href="u.php?action=show&username=syslxd848" title="syslxd848,今天 46 周岁了,生日快乐!">syslxd848</a></span> <span><a href="u.php?action=show&username=494451514" title="494451514先生,今天 27 周岁了,生日快乐!">494451514</a></span> <span><a href="u.php?action=show&username=z19910521" title="z19910521先生,今天 23 周岁了,生日快乐!">z19910521</a></span> <span><a href="u.php?action=show&username=goldenhair" title="goldenhair先生,今天 37 周岁了,生日快乐!">goldenhair</a></span> <span><a href="u.php?action=show&username=mars15" title="mars15先生,今天 24 周岁了,生日快乐!">mars15</a></span> <span><a href="u.php?action=show&username=dictator" title="dictator先生,今天 29 周岁了,生日快乐!">dictator</a></span> <span><a href="u.php?action=show&username=%C1%F8%C7%D9%C7%D9" title="柳琴琴小姐,今天 27 周岁了,生日快乐!">柳琴琴</a></span> <span><a href="u.php?action=show&username=27287112" title="27287112先生,今天 28 周岁了,生日快乐!">27287112</a></span> <span><a href="u.php?action=show&username=786740852" title="786740852,今天 34 周岁了,生日快乐!">786740852</a></span> <span><a href="u.php?action=show&username=songreng126" title="songreng126先生,今天 29 周岁了,生日快乐!">songreng126</a></span> <span><a href="u.php?action=show&username=miracle" title="miracle,今天 24 周岁了,生日快乐!">miracle</a></span> <span><a href="u.php?action=show&username=zifeng5613" title="zifeng5613先生,今天 28 周岁了,生日快乐!">zifeng5613</a></span> <span><a href="u.php?action=show&username=zhangkangji" title="zhangkangji先生,今天 26 周岁了,生日快乐!">zhangkangji</a></span> <span><a href="u.php?action=show&username=fgwlgh" title="fgwlgh,今天 49 周岁了,生日快乐!">fgwlgh</a></span> <span><a href="u.php?action=show&username=yanzhiling" title="yanzhiling先生,今天 24 周岁了,生日快乐!">yanzhiling</a></span> <span><a href="u.php?action=show&username=wangjunfu" title="wangjunfu先生,今天 28 周岁了,生日快乐!">wangjunfu</a></span> <span><a href="u.php?action=show&username=jiaodianbaobao" title="jiaodianbaobao先生,今天 27 周岁了,生日快乐!">jiaodianbaobao</a></span> <span><a href="u.php?action=show&username=18235630133" title="18235630133先生,今天 24 周岁了,生日快乐!">18235630133</a></span> <span><a href="u.php?action=show&username=cumtwalejohn" title="cumtwalejohn先生,今天 25 周岁了,生日快乐!">cumtwalejohn</a></span> <span><a href="u.php?action=show&username=%D5%C5%CB%C9%C4%EA" title="张松年先生,今天 25 周岁了,生日快乐!">张松年</a></span> <span><a href="u.php?action=show&username=pllzx" title="pllzx先生,今天 44 周岁了,生日快乐!">pllzx</a></span> <span><a href="u.php?action=show&username=gooxii" title="gooxii先生,今天 26 周岁了,生日快乐!">gooxii</a></span> <span><a href="u.php?action=show&username=xiaoyaoxiao" title="xiaoyaoxiao先生,今天 28 周岁了,生日快乐!">xiaoyaoxiao</a></span> <span><a href="u.php?action=show&username=%D2%BB%D5%F3%B7%E7" title="一阵风先生,今天 25 周岁了,生日快乐!">一阵风</a></span> <span><a href="u.php?action=show&username=lkxiaojiang" title="lkxiaojiang先生,今天 31 周岁了,生日快乐!">lkxiaojiang</a></span> <span><a href="u.php?action=show&username=%C9%EE%C9%BD%D3%C5%BF%CD" title="深山优客先生,今天 36 周岁了,生日快乐!">深山优客</a></span> <span><a href="u.php?action=show&username=%D2%BB%B6%E4%D4%C6" title="一朵云先生,今天 45 周岁了,生日快乐!">一朵云</a></span> <span><a href="u.php?action=show&username=dujianf" title="dujianf先生,今天 26 周岁了,生日快乐!">dujianf</a></span>
+</th>
+</tr><tr class="tr2">
+<td colspan="2">&raquo; 在线用户<a name="online"></a> -  共 829 人在线,79 位会员,750 位访客,最多 10512 人发生在 2008-11-23 11:02 </td></tr><tr class="tr3">
+<td class="f_one tac" style="padding:0;border-bottom:0px;" width="4%"><img src="images/wind/index/online.gif" /></td>
+<td class="f_one tal" style="padding:15px 20px;border-bottom:0px;border-right:none;">
+<img src="images/wind/group/9.gif" align="absmiddle" /> 助工
+<img src="images/wind/group/8.gif" align="absmiddle" /> 技术员
+<img src="images/wind/group/10.gif" align="absmiddle" /> 工程师
+<img src="images/wind/group/11.gif" align="absmiddle" /> 高工
+<img src="images/wind/group/12.gif" align="absmiddle" /> 研究员
+<img src="images/wind/group/34.gif" align="absmiddle" /> 一年VIP会员
+<img src="images/wind/group/31.gif" align="absmiddle" /> 半年VIP会员
+<img src="images/wind/group/5.gif" align="absmiddle" /> 版主
+<img src="images/wind/group/27.gif" align="absmiddle" /> 超版
+<img src="images/wind/group/4.gif" align="absmiddle" /> 总版
+<img src="images/wind/group/3.gif" align="absmiddle" /> 管理员
+<img src="images/wind/group/6.gif" align="absmiddle" /> 普通会员
+</td></tr></tbody></table>
+</div></div></div><!--.main-wrap,#main End-->
+<div class="footer-wrap">
+<div class="c"></div>
+<div id="bottom"></div>
+<center style="margin:5px 0;"><script type="text/javascript">/*960600，创建于2011-2-10*/ var cpro_id = 'u372662';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></center>
+<div class="c"></div>
+<div id="footer">
+<div id="mode-footer" class="mt"><div class="bottom cc tac"><ul>
+<li><a href="http://www.opoqo.net/extend/about.html" id="td_ID16" target="_blank"><font color="royalblue">关于我们</font></a></li>
+<li><a href="http://www.opoqo.net/extend/copyright.html" id="td_ID104" title="版权声明" target="_blank"><font color="royalblue">免责声明</font></a></li>
+<li><a href="http://www.opoqo.net/ad/index.htm" id="td_ID15" title="广告服务" target="_blank"><font color="royalblue">广告服务</font></a></li>
+<li><a href="job.php?action=erasecookie&verify=0e5b9c20">清除Cookies</a></li>
+<li><a href="http://www.opoqo.net/extend/contact.html">联系我们</a></li>
+<li><a href="simple/">无图版</a></li>
+<li><a href="m/index.php">手机浏览</a></li>
+<li><a href="javascript:scroll(0,0)">返回顶部</a></li></ul></div><center class="f9 gray"><span id="windspend"> Time now is:05-21 14:16, Gzip disabled <a href="http://www.miibeian.gov.cn" target="_blank">陕ICP备05010045号</a></span><br />Powered by <a href="http://www.phpwind.net/" target="_blank"><b>PHPWind</b></a> <a href="http://www.phpwind.net/" target="_blank"><b style="color:#FF9900">v7.5 SP3</b></a> <a href="http://www.phpwind.com/certificate.php?host=www.opoqo.net"><b>Certificate</b></a> Code &copy; 2003-09 <a href="http://www.phpwind.com/" target="_blank"><b>PHPWind.com</b></a> Corporation <span id="stats"></span></center></div></div></div>
+<script language="JavaScript" src="js/global.js"></script>
+</body></html>
+<script language="JavaScript">
+var openmenu = {'td_KEYhack' : 'menu_KEYhack','td_KEYsort' : 'menu_KEYsort','td_KEYapp' : 'menu_KEYapp'};
+read.InitMenu();
+/*
+read.InitMenu(function(id)
+{
+if(id=="menu_post")
+{
+//getObj("menu_post").getElementsByTagName("a")[0].style.border="2px solid red";
+//alert(getObj("menu_post").getElementsByTagName("a")[0].outerHTML);
+read.menu.getElementsByTagName("a")[0].focus();
+return;
+}
+});
+*/
+WINDOW_LOADED=1;
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_jobcenter.js"></script>
+<script language="JavaScript" src="http://init.phpwind.net/init.php?sitehash=10CgJVVlUEBVkBDFUEUVNRA1cGAAIIBgQNUAAOAQJQVgc&v=7.5 SP3&c=0"></script>

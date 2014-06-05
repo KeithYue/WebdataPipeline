@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/src/Perl
+END
+TextExtract_from_URL_to_TXT.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/src/Perl/TextExtract_from_URL_to_TXT.pl
+END
+TextExtract_from_URL_to_XML.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/src/Perl/TextExtract_from_URL_to_XML.pl
+END
+url.data
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/13/trunk/src/Perl/url.data
+END

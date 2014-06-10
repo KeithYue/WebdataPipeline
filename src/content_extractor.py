@@ -1,8 +1,5 @@
 #coding:utf-8
-from text_seg import *
-from bs4 import BeautifulSoup
-from urlparse import urlparse
-from db import db
+import os
 import ConfigParser
 import re
 import urllib
@@ -11,6 +8,15 @@ import time
 import datetime
 import codecs
 import sys
+from text_seg import *
+from bs4 import BeautifulSoup
+from urlparse import urlparse
+from db import db
+from os.path import join, getsize
+
+# init the config file
+Config = ConfigParser.ConfigParser()
+Config.read('./config.ini')
 
 def url_extract(url):
     content = urllib.urlopen(url).read()
@@ -98,15 +104,30 @@ class ExtractorFactory():
     @staticmethod
     def get_extractor(file_path):
         path_conf = {
-                'blog_path': BlogExtractor,
-                'news_path': NewsExtractor,
-                'bbs_path': BBSExtractor,
-                'weibo_path': WeiboExtractor
+                Config.get('blog', 'path'): BlogExtractor,
+                Config.get('news', 'path'): NewsExtractor,
+                Config.get('bbs', 'path'): BBSExtractor,
+                Config.get('weibo', 'path'): WeiboExtractor
                 }
         for key in path_conf:
-            if file_path.find(key) > -1:
+            if key in file_path:
                 return path_conf[key](file_path)
+        return None
 
+def main():
+    '''
+    the pipeline main program
+    walk through the filesystem, find data file parse them and insert them to database
+    '''
+    root = Config.get('root', 'path')
+    for dirpath, dirnames, filenames in os.walk(root):
+        for filename in filenames:
+            file_path = join(dirpath, filename)
+            extractor = ExtractorFactory.get_extractor(file_path)
+            if extractor is not None:
+                print extractor.__class__.__name__
+            else:
+                continue
 
 def test(input_file = './test1.txt'):
     ce= BlogExtractor(input_file)
@@ -115,7 +136,8 @@ def test(input_file = './test1.txt'):
     return
 
 if __name__ == '__main__':
-    if len(sys.argv)>1:
-        test(sys.argv[1])
-    else:
-        test()
+    main()
+    # if len(sys.argv)>1:
+    #     test(sys.argv[1])
+    # else:
+    #     test()

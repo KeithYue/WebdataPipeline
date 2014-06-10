@@ -3,6 +3,7 @@ from text_seg import *
 from bs4 import BeautifulSoup
 from urlparse import urlparse
 from db import db
+import ConfigParser
 import re
 import urllib
 import extractor

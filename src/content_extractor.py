@@ -76,15 +76,15 @@ class BlogExtractor(ContentExtractor):
         article['source_url'] = surl.strip()
         article['ref_url'] = rurl.strip()
         article['domain'] = urlparse(article['source_url']).netloc
-        article['html'] = ''.join(raw[3:])
-        article['text'] = extract(article['html'])
+        html = ''.join(raw[3:])
+        article['text'] = extract(html)
         article['tokens'] = tokenize(article['text'])
         article['timestamp'] = datetime.datetime(*time.strptime(time_str.strip(), '%Y-%m-%d %H:%M:%S')[0:6])
         self.article = article
         return
 
     def insert(self):
-        self.collection.insert(self.article)
+        print 'inserting', self.collection.insert(self.article)
         return
 
 class NewsExtractor(ContentExtractor):
@@ -126,6 +126,7 @@ def main():
             extractor = ExtractorFactory.get_extractor(file_path)
             if extractor is not None:
                 print extractor.__class__.__name__
+                extractor.insert()
             else:
                 continue
 

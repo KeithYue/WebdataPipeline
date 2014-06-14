@@ -1,5 +1,6 @@
 #coding:utf-8
 import os
+import json
 import ConfigParser
 import re
 import urllib
@@ -8,6 +9,7 @@ import time
 import datetime
 import codecs
 import sys
+from pprint import pprint
 from text_seg import *
 from bs4 import BeautifulSoup
 from urlparse import urlparse
@@ -91,7 +93,53 @@ class NewsExtractor(ContentExtractor):
     pass
 
 class WeiboExtractor(ContentExtractor):
-    pass
+    def __init__(self, file_path):
+        '''
+        file_path: full file path
+        '''
+        ContentExtractor.__init__(self, file_path)
+        self.collection = db.weibo
+        self.file_path = file_path
+        self.source = open(self.file_path, 'r')
+        self.parse_document()
+
+    def parse_document(self):
+        self.weibo = {}
+
+        raw = self.source.read()
+        weibo  = json.loads(raw)
+
+        weibo['src_file'] = self.file_path # used to check duplicate insert
+
+        # parse the key words
+        full_dir_path = os.path.split(self.file_path)[0]
+        dir_name = os.path.basename(full_dir_path)
+        weibo['keywords'] = dir_name.split(' ')
+        weibo['tokens'] = tokenize(weibo['content'])
+
+        # construct timestamp
+        actual_date_str = u'2014年'+weibo['date'].strip()
+        time_tuple = time.strptime(actual_date_str, u'%Y年%m月%d日 %H:%M')
+        weibo['timestamp'] = datetime.datetime(*time_tuple[0:6])
+
+        # heat of weibo
+        weibo['heat'] = weibo['heat'].replace('\n', '')
+        pattern = re.compile(ur'.*转发\((?P<retweet_num>\d+)\).*')
+        match = pattern.match(weibo['heat'])
+        if match:
+            weibo['retweet'] = int(match.groupdict()['retweet_num'])
+        else:
+            weibo['retweet'] = 0
+
+
+        self.weibo = weibo
+        # debug info
+        print_dict(self.weibo)
+        return
+
+    def insert(self):
+        print 'inserting', self.collection.insert(self.weibo)
+        return
 
 class BBSExtractor(ContentExtractor):
     pass
@@ -114,6 +162,23 @@ class ExtractorFactory():
                 return path_conf[key](file_path)
         return None
 
+def print_dict(d):
+    '''
+    print the fields of dictionary
+
+    d: dict
+    '''
+    for key in d:
+        print key+':',
+        if type(d[key]) == list:
+            for i in d[key]:
+                print i,
+        else:
+            print d[key],
+
+        print
+    return
+
 def main():
     '''
     the pipeline main program
@@ -130,14 +195,13 @@ def main():
             else:
                 continue
 
-def test(input_file = './test1.txt'):
-    ce= BlogExtractor(input_file)
-    print ce
-    print ce.article['source_url']
+def test(input_file = '/data/ywangby/workspace/pingan/data/weibo/能源局 亿元现金/能源局 亿元现金/1401369020.58.txt'):
+    ce= WeiboExtractor(input_file)
+    # print ce.article['source_url']
     return
 
 if __name__ == '__main__':
-    main()
+    test()
     # if len(sys.argv)>1:
     #     test(sys.argv[1])
     # else:

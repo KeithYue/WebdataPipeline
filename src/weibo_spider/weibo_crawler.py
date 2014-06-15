@@ -4,6 +4,7 @@ import urllib2
 import urlparse
 import re
 import time
+import datetime
 import sys
 import random
 from bs4 import BeautifulSoup
@@ -110,10 +111,10 @@ class WeiboCrawler():
     '''
     crawl weibo using keywords
     '''
-    def __init__(self, search_key, driver):
+    def __init__(self, search_key):
         # login to sinaweibo
-        self.driver = driver
-        self.wl = WeiboLogin(USER_NAME, PASSWD, driver)
+        self.driver = webdriver.PhantomJS()
+        self.wl = WeiboLogin(USER_NAME, PASSWD, self.driver)
         if self.wl.login():
             print 'login successfully'
         else:
@@ -122,21 +123,25 @@ class WeiboCrawler():
         self.sk = search_key.strip()
         return
 
+    def __del__(self):
+        self.driver.quit()
+        return
+
     def crawl(self, page_count=1):
         '''
         '''
-        all_mids = []
+        results = []
         # get the mids from each result page
         pages = range(1, page_count+1)
         random.shuffle(pages)
 
         for i in pages:
             url_to_crawl = self.get_search_url(i)
-            print 'crawling page', i
+            print 'crawling page', i, url_to_crawl
             self.driver.get(url_to_crawl)
             # wait the page loading the content
             try:
-                element = WebDriverWait(self.driver, 10).until(
+                element = WebDriverWait(self.driver, 5).until(
                         lambda x: x.find_elements_by_class_name('feed_list')
                         )
             except TimeoutException:
@@ -146,14 +151,16 @@ class WeiboCrawler():
                 print driver.current_url
                 self.driver.get_screenshot_as_file('./error.png')
                 break
-            mids = self.parse_mids(self.driver.page_source) # mid is used to crawl the original weibo content, using batch mode
-            all_mids.extend(mids)
+            weibo_list = self.get_weibo_list(self.driver.page_source) # mid is used to crawl the original weibo content, using batch mode
+            results.extend(weibo_list)
 
             # sleep some time to prevent hitting too much
             time.sleep(5)
 
-        print len(all_mids)
-        print all_mids
+        for r in results:
+            print_dict(r)
+        print 'total result', len(results)
+
         return
 
     def get_search_url(self, page=1, w_type='hot'):
@@ -175,32 +182,97 @@ class WeiboCrawler():
         return url
 
 
-    def parse_mids(self, content):
+    def get_weibo_list(self, content):
         '''
-        given the content of a crawled weibo webpage,
-        return the mids of all weibo results
+        parse the weibo content in the current result page
+        content: the source page of the keywords result
+
+        return: a list of weibo object
         '''
-        mids = []
+        weibo_list = []
         soup = BeautifulSoup(content, 'html5lib')
         for t in soup.find_all('dl', class_='feed_list'):
             if t.has_attr('mid'):
-                # print t['mid']
-                mids.append(t['mid'])
-        print len(mids)
-        return mids
+                weibo = self.parse_weibo(t)
+                if weibo:
+                    weibo_list.append(weibo)
+        print len(weibo_list)
+        return weibo_list
 
-    def get_banch_weibo(self, mids):
+    def parse_weibo(self, t):
         '''
-        given a list of mid
-        return the list of original weibo
+        parse weibo object from html
+        t: the tag object that has weibo content
+
+        Return weibo object
         '''
-        c = wl.authorize_app(APP_DATA)
-        return
+        weibo = {}
+
+        try:
+            weibo['keywords'] = self.sk.split(' ') #keywords is a list of words
+            weibo['mid'] = t['mid']
+
+            # the user name
+            weibo['screen_name'] = t.find(name='dt', class_='face').find('a').get('title')
+            weibo['user_profile'] = t.find(name='dt', class_='face').find('a').get('href')
+
+            # the content of weibo
+            weibo['text'] = t.find(name='dd', class_='content').find('em').get_text().strip()
+
+            # meta data
+            epoch_length = len(str(int(time.time())))
+            time_str = t.find('dd', class_='content').find('p', class_='info W_linkb W_textb').find(name='a', class_='date').get('date')[0:epoch_length]
+            time_now = time.localtime(int(time_str))
+            weibo['created_at'] = datetime.datetime(*time_now[0:6])
+            weibo['source'] = t.find('dd', class_='content').find('p', class_='info W_linkb W_textb').find('a', rel='nofollow').string.strip()
+
+            pop_str = t.find('dd', class_='content').find('p', class_='info W_linkb W_textb').find('span').get_text().strip().replace('\n', '')
+
+            pop_type = {
+                    # key: source representation, value: attr
+                    u'赞': 'like_count',
+                    u'转发': 'repost_count',
+                    u'评论': 'comment_count'
+                    }
+            for key in pop_type.keys():
+                pattern = re.compile(ur'.*(%s\((\d+)\)).*' % key)
+                match = pattern.match(pop_str)
+                if match:
+                    # print match.group(1)
+                    # print match.group(2)
+                    weibo[pop_type[key]] = int(match.group(2))
+                else:
+                    # print key, 'not found.'
+                    weibo[pop_type[key]] = 0
+
+        except Exception as e:
+            print e
+            return None
+
+        # print_dict(weibo)
+        return weibo
+
+def print_dict(d):
+    '''
+    print the fields of dictionary
+
+    d: dict
+    '''
+    for key in d:
+        print key+':',
+        if type(d[key]) == list:
+            for i in d[key]:
+                print i,
+        else:
+            print d[key],
+
+        print
+    return
 
 
 def test():
-    wc = WeiboCrawler('恒生银行', webdriver.PhantomJS())
-    wc.crawl(5)
+    wc = WeiboCrawler('恒生银行')
+    wc.crawl(20)
     # wl = WeiboLogin(USER_NAME, PASSWD, driver)
     # c = wl.authorize_app(APP_DATA)
     # print c.get('users/show', uid=1282440983)

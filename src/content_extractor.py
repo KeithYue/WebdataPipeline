@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 from urlparse import urlparse
 from db import db
 from os.path import join, getsize
+from pymongo.errors import DuplicateKeyError
 
 # init the config file
 Config = ConfigParser.ConfigParser()
@@ -62,7 +63,6 @@ class BlogExtractor(ContentExtractor):
     def __init__(self, file_path):
         ContentExtractor.__init__(self, file_path)
         self.collection = db.blog
-        self.parse_document()
         return
 
     def __str__(self):
@@ -83,7 +83,7 @@ class BlogExtractor(ContentExtractor):
         article['tokens'] = tokenize(article['text'])
         article['timestamp'] = datetime.datetime(*time.strptime(time_str.strip(), '%Y-%m-%d %H:%M:%S')[0:6])
         self.article = article
-        return
+        return True
 
     def insert(self):
         print 'inserting', self.collection.insert(self.article)
@@ -101,7 +101,6 @@ class WeiboExtractor(ContentExtractor):
         self.collection = db.weibo
         self.file_path = file_path
         self.source = open(self.file_path, 'r')
-        self.parse_document()
 
     def parse_document(self):
         self.weibo = {}
@@ -112,30 +111,34 @@ class WeiboExtractor(ContentExtractor):
         weibo['src_file'] = self.file_path # used to check duplicate insert
 
         # parse the key words
-        full_dir_path = os.path.split(self.file_path)[0]
-        dir_name = os.path.basename(full_dir_path)
-        weibo['keywords'] = dir_name.split(' ')
-        weibo['tokens'] = tokenize(weibo['content'])
+        try:
+            full_dir_path = os.path.split(self.file_path)[0]
+            dir_name = os.path.basename(full_dir_path)
+            weibo['keywords'] = dir_name.split(' ')
+            weibo['tokens'] = tokenize(weibo['content'])
 
-        # construct timestamp
-        actual_date_str = u'2014年'+weibo['date'].strip()
-        time_tuple = time.strptime(actual_date_str, u'%Y年%m月%d日 %H:%M')
-        weibo['timestamp'] = datetime.datetime(*time_tuple[0:6])
+            # construct timestamp
+            actual_date_str = u'2014年'+weibo['date'].strip()
+            time_tuple = time.strptime(actual_date_str, u'%Y年%m月%d日 %H:%M')
+            weibo['timestamp'] = datetime.datetime(*time_tuple[0:6])
 
-        # heat of weibo
-        weibo['heat'] = weibo['heat'].replace('\n', '')
-        pattern = re.compile(ur'.*转发\((?P<retweet_num>\d+)\).*')
-        match = pattern.match(weibo['heat'])
-        if match:
-            weibo['retweet'] = int(match.groupdict()['retweet_num'])
-        else:
-            weibo['retweet'] = 0
+            # heat of weibo
+            weibo['heat'] = weibo['heat'].replace('\n', '')
+            pattern = re.compile(ur'.*转发\((?P<retweet_num>\d+)\).*')
+            match = pattern.match(weibo['heat'])
+            if match:
+                weibo['retweet'] = int(match.groupdict()['retweet_num'])
+            else:
+                weibo['retweet'] = 0
+        except ValueError:
+            print 'value error'
+            return False
 
 
         self.weibo = weibo
         # debug info
         print_dict(self.weibo)
-        return
+        return True
 
     def insert(self):
         print 'inserting', self.collection.insert(self.weibo)
@@ -188,10 +191,18 @@ def main():
     for dirpath, dirnames, filenames in os.walk(root):
         for filename in filenames:
             file_path = join(dirpath, filename)
+            print 'processing', file_path
             extractor = ExtractorFactory.get_extractor(file_path)
             if extractor is not None:
                 print extractor.__class__.__name__
-                extractor.insert()
+                try:
+                    if extractor.parse_document():
+                        extractor.insert()
+                    else:
+                        print 'parser error for %s, continue' % (file_path,)
+                except DuplicateKeyError:
+                    print 'document existed'
+                    continue
             else:
                 continue
 
@@ -201,7 +212,7 @@ def test(input_file = '/data/ywangby/workspace/pingan/data/weibo/能源局 亿�
     return
 
 if __name__ == '__main__':
-    test()
+    main()
     # if len(sys.argv)>1:
     #     test(sys.argv[1])
     # else:

@@ -19,7 +19,7 @@ search_domain = 's.weibo.com'
 weibo_type = ('hot', 'time')
 
 # setup browser driver
-driver = webdriver.PhantomJS()
+# driver = webdriver.PhantomJS()
 # driver.set_window_size(1440, 900)
 
 # config the app data for authorization
@@ -199,7 +199,7 @@ class WeiboCrawler():
 
 
 def test():
-    wc = WeiboCrawler('恒生银行', driver)
+    wc = WeiboCrawler('恒生银行', webdriver.PhantomJS())
     wc.crawl(5)
     # wl = WeiboLogin(USER_NAME, PASSWD, driver)
     # c = wl.authorize_app(APP_DATA)

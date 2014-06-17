@@ -59,38 +59,100 @@ class ContentExtractor():
         '''
         pass
 
-class BlogExtractor(ContentExtractor):
+class BaseExtractor(ContentExtractor):
+    '''
+    extract content for long documents
+    '''
     def __init__(self, file_path):
         ContentExtractor.__init__(self, file_path)
-        self.collection = db.blog
         return
 
     def __str__(self):
-        tokens = [t.encode('utf-8') for t in self.article['tokens']]
+        tokens = [t.encode('utf-8') for t in self.document['tokens']]
         s = '/'.join(tokens)
         return s
 
     def parse_document(self):
-        article = {}
-        raw = self.source.readlines()
-        surl, time_str, rurl = raw[0:3]
-        time_str = time_str[0:time_str.find('.')]
-        article['source_url'] = surl.strip()
-        article['ref_url'] = rurl.strip()
-        article['domain'] = urlparse(article['source_url']).netloc
-        html = ''.join(raw[3:])
-        article['text'] = extract(html)
-        article['tokens'] = tokenize(article['text'])
-        article['timestamp'] = datetime.datetime(*time.strptime(time_str.strip(), '%Y-%m-%d %H:%M:%S')[0:6])
-        self.article = article
+        try:
+            document = {}
+            raw = self.source.readlines()
+
+            document['source_url'] = raw[0].strip()
+            document['timestamp'] = datetime.datetime.fromtimestamp(float(raw[1].strip()))
+            document['domain'] = urlparse(document['source_url']).netloc
+
+            html = ''.join(raw[2:]).strip()
+
+            document['text'] = extract(html)
+            document['tokens'] = tokenize(document['text'])
+        except ValueError:
+            print 'value error'
+            return False
+
+        # print document['text']
+        if self.verify_document(document):
+            self.document = document
+        else:
+            return False
         return True
 
+    def verify_document(self, document):
+        '''
+        verify whether the document is a corrected one
+        '''
+        if len(document['tokens']) == 0:
+            print 'Invalid document...'
+            return False
+        else:
+            print 'Valid document...'
+            return True
+
     def insert(self):
-        print 'inserting', self.collection.insert(self.article)
+        print 'inserting', self.collection.insert(self.document)
         return
 
-class NewsExtractor(ContentExtractor):
-    pass
+class BlogExtractor(BaseExtractor):
+    def __init__(self, file_path):
+        BaseExtractor.__init__(self, file_path)
+        self.collection = db.blog
+        return
+
+    # def parse_document(self):
+    #     article = {}
+    #     raw = self.source.readlines()
+    #     surl, time_str, rurl = raw[0:3]
+    #     time_str = time_str[0:time_str.find('.')]
+    #     article['source_url'] = surl.strip()
+    #     article['ref_url'] = rurl.strip()
+    #     article['domain'] = urlparse(article['source_url']).netloc
+    #     html = ''.join(raw[3:])
+    #     article['text'] = extract(html)
+    #     article['tokens'] = tokenize(article['text'])
+    #     article['timestamp'] = datetime.datetime(*time.strptime(time_str.strip(), '%Y-%m-%d %H:%M:%S')[0:6])
+    #     self.article = article
+    #     return True
+
+    # def insert(self):
+    #     print 'inserting', self.collection.insert(self.article)
+    #     return
+
+class NewsExtractor(BaseExtractor):
+    def __init__(self, file_path):
+        BaseExtractor.__init__(self, file_path)
+        self.collection = db.news
+        return
+
+class MagazineExtractor(BaseExtractor):
+    def __init__(self, file_path):
+        BaseExtractor.__init__(self, file_path)
+        self.collection = db.magazines
+        return
+
+class BBSExtractor(BaseExtractor):
+    def __init__(self, file_path):
+        BaseExtractor.__init__(self, file_path)
+        self.collection = db.bbs
+        return
 
 class WeiboExtractor(ContentExtractor):
     def __init__(self, file_path):
@@ -103,15 +165,16 @@ class WeiboExtractor(ContentExtractor):
         self.source = open(self.file_path, 'r')
 
     def parse_document(self):
-        self.weibo = {}
+        weibo = {}
 
-        raw = self.source.read()
-        weibo  = json.loads(raw)
-
-        weibo['src_file'] = self.file_path # used to check duplicate insert
 
         # parse the key words
         try:
+            raw = self.source.read()
+            weibo  = json.loads(raw)
+
+            weibo['src_file'] = self.file_path # used to check duplicate insert
+
             full_dir_path = os.path.split(self.file_path)[0]
             dir_name = os.path.basename(full_dir_path)
             weibo['keywords'] = dir_name.split(' ')
@@ -144,8 +207,6 @@ class WeiboExtractor(ContentExtractor):
         print 'inserting', self.collection.insert(self.weibo)
         return
 
-class BBSExtractor(ContentExtractor):
-    pass
 
 
 class ExtractorFactory():
@@ -155,14 +216,19 @@ class ExtractorFactory():
     @staticmethod
     def get_extractor(file_path):
         path_conf = {
+                # the key id the list of paths of the corresponding extractor
                 Config.get('blog', 'path'): BlogExtractor,
                 Config.get('news', 'path'): NewsExtractor,
                 Config.get('bbs', 'path'): BBSExtractor,
-                Config.get('weibo', 'path'): WeiboExtractor
+                Config.get('weibo', 'path'): WeiboExtractor,
+                Config.get('magazines', 'path'): MagazineExtractor
+                # Config.get('general', 'path'): NormalExtractor
                 }
+        # use the longest prefix match to get the relevent extractor
         for key in path_conf:
-            if key in file_path:
-                return path_conf[key](file_path)
+            for dir_path in key.split(':'):
+                if dir_path in file_path:
+                    return path_conf[key](file_path)
         return None
 
 def print_dict(d):
@@ -188,27 +254,38 @@ def main():
     walk through the filesystem, find data file parse them and insert them to database
     '''
     root = Config.get('root', 'path')
+    count = 0
+    start_time = time.time()
     for dirpath, dirnames, filenames in os.walk(root):
         for filename in filenames:
             file_path = join(dirpath, filename)
+
+            extension = os.path.splitext(file_path)[-1]
             print 'processing', file_path
             extractor = ExtractorFactory.get_extractor(file_path)
-            if extractor is not None:
+
+            if extractor is not None and extension in ['.txt']: # only parse the txt file
                 print extractor.__class__.__name__
                 try:
                     if extractor.parse_document():
                         extractor.insert()
+                        count += 1
                     else:
                         print 'parser error for %s, continue' % (file_path,)
                 except DuplicateKeyError:
-                    print 'document existed'
+                    print 'document existed, continue'
                     continue
             else:
                 continue
+    end_time = time.time()
 
-def test(input_file = '/data/ywangby/workspace/pingan/data/weibo/能源局 亿元现金/能源局 亿元现金/1401369020.58.txt'):
-    ce= WeiboExtractor(input_file)
-    # print ce.article['source_url']
+    print 'Have processed %d files in %f seconds' % (count, end_time-start_time)
+    return
+
+def test(input_file = '/data/ywangby/workspace/pingan/data/content/1/11_0a00aef62518d03e196292b91a2f7df4.txt'):
+    ne= NewsExtractor(input_file)
+    ne.parse_document()
+    print ne
     return
 
 if __name__ == '__main__':

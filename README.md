@@ -10,6 +10,7 @@ construct pipeline for different forms of web data such as weibo, bbs, news, blo
 * mongodb
 
 #### Python modules
+* Python 2.7
 * BeautifulSoup
 * jieba
 * pymongo

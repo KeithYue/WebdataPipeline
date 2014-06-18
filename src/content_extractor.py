@@ -10,7 +10,7 @@ import datetime
 import codecs
 import sys
 from pprint import pprint
-from text_seg import *
+from text_seg import tokenize
 from bs4 import BeautifulSoup
 from urlparse import urlparse
 from db import db
@@ -289,7 +289,7 @@ def test(input_file = '/data/ywangby/workspace/pingan/data/content/1/11_0a00aef6
     return
 
 if __name__ == '__main__':
-    main()
+    test()
     # if len(sys.argv)>1:
     #     test(sys.argv[1])
     # else:

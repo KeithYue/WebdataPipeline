@@ -1,0 +1,509 @@
+http://xinpi.stcn.com/search.jsp?op=ksjs&kw3=sh600520
+1402802654.47
+
+
+    
+            
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="keywords" content="信息披露,信披,公告"></meta>
+<meta http-equiv="description" content="证券时报网是权威的信息披露平台，公告覆盖上市公司，基金，债券，港股，代办转让，监管公告等，为您投资证券提供及时全面的信息。"></meta>
+<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"></meta>
+<meta name="filetype" content="1"></meta>
+<meta name="publishedtype" content="1"></meta>
+<meta name="pagetype" content="2"></meta>
+<meta name="catalogs" content="760"></meta>
+<title>中国资本市场信息披露平台_公告即刻知道_证券时报网</title>
+<link rel="stylesheet" href="images/style.css" />
+<script type="text/javascript" src="images/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="images/script.js"></script>
+<script type="text/javascript" src="images/datePicker/WdatePicker.js" defer="defer"></script>
+<script src="https://passport.stcn.com/wsLoginAssis.js" charset="UTF-8" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof(tgtId)!="undefined" && tgtId!=null && tgtId!=""){ 
+		$.post(
+	    '/extra/ajaxLogin.do',
+	    {
+	    	tgtId:tgtId
+	    },
+	    function (data){
+	    	if(data.result == 1){
+	    			//success
+	    	}
+	    },
+	    'json'
+	    );
+}
+</script>
+</head>
+
+<body class="doc">
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+<div class="wrap">
+		<div class="g-hd">
+			<div class="g-hd">
+			<div class="hgroup">
+			<h1><a href="/">中国资本市场信息披露平台</a></h1>
+			<h2>上市公司，基金，债券，港股，代办转让，监管公告即刻知道</h2>
+		</div>
+		<div class="code2">
+			<a class="a1" href="###">爱股快信</a>
+			<a class="a2" href="http://wpa.qq.com/msgrd?v=3&uin=2982084357&site=qq&menu=yes">QQ在线服务</a>
+			<a class="a3" href="http://www.stcn.com" target="_blank">证券时报网</a>
+		</div>
+		<div class="m-navw f-cb">
+			<div class="m-logo"><a  target="_blank" href="http://chinext.stcn.com/">创业板指定信披平台</a></div>
+			<ul class="m-nav">
+				<li class="em2"><a href="/zxallbulletin/bulletinlist_1_1.shtml" target="_blank">最新</a></li>
+				<li class="em4"><a href="/zxshbulletin/bulletinlist_1_1.shtml" target="_blank">沪市主板</a></li>
+				<li class="em4"><a href="/zxszbulletin/bulletinlist_1_1.shtml" target="_blank">深市主板</a></li>
+				<li class="em3"><a href="/zxzxbulletin/bulletinlist_1_1.shtml" target="_blank">中小板</a></li>
+				<li class="em3"><a href="/zxcybulletin/bulletinlist_1_1.shtml" target="_blank">创业板</a></li>
+				<li class="em2"><a href="/jjzmjsl/otherbulletin1.shtml" target="_blank">基金</a></li>
+				<li class="em2"><a href="/zqszzq/otherbulletin1.shtml" target="_blank">债券</a></li>
+				<li class="em2"><a href="/qzszqz/otherbulletin1.shtml" target="_blank">权证</a></li>
+				<li class="em5"><a href="/xgcyb/otherbulletin1.shtml" target="_blank">香港创业板</a></li>
+				<li class="em4"><a href="/xgzb/otherbulletin1.shtml" target="_blank">香港主板</a></li>
+				<li class="em4"><a href="/jgjgzjh/otherbulletin1.shtml" target="_blank">监管机构</a></li>
+				<li class="em3"><a href="/nballbulletin/bulletinlist_1_1.shtml" target="_blank">年报</a></li>
+				<li class="em3"><a href="/bnballbulletin/bulletinlist_1_1.shtml" target="_blank">半年报</a></li>
+				<li class="em2"><a href="/ipoallbulletin/bulletinlist_1_1.shtml" target="_blank">IPO</a></li>
+				<li class="em4"><a href="/gddhallbulletin/bulletinlist_1_1.shtml" target="_blank">股东大会</a></li>
+				<li class="em4"><a href="/gqbdallbulletin/bulletinlist_1_1.shtml" target="_blank">股权变动</a></li>
+				<li class="em3"><a href="/kzzallbulletin/bulletinlist_1_1.shtml" target="_blank">可转债</a></li>
+				<li class="em3"><a href="/pgallbulletin/bulletinlist_1_1.shtml" target="_blank">配股</a></li>
+				<li class="em2"><a href="/zfallbulletin/bulletinlist_1_1.shtml" target="_blank">增发</a></li>
+				<li class="em2"><a href="/fpallbulletin/bulletinlist_1_1.shtml" target="_blank">分配</a></li>
+				<li class="em2"><a href="/jyallbulletin/bulletinlist_1_1.shtml" target="_blank">交易</a></li>
+				<li class="em5"><a href="/bcjgzallbulletin/bulletinlist_1_1.shtml" target="_blank">补充及更正</a></li>
+				<li class="em4"><a href="/dbzr/bulletinlist_2_1.shtml" target="_blank">代办转让</a></li>
+				<li class="em4"><a href="/bjxt/bulletinlist_2_1.shtml" target="_blank">报价系统</a></li>
+				<li class="em3"><a href="/yjballbulletin/bulletinlist_1_1.shtml" target="_blank">一季报</a></li>
+				<li class="em3"><a href="/sjballbulletin/bulletinlist_1_1.shtml" target="_blank">三季报</a></li>
+			</ul>
+		</div>
+		<script type="text/javascript" src="/rollnews.js"></script>
+		<div class="search2 f-cb">
+		<form action="/search.jsp" name="form1" method="post">
+				<input type="hidden" name="op" id="op" value="ksjs"/>
+			<div class="m-sch-hd f-fl">
+				<input type="text" class="ipt searchtext" value="sh600520" id="kw3" name="kw3" style="color: rgb(153, 153, 153);"/> 
+				<input type="button" class="btn" value="查询" id="ksjsbutton"/>
+			</div>
+			<div class="search2-mn posr">
+				<select id="tj1" name="tj1">
+					<option value="012002" selected>深市主板</option>
+					<option value="012003" >中小板</option>
+					<option value="012015" >创业板</option>
+					<option value="012001" >沪市</option>
+					<option value="jj" >基金</option>
+					<option value="hk" >港股</option>
+				</select>
+				<select id="tj2" name="tj2" style="width:110px">
+					<option value="" selected>请选择公告类型</option>
+					<option value="0102" >IPO</option>
+					<option value="0105" >配股</option>
+					<option value="0107" >增发</option>
+					<option value="0109" >可转债</option>
+					<option id="qzxx" value="0110" >权证相关公告</option>
+					<option value="0111" >其他融资</option>
+					<option value="011301" >分配</option>
+					<option value="011303" >限售股上市</option>
+					<option value="0115" >股权变动</option>
+					<option value="0117" >交易</option>
+					<option value="0119" >股东大会</option>
+					<option value="0121" >澄清、提示、业绩预告</option>
+					<option value="0123" >其他重大事项</option>
+					<option value="0125" >特别处理和退市</option>
+					<option value="0127" >补充及更正</option>
+					<option value="0129" >中介机构报告</option>
+					<option value="0131" >上市公司制度</option>
+					<option value="010301" >年报</option>
+					<option value="010303" >半年报</option>
+					<option value="010305" >一季报</option>
+					<option value="010307" >三季报</option>
+					<option value="0" >其他</option>
+				</select>
+				<script type="text/javascript">
+					if('012002'=='jj'||'012002'=='hk'){
+						document.getElementById("tj2").disabled="disabled";
+					}if(!('012002'=="012002"||'012002'=="012001")){
+						document.getElementById("qzxx").style.display = "none";
+					}
+				</script>
+				<input type="text" class="ipt ipt1 searchtext" value="代码/简称/拼音" id="kw1" name="kw1" style="color: rgb(153, 153, 153);"/>
+				<input type="text" class="ipt ipt2 searchtext" id="kw2" name="kw2" type="text" value="请输入关键字" style="color: rgb(153, 153, 153);" />
+				<input type="text" name="d1" id="d1" class="ipt3 datetext" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd',readOnly:false})" style="color:rgb(153, 153, 153);" value="2014-06-15"/>
+				<span>至</span> 
+				<input type="text" name="d2" id="d2" class="ipt3 datetext" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd',readOnly:false})" style="color:rgb(153, 153, 153);" value="2014-06-16"/>
+				<input type="button" class="send" value="查询" id="xxjsbutton"/>
+			</div>
+			</form>
+		</div>
+		
+		
+	</div>
+	<div class="g-bd">
+		<div class="f-cb">
+			<div class="m-tt">
+				<h2 class="m-tt-h">最新公告</h2>
+			</div>
+			<div class="g-bd2">
+				<div class="m-list1-th">
+					<span class="s1">代码</span> <span class="s2">简称</span> <span class="s3">标题</span> <span class="s4">时间</span>
+				</div>
+				<ul class="m-list1 m-list1-nosquare m-list1-hover">
+					
+					
+						
+								<li>								
+								<a href="/finalpage/2014-06/14/PDF64136525.shtml" title="中发科技：股票交易异常波动公告" target="_blank">
+								<em>600520</em>
+								中发科技：股票交易异常波动公告								
+								</a>
+								
+								<span>2014-06-14 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-06/12/PDF64128977.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-06-12 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-06/11/PDF64123836.shtml" title="中发科技：终止本次重大资产重组暨复牌公告" target="_blank">
+								<em>600520</em>
+								中发科技：终止本次重大资产重组暨复牌公告								
+								</a>
+								
+								<span>2014-06-11 01:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-06/10/PDF64118171.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-06-10 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-06/06/PDF64106884.shtml" title="中发科技：重大资产重组进展公告" target="_blank">
+								<em>600520</em>
+								中发科技：重大资产重组进展公告								
+								</a>
+								
+								<span>2014-06-06 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-06/04/PDF64098164.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-06-04 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/31/PDF64086407.shtml" title="中发科技：2014年度第一次临时股东大会决议公告" target="_blank">
+								<em>600520</em>
+								中发科技：2014年度第一次临时股东大会决议公告								
+								</a>
+								
+								<span>2014-05-31 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/31/PDF64086408.shtml" title="中发科技：2014年第一次临时股东大会的法律意见书" target="_blank">
+								<em>600520</em>
+								中发科技：2014年第一次临时股东大会的法律意见书								
+								</a>
+								
+								<span>2014-05-31 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/30/PDF64083915.shtml" title="中发科技：重大资产重组进展公告" target="_blank">
+								<em>600520</em>
+								中发科技：重大资产重组进展公告								
+								</a>
+								
+								<span>2014-05-30 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/29/PDF64078126.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-05-29 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/27/PDF64068066.shtml" title="中发科技：2014年度第一次临时股东大会会议资料" target="_blank">
+								<em>600520</em>
+								中发科技：2014年度第一次临时股东大会会议资料								
+								</a>
+								
+								<span>2014-05-27 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/24/PDF64059956.shtml" title="中发科技：关于公司股份冻结的补充公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的补充公告								
+								</a>
+								
+								<span>2014-05-24 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/23/PDF64057149.shtml" title="中发科技：重大资产重组进展公告" target="_blank">
+								<em>600520</em>
+								中发科技：重大资产重组进展公告								
+								</a>
+								
+								<span>2014-05-23 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/22/PDF64052935.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-05-22 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/22/PDF64052936.shtml" title="中发科技：简式权益变动报告书" target="_blank">
+								<em>600520</em>
+								中发科技：简式权益变动报告书								
+								</a>
+								
+								<span>2014-05-22 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/21/PDF64048398.shtml" title="中发科技：关于股东权益变动的提示性公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于股东权益变动的提示性公告								
+								</a>
+								
+								<span>2014-05-21 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/21/PDF64048399.shtml" title="中发科技：详式权益变动报告书" target="_blank">
+								<em>600520</em>
+								中发科技：详式权益变动报告书								
+								</a>
+								
+								<span>2014-05-21 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/21/PDF64048401.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-05-21 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/21/PDF64048402.shtml" title="中发科技：华龙证券有限责任公司关于铜陵中发三佳科技股份有限公司详式权益变动报告书之财务顾问核查意见" target="_blank">
+								<em>600520</em>
+								中发科技：华龙证券有限责任公司关于铜陵中发三佳科技股份有限公司详式权益变动报告书之财务顾问核查意见								
+								</a>
+								
+								<span>2014-05-21 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/21/PDF64048403.shtml" title="中发科技：关于铜陵中发三佳科技股份有限公司实际控制人发生变更的法律意见书" target="_blank">
+								<em>600520</em>
+								中发科技：关于铜陵中发三佳科技股份有限公司实际控制人发生变更的法律意见书								
+								</a>
+								
+								<span>2014-05-21 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/17/PDF64034935.shtml" title="中发科技：关于公司股份冻结的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于公司股份冻结的公告								
+								</a>
+								
+								<span>2014-05-17 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/17/PDF64034936.shtml" title="中发科技：关于实际控制人变更的提示性公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于实际控制人变更的提示性公告								
+								</a>
+								
+								<span>2014-05-17 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/17/PDF64034938.shtml" title="中发科技：重大资产重组进展公告" target="_blank">
+								<em>600520</em>
+								中发科技：重大资产重组进展公告								
+								</a>
+								
+								<span>2014-05-17 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027286.shtml" title="中发科技：万联证券关于中发科技变更募集资金投资项目实施主体的核查意见" target="_blank">
+								<em>600520</em>
+								中发科技：万联证券关于中发科技变更募集资金投资项目实施主体的核查意见								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027281.shtml" title="中发科技：关于股东进行股票质押式回购交易的公告" target="_blank">
+								<em>600520</em>
+								中发科技：关于股东进行股票质押式回购交易的公告								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027282.shtml" title="中发科技：第五届董事会第十八次会议决议公告" target="_blank">
+								<em>600520</em>
+								中发科技：第五届董事会第十八次会议决议公告								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027283.shtml" title="中发科技：关于召开公司2014年度第一次临时股东大会的通知" target="_blank">
+								<em>600520</em>
+								中发科技：关于召开公司2014年度第一次临时股东大会的通知								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027284.shtml" title="中发科技：第五届监事会第十三次会议决议公告" target="_blank">
+								<em>600520</em>
+								中发科技：第五届监事会第十三次会议决议公告								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027285.shtml" title="中发科技：募集资金临时补充流动资金的公告" target="_blank">
+								<em>600520</em>
+								中发科技：募集资金临时补充流动资金的公告								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+								
+								<li>								
+								<a href="/finalpage/2014-05/15/PDF64027287.shtml" title="中发科技：万联证券关于中发科技使用部分闲置资金暂时补充公司流动资金的核查意见" target="_blank">
+								<em>600520</em>
+								中发科技：万联证券关于中发科技使用部分闲置资金暂时补充公司流动资金的核查意见								
+								</a>
+								
+								<span>2014-05-15 00:00</span>
+								</li>
+													
+				</ul>
+				<div class="m-tip">提示：仅显示近3个月内的公告，查看历史公告请使用高级检索功能</div>
+				<div class="m-page f-tar">					
+					<a href=javascript:first()>首页 </a>
+						&nbsp;&nbsp;<a href=javascript:next(1)>下一页</a>&nbsp;&nbsp;
+
+						<a href=javascript:last(4)>尾页 </a>
+						<span>共92条记录 页次：1/4页 30条/页
+						转到：<input type='text' name='pageNo' id='pageNo' size=2 class="m-page-num"/>
+						<input type='button' value='GO'
+							onclick='javascript:goto(4)' class="m-page-go"/></span>
+				</div>
+			</div>
+			<div class="m-help m-help2">
+				<a class="pdf-dld" href="http://xinpi.stcn.com/software/FoxitReader431_chs_Setup.exe" target="_blank">PDF阅读器下载</a>
+				<h5>使用说明：</h5>
+				<ul>
+					<li>1.可以单选或组合以上查询条件进行查询。</li>
+					<li>2.证券代码为空则可查询到该时间段内所有证券（公司/基金）的公告。</li>
+					<li>3.查询时间段不能跨年选择，请尽量不要设置过长，以减少查询等待时间。</li>
+					<li>4.如需更精确的查询，可输入关键词或选择公告类型。</li>
+					<li>5.使用快速查询可以查询某证券一年内的所有公告。</li>
+				</ul>
+				<h5>免责说明：</h5>
+				<p>本查询系统竭力保证所提供证券市场信息和服务的准确性和完整性，但并不担保（无论是明示、默示、法定或其他形式）其准确性和完整性。请使用者以指定信息披露媒体披露的公告全文为准。</p>
+			</div>
+		</div>
+	</div>
+	<div class="g-ft">
+		<div class="inner">
+			<div class="m-flink">
+				<h4>友情链接</h4>
+				<a target="_blank" href="http://www.mof.gov.cn/mof/">财政部</a>
+				<a target="_blank" href="http://www.pbc.gov.cn/">中国人民银行</a>
+				<a target="_blank" href="http://www.mofcom.gov.cn/">商务部</a>
+				<a target="_blank" href="http://www.stats.gov.cn/">国家统计局</a>
+				<a target="_blank" href="http://www.miit.gov.cn/n11293472/index.html">工信部</a>
+				<a target="_blank" href="http://www.sasac.gov.cn/n1180/index.html">国资委</a>
+				<a target="_blank" href="http://www.ndrc.gov.cn/">国家发改委</a>
+				<a target="_blank" href="http://www.safe.gov.cn/model_safe/index.html">外汇局</a>
+				<a target="_blank" href="http://www.csrc.gov.cn/pub/newsite/">中国证监会</a>
+				<a target="_blank" href="http://www.cbrc.gov.cn/chinese/home/jsp/index.jsp">中国银监会</a>
+				<a target="_blank" href="http://www.circ.gov.cn/web/site0/">中国保监会</a>
+				<a target="_blank" href="http://www.szse.cn/">深圳证券交易所</a>
+				<a target="_blank" href="http://www.sse.com.cn/">上海证券交易所</a>
+				<a target="_blank" href="http://www.cffex.com.cn/">中金所</a>
+				<a target="_blank" href="http://www.sge.com.cn/">上海黄金交易所</a>
+				<a target="_blank" href="http://www.shfe.com.cn/">上海期货交易所</a>
+				<a target="_blank" href="http://www.dce.com.cn/">大连商品交易所</a>
+				<a target="_blank" href="http://member.czce.com.cn/">郑州商品交易所</a>
+				<a target="_blank" href="http://www.hkex.com.hk/">香港交易所</a>
+				<a target="_blank" href="http://sc.sfc.hk/gb/www.sfc.hk">香港证监会</a>
+				<a target="_blank" href="http://www.hkgem.com/root/tc_default.asp">港交所创业板</a>
+				<a target="_blank" href="http://www.sac.net.cn/">中国证券业协会</a>
+			</div>
+			<iframe width="980px" scrolling="no" height="160px" frameborder="0" allowtransparency="true" src="http://www.stcn.com/common28/include/footer.html" class="block bc"></iframe>
+		</div>
+	</div>
+</div>
+
+<div class="ui-showbox-mask fn-hide"></div>
+<div id="box4" class="ui-showbox fn-hide">
+	<div class="ui-showbox-in">
+		<div class="ui-showbox-cnt">
+		</div>
+		<a class="ui-showbox-close" href="#">关闭</a>
+	</div>
+</div>
+<script type="text/javascript" src="images/searchUI.js" charset="UTF-8"></script>
+<script type="text/javascript" src="images/SuggestServerAll_2013.js" charset="UTF-8"></script>
+<script type="text/javascript" src="images/SuggestServer_2013forMarket.js" charset="UTF-8"></script>
+<script type="text/javascript">
+	$('#kw1').val('代码/简称/拼音');
+	$('#kw3').val('sh600520');
+	$('#d1').val('2014-06-15');
+	$('#d2').val('2014-06-16');
+</script>
+</body>
+</html>

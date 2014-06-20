@@ -1,0 +1,1546 @@
+http://bbs.hexun.com/board_747_all_1_d.html
+1402752182.2
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	投资培训_投资培训_和讯论坛
+</title>
+
+
+<script src="/s/b/h.js" type="text/javascript"></script>
+<link href="/s/b/a.css" type="text/css" rel="stylesheet"/>
+
+<link href="/profession/css/a1202.css" type="text/css" rel="stylesheet"/>
+<base target="_blank"/>
+<style type="text/css">
+.manage{display:none}
+#tblPosts A.f666:hover{color:#CC0000}
+#tblPosts A.f666:visited{color:#666}
+.bbslist .userName{width:103px;overflow:hidden}
+.bbslist div.hh{width:110px;word-wrap:break-word; overflow:hidden;}
+.gray{color:Gray}
+A.gray:visited{color:Gray}
+</style>
+<!--[if IE 8]>
+<style>
+#tblPosts SPAN IMG{position:relative;top:-3px;}
+</style>
+<![endif]-->
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<div class="topnav">
+<div class="bgrig">
+<div class="bgleft">
+<div class="bbslogo"><a target="_top" href="http://bbs.hexun.com/board_747_all_1_d.html"><img id="logoImg" src="/img/default_board_logo.gif" /></a></div>
+<div id="topsearch" >
+<div class="tab"><span id="taba1" class="current" onmouseover="tab('taba',1,2);">论坛搜索</span> </div>
+<div id="taba_cont1"><form name="fqA" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input id="qA" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/>  <input name="type" type="radio" value="1" checked="checked"  /> 标题 <input id="radioContent" name="type" type="radio" value="2" /> 正文 <input name="type" type="radio" value="16" /> 作者 <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> </form></div>
+<div id="taba_cont2" style="display: none;">
+<form name="fqB" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input name="type" type="hidden" value="4" /> <input id="qB" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/> <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> <strong class="hot">热门标签：</strong> <a href="http://bbs.hexun.com/search/?type=4&q=股票" target="_blank">股票</a> <a href="http://bbs.hexun.com/search/?type=4&q=期货" target="_blank">期货</a> <a href="http://bbs.hexun.com/search/?type=4&q=基金" target="_blank">基金</a> <a href="http://bbs.hexun.com/search/?type=4&q=理财" target="_blank">理财</a> <a href="http://bbs.hexun.com/search/?type=4&q=地震" target="_blank">地震</a> </form></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+function setQueryKey(){
+    if(typeof bid != 'undefined' && !isNaN(bid)){
+        document.fqA.bid .value = document.fqB.bid .value = bid;
+    }
+    
+    if(typeof qT == 'undefined')return;
+    if(qT == 4){
+        tab('taba',2,2);
+    }else{
+        if(qT == -1){
+            //document.fqA.target = document.fqB .target = '_blank';
+        }
+        else{
+            //document.fqA.target = document.fqB .target = '_top';
+            var radios = document.fqA.type;
+            for(var i=0;i<radios.length;i++){
+                if(qT == radios[i].value){
+                    radios[i].checked = true;
+                    break;
+                }
+            }
+        }
+    }
+
+    if(typeof qT == 'undefined' || typeof q == 'undefined'){}
+    else ((qT == 4 ? $id('qB') : $id('qA')).value = q);
+}
+
+addLoadEvent(function(){setTimeout(setQueryKey,600);});
+
+function checkSearchForm(f){
+    var q = f.q.value;
+    if(q.trim() == '' || q == '输入关键词'){
+        alert('请输入搜索关键词');
+        f.q.focus();
+        return false;
+    }
+    return true;
+}
+// ]]></script>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+var bid = 747;
+var navSelectedBID = 747;
+var boardName = '投资培训';
+var refreshSeconds = 120;
+var hotPostMinPv = 1000;
+var ICON_HOT = '/icons/hot.gif';
+var needRefreshPv = true;
+var needRefresh = false;
+</script>
+<form name="fmain" method="get" onsubmit="return false">
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/board_746_all_1_d.html" target="_top">投资培训</a> &gt; <a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_top">投资培训</a></div>
+<span class="btn"> <span id="spMng">[<a href="javascript:void(0)" onclick="shiftManage()" id="aManage" target="_top" class="f666">管理</a>]</span> [<a href="javascript:void(0)" onclick="location.reload()" target="_top" class="f666">刷新版面</a>] [<a href="javascript:void(0)" target="_top" onclick="copy(location.href,'已复制版面地址')" class="f666">复制本版地址</a>] </span> 
+<div class="right">
+<select style="font-size:12px; color:#999" onchange="changeOrderType(this)">
+  <option value="0" selected>按回复时间排序</option>
+  <option value="1">按发帖时间排序</option>
+</select> 
+本版在线：<span id="spanOnlineUserCn">..</span>
+
+<a href="javascript:void(0)" onclick="addMyFavoriteBoard()" target="_top"><img src="/clientfiles/list/img/add.gif" align="absmiddle" /></a>
+
+</div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="130" valign="top">
+
+<div id="divBNv"><a href="http://bbs.hexun.com/board_746_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_749_all_1_d.html" target="_blank">产品帮助</a><a href="http://bbs.hexun.com/board_750_all_1_d.html" target="_blank">投诉建议</a><a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_blank">财经世界</a><a href="http://bbs.hexun.com/profession/" target="_blank">高手版区</a><a href="http://bbs.hexun.com/money/board_567_all_1_d.html" target="_blank">经济观澜</a><a href="http://bbs.hexun.com/stock/board_4_all_1_d.html" target="_blank">股市论坛</a><a href="http://bbs.hexun.com/futures/board_7_all_1_d.html" target="_blank">期市论坛</a><a href="http://bbs.hexun.com/money/board_28_all_1_d.html" target="_blank">基金论坛</a><a href="http://bbs.hexun.com/money/board_83_all_1_d.html" target="_blank">理财论坛</a><a href="http://bbs.hexun.com/money/board_74_all_1_d.html" target="_blank">黄金论坛</a><a href="http://bbs.hexun.com/money/board_63_all_1_d.html" target="_blank">汇市论坛</a><a href="http://bbs.hexun.com/money/board_66_all_1_d.html" target="_blank">房产论坛</a><a href="http://bbs.hexun.com/money/board_42_all_1_d.html" target="_blank">债券论坛</a><a href="http://bbs.hexun.com/money/board_78_all_1_d.html" target="_blank">银行论坛</a><a href="http://bbs.hexun.com/money/board_76_all_1_d.html" target="_blank">保险论坛</a><a href="http://bbs.hexun.com/money/board_247_all_1_d.html" target="_blank">券商论坛</a><a href="http://bbs.hexun.com/money/board_221_all_1_d.html" target="_blank">文交所专区</a><a href="http://bbs.hexun.com/money/board_232_all_1_d.html" target="_blank">津贵所论坛</a><a href="http://bbs.hexun.com/money/board_240_all_1_d.html" target="_blank">部委论坛</a><a href="http://bbs.hexun.com/money/board_617_all_1_d.html" target="_blank">地方论坛</a><a href="http://bbs.hexun.com/money/board_727_all_1_d.html" target="_blank">德州扑克</a><a href="http://bbs.hexun.com/money/board_743_all_1_d.html" target="_blank">国际财经</a><a href="http://bbs.hexun.com/money/board_801_all_1_d.html" target="_blank">现货论坛</a><a href="http://bbs.hexun.com/money/board_819_all_1_d.html" target="_blank">虚拟币之家</a><a href="http://bbs.hexun.com/board_3_all_1_d.html" target="_blank">品质生活</a><a href="http://bbs.hexun.com/board_152_all_1_d.html" target="_blank">社会生活</a><a href="http://bbs.hexun.com/board_552_all_1_d.html" target="_blank">图闻天下</a><a href="http://bbs.hexun.com/board_97_all_1_d.html" target="_blank">数码论坛</a><a href="http://bbs.hexun.com/board_95_all_1_d.html" target="_blank">摄影论坛</a><a href="http://bbs.hexun.com/board_101_all_1_d.html" target="_blank">软件论坛</a><a href="http://bbs.hexun.com/board_105_all_1_d.html" target="_blank">媒体前沿</a><a href="http://bbs.hexun.com/board_11_all_1_d.html" target="_blank">汽车时代</a><a href="http://bbs.hexun.com/board_47_all_1_d.html" target="_blank">IT业界</a><a href="http://bbs.hexun.com/board_805_all_1_d.html" target="_blank">旅行家</a><a href="http://bbs.hexun.com/board_828_all_1_d.html" target="_blank">首都网警</a><a href="http://bbs.hexun.com/board_10_all_1_d.html" target="_blank">论坛站务</a><a href="http://bbs.hexun.com/board_23_all_1_d.html" target="_blank">论坛公告</a><a href="http://bbs.hexun.com/board_25_all_1_d.html" target="_blank">论坛管理</a><a href="http://bbs.hexun.com/board_27_all_1_d.html" target="_blank">管理团队</a><a href="http://bbs.hexun.com/board_32_all_1_d.html" target="_blank">内部交流</a><a href="http://bbs.hexun.com/board_62_all_1_d.html" target="_blank">新手帮助</a><a href="http://bbs.hexun.com/board_61_all_1_d.html" target="_blank">BUG反馈</a><a href="http://bbs.hexun.com/board_131_all_1_d.html" target="_blank">版主申请</a><a href="http://bbs.hexun.com/board_764_all_1_d.html" target="_blank">活动专区</a><a href="http://bbs.hexun.com/board_125_all_1_d.html" target="_blank">和讯推荐</a><a href="http://bbs.hexun.com/board_150_all_1_d.html" target="_blank">和讯活动</a><a href="http://bbs.hexun.com/board_126_all_1_d.html" target="_blank">期天大胜</a><a href="http://bbs.hexun.com/board_164_all_1_d.html" target="_blank">收费产品服务</a><a href="http://bbs.hexun.com/board_242_all_1_d.html" target="_blank">股神争霸</a></div>
+<script src="/nav.aspx" type="text/javascript"></script>
+    </td>
+    <td valign="top"><div id="rigcontent" >
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="declare">
+  <tr>
+    <td>
+		<p class="ico01">版主：<a href="/u_20459880/_d.html" class="f1b6">我是小班儿的</a> <img align="absmiddle" src="/img/realname.gif" border='0'/> &nbsp; 版副：未设置</p>
+		<p class="ico02" id="boardNotice">版面公告：欢迎来到投资培训</p></td>
+    <td id="banner01">&nbsp;</td>
+		<td width="98" id="myPRs"></td>    
+  </tr>
+
+</table>
+
+
+<div class="listtab">
+    <span class="current"><a target="_self" href="http://bbs.hexun.com/board_747_all_1_d.html">全部</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_747_essence_1_d.html">精华</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_747_recomment_1_d.html">推荐</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_747_hot_1_d.html">热门</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_747_image_1_d.html">图片</a></span>
+    <span ><a target="_self" href="http://bbs.hexun.com/board_747_news_1_d.html">新闻评论</a></span>
+    &nbsp;<a href="/newpost.aspx?bid=747" title="发新帖"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a>
+</div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/board_747_all_2_d.html" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="http://bbs.hexun.com/board_747_all_21_d.html" target="_self">…</a> <a href="http://bbs.hexun.com/board_747_all_40_d.html" target="_self">40</a> <a href="http://bbs.hexun.com/board_747_all_41_d.html" target="_self">41</a> <a href="http://bbs.hexun.com/board_747_all_42_d.html" target="_self">42</a> <a href="http://bbs.hexun.com/board_747_all_43_d.html" target="_self">43</a> <a href="http://bbs.hexun.com/board_747_all_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist bbslistth clear" style=" margin:0px;">
+      <tr>
+        <th>主题</th>        
+        <th width="110"> 作者</th>
+        <th width="90">回复/点击</th>
+        <th width="110">最后回复人</th>
+      </tr>
+      </table><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist" id="tblPosts">
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_5309604_1_d.html" class="f234"><strong>网友发帖出现被封权问题的处理方法</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/">和讯财经论坛</a>
+        <p>13-03-01 18:27</p></td>
+        <td width='90'>---/---</td>
+        <td width='110'>---/---</td>
+      </tr>
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6607677_1_d.html" class="f234"><strong>和讯活期盈：三条锦囊计 财富滚滚来</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-02-25 07:09</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class="bg  bgbor">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6944796_1_d.html" class="f234"><strong>真假球迷不重要，世界杯福利才靠谱</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-06-10 14:11</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5246316" value="5246316"/> <a href="http://bbs.hexun.com/post_747_5246316_1_d.html" 
+            class="f234">【王者老师视频课堂】纠正股民常见交易恶习（上）</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20459880/_d.html">我是小班儿的</a>
+          <p>13-01-08 18:15</p></div></td>
+        <td ><span class="f1b6">34</span>/<span id="pv5246316">48479</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:20</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5257448" value="5257448"/> <a href="http://bbs.hexun.com/post_747_5257448_1_d.html" 
+            class="f234">【财智老师视频课堂】波段交易盈利模式（上）</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20459880/_d.html">我是小班儿的</a>
+          <p>13-01-10 11:05</p></div></td>
+        <td ><span class="f1b6">9</span>/<span id="pv5257448">40858</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:23</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5258020" value="5258020"/> <a href="http://bbs.hexun.com/post_747_5258020_1_d.html" 
+            class="f234">【宁海老师视频课堂】股海跟庄（上）</a><span>[<a class="gray" href="http://bbs.hexun.com/post_747_5258020_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_747_5258020_2_d.html">2</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20459880/_d.html">我是小班儿的</a>
+          <p>13-01-10 13:42</p></div></td>
+        <td ><span class="f1b6">59</span>/<span id="pv5258020">63129</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:26</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5263167" value="5263167"/> <a href="http://bbs.hexun.com/post_747_5263167_1_d.html" 
+            class="f234">星星之火股市技术心态理念学习交流帖</a><span>[<a class="gray" href="http://bbs.hexun.com/post_747_5263167_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_747_5263167_2_d.html">2</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_2695769/_d.html">星星之火</a>
+          <p>13-01-11 14:41</p></div></td>
+        <td ><span class="f1b6">58</span>/<span id="pv5263167">52050</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5437427" value="5437427"/> <a href="http://bbs.hexun.com/post_747_5437427_1_d.html" 
+            class="f234">和讯个人账户如何设置和找回支付密码</a><span>
+            <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20454877/_d.html">和讯投资培训</a>
+          <p>13-03-07 14:23</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5437427">13028</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5599151" value="5599151"/> <a href="http://bbs.hexun.com/post_747_5599151_1_d.html" 
+            class="f234">【重要】和讯用户防骗须知</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20459880/_d.html">我是小班儿的</a>
+          <p>13-04-12 10:16</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5599151">2767</span></td>
+        <td ><div class="hh"><a href="/u_25058935/_d.html"><font color="gray">猫腻婆1</font></a>
+        <p>14-05-30 09:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5639851" value="5639851"/> <a href="http://bbs.hexun.com/post_747_5639851_1_d.html" 
+            class="f234">祝利荣免费公开课--决战龙头</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_20459880/_d.html">我是小班儿的</a>
+          <p>13-04-23 18:51</p></div></td>
+        <td ><span class="f1b6">14</span>/<span id="pv5639851">26873</span></td>
+        <td ><div class="hh"><a href="/u_21934827/_d.html"><font color="gray">领导力123</font></a>
+        <p>14-06-04 16:03</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6958509" id="pid_6958509"/> <a href="http://bbs.hexun.com/post_747_6958509_1_d.html" class="f234">2014山东会计考试重点：个人所得项目的具体扣除标准</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_20036540/_d.html">leeskz</a>
+          <p>14-06-14 16:55</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6958509">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6958439" id="pid_6958439"/> <a href="http://bbs.hexun.com/post_747_6958439_1_d.html" class="f234">2014山东会计考试重点考点：因公用私人是否扣个税</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_20036540/_d.html">leeskz</a>
+          <p>14-06-14 16:06</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6958439">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6958112" id="pid_6958112"/> <a href="http://bbs.hexun.com/post_747_6958112_1_d.html" class="f234">学历教育培训，请选择海南科技职业学院统招-航海</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21819839/_d.html">jxgqedu</a>
+          <p>14-06-14 12:29</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6958112">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6958049" id="pid_6958049"/> <a href="http://bbs.hexun.com/post_747_6958049_1_d.html" class="f234">恒美品位家居用品掐骗子的脖子怒斥其骗局行为</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25085451/_d.html">hengmei666</a>
+          <p>14-06-14 11:30</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6958049">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957131" id="pid_6957131"/> <a href="http://bbs.hexun.com/post_747_6957131_1_d.html" class="f234">上海交大mba 华章师资力量完善</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21981197/_d.html">hxajo</a>
+          <p>14-06-13 18:17</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv6957131">240</span></td>
+        <td ><div class="hh"><a href="/u_22084836/_d.html"><font color="gray">dadcieie</font></a>
+        <p>14-06-14 10:55</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957744" id="pid_6957744"/> <a href="http://bbs.hexun.com/post_747_6957744_1_d.html" class="f234">网络营销师年薪10万扭转90后就业观念</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24952545/_d.html">不会唱情歌</a>
+          <p>14-06-14 07:40</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957744">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957487" id="pid_6957487"/> <a href="http://bbs.hexun.com/post_747_6957487_1_d.html" class="f234">同桌100学习网让我追上大家的学习进度</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24068454/_d.html">kittenqueen</a>
+          <p>14-06-13 22:19</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957487">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957482" id="pid_6957482"/> <a href="http://bbs.hexun.com/post_747_6957482_1_d.html" class="f234">同桌100学习网让我数学成绩大提高</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24068454/_d.html">kittenqueen</a>
+          <p>14-06-13 22:18</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957482">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957477" id="pid_6957477"/> <a href="http://bbs.hexun.com/post_747_6957477_1_d.html" class="f234">暑假我用同桌100学习网预习下学期新课</a>
+        <span>
+        <img src="/icons/new.gif"align="absmiddle" alt='新帖' title='新帖' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24068454/_d.html">kittenqueen</a>
+          <p>14-06-13 22:15</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957477">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957068" id="pid_6957068"/> <a href="http://bbs.hexun.com/post_747_6957068_1_d.html" class="f234">想过证券从业考试的同学必看，经典复习资料</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_23794371/_d.html">无间之伤</a>
+          <p>14-06-13 17:53</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957068">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6956789" id="pid_6956789"/> <a href="http://bbs.hexun.com/post_747_6956789_1_d.html" class="f234">云社国际——网上赚钱</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25084422/_d.html">安旎墨</a>
+          <p>14-06-13 16:31</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6956789">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952775" id="pid_6952775"/> <a href="http://bbs.hexun.com/post_747_6952775_1_d.html" class="f234">长沙电脑培训学校哪个最好</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25025983/_d.html">绝世超伦一</a>
+          <p>14-06-12 14:19</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6952775">127</span></td>
+        <td ><div class="hh"><a href="/u_23790469/_d.html"><font color="gray">suytr</font></a>
+        <p>14-06-13 15:42</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6956566" id="pid_6956566"/> <a href="http://bbs.hexun.com/post_747_6956566_1_d.html" class="f234">英语外教一对一英语培训班该选择哪个好呢?</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_23790469/_d.html">suytr</a>
+          <p>14-06-13 15:37</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6956566">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6956358" id="pid_6956358"/> <a href="http://bbs.hexun.com/post_747_6956358_1_d.html" class="f234">俞凌雄老师企业培训课心得</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-13 15:03</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6956358">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6956224" id="pid_6956224"/> <a href="http://bbs.hexun.com/post_747_6956224_1_d.html" class="f234">清华班戈MBA学员毕业多年结合实际谈MBA价值</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25083974/_d.html">T34756</a>
+          <p>14-06-13 14:32</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6956224">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6955649" id="pid_6955649"/> <a href="http://bbs.hexun.com/post_747_6955649_1_d.html" class="f234">企业培训师新时代的风帆</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-13 11:27</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955649">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6955563" id="pid_6955563"/> <a href="http://bbs.hexun.com/post_747_6955563_1_d.html" class="f234">长沙有哪些好的IT教育培训机构</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25071236/_d.html">万物初醒</a>
+          <p>14-06-13 11:12</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955563">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6955270" id="pid_6955270"/> <a href="http://bbs.hexun.com/post_747_6955270_1_d.html" class="f234">中国商机网服务客户端展示中国商机网行业的最新服务</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22736943/_d.html">mozhuxiwll</a>
+          <p>14-06-13 10:09</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955270">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6955173" id="pid_6955173"/> <a href="http://bbs.hexun.com/post_747_6955173_1_d.html" class="f234">掌握三招做好新员工培训</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22035537/_d.html">yjhdiao</a>
+          <p>14-06-13 09:51</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955173">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6955127" id="pid_6955127"/> <a href="http://bbs.hexun.com/post_747_6955127_1_d.html" class="f234">看世界杯能辞职，学181会计网校的知识不需要辞职</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-13 09:42</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955127">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6955120" id="pid_6955120"/> <a href="http://bbs.hexun.com/post_747_6955120_1_d.html" class="f234">181会计网校传统课堂走向移动手机客户端</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-13 09:40</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6955120">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952678" id="pid_6952678"/> <a href="http://bbs.hexun.com/post_747_6952678_1_d.html" class="f234">考上海mba 需要华章为您出力</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_20694750/_d.html">lovyfle</a>
+          <p>14-06-12 14:06</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6952678">333</span></td>
+        <td ><div class="hh"><a href="/u_20619138/_d.html"><font color="gray">fennyug</font></a>
+        <p>14-06-13 08:46</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6950916" id="pid_6950916"/> <a href="http://bbs.hexun.com/post_747_6950916_1_d.html" class="f234">上海交大mba 华章通过率更高</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_19752616/_d.html">灵听幻想</a>
+          <p>14-06-12 07:21</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6950916">107</span></td>
+        <td ><div class="hh"><a href="/u_19985252/_d.html"><font color="gray">爱你的草莓</font></a>
+        <p>14-06-13 07:00</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952209" id="pid_6952209"/> <a href="http://bbs.hexun.com/post_747_6952209_1_d.html" class="f234">【跟】上海交大mba华章非常重要</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22003963/_d.html">huuln</a>
+          <p>14-06-12 12:03</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6952209">87</span></td>
+        <td ><div class="hh"><a href="/u_20562774/_d.html"><font color="gray">drclyoca</font></a>
+        <p>14-06-12 19:31</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6953964" id="pid_6953964"/> <a href="http://bbs.hexun.com/post_747_6953964_1_d.html" class="f234">北京少儿舞蹈  中音艺校 古典舞中的形是指什么？</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22886643/_d.html">a741388506</a>
+          <p>14-06-12 18:19</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953964">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6953943" id="pid_6953943"/> <a href="http://bbs.hexun.com/post_747_6953943_1_d.html" class="f234">真心不错的证券从业考试备考资料贡献给大家！</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_23794371/_d.html">无间之伤</a>
+          <p>14-06-12 18:01</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953943">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6953920" id="pid_6953920"/> <a href="http://bbs.hexun.com/post_747_6953920_1_d.html" class="f234">西安外事学院学子在全国大学生条码竞赛中摘得桂冠</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24981922/_d.html">m1342338815</a>
+          <p>14-06-12 17:52</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953920">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6953916" id="pid_6953916"/> <a href="http://bbs.hexun.com/post_747_6953916_1_d.html" class="f234">韩国釜山留学教育文化推介会在西安外事学院成功举办</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24981922/_d.html">m1342338815</a>
+          <p>14-06-12 17:50</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953916">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6953914" id="pid_6953914"/> <a href="http://bbs.hexun.com/post_747_6953914_1_d.html" class="f234">西安外事学院学子参加陕西省设计新星大赛创佳绩</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24981922/_d.html">m1342338815</a>
+          <p>14-06-12 17:49</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953914">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6953609" id="pid_6953609"/> <a href="http://bbs.hexun.com/post_747_6953609_1_d.html" class="f234">浙商控股大厦落户徐汇  漕河泾开发区产业升级新引擎</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-12 16:34</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953609">313</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6953007" id="pid_6953007"/> <a href="http://bbs.hexun.com/post_747_6953007_1_d.html" class="f234">汇聚弟子班学员赴新加坡游学考察</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-12 15:00</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6953007">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952699" id="pid_6952699"/> <a href="http://bbs.hexun.com/post_747_6952699_1_d.html" class="f234">如何顺应培训变革的趋势</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22035537/_d.html">yjhdiao</a>
+          <p>14-06-12 14:09</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6952699">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952646" id="pid_6952646"/> <a href="http://bbs.hexun.com/post_747_6952646_1_d.html" class="f234">iPhone6太丑了，我还不如到181会计网校学习</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-12 14:00</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6952646">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6952618" id="pid_6952618"/> <a href="http://bbs.hexun.com/post_747_6952618_1_d.html" class="f234">做题才能通过考试的181会计网校</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-12 13:54</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6952618">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952290" id="pid_6952290"/> <a href="http://bbs.hexun.com/post_747_6952290_1_d.html" class="f234">武威汉堡店加盟，【德洲汉堡】大品牌，值得信赖！</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25067302/_d.html">efdhai54</a>
+          <p>14-06-12 12:24</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6952290">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6952279" id="pid_6952279"/> <a href="http://bbs.hexun.com/post_747_6952279_1_d.html" class="f234">甘肃汉堡店加盟，【德洲汉堡】大品牌，值得信赖！</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25067302/_d.html">efdhai54</a>
+          <p>14-06-12 12:22</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6952279">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6951517" id="pid_6951517"/> <a href="http://bbs.hexun.com/post_747_6951517_1_d.html" class="f234">中国水泥网开启移动终端新时代</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22736943/_d.html">mozhuxiwll</a>
+          <p>14-06-12 10:02</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6951517">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6878371" id="pid_6878371"/> <a href="http://bbs.hexun.com/post_747_6878371_1_d.html" class="f234">不用投资就赚钱</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_10156885/_d.html">老费666</a>
+          <p>14-05-19 18:24</p></div></td>
+        <td ><span class="f1b6">12</span>/<span id="pv6878371">1204</span></td>
+        <td ><div class="hh"><a href="/u_10156885/_d.html"><font color="gray">老费666</font></a>
+        <p>14-06-12 09:43</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6950088" id="pid_6950088"/> <a href="http://bbs.hexun.com/post_747_6950088_1_d.html" class="f234">证券从业考试证券市场基础知识备考资料（电子书+题</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_23794371/_d.html">无间之伤</a>
+          <p>14-06-11 18:12</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6950088">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6949902" id="pid_6949902"/> <a href="http://bbs.hexun.com/post_747_6949902_1_d.html" class="f234">海南自考</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25067162/_d.html">海南自考</a>
+          <p>14-06-11 17:17</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949902">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6949730" id="pid_6949730"/> <a href="http://bbs.hexun.com/post_747_6949730_1_d.html" class="f234">企业内部培训的价值所在</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-11 16:33</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949730">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6949699" id="pid_6949699"/> <a href="http://bbs.hexun.com/post_747_6949699_1_d.html" class="f234">发表文章  评职称</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25079580/_d.html">yx图图</a>
+          <p>14-06-11 16:25</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949699">127</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6949557" id="pid_6949557"/> <a href="http://bbs.hexun.com/post_747_6949557_1_d.html" class="f234">哪些学员更适合报读清华班戈MBA？</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24977879/_d.html">hhrqcrft173</a>
+          <p>14-06-11 16:02</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949557">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6949388" id="pid_6949388"/> <a href="http://bbs.hexun.com/post_747_6949388_1_d.html" class="f234">181会计网校零基础课程</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-11 15:27</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949388">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6949352" id="pid_6949352"/> <a href="http://bbs.hexun.com/post_747_6949352_1_d.html" class="f234">181会计网校—财务晋升之路</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25000111/_d.html">x1789187186</a>
+          <p>14-06-11 15:23</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949352">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6949206" id="pid_6949206"/> <a href="http://bbs.hexun.com/post_747_6949206_1_d.html" class="f234">云南最好的公务员培训机构哪家好</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24059363/_d.html">修远教育</a>
+          <p>14-06-11 15:03</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6949206">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6948799" id="pid_6948799"/> <a href="http://bbs.hexun.com/post_747_6948799_1_d.html" class="f234">化妆品观察：零售格局变革倒逼品牌淘汰</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25076631/_d.html">帘卷西风无人</a>
+          <p>14-06-11 13:54</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6948799">127</span></td>
+        <td ><div class="hh"><a href="/u_25076648/_d.html"><font color="gray">古道赛西风</font></a>
+        <p>14-06-11 14:36</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6948908" id="pid_6948908"/> <a href="http://bbs.hexun.com/post_747_6948908_1_d.html" class="f234">企业大学催生企业战略理论体系创新发展</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-11 14:16</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6948908">293</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6948776" id="pid_6948776"/> <a href="http://bbs.hexun.com/post_747_6948776_1_d.html" class="f234">化妆品观察：相宜本草过冬 增长放缓如何调整品牌战略</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25071777/_d.html">小猫爱吃糖</a>
+          <p>14-06-11 13:48</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv6948776">353</span></td>
+        <td ><div class="hh"><a href="/u_25076648/_d.html"><font color="gray">古道赛西风</font></a>
+        <p>14-06-11 14:11</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6930453" id="pid_6930453"/> <a href="http://bbs.hexun.com/post_747_6930453_1_d.html" class="f234">企业进行员工培训有何意义</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-05 13:49</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6930453">127</span></td>
+        <td ><div class="hh"><a href="/u_25076631/_d.html"><font color="gray">帘卷西风无人</font></a>
+        <p>14-06-11 14:06</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6942991" id="pid_6942991"/> <a href="http://bbs.hexun.com/post_747_6942991_1_d.html" class="f234">从行政转做销售，是聪明还是犯傻？</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_14353366/_d.html">rosaly12</a>
+          <p>14-06-09 21:48</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv6942991">200</span></td>
+        <td ><div class="hh"><a href="/u_25076631/_d.html"><font color="gray">帘卷西风无人</font></a>
+        <p>14-06-11 14:04</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6947913" id="pid_6947913"/> <a href="http://bbs.hexun.com/post_747_6947913_1_d.html" class="f234">上海mba 华章老师讲义很靠谱</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22288730/_d.html">hbgkant</a>
+          <p>14-06-11 10:30</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6947913">426</span></td>
+        <td ><div class="hh"><a href="/u_22094899/_d.html"><font color="gray">wgg7421</font></a>
+        <p>14-06-11 10:35</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6947884" id="pid_6947884"/> <a href="http://bbs.hexun.com/post_747_6947884_1_d.html" class="f234">上海mba 华章老师讲义很靠谱</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22097440/_d.html">insegnqq</a>
+          <p>14-06-11 10:26</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6947884">353</span></td>
+        <td ><div class="hh"><a href="/u_20424552/_d.html"><font color="gray">shnyanyai</font></a>
+        <p>14-06-11 10:29</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6947611" id="pid_6947611"/> <a href="http://bbs.hexun.com/post_747_6947611_1_d.html" class="f234">建筑材料家具市场-您身边的建筑师</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22736943/_d.html">mozhuxiwll</a>
+          <p>14-06-11 09:45</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6947611">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6947527" id="pid_6947527"/> <a href="http://bbs.hexun.com/post_747_6947527_1_d.html" class="f234">在南方IT学院完成职业转型</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25054023/_d.html">nfit2014</a>
+          <p>14-06-11 09:34</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6947527">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6947498" id="pid_6947498"/> <a href="http://bbs.hexun.com/post_747_6947498_1_d.html" class="f234">四年寒窗苦读 终情定南方IT学院成功转型</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25054023/_d.html">nfit2014</a>
+          <p>14-06-11 09:29</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6947498">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6938410" id="pid_6938410"/> <a href="http://bbs.hexun.com/post_747_6938410_1_d.html" class="f234">没考上大学读怎样的学校比较好</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25071236/_d.html">万物初醒</a>
+          <p>14-06-08 09:17</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6938410">107</span></td>
+        <td ><div class="hh"><a href="/u_25054023/_d.html"><font color="gray">nfit2014</font></a>
+        <p>14-06-11 09:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6946475" id="pid_6946475"/> <a href="http://bbs.hexun.com/post_747_6946475_1_d.html" class="f234">余额宝提现电话</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25077224/_d.html">lmcaify02</a>
+          <p>14-06-10 18:36</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6946475">180</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6946402" id="pid_6946402"/> <a href="http://bbs.hexun.com/post_747_6946402_1_d.html" class="f234">六月份证券从业考试《证券市场基础知识》经典提分复</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_23794371/_d.html">无间之伤</a>
+          <p>14-06-10 17:59</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6946402">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6946334" id="pid_6946334"/> <a href="http://bbs.hexun.com/post_747_6946334_1_d.html" class="f234">代理卡位竞价系统，向右看，有惊喜~</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24929563/_d.html">糊糊酱</a>
+          <p>14-06-10 17:44</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6946334">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6945842" id="pid_6945842"/> <a href="http://bbs.hexun.com/post_747_6945842_1_d.html" class="f234">汇聚讲师 造企业强大赢利兵团</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-10 16:21</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6945842">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944718" id="pid_6944718"/> <a href="http://bbs.hexun.com/post_747_6944718_1_d.html" class="f234">上海mba 华章考前培训机构</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_19680287/_d.html">今日上映旺映</a>
+          <p>14-06-10 13:18</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6944718">333</span></td>
+        <td ><div class="hh"><a href="/u_20627855/_d.html"><font color="gray">johnmasem</font></a>
+        <p>14-06-10 15:51</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6945554" id="pid_6945554"/> <a href="http://bbs.hexun.com/post_747_6945554_1_d.html" class="f234">哈佛大学现任招生主任现场说法，解读你不知道的名校</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24952545/_d.html">不会唱情歌</a>
+          <p>14-06-10 15:38</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6945554">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944739" id="pid_6944739"/> <a href="http://bbs.hexun.com/post_747_6944739_1_d.html" class="f234">上海mba 华章是你需要的后盾</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22031547/_d.html">wikison</a>
+          <p>14-06-10 13:24</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv6944739">333</span></td>
+        <td ><div class="hh"><a href="/u_25076790/_d.html"><font color="gray">kjdkzzs123</font></a>
+        <p>14-06-10 14:59</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6937911" id="pid_6937911"/> <a href="http://bbs.hexun.com/post_747_6937911_1_d.html" class="f234">跨界 无界——第七届中国化妆品大会寄语</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25071777/_d.html">小猫爱吃糖</a>
+          <p>14-06-07 17:17</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6937911">180</span></td>
+        <td ><div class="hh"><a href="/u_25076631/_d.html"><font color="gray">帘卷西风无人</font></a>
+        <p>14-06-10 14:16</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6944966" id="pid_6944966"/> <a href="http://bbs.hexun.com/post_747_6944966_1_d.html" class="f234">2014年德州市直事业单位招聘考试准考证打印入口</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25049025/_d.html">jopp678</a>
+          <p>14-06-10 14:14</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944966">313</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944920" id="pid_6944920"/> <a href="http://bbs.hexun.com/post_747_6944920_1_d.html" class="f234">红酒网开启移动终端新时代</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22736943/_d.html">mozhuxiwll</a>
+          <p>14-06-10 14:04</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944920">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944859" id="pid_6944859"/> <a href="http://bbs.hexun.com/post_747_6944859_1_d.html" class="f234">云南最好的公务员培训学校</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24059363/_d.html">修远教育</a>
+          <p>14-06-10 13:54</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944859">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6944845" id="pid_6944845"/> <a href="http://bbs.hexun.com/post_747_6944845_1_d.html" class="f234">亿万分红送员工——上海浙商集团 独树一帜</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-10 13:50</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944845">426</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944747" id="pid_6944747"/> <a href="http://bbs.hexun.com/post_747_6944747_1_d.html" class="f234">仿真实验让学生自主动手操作，学习更高效</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25060815/_d.html">桔梗之春</a>
+          <p>14-06-10 13:25</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944747">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6944315" id="pid_6944315"/> <a href="http://bbs.hexun.com/post_747_6944315_1_d.html" class="f234">管理干部培训启示录</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22035537/_d.html">yjhdiao</a>
+          <p>14-06-10 11:15</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6944315">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6943965" id="pid_6943965"/> <a href="http://bbs.hexun.com/post_747_6943965_1_d.html" class="f234">标题：运营，代运营</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22667899/_d.html">mifengwang</a>
+          <p>14-06-10 10:14</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6943965">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6943345" id="pid_6943345"/> <a href="http://bbs.hexun.com/post_747_6943345_1_d.html" class="f234">上海交大mba 华章真是不错的选择</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24052258/_d.html">根据你的</a>
+          <p>14-06-10 07:08</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6943345">293</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6942667" id="pid_6942667"/> <a href="http://bbs.hexun.com/post_747_6942667_1_d.html" class="f234">可爱可亲全国儿童绘画大赛，成就宝贝画家梦</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24952545/_d.html">不会唱情歌</a>
+          <p>14-06-09 18:43</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6942667">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6941974" id="pid_6941974"/> <a href="http://bbs.hexun.com/post_747_6941974_1_d.html" class="f234">181会计网校学习神器， 吃饭时都能学会计</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24990727/_d.html">弄湿比亚</a>
+          <p>14-06-09 15:32</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6941974">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6941971" id="pid_6941971"/> <a href="http://bbs.hexun.com/post_747_6941971_1_d.html" class="f234">181会计网校培新学校——知识改变命运</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_24990727/_d.html">弄湿比亚</a>
+          <p>14-06-09 15:31</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6941971">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6941956" id="pid_6941956"/> <a href="http://bbs.hexun.com/post_747_6941956_1_d.html" class="f234">汇聚，所有民营企业的聚焦</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-09 15:29</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6941956">3</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6941931" id="pid_6941931"/> <a href="http://bbs.hexun.com/post_747_6941931_1_d.html" class="f234">“广州遇上西雅图”美国投资移民沙龙在兴业银行私人</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25023668/_d.html">weiwei3265</a>
+          <p>14-06-09 15:22</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6941931">87</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6941512" id="pid_6941512"/> <a href="http://bbs.hexun.com/post_747_6941512_1_d.html" class="f234">揭秘商业模式 实现企业利润最大化</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25050324/_d.html">中正1920</a>
+          <p>14-06-09 14:20</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6941512">2</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6940485" id="pid_6940485"/> <a href="http://bbs.hexun.com/post_747_6940485_1_d.html" class="f234">太阳眼镜服务客户端展示太阳眼镜行业的最新服务</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22736943/_d.html">mozhuxiwll</a>
+          <p>14-06-09 10:26</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6940485">107</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+    </table>
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth manage" id="tblManage">
+      <tr>
+        <th  height="30" style="text-align:left; padding-left:12px">管理:
+        <input type="checkbox" name="" id="chkAll" onclick="selectAll(this)" />
+          <label for="chkAll" class="f234">全选</label>  
+          <a href="javascript:void(0)" target="_self" onclick="return doDelete()" class="f234">删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return deleteBatch()" class="f234">批量删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return movePost()" class="f234">转移</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return copyPostTo();" class="f234">转帖</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return updateNotice()" class="f234">发表版面公告</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return uploadLogo('/service/boardlogo.aspx?a=setLogo&bid=747')" class="f234">上传版面LOGO</a>  
+          <a class="f234" href="javascript:void(0)" onclick="setMaster()" target="_self">设置版主副</a>  
+          <a href="javascript:void(0)" target="_self" class="f234" onclick="forbidUser(this)">封权</a> 
+          <a href="/rubbish.aspx?bidselectedBoardId=747" class="f234" rel="nofollow">垃圾箱</a>  
+          
+          </th>
+        </tr>
+    </table>
+
+<div class="botmod">
+    <div class="botroad" style="width:383px"><table width="383" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="290"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/board_746_all_1_d.html" target="_top">投资培训</a> &gt; <a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_top">投资培训</a></td>
+    <td><a href="/newpost.aspx?bid=747"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a></td>
+    </tr>
+    </table>
+    </div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/board_747_all_2_d.html" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="http://bbs.hexun.com/board_747_all_21_d.html" target="_self">…</a> <a href="http://bbs.hexun.com/board_747_all_40_d.html" target="_self">40</a> <a href="http://bbs.hexun.com/board_747_all_41_d.html" target="_self">41</a> <a href="http://bbs.hexun.com/board_747_all_42_d.html" target="_self">42</a> <a href="http://bbs.hexun.com/board_747_all_43_d.html" target="_self">43</a> <a href="http://bbs.hexun.com/board_747_all_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>    
+
+</div>
+</div></td>
+  </tr>
+</table>
+</form>
+<script type="text/javascript">
+addLoadEvent(function(){refreshPv(); if(needRefresh)window.intervalHandler = setInterval(reloadBoard,refreshSeconds*1000);});
+</script>
+
+<script src="/s/b/b.js" type="text/javascript"></script>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

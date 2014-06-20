@@ -1,0 +1,435 @@
+http://news.stcn.com/content/2012-10/24/content_7209405.htm
+1402800629.42
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<meta http-equiv="keywords" content="昨日央行逆回购910亿元 力度仍符合市场预期,回购 市场资金 央行 资金面 央票," >
+<META name="filetype" content="0"> 
+<META name="publishedtype" content="1"> 
+<META name="pagetype" content="1">
+<META name="contentid" content="7209405"><META name="author" content="孙玥"> 	
+<META name="publishdate" content="2012-10-24">	 
+<title>昨日央行逆回购910亿元 力度仍符合市场预期_宏观_证券时报网</title>
+<link rel="stylesheet" href="http://www.stcn.com/common28/front-end/style/base.css" >
+<link rel="stylesheet" href="http://www.stcn.com/common28/front-end/style/common.css" >
+<link rel="stylesheet" href="../../../public/11270.files/style/style.css" >
+<link rel="stylesheet" href="../../../public/11270.files/style/stock.css" >
+<script type="text/javascript" src="http://www.stcn.com/common28/front-end/script/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.stcn.com/common28/front-end/script/plugins/plugin1.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/stocksuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/suggestfinance.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/fundsuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="../../../public/11270.files/script/MD5.js" charset="gb2312"></script>
+<script type="text/javascript" src="../../../public/11270.files/script/cookDemo1.js" charset="gb2312"></script>
+
+<script language="javascript" type="text/javascript">
+function AddFavorite() { 
+  var biaoti = document.getElementById("biaoti").value;
+	try { 
+		window.external.addFavorite(document.location.href, biaoti); 
+	} catch (e) { 
+		try { 
+			window.sidebar.addPanel(biaoti, document.location.href, ""); 
+		} catch (e) { 
+			alert("加入收藏失败,请手动添加."); 
+		} 
+	} 
+} 
+
+function copyToClipBoard(){
+	var clipBoardContent="";
+	//clipBoardContent+=document.title;
+	clipBoardContent+="\n";
+	clipBoardContent+=this.location.href; //获取地址
+	window.clipboardData.setData("Text",clipBoardContent);
+	alert("复制成功");
+} 
+
+//分享到空间
+ function postToWb(){
+		var _t = encodeURI(document.title);
+		var _url = encodeURIComponent(document.location);
+		var _appkey = encodeURI("c83358abe6654f379c90581d41ee3628");//你从腾讯获得的appkey
+		var _pic = encodeURI('');//（例如：var _pic='图片url1|图片url2|图片url3....）
+		var _site = '';//你的网站地址
+		var _u = 'http://v.t.qq.com/share/share.php?url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic+'&title='+_t;
+		window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+	}
+
+
+//头部搜索
+	var suggestStock_0;
+	var suggestFund_0;
+	function setText(){	
+		document.getElementById("suggestInput_0").value="新闻内容";
+	}
+	function setRedio(sel){
+		 if(sel=="2"){
+			suggestStock_0 = new Suggest("suggestInput_0", "代码/名称/拼音", stock_suggest, null, StockSuggestConfiguration, toSearch);
+			suggestStock_0.options[12] = false;
+		}else if(sel=="3"){
+		  	suggestFund_0 = new Suggest("suggestInput_0", "代码/名称/拼音", fund_suggest, null, FundSuggestConfiguration, toSearch);
+			suggestFund_0.options[12] = false;
+		}	
+	}	
+
+	function toSearch(){
+			var searchType1 = document.getElementById("typeSelect_0");
+			var value2=document.getElementById('suggestInput_0').value;
+			var sc="sh"
+			if(value2.substring(0,1)=='0' || value2.substring(0,1)=='2' ||value2.substring(0,1)=='3'){
+				sc="sz";
+			}			
+			if(searchType1.value=="3"){
+				if(value2 !="新闻内容" && value2 !=""){
+				var searchURL="http://newsearch.stcn.com/fly/search.jsp?searchText="+value2;
+				searchURL=encodeURI(searchURL)
+				window.open(searchURL);
+				}
+			}else if(searchType1.value =='1' || searchType1.value=='2'){
+				if (value2 != "代码/名称/拼音" && value2 != "") {
+					if(searchType1.value == "1"){
+						var stringUrl = "http://stock.stcn.com/"+sc+"/@CODE@/";
+						window.open(stringUrl.replace("@CODE@", value2));
+					}else if(searchType1.value =="2"){
+						var stringUrl = "http://fund.stcn.com/final/@CODE@/";
+						window.open(stringUrl.replace("@CODE@", value2));
+					}
+		  		}
+			}	
+	}
+	function changeViewInputs(key, index) {
+			switch (key) {
+				case "1":					
+					suggestStock_0 = new Suggest("suggestInput_0", "代码/名称/拼音", stock_suggest, null, StockSuggestConfiguration, toSearch);
+					suggestStock_0.options[12] = false;
+					break;
+				case "2":
+					suggestFund_0 = new Suggest("suggestInput_0", "代码/名称/拼音", fund_suggest, null, FundSuggestConfiguration, toSearch);
+					suggestFund_0.options[12] = false;
+					break;	
+				case "3":
+				    var $s = $('#suggestInput_0').siblings('span');
+				    $s.remove();
+					document.getElementById("suggestInput_0").value="新闻内容";
+					break;					
+			}
+		}
+		
+//头部搜索结束
+
+
+
+//右边爱股者搜索
+function toonclick(){
+	 var suggestStock_1;
+	 suggestStock_1 = new Suggest("secucode", "代码/简称", stock_suggest, null, StockSuggestConfiguration, toSearch1);
+	 suggestStock_1.options[12] = false; 
+}
+
+//document.write(parseInt(10*Math.random())); 　//输出0～10之间的随机整数 
+
+//document.write(Math.floor(Math.random()*10+1)); 　//输出1～10之间的随机整数 
+
+function RndNum(n){ 
+var rnd=""; 
+for(var i=0;i<n;i++) 
+rnd+=Math.floor(Math.random()*10); 
+return rnd; 
+} 
+
+function toSearch1(){
+	var stringUrl ="http://www.stcn.com/common/iframedata/zjlx.htm?yingc_userid=@rnd@&yingc_key=@key@&yingc_seccode=@secucode@"; 
+	var myyear, mymonth, myday;
+	mydate=new Date();
+	myyear = mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	mymonth=parseInt(mydate.getMonth()+1)<10?"0"+(mydate.getMonth()+1):mydate.getMonth()+1;
+	myday=parseInt(mydate.getDate())<10?"0"+(mydate.getDate()):mydate.getDate();
+	var rnd = RndNum(4);
+	var pw = rnd + ":"+year+"-"+ mymonth+"-"+myday;
+	var key="";var secucode="";
+	key = MD5(pw);
+	secucode = document.getElementById('secucode').value;
+	var jspUrl =  " http://task.dynamic.stcn.com/news/usernameLoginCheck.jsp?yingc_userid=@rnd@&yingc_key=@key@&yingc_seccode=@secucode@";
+	if(key !="" && secucode !=""){
+		window.open(stringUrl.replace("@rnd@",rnd).replace("@key@",key).replace("@secucode@",secucode));
+	}
+}
+
+
+
+window.onload = function(){
+	read();
+	toonclick();
+	var oTable = document.getElementsByTagName('table');
+	for(var i = 0; i < oTable.length; i++){
+		var oTr = oTable[i].getElementsByTagName('tr');
+		for(var j = 0; j < oTr.length; j+=2){
+			oTr[j].className = 'even';
+		}
+	}
+}
+
+function read(){
+	var  service;
+	service = window.location.protocol + "//";
+	service = service + window.location.host;
+	var yinti=document.getElementById("yinti").value;
+	read_stockHq_xml(yinti,service);
+}	
+</script>
+</head>
+
+<body>
+<script type="text/javascript" src="../../../public/11270.files/script/stock_v3_091024.js" charset="gb2312"></script>
+<input type="hidden" id="yingc_userid" name="yingc_userid" value="" >
+<input type="hidden" id="yingc_key" name="yingc_key" value="" >
+<input type="hidden" id="yingc_seccode" name="yingc_seccode" value="" >
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+<div class="wrap bc">
+  <div class="header"> ﻿
+   <ul class="mainNav clearfix">
+			<li class="mainNav_firstLi"><a href="http://www.stcn.com/" target="_blank">首页</a></li>
+			<li><a href="../../../" target="_blank">要闻</a></li>
+			<li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
+			<li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
+			<li><a href="http://imbark.stcn.com/" target="_blank">创业板</a></li>
+			<li><a href="http://stock.stcn.com/newstock/" target="_blank">新股</a></li>
+			<li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
+			<li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
+			<li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
+			<li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
+			<li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
+			<li><a href="http://overseas.stcn.com/" target="_blank">环球</a></li>
+			<li><a href="http://bond.stcn.com/" target="_blank">货币</a></li>
+			<li><a href="http://financing.stcn.com/" target="_blank">理财</a></li>
+			<li><a href="http://hk.stcn.com/" target="_blank">港股</a></li>
+			<li><a href="http://stock.stcn.com/gzqh/" target="_blank">期指</a></li>
+			<li><a href="../../../cj/" target="_blank">产经</a></li>
+			<li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
+			<li><a href="http://stock.stcn.com/wq/" target="_blank">维权</a></li>
+			<li><a href="http://t.stcn.com/" target="_blank" >证券微博</a></li>
+			<li><strong class="fwn">移动终端</strong>
+			<div class="downNav hide">
+				<a class="downNav_first" href="http://kuaixun.stcn.com/content/2011-03/07/content_2261450.htm" target="_blank"><span>iPad客户端</span></a><a href="http://kuaixun.stcn.com/content/2010-12/03/content_1732684.htm" target="_blank"><span>Android客户端</span></a><a href="http://kuaixun.stcn.com/content/2011-06/08/content_2819775.htm" target="_blank"><span>iPhone客户端</span></a><a class="downNav_last" href="http://zt.stcn.com/wap-guide/index.html" target="_blank"><span>手机网</span></a>
+			  </div>
+			</li>
+			<li><a href="http://xinpi.stcn.com/" target="_blank" class="highlight">信披平台</a></li>
+			<li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
+	</ul>
+    <div class="logo clearfix">
+        <div class="fl"> <a class="stcnLogo1 fl" href="http://www.stcn.com/" target="_blank">证券时报网</a>
+            <div class="cromb fl">
+              <Font class="">证券时报网 </Font><Font class="">&nbsp;>&nbsp;</Font><a href="../../../node_16165.htm"  target="_blank"  class="">新闻</a><Font class="">&nbsp;>&nbsp;</Font><a href="../../../node_16166.htm"  target="_blank"  class="">宏观</a>
+              >&nbsp;正文 </div>
+        </div>
+        <div class="search fr">
+          <select onchange="changeViewInputs(this.value, 0);" id="typeSelect_0">
+            <option value="1" selected="selected">股票</option>
+            <option value="2">基金</option>
+            <option value="3">新闻</option>
+          </select>
+          <input type="text" class="inpTxt" id="suggestInput_0" onKeyDown="javascript:if(event.keyCode==13){toSearch();}" 
+		  onclick="if(this.value=='新闻内容')this.value=''" value="代码/名称/拼音" >
+          <input class='inpBtn' type='button' value='查询' id='suggestMain_input_submit_0' onclick='toSearch();' >
+          <div style="display: none;">
+            <form id="newssearchform" name="newssearchform" method="get" target="_blank" action="http://newsearch.stcn.com/fly/search.jsp">
+              <input id="searchText" name="searchText" type="hidden" value="" >
+            </form>
+          </div>
+          <script language="javascript" type="text/javascript">
+				changeViewInputs("1", 0);
+			</script>
+        </div>
+    </div>
+  </div>
+  <div class="content clearfix">
+    <div class="main fl">
+      <div class="txt">
+        <!--enpproperty <articleid>7209405</articleid><date>2012-10-24 14:12:14.0</date><author></author><title>昨日央行逆回购910亿元 力度仍符合市场预期</title><keyword>回购 市场资金 央行 资金面 央票</keyword><subtitle></subtitle><introtitle></introtitle><siteid>2</siteid><nodeid>16166</nodeid><nodename>宏观</nodename><nodesearchname></nodesearchname>/enpproperty--><!--enpcontent--><div class="txt_hd"> <h1>昨日央行逆回购910亿元 力度仍符合市场预期</h1> <div class="info">2012-10-24 14:12 来源：北京商报 <span class="FZ"><span class="fl fz">字号：</span><span class="setFZ setFZ12" rel="txt_bd">12</span> <span class="setFZ setFZ14" rel="txt_bd">14</span></span> </div></div><div class="txt_bd lh24 fz14"><!--enpcontent--><p>    面对本周4050亿元的逆回购到期压力，昨日央行逆回购仍保持平量操作，共开展7天期与28天期逆回购共计910亿元，分析人士指出，随着9月外汇占款出现千亿元正增长，平量逆回购仍可维持市场资金平稳。</p>
+<p>    其中，7天期逆回购规模达490亿元，中标利率持平于上周的3.35%；28天期逆回购420亿元，中标利率为3.60%。据统计数据显示，本周逆回购单周到期量创今年新高，达4050亿元，而到期央票仅有190亿元，加上昨日的910亿元逆回购，公开市场仍有2950亿元资金尚待对冲。一位分析人士对此指出， 9月外汇占款再次出现超千亿元正增长，增强了市场的信心，预计四季度仍有望保持这种正增长的趋势。上周以来市场资金面十分宽松，本周巨量逆回购的到期，并不会对宽松的资金面带来实质性冲击，昨日的逆回购力度仍符合市场预期。</p><!--/enpcontent--></div><div id=div_biaoti style="DISPLAY: none"> <input id="biaoti" name="biaoti" type="hidden" value="昨日央行逆回购910亿元 力度仍符合市场预期"></div><div id="div_yinti" style="DISPLAY: none"><input id="yinti" name="yinti" type="hidden" value=""></div>
+<!-- turnPageCode begin -->
+<input type="hidden" name="currPageNo" id="currPageNo" value="1" >
+<input type="hidden" name="totalPageNum" id="totlaPageNum" value="1" >
+<input type="hidden" name="articleUrl" id="articleUrl" value="content_7209405.htm" >
+<!-- turnPageCode end -->
+<!--/enpcontent--><div class="txt_ft pb15 clearfix">
+          <div class="fl"> <a class="a1" href="javascript:window.print();">打印</a> <a class="a2" href="javascript:void(0);" onclick="AddFavorite()">收藏</a> <a class="a3" href="javascript:void(0);" onclick="copyToClipBoard();">转发</a> <a class="a4" href="javascript:void(0);" onclick="javascript:window.close(); return false;">关闭页面</a> </div>
+          <div class="fr" style="width:155px;">
+            <div>
+              <div class="shareto_toolbox" style="overflow:hidden; zoom:1;"> <a href="javascript:void(0)" onclick="postToWb();return false;" class="shareto_button_compact">分享到</a> <span class="shareto_separator">|</span><a class="shareto_button_cystcn"></a> <a class="shareto_button_tstcn"></a> <a class="shareto_button_tqq"></a> <a class="shareto_button_tsina"></a> </div>
+            </div>
+            <script src="http://www.stcn.com/common/js/shareto/sjs/shareto_button.js" type="text/javascript"></script>
+          </div>
+        </div>
+      </div>
+      <div class="relate bort">
+        <h2 class="fz14">相关新闻</h2>
+        <ul class="x_titleList pt10 pb10 lh24 fz14"><li><span class="t"><a href="http://company.stcn.com/content/2012-10/24/content_7209420.htm" target="_blank"   title="粤水电上演股份回购战 大股东PK二股东">粤水电上演股份回购战 大股东PK二股东</a></span><span> 2012-10-24</span></li><li><span class="t"><a href="content_7209057.htm" target="_blank"   title="加拿大央行维持基准利率不变">加拿大央行维持基准利率不变</a></span><span> 2012-10-24</span></li><li><span class="t"><a href="http://overseas.stcn.com/content/2012-10/24/content_7209050.htm" target="_blank"   title="欧洲央行：评级机构对大银行评级过高">欧洲央行：评级机构对大银行评级过高</a></span><span> 2012-10-24</span></li><li><span class="t"><a href="content_7208081.htm" target="_blank"   title="富国银行增加回购２亿股股票">富国银行增加回购２亿股股票</a></span><span> 2012-10-24</span></li><li><span class="t"><a href="http://hk.stcn.com/content/2012-10/24/content_7207540.htm" target="_blank"   title="晨鸣拟回购B股 急涨近两成">晨鸣拟回购B股 急涨近两成</a></span><span> 2012-10-24</span></li> </ul></div>
+      <div class="relate2 pt15 pb15 bort" id="stock_cookes" style="display:none;">
+        <div class="relate2_a fl">
+          <h3 class="fz14">本文涉及个股</h3>
+          <div class="img" id="img"></div>
+        </div>
+        <div class="relate2_b fl" id="zjdp"> </div>
+        <div class="relate2_c" id="zxyb"> </div>
+      </div>
+      <iframe src="http://cy.stcn.com/index.php?mod=stcn_yjgz" width="613px" height="260px" frameborder="0" scrolling="no"></iframe>
+      <div class="other pt15 pb15 bort">
+        <p class="p1 c999">如果您对本网有任何意见或建议，请到交流平台反馈。<a href="http://dty.stcn.com/newsfeedback.do?method=getList" target="_blank">【反馈意见】</a></p>
+        <p class="p2 pt20 lh22 fz14 ti2 c666">证券时报网声明：此消息系转载自本网合作媒体，证券时报网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。文章内容仅供参考，不构成投资建议。投资者据此操作，风险自担。</p>
+      </div>
+    </div>
+    <div class="side fr">
+      <iframe src="http://stock.stcn.com/node_19265.htm" width="300px" height="235px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      <div class="x_tabW tab1 bb10">
+        <div class="x_tabNavW">
+          <ol class="x_tabNav">
+            <li><a class="active" href="#nolink"><span>操盘必读</span></a></li>
+            <li><a href="#nolink"><span>数据大全</span></a></li>
+          </ol>
+        </div>
+        <div class="x_tabBoxW">
+          <div class="x_tabBox">
+            <dl class="clearfix">
+              <dt class="dt1">必读</dt>
+              <dd><a href="http://www.stcn.com/node_2220.htm" target="_blank">财经头条</a></dd>
+              <dd><a href="http://dty.stcn.com/baibaobox/notice.jsp" target="_blank">今日提示</a></dd>
+              <dd><a href="http://dty.stcn.com/baibaobox/issueNewStocke.jsp" target="_blank">新股提示</a></dd>
+              <dd><a href="http://data.stcn.com/fundBondData.shtml" target="_blank">基金发行</a></dd>
+              <dd><a href="http://research.stcn.com/node_1123.htm" target="_blank">券商晨报</a></dd>
+              <dd><a href="http://fin.stcn.com//finance.jsp?isyugao=1" target="_blank">业绩预报</a></dd>
+              <dd><a href="http://data.stcn.com/macroData.shtml" target="_blank">宏观数据</a></dd>
+              <dt class="dt2">公告</dt>
+              <dd><a href="http://xinpi.stcn.com/allabstract/abstractlist_1.shtml" target="_blank">公告摘要</a></dd>
+              <dd><a href="http://xinpi.stcn.com/" target="_blank">紧急公告</a></dd>
+              <dd><a href="http://xinpi.stcn.com/jjzx/otherbulletin1.shtml" target="_blank">基金</a></dd>
+              <dd><a href="http://xinpi.stcn.com/zxshbulletin/bulletinlist_1_1.shtml" target="_blank">沪市</a></dd>
+              <dd><a href="http://xinpi.stcn.com/zxszbulletin/bulletinlist_1_1.shtml" target="_blank">深主板</a></dd>
+              <dd><a href="http://xinpi.stcn.com/zxzxbulletin/bulletinlist_1_1.shtml" target="_blank">中小板</a></dd>
+              <dd><a href="http://chinext.stcn.com/" target="_blank">创 业 板</a></dd>
+              <dt class="dt3">数据</dt>
+              <dd><a href="http://data.stcn.com/fivedataInfo.shtml" target="_blank">每笔成交</a></dd>
+              <dd><a href="http://data.stcn.com/statics/dataBlockTrade.htm" target="_blank">大宗交易</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/guGaiLiftTheBan.jsp" target="_blank">解禁一览</a></dd>
+              <dd><a href="http://zt.stcn.com/rongzrq2010.shtml" target="_blank">融资融券</a></dd>
+              <dd><a href="http://fund.stcn.com/fundnav.shtml" target="_blank">基金净值</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/fundDataSearch.jsp?typeName=1" target="_blank">基金进出</a></dd>
+              <dd><a href="http://info.stcn.com/overseas/moreAHStock.jsp" target="_blank">A-H 比价</a></dd>
+            </dl>
+          </div>
+          <div class="x_tabBox hide">
+            <dl class="read clearfix lh24 pt5 pb5">
+              <dt class="dt4">公司</dt>
+              <dd><a href="http://fin.stcn.com/finance.jsp?PageSize=20&isyugao=0" target="_blank">年报业绩</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/securityInvestment.jsp" target="_blank">交叉持股</a></dd>
+              <dd><a href="http://data.stcn.com/common/data/gsssSubject/payoffForcast_more.html" target="_blank">盈利预测</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/planRefinanceDataSearch.jsp" target="_blank">再融资</a></dd>
+              <dd><a href="http://fin.stcn.com/finance.jsp?isyugao=1" target="_blank">业绩预告</a></dd>
+              <dd><a href="http://fin.stcn.com/finance.jsp?isyugao=2" target="_blank">业绩快告</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/employeeEmolument.jsp" target="_blank">高管薪酬</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/regularProfitSharing.jsp" target="_blank">分红送股</a></dd>
+              <dt class="dt5">股票</dt>
+              <dd><a href="http://dty.stcn.com/tradinginformation/shanghaiexchange.jsp" target="_blank">公开信息</a></dd>
+              <dd><a href="http://zt.stcn.com/rongzrq2010.shtml" target="_blank">融资融券</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/partnerOutperform.jsp" target="_blank">增减持</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/guGaiLiftTheBan.jsp" target="_blank">限售解禁</a></dd>
+              <dd><a href="http://info.stcn.com/datasearch/capitalStructureChange.jsp" target="_blank">股本变动</a></dd>
+              <dd><a href="javascript:void(0);" onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');">低市盈率</a></dd>
+              <dd><a href="javascript:void(0);" onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');">低市净率</a></dd>
+              <dd><a href="http://data.stcn.com/common/data/marketData/zdfRankingMore.html" target="_blank">板块动向</a></dd>
+              <dd><a href="http://data.stcn.com/statics/dataBlockTrade.htm" target="_blank">大宗交易</a></dd>
+              <dd><a href="http://data.stcn.com/common/data/marketData/marketCenterMoreTop.html" target="_blank">异动股</a></dd>
+              <dd><a href="http://data.stcn.com/fivedataInfo.shtml" target="_blank">每笔成交</a></dd>
+              <dd><a href="javascript:void(0);" onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');">股东户数</a></dd>
+              <dt class="dt6">基金</dt>
+              <dd><a href="http://data.stcn.com/fundBondData.shtml" target="_blank">基金分红</a></dd>
+              <dd><a href="http://fund.stcn.com/common/fund/fundRatingFinalPage.html" target="_blank">基金评级</a></dd>
+              <dd><a href="http://data.stcn.com/fundBondData.shtml" target="_blank">基金发行</a></dd>
+              <dd><a href="http://fund.stcn.com/fundnav.shtml">基金净值</a></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+      <iframe src="http://stock.stcn.com/node_19266.htm" width="300px" height="63px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      <iframe src="http://kuaixun.stcn.com/list/kxpage.shtml" width="300px" height="252px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      <iframe src="http://stock.stcn.com/node_19268.htm" width="300px" height="249px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      <iframe src="http://stock.stcn.com/node_19269.htm" width="300px" height="244px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      <div class="bb10">
+        <div class="agz clearfix"> <a target="_blank" href="http://aigu.stcn.com/">爱股者</a>
+            <input type="text" onkeydown="javascript:if(event.keyCode==13){toSearch1();}" name="secucode" id="secucode" class="inpTxt" autocomplete="off" style="color: rgb(153, 153, 153);" >
+            <input type="button" onclick="toSearch1();" id="selButton" value="查询" class="inpBtn" >
+        </div>
+      </div>
+      <iframe src="http://www.stcn.com/common/iframe/newsfinalpageright.html" width="300px" height="259px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+    </div>
+    <div class="content_clear"></div>
+  </div>
+  <div class="footer">
+    <iframe class="block bc" src="http://www.stcn.com/common28/include/footer.html" width="970px" height="160px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+  </div>
+</div>
+<script type="text/javascript">
+$(function(){
+	//alert('hello');
+	$('.tab1').QStab();
+	var $setFZ = $('.setFZ');
+	$setFZ.each(function(){
+		var $fz = parseInt($(this).text());
+		var $txtObj = $(this).attr('rel');
+		$(this).click(function(){
+			var $obj = $('.' + $txtObj);
+			$obj.css('fontSize',$fz);
+		});
+	});
+	
+	var $relate = $('.relate');
+	var $relate_ul = $('.relate').find('ul');
+	if($relate_ul.size() == 0){
+		$relate.hide();
+	};
+
+	
+	var $mainNavLi = $('.mainNav').find('li:has(strong)');
+	var $mainNavStrong = $mainNavLi.find('strong');
+	var $downNav = $mainNavLi.find('.downNav');
+	$mainNavLi.hover(function(){
+		$mainNavStrong.addClass('show_downNav');
+		$downNav.show();
+	}, function(){
+		$mainNavStrong.removeClass('show_downNav');
+		$downNav.hide();
+	});
+});
+</script>
+<!-- tongji文件star -->
+<div style="display:none;">
+  <script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+  <script src='http://w.cnzz.com/c.php?id=30023490' language='JavaScript' charset='gb2312'></script>
+  <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18256358-1']);
+  _gaq.push(['_setDomainName', '.stcn.com']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+<!-- tongji文件end -->
+<div style="display:none">
+  <script type="text/javascript">document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));</script>
+  <script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+</body>
+
+</html>

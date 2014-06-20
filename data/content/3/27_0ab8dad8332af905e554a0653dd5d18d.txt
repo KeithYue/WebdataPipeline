@@ -1,0 +1,475 @@
+http://csr.stcn.com/2013/0417/10824740.shtml
+1402831187.5
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="zh-CN"><!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>China SIF第9期：改进ESG绩效是企业努力方向_图片_社会责任_证券时报网</title>
+<meta name="keywords" content="绩效 方向 企业" />
+<meta name="description" content="China SIF第9期：改进ESG绩效是企业努力方向" />
+	<link rel="stylesheet" type="text/css" href="http://img.stcn.com/templates/stcn/css/cmstop-common.css" />
+	<link rel="stylesheet" type="text/css" href="http://img.stcn.com/templates/stcn/css/cmstop-picture-show.css" />
+	<link rel="stylesheet" href="http://img.stcn.com/js/lib/gallery/black.css" />
+	<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/picture/grouppicture1.6/style.css" />
+	<script src="https://passport.stcn.com/wsLoginAssis.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://img.stcn.com/js/config.js"></script>
+    <script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/jquery.js"></script> 
+    <script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://www.stcn.com/common/mblog/general/2013genzt/script/cy.wb.js"></script>
+<script type="text/javascript">
+   var contentid = '10824740';
+   var topicid = '';
+	
+	var confs = {page:1,pagesize:10,news_time:'2013-04-17',news_id:'10824740',news_source:'cmstop_image'};
+	function listTopics(){
+		confs.page = arguments[1];
+		var opt = {
+			render:'#cy_wb_list',
+			success:function(data){
+				if(data.ret == 0 && data.data.page_arr){
+					$('#cy_wb_list').append($(data.data.page_arr));
+				}
+			}
+		};
+		CY.comment_list(confs.news_source,confs.news_time,confs.news_id,confs.page,confs.pagesize,opt);
+	}
+	$(function(){
+		var $slide_ul = $('.slide-ul');
+		var $slide_li = $slide_ul.find('li');
+		var $num = $slide_li.size();
+		var $s1 = $('.s1');
+		var $s2 = $('.s2');
+		var $tl = $('.tl');
+		var $tr = $('.tr');
+		$slide_ul.css('width', $num*838)
+		$s2.text($num);
+		$tl.bind('click', function(){
+			if(!$slide_ul.is(':animated')){
+				var $s1_txt = $('.s1').text();
+				if($s1_txt == 1){
+					return false;
+				} else {
+					$slide_ul.animate({'margin-left': -($s1_txt-2)*838}, 1000);
+					$s1.text(Number($s1_txt) - 1);
+				}
+			}
+		});
+		$tr.bind('click', function(){
+			if(!$slide_ul.is(':animated')){
+				var $s1_txt = $('.s1').text();
+				var $s2_txt = $('.s2').text();
+				if($s1_txt == $num){
+					return false;
+				} else {
+					$slide_ul.animate({'margin-left': -$s1_txt*838}, 1000);
+					$s1.text(Number($s1_txt) + 1);
+				}
+			}
+		});
+		
+		
+		var url = CY.site_url;
+	CY.set_funcs({
+		login:function(data){
+			$(".leave-login").html('<strong><a href="'+url+'index.php?mod='+data.uid+'" target="_blank">'+data.nickname+'</a></strong>,欢迎发言！').show();
+		},
+		logout:function(data){
+			$(".leave-login").html("<strong><a href='javascript:CY.show_dialog();'>登录</a></strong>（请登录发言，并遵守相关规定）<strong><a href=\""+url+"index.php?mod=member\" target=\"_blank\">注册财苑社区</a></strong>").show();
+		},
+		topic_item:function(data){
+			if(!data) return '';
+			var ahd = '<a href="'+url+'index.php?mod='+data.uid+'" target="_blank">',aft = '</a>',
+				bhd = '<a href="javascript:;" class="a';
+			var html = '<li>'+ ahd + '<img class="cy-tx" src="'+data.face+'"/>' + aft;
+			html += '<div class="cy-from fn-clear"><em class="cy-name fn-left">'+ ahd + data.nickname + aft;
+			html += '</em><span class="cy-time fn-right">' + data.dateline;	
+			html += '</span></div><div class="cy-txt" id="cy_wb_cnt_'+data.tid+'">' + data.content;
+			html += '</div><div class="cy-td">';
+			html += bhd + '1" onclick="CY.click_reply(\'[强]\',\''+data.tid+'\',\'\',this);">顶</a>&nbsp;';
+			html += bhd + '2" onclick="CY.click_reply(\'[弱]\',\''+data.tid+'\',\'\',this);">踩</a>&nbsp;';
+			html += bhd + '3" onclick="CY.click_reply(\'转发讨论\',\''+data.tid+'\',\'\',this);">分享</a>&nbsp;';
+			html += bhd + '4" onclick="CY.dialog_reply(\''+data.tid+'\',\''+data.uid+'\',\''+data.nickname+'\',$(\'#cy_wb_cnt_'+data.tid+'\'))">评论</a></div></li>';
+			return html;
+		}
+	});
+	
+	$('#cy_wb_btn').click(function(){
+		var txtinput = $('#cy_wb_txt'),cnt = txtinput.val(),render = $('#cy_wb_list');
+		if(!cnt || !render.length){
+			alert('发布内容不能为空!');
+			return ;
+		}
+		render.attr('disabled',true);
+		CY.publish({type:'both',content:cnt,news_id:confs.news_id,news_src:confs.news_source},function(data){
+			if(data && data.ret == 0){
+				var htm = CY.handlers.topic_item(data.data);
+				htm && (render.prepend($(htm))),txtinput.val(''),alert('发布成功!');
+			}else{
+				alert('发布失败,请稍后再试!')
+			}
+			render.attr('disabled',false);
+		});
+		setTimeout(function(){
+			render.attr('disabled',false);
+		},2000);
+	});
+	
+	CY.check_login();
+	listTopics('',confs.page,1);
+	});
+</script>
+</head>
+
+<body>
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+    <ul class="mainNav clearfix">
+			<li class="mainNav_firstLi"><a href="http://www.stcn.com/" target="_blank">首页</a></li>
+			<li><a href="http://news.stcn.com/" target="_blank">要闻</a></li>
+			<li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
+			<li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
+			<li><a href="http://imbark.stcn.com/" target="_blank">创业板</a></li>
+			<li><a href="http://stock.stcn.com/newstock/" target="_blank">新股</a></li>
+			<li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
+			<li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
+			<li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
+			<li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
+			<li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
+			<li><a href="http://overseas.stcn.com/" target="_blank">环球</a></li>
+			<li><a href="http://bond.stcn.com/" target="_blank">货币</a></li>
+			<li><a href="http://financing.stcn.com/" target="_blank">理财</a></li>
+			<li><a href="http://hk.stcn.com/" target="_blank">港股</a></li>
+			<li><a href="http://talk.secutimes.com/" target="_blank">访谈</a></li>
+			<li><a href="http://news.stcn.com/cj/" target="_blank">产经</a></li>
+			<li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
+			<li><a href="http://wq.stcn.com/" target="_blank">维权</a></li>
+			<li><a href="http://cy.stcn.com/" target="_blank" >财苑社区</a></li>
+                        <li><a href="http://www.stcn.com/node_21864.htm" target="_blank" >移动终端</a></li>
+			
+			<li><a href="http://xinpi.stcn.com/" target="_blank" class="highlight">信披平台</a></li>
+			<li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
+  </ul><div class="bd">
+	<!-- 组图展示区域 -->
+    <div class="picture-main">
+        <div class="picture-header">
+            <h1 class="h1">China SIF第9期：改进ESG绩效是企业努力方向 <span>
+										来源：中国责任投资论坛					&nbsp;&nbsp;&nbsp;&nbsp;时间：2013-04-17				</span>
+</h1>
+        </div>
+
+        <div id="gallery" class="mod-gallery">
+            <div class="gallery-overlay" data-gallery="overlay"></div>
+            <div class="gallery-content" data-gallery="content" style="visibility:hidden;">
+                <div class="gallery-toolbar">
+                    <span style="float: right">
+
+                    </span>
+                    <span style="float: left">
+                        <a data-gallery="view-origin" href="javascript:void(0);" hideFocus="true" target="_blank" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-origin"></i>查看原图</span><i class="btn-right"></i>
+                        </a>
+                        <a data-gallery="auto-play" href="javascript:void(0);" hideFocus="true" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-slide"></i>幻灯播放</span><i class="btn-right"></i>
+                        </a>
+                        <a data-gallery="auto-stop" href="javascript:void(0);" hideFocus="true" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-stop"></i>手动播放</span><i class="btn-right"></i>
+                        </a>
+                        
+                        <a class="mod-btn" hideFocus="true" onClick="javascript:digg.set(10824740,'supports')"><i class="btn-left"></i><span><i class="btn-icon icon-vote"></i><b id="supports">0</b></span><i class="btn-right"></i></a>
+                    </span>
+                </div>
+                <div class="gallery-photo">
+                    <div class="gallery-photo-items" data-gallery="photo-items"></div>
+                    <div class="gallery-photo-prev" data-gallery="photo-prev">
+                        <a title="点击浏览上一张图片，支持'←'翻页" href="javascript:void(0);" hideFocus="true">上一页</a>
+                    </div>
+                    <div class="gallery-photo-next" data-gallery="photo-next">
+                        <a title="点击浏览下一张图片，支持'→'翻页" href="javascript:void(0);" hideFocus="true">下一页</a>
+                    </div>
+                    <div class="gallery-loading" data-gallery="loading"><span></span></div>
+                    <div class="gallery-end" data-gallery="end">
+                        <a class="end-close" data-gallery="end-close"></a>
+                        <div class="end-intro">
+                            <div class="thumb">
+                                <a href="javascript:void(0);"><img src="http://upload.stcn.com/2013/1018/thumb_120_90_1382071091592.JPG" alt="" width="120" height="90" /></a>
+                            </div>
+                            <div class="texts">
+                                <h4>China SIF第9期：改进ESG绩效是企业努力方向</h4>
+                                <div class="buttons">
+                                    <a class="mod-btn" data-gallery="replay"><i class="btn-left"></i><span><i class="btn-icon icon-replay"></i>重新播放</span><i class="btn-right"></i></a>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <div class="end-related">
+                            <ul class="piclist">
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="画图解盘：大盘将震荡整理 大势方向不会改变" href="http://news.stcn.com/2013/0813/10673910.shtml"><img width="120" height="90" alt="" src="http://img.stcn.com/images/nopic.gif"></a>
+                                    </div>
+                                    <div class="title"><a title="画图解盘：大盘将震荡整理 大势方向不会改变" href="http://news.stcn.com/2013/0813/10673910.shtml">画图解盘：大盘将震荡整理 大势方向不会改</a></div>
+                                </li>
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="六一特辑：企业大佬童年萌照，你能猜出几个？" href="http://news.stcn.com/2013/0531/10516270.shtml"><img width="120" height="90" alt="" src="http://upload.stcn.com/2013/0531/thumb_120_90_1369973184953.jpg"></a>
+                                    </div>
+                                    <div class="title"><a title="六一特辑：企业大佬童年萌照，你能猜出几个？" href="http://news.stcn.com/2013/0531/10516270.shtml">六一特辑：企业大佬童年萌照，你能猜出几个</a></div>
+                                </li>
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="China SIF第4期：国内企业应转变卖方思维" href="http://csr6.stcn.com/2012/0817/10824697.shtml"><img width="120" height="90" alt="" src="http://upload.stcn.com/2013/1018/thumb_120_90_1382068928414.JPG"></a>
+                                    </div>
+                                    <div class="title"><a title="China SIF第4期：国内企业应转变卖方思维" href="http://csr6.stcn.com/2012/0817/10824697.shtml">China SIF第4期：国内企业应转变卖方思维</a></div>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-photo-description">
+                    <p data-gallery="photo-description"></p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="gallery-footer" data-gallery="footer" style="visibility:hidden;">
+                <div class="clearfix">
+                    <div class="gallery-thumb" data-gallery="slider">
+                        <span class="gallery-thumb-prev">
+                            <a href="javascript:void(0);" hideFocus="true" data-slider="items-left"></a>
+                        </span>
+                        <span class="gallery-thumb-next">
+                            <a href="javascript:void(0);" hideFocus="true" data-slider="items-right"></a>
+                        </span>
+                        <div class="gallery-thumbs" data-slider="control">
+                            <div class="gallery-thumb-list">
+                                <ul class="gallery-thumb-items" data-slider="items"></ul>
+                            </div>
+                            <div class="gallery-thumb-bar mod-bar" data-slider="bar">
+                                <span class="bar-left"></span>
+                                <span class="bar-right"></span>
+                                <div class="bar-body">
+                                    <div class="bar-content">
+                                        <a class="bar-btn" href="javascript:void(0);" hideFocus="true" data-slider="btn">
+                                            <b class="bar-btn-left"></b>
+                                            <b class="bar-btn-right"></b>
+                                            <span class="bar-btn-body">
+                                                <span>
+                                                    <b class="bar-btn-content"></b>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- @end 组图展示区域 -->
+
+	<div class="fn-clear">
+<div class="fn-left pic">
+    <h2 class="ui-title1">热点组图推荐
+      <a style="float:right;font-size:14px;" href="http://news.stcn.com/list/picture.shtml" target="_blank">&gt;&gt; 查看更多</a>
+    </h2>
+    <ul class="ui-list-pic-small fn-clear">
+            <li>
+            <a href="http://www.stcn.com/2014/0613/11488203.shtml" target="_blank" title="东莞制造“世界杯”"><img src="http://upload.stcn.com/2014/0613/thumb_166_110_1402627456630.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">东莞制造“世界杯”</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0612/11484840.shtml" target="_blank" title="成都现最牛“钉子户” 堵死一条公路"><img src="http://upload.stcn.com/2014/0612/thumb_166_110_1402539610107.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">成都现最牛“钉子户” 堵死一条公路</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0612/11484780.shtml" target="_blank" title="广州一高校食堂出现自动打饭机"><img src="http://upload.stcn.com/2014/0612/thumb_166_110_1402539060420.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">广州一高校食堂出现自动打饭机</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0611/11482541.shtml" target="_blank" title="被中国土豪买下的海外地标建筑"><img src="http://upload.stcn.com/2014/0611/thumb_166_110_1402469916855.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">被中国土豪买下的海外地标建筑</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0611/11481982.shtml" target="_blank" title="世界最土豪的拉力赛 120辆跑车齐上阵"><img src="http://upload.stcn.com/2014/0611/thumb_166_110_1402456394103.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">世界最土豪的拉力赛 120辆跑车齐上阵</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0609/11475305.shtml" target="_blank" title="广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）"><img src="http://upload.stcn.com/2014/0609/thumb_166_110_1402284081249.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）</span>
+            </a>
+        </li>
+        </ul>
+</div>
+	<div class="fn-right news">
+    <h2 class="ui-title1">组图新闻排行</h2>
+    <ul class="ui-list">
+        <li>
+            <a title="80后女大学生剃度出家引争议" href="http://www.stcn.com/2014/0612/11485737.shtml" target="_blank" >
+                80后女大学生剃度出家引争议                            </a>            
+        </li>
+        <li>
+            <a title="商业传奇No.42 健力宝：“倒下”难再起？" href="http://www.stcn.com/2014/0611/11481526.shtml" target="_blank" >
+                商业传奇No.42 健力宝：“倒下”难再起？                            </a>            
+        </li>
+        <li>
+            <a title="世界最土豪的拉力赛 120辆跑车齐上阵" href="http://www.stcn.com/2014/0611/11481982.shtml" target="_blank" >
+                世界最土豪的拉力赛 120辆跑车齐上阵                            </a>            
+        </li>
+        <li>
+            <a title="广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）" href="http://www.stcn.com/2014/0609/11475305.shtml" target="_blank" >
+                广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）                            </a>            
+        </li>
+        <li>
+            <a title="股市魔咒你信不信？" href="http://www.stcn.com/2014/0613/11487587.shtml" target="_blank" >
+                股市魔咒你信不信？                            </a>            
+        </li>
+        <li>
+            <a title="李克强召集8省长开会" href="http://www.stcn.com/2014/0609/11475293.shtml" target="_blank" >
+                李克强召集8省长开会                            </a>            
+        </li>
+        <li>
+            <a title="成都现最牛“钉子户” 堵死一条公路" href="http://www.stcn.com/2014/0612/11484840.shtml" target="_blank" >
+                成都现最牛“钉子户” 堵死一条公路                            </a>            
+        </li>
+        <li>
+            <a title="记者探访玉林狗肉节" href="http://www.stcn.com/2014/0613/11488352.shtml" target="_blank" >
+                记者探访玉林狗肉节                            </a>            
+        </li>
+    </ul>
+</div>
+	</div>
+	<div class="cy">
+		<div class="ui-title2">
+			<h2>财苑社区</h2>
+		</div>
+		<div class="cy-content">
+			<div class="leave">
+				<div class="leave-login">
+					<strong><a href="">登录</a></strong> (请登录发言，并遵守相关规定) <strong><a href="">注册财苑社区</a></strong>
+				</div>
+				<textarea id="cy_wb_txt"></textarea>
+				<div class="leave-send"><input id="cy_wb_btn" type="button" value="提交评论" /></div>
+			</div>
+			<ul id="cy_wb_list" class="cy-list">
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="ft">
+	<div class="footer">
+	<iframe class="block bc" src="http://www.stcn.com/common28/include/footer.html" width="970px" height="160px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div></div>
+
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/apps/digg.js"></script>
+<script>
+$(function(){
+    digg.get(10824740,'supports');
+    $.getJSON(APP_URL+'?app=system&controller=content&action=stat&jsoncallback=?&contentid='+contentid, function(data){});
+});
+</script>
+<script type="text/javascript" src="http://img.stcn.com/js/lib/cmstop.gallery.js"></script>
+<script type="text/javascript">
+$(function() {
+var photos = [];
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071158419.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071158419.JPG', note: "\u8bbf\u8c08\u73b0\u573a" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071121457.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071121457.JPG', note: "\u8bbf\u8c08\u73b0\u573a" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071158465.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071158465.JPG', note: "\u8bbf\u8c08\u73b0\u573a" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071117495.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071117495.JPG', note: "\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u4e2d\u56fd\u4ee3\u8868\u5218\u840c\u5973\u58eb" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071121750.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071121750.JPG', note: "\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u4e2d\u56fd\u4ee3\u8868\u5218\u840c\u5973\u58eb" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071133104.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071133104.JPG', note: "\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u4e2d\u56fd\u4ee3\u8868\u5218\u840c\u5973\u58eb" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071132298.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071132298.JPG', note: "\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u4e2d\u56fd\u4ee3\u8868\u5218\u840c\u5973\u58eb" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071137743.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071137743.JPG', note: "\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u4e2d\u56fd\u4ee3\u8868\u5218\u840c\u5973\u58eb" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071127602.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071127602.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071128878.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071128878.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071129312.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071129312.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071123526.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071123526.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071138305.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071138305.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071139942.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071139942.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071142838.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071142838.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071144338.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071144338.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071145462.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071145462.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071148116.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071148116.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071150178.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071150178.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071151216.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071151216.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071154311.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071154311.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+photos.push({ big: 'http://upload.stcn.com/2013/1018/1382071155654.JPG', thumb: 'http://upload.stcn.com/2013/1018/thumb_100_75_1382071155654.JPG', note: "ATP\u7684ESG\u90e8\u95e8\u4e3b\u7ba1Ole Buhl" });
+$('#gallery').gallery({
+    photos: photos,
+    maxWidth: 900,
+    minHeight: 520,
+    preload: 1,
+    scrollIntoView: true,
+    hashPageParam: 'g10824740',
+    thumbWidth: 100,
+    thumbHeight: 75
+});
+});
+</script>
+<script type="text/javascript">
+    var commentTpl = '<div class="comment-item">\
+                        <div class="comment-content">\
+                            <p class="cont">{content}</p>\
+                        </div>\
+                     </div>';
+    $(function(){
+        getCommemt(topicid,$('#commentWrapper'),function(json) {
+            $('.comments').html(json.total);
+            if(json.total >0 ) $('.view-comment').show();
+        });
+    });
+    //取评论函数
+    function getCommemt(topicid,wrapper,callback) {
+        if(!topicid) return ;
+        $.getJSON(APP_URL+'?app=comment&controller=review&action=page&pagesize=5&all=1&topicid='+topicid+'&jsoncallback=?', function(json){
+            if(typeof(json) == 'object') {
+                for (var i=0,item;item=json[i++];) {
+                    var html = commentTpl;
+                    for (var key in item) {
+                        html = html.replace(new RegExp('{'+key+'}',"gm"), item[key]);
+                    }
+                    wrapper.append(html);
+                }
+            }
+            // 非评论页不能进行评论操作
+            $('.operate').remove();
+            typeof callback == 'function' && callback(json);
+        });
+    }
+</script>
+<!-- tongji文件star -->
+<div style="display:none;">
+	<script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+	<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18256358-1']);
+  _gaq.push(['_setDomainName', '.stcn.com']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+<!-- tongji文件end -->
+</body>
+</html>

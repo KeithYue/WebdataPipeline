@@ -1,0 +1,2359 @@
+http://blog.jrj.com.cn/#blogtops
+1402798518.76
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> <!--默认ie7=ie8-->
+<meta name="keywords" content="金融界博客,财经博客,机构博客,股票博客,行情博客,投资博客,理财博客,博客,空间，blog,排行榜"/>
+<meta name="description" content="拥有实时的推荐评论股市的博文,股评博客、著名的经济学家,经济证券机构专业人士和散户的交流的重要平台。"/>
+<meta name="author" content="wujf" />
+<meta name="baidu-site-verification" content="v0Wjdh0Swkx8dgjW" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<title>金融界博客-国内最有影响力的财经博客-金融界</title>
+<link rel="stylesheet" href="http://js.jrjimg.cn/js.do?f=/common/reset-min.css" />
+<link href="./blogIndex/css.css" rel="stylesheet" />
+<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/ui/ScrollText-min.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/ui/TabSwitch-min.js"></script>
+<script type="text/javascript" src="./js/index.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/blog/js/top.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+<base target="_blank"/>
+<body style="-webkit-text-size-adjust: none;">
+<div class="top">
+		<div class="topnav">
+            <p class="fl">
+              <a target="_blank" href="http://www.jrj.com.cn/">首页</a>|
+              <a target="_blank" href="http://i.jrj.com.cn/">我的金融界</a>|
+              <a target="_blank" href="http://blog.jrj.com.cn/">博客</a>|
+              <a target="_blank" href="http://bbs.jrj.com.cn/">论坛</a>|
+              <a target="_blank" href="http://istock.jrj.com.cn/">爱股</a>|
+              <a target="_blank" href="http://zhibo.jrj.com.cn">实盘直播</a>|
+              <a target="_blank" href="http://v.jrj.com.cn/">微视频</a>|
+              <a target="_blank" href="http://pic.jrj.com.cn/">图片</a>
+            </p>
+			<p class="fr"><a target="_blank" href="http://www.m.jrj.com.cn" class="arr1">手机金融界</a><a style="cursor:pointer" onClick="javascript:JRJ.bom.setHomePage(window.location)" class="arr2">设为首页</a><a style="cursor:pointer" onClick="javascript:JRJ.bom.addBookmark(window.location,'金融界博客-国内最有影响力的财经博客-金融界')" class="arr3">加入收藏</a></p>
+		</div>
+</div>
+<!--top nav end-->
+<div id="header">
+<!--logo-->
+   <div class="logo jrj-clear">
+       <h2> <a href=""><img src="http://i0.jrjimg.cn/blog/v3/index/logo.gif" /></a></h2>
+	   <div class="ad1">
+<!-- AdSame ShowCode: 金融界网站 / 博客 / 博客通栏1 Begin -->
+<iframe width="730" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=17&op=1" ></iframe>
+<!-- AdSame ShowCode: 金融界网站 / 博客 / 博客通栏1 End -->
+
+	   </div>
+   </div>
+<!--logo end-->
+<div class="nav">
+  <h2><a href="http://blog.jrj.com.cn" target="_self" class="cur">博客首页</a></h2>
+  <h3><span><a href="http://zhibo.jrj.com.cn/">实盘直播</a><i></i></span><span><a href="/gskp.shtml">高手看盘</a><i></i></span><span><a href="/rmbw.shtml">热门博文</a><i></i></span><span><a href="/zxbw.shtml">最新博文</a><i></i></span><span><a href="/stars.html">专家推荐</a><i></i></span><span><a href="/rqph.shtml">人气排行</a><i></i></span><span><a href="/zhuanti.html">博客专题</a><i></i></span><span><a href="/wanboyuan.shtml">万博园</a></span></h3>
+
+</div>
+<!-- Fix Chrome/Safiri A:HOVER Bug -->
+<script>
+(function ($){
+	$('div.nav a').mouseover(function (e){
+		$('div.nav a').removeClass('over');
+		$(this).addClass('over');
+	}).mouseout(function (e){
+		$('div.nav a').removeClass('over');
+	}).click(function (e){
+		$('div.nav a').removeClass('over');
+	});
+})(jQuery)
+</script>
+
+<!--news -->
+   <div class="news jrj-clear">
+      <p class="broadcat">小编播报：<a href="http://blog.jrj.com.cn/xiaobian,13506128a.html"style="color:red" target="_blank">致贵金属博主的一封信<a></p>
+	  <p class="hot"><span>热门博客:
+<a href="/WDB5988">王大彬</a>
+
+<a href="/7536294901">鸿海看市</a>
+
+<a href="/4730061874">不要与趋势作对</a>
+
+<a href="/yzjn">江南农民-专栏</a>
+
+<a href="/2358872843">钱眼论市</a>
+
+<a href="/3927446047">淘金客的博客</a>
+
+<!--热门博客 2014-06-15 09:30:16 --></span></p>	  
+   </div>
+<!--news end-->
+</div>
+<div id="content">
+  <!--row1 -->
+   <div class="blog3-1 jrj-wrap">
+      <div class="col-1">
+	     <div class="md">
+		    <div class="title kind1">
+			   <div class="titlebg jrj-clear"><h4 style="width:160px">今日聚焦</h4> <span id="jrjindex"  style="height:24px;overflow:hidden;width: 200px;float: right"></span></div>			  
+			</div>
+			<div class="content  jrj-f14">
+			    <!--今日焦点 begin -->
+				<div class="focus btbor">
+<p><b>
+<a href="http://blog.jrj.com.cn/2863074982,13905310a.html" target=_blank>
+牛市第一步悄然开启</a>&nbsp;
+ <a href="http://blog.jrj.com.cn/xinlande,13905751a.html" target=_blank>
+乐观看待未来的市场</a>
+</b></p>
+<p>
+<a href="http://blog.jrj.com.cn/8955055840,13906074a.html" target=_blank>
+
+慢牛行情起步的迹象已经越发明显</a>&nbsp;
+ <a href="http://blog.jrj.com.cn/9532035878,13906166a.html" target=_blank>
+
+放量创新高需谨慎对待</a></p>  
+<p>
+<a href="http://blog.jrj.com.cn/2004920933,13905920a.html" target=_blank>
+今天大盘中阳线背后藏的秘密</a>&nbsp;
+   <a href="http://blog.jrj.com.cn/4171430671,13905953a.html" target=_blank>
+下周大盘攻击波谁将是龙头</a></p>
+<p>
+<a href="http://blog.jrj.com.cn/gft2008,13905853a.html" target=_blank>
+有效突破后第一目标位何在</a>&nbsp;
+<a href="http://blog.jrj.com.cn/5003608758,13905197a.html" target=_blank>
+放量向上突破，冲高需防回档 </a>
+</p>
+</div>
+<div class="focus btbor" style="padding-bottom:10px;">
+<b>
+<a href="http://blog.jrj.com.cn/7536294901,13906370a.html" target=_blank>
+
+
+沪港通试点规则出炉</a>&nbsp;
+ <a href="http://blog.jrj.com.cn/3241158016,13905863a.html" target=_blank>
+
+被冷落的3D打印概念</a></b>  
+<p>
+<a href="http://blog.jrj.com.cn/0000977508,13905655a.html" target=_blank>
+小反弹面临七新股挑战</a>&nbsp;
+<a href="http://blog.jrj.com.cn/kotto,13905538a.html" target=_blank>
+A股很可能走出2013年下半年行情</a>
+</p>
+</div>
+				<!--今日焦点 end -->
+				<!--今日聚焦下部文章提取 begin -->
+				
+
+<div class="focus btbor">
+	 <ul class="jrj-l1">
+
+<li><i>鸿海看市</i><a href="http://blog.jrj.com.cn/7536294901,13907725a.html" title="鸿海:周末公告利好股精选?！">鸿海:周末公告利好股精选?！</a></li>
+
+<li><i>不要与趋势</i><a href="http://blog.jrj.com.cn/4730061874,13907655a.html" title="周末重大财经消息汇总">周末重大财经消息汇总</a></li>
+
+<li><i>钱眼论市</i><a href="http://blog.jrj.com.cn/2358872843,13907643a.html" title="能源安全升至国家战略 油改概念再一次迎来爆发">能源安全升至国家战略 油改概念再一次迎来爆</a></li>
+
+<li><i>王大彬</i><a href="http://blog.jrj.com.cn/WDB5988,13907641a.html" title="【王大彬】下周大盘这么走的概率大！">【王大彬】下周大盘这么走的概率大！</a></li>
+
+	</ul>
+</div>
+
+
+<div class="focus">
+	 <ul class="jrj-l1">
+
+<li><i>钱眼论市</i><a href="http://blog.jrj.com.cn/2358872843,13907634a.html" title="揭秘周末最新私募传闻">揭秘周末最新私募传闻</a></li>
+
+<li><i>江南农民-专</i><a href="http://blog.jrj.com.cn/yzjn,13907603a.html" title="关注2100点量能变化">关注2100点量能变化</a></li>
+
+<li><i>鸿海看市</i><a href="http://blog.jrj.com.cn/7536294901,13907590a.html" title="鸿海:新规之下“打新”攻略?！">鸿海:新规之下“打新”攻略?！</a></li>
+
+<li><i>吴东华vip</i><a href="http://blog.jrj.com.cn/wudonghua020,13907290a.html" title="服装高库存是如何产生的？">服装高库存是如何产生的？</a></li>
+
+	</ul>
+</div>
+
+<!--今日聚焦下方 2014-06-15 10:10:04 -->
+				<!--今日聚焦下部文章提取 end -->
+			</div>
+		 </div>
+	  </div>
+	  <div class="col-2">
+	     <div class="md">
+		    <div class="title kind1">
+                <div class="titlebg"><h4>独家博文</h4><span class="more"></span></div>
+            </div>
+            <div class="content">
+                 <div class="img-js">
+	<div class="focusimg">
+		<div id="Big_Pics1" class="bigpic">
+			
+				
+					<div class="dis">
+                        <a href="http://zhibo.jrj.com.cn/1220" target="_blank"><img src="http://img.jrjimg.cn/2014/01/20140128152504204.jpg" border="0" width="290" height="175"  alt="老胡实盘"/> </a>
+					</div>
+				
+					<div class="dis">
+                        <a href="http://blog.jrj.com.cn/5316289337" target="_blank"><img src="http://img.jrjimg.cn/2012/11/20121114151247741.jpg" border="0" width="290" height="175"  alt="北京一休"/> </a>
+					</div>
+				
+					<div class="dis">
+                        <a href="http://blog.jrj.com.cn/0001286284" target="_blank"><img src="http://img.jrjimg.cn/2012/11/20121119143002675.jpg" border="0" width="290" height="175"  alt="开心做股票"/> </a>
+					</div>
+				
+					<div class="dis">
+                        <a href="http://blog.jrj.com.cn/blogAct" target="_blank"><img src="http://img.jrjimg.cn/2013/12/20131231150929386.jpg" border="0" width="290" height="175"  alt="十大博客龙虎榜单"/> </a>
+					</div>
+				
+			
+		</div>
+
+		<div class="btnum">
+			<div id="Pic_Nums1" class="picnums">
+				<p class=" f1 on">
+					1
+				</p>
+				<p>
+					2
+				</p>
+				<p>
+					3
+				</p>
+				<p>
+					4
+				</p>
+			</div>
+		</div>
+		<div class="titlebg"></div>
+		<div id="Titles1" class="titlebox ff">
+			<ul class="dis">
+				<li>
+					<a href="#" target="_blank">abc</a>
+				</li>
+			</ul>
+			<ul class="dis">
+				<li>
+					<a href="#" target="_blank">abc</a>
+				</li>
+			</ul>
+			<ul class="dis">
+				<li>
+					<a href="#" target="_blank">abc</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+                 <ul class="jrj-l1 black">
+                 
+
+	
+	<div class="text-s1">
+        <a href="http://blog.jrj.com.cn/3012593,13907603a.html"><img src="http://i5.jrjimg.cn/201311/12/hp/hp_13842440264071_m.jpg" width="50" height="50" alt="江南农民:"/> </a>
+		<b><a href="http://blog.jrj.com.cn/3012593,13907603a.html" title="关注2100点量能变化" >江南农民:关注2100点量能变化</a></b>
+		<p>
+			文章摘要：在周四的收盘文章中提示大家周线系统显示，大盘还有一.....<a href="http://blog.jrj.com.cn/3012593,13907603a.html">详细</a>
+		</p>
+	</div>
+	
+	<div class="text-s1">
+        <a href="http://blog.jrj.com.cn/1462713,13900750a.html"><img src="http://i5.jrjimg.cn/201209/04/hp/hp_13467472358731_m.png" width="50" height="50" alt="北京一休:"/> </a>
+		<b><a href="http://blog.jrj.com.cn/1462713,13900750a.html" title="被忽略的板块&amp;mdash;&amp;mdash;内蒙古" >北京一休:被忽略的板块&amp;mdas</a></b>
+		<p>
+			昨日市场表现不错，全天窄幅震荡，盘面活跃，量能有所放大，显示.....<a href="http://blog.jrj.com.cn/1462713,13900750a.html">详细</a>
+		</p>
+	</div>
+	
+	<div class="text-s1">
+        <a href="http://blog.jrj.com.cn/819,13845697a.html"><img src="http://i5.jrjimg.cn/200912/03/hp/hp_12598059288101_m.jpg" width="50" height="50" alt="开心做股票:"/> </a>
+		<b><a href="http://blog.jrj.com.cn/819,13845697a.html" title="极佳的入市良机" >开心做股票:极佳的入市良机</a></b>
+		<p>
+			图一：尾号33账户2014年5月底动态权益 图二 图三每到月底，我的.....<a href="http://blog.jrj.com.cn/819,13845697a.html">详细</a>
+		</p>
+	</div>
+	
+
+    
+                 </ul>
+			</div>
+		 </div>
+     </div>
+     <script src="http://js.jrjimg.cn/lib/ui/focuspic-min.js"></script>
+     <script>var focusPic = new FocusPics({bigPicId: "Big_Pics1", numId: "Pic_Nums1", titleId: "Titles1"});
+         focusPic.init(5000);
+     </script>
+	  <div class="col-3">
+	  <!--bloger-->
+	    <div class="md3 b1">
+		  <div class="innerbg">
+		    <div class="contentlf">
+		    	<iframe frameborder="0" src="http://i.jrj.com.cn/app/blog/proxyLogin_tmp.html" style="width:228px;*width:226px;height:151px;*height:155px;"  scrolling="no" marginwidth="0"></iframe>
+				<div class="assistant">
+					  <h5>博客小助手</h5>
+					  <ul class="jrj-blog">
+						 <li><a href="http://blog.jrj.com.cn/xiaobian,6999593a.html">自助推荐申请</a></li>
+						 <li><a href="http://blog.jrj.com.cn/xiaobian,7174545a.html">博客帮助答疑</a></li>
+						 <li><a href="http://blog.jrj.com.cn/xiaobian,7075487a.html">人气优化教程</a></li>
+						 <li><a href="http://blog.jrj.com.cn/xiaobian,7083915a.html">站方联系方式</a></li>	
+					  </ul>
+				</div>
+			  </div>
+			</div>
+        </div>
+	 <!--bloger-->
+	 <!--niu-->
+	    <div class="md mt bgr">
+		    <div class="title kind1">
+			   <div class="titlebg"><h4>找牛人</h4><span class="more"></span></div>			   
+			</div>
+			<div class="content">
+			  <div class="expert">
+			   <dl class="btbor">  <ul class="ul"> 
+			     <dt> <a href="http://blog.jrj.com.cn/5316289337"  >一休</a>       				
+				  <a href="http://blog.jrj.com.cn/davy" target="_blank">大卫</a>
+				    <a href="http://blog.jrj.com.cn/6410256966" target="_blank">连升</a> 
+				 	  <a href="http://blog.jrj.com.cn/yinzhe" target="_blank">隐者</a>  
+	      
+      <a href="http://blog.jrj.com.cn/chuanqi345090540" target="_blank">启航</a>
+	        <a href="http://blog.jrj.com.cn/kotto" target="_blank">股市猎枪</a></dt>
+
+				 <li> 
+<a href="http://blog.jrj.com.cn/zjnx168">狙击牛熊</a>
+				 
+<a href="http://blog.jrj.com.cn/1826321732" target="_blank">王海专</a>
+     	 <a href="http://blog.jrj.com.cn/zuoyangping" target="_blank">左洋平</a>
+	  <a href="http://blog.jrj.com.cn/shijinke">拾金客</a> <a href="http://blog.jrj.com.cn/woonner">梧桐</a>
+					 	  
+      </li>
+                 <li> <a href="http://blog.jrj.com.cn/sxkp">神仙</a>
+	   <a href="http://blog.jrj.com.cn/0001286284" target="_blank">开心</a>   
+       <a href="http://blog.jrj.com.cn/lhsp" target="_blank">老胡</a>
+	   <a href="http://blog.jrj.com.cn/0002893448" target="_blank">炼金师</a>
+		  <a href="http://blog.jrj.com.cn/0793491921"  >金鼎</a> 
+		         <a href="http://blog.jrj.com.cn/yeqiuyu">叶秋雨</a>  </li>
+			  </ul> </dl>
+			   <dl class="btbor">  <ul class="ul"> 
+			     <dt> <a href="http://blog.jrj.com.cn/wbkp" target="_blank">王彬</a>
+				 <a href="http://blog.jrj.com.cn/wwhuahuay" target="_blank">玉名</a>
+				       <a href="http://blog.jrj.com.cn/5624444030" target="_blank">盘古</a>
+					   <a href="http://blog.jrj.com.cn/xwtk" target="_blank">希望</a> 
+				 <a href="http://blog.jrj.com.cn/jys26800" target="_blank">夕阳</a>
+     <a href="http://blog.jrj.com.cn/9010100066">陌上千红</a> 
+	 
+	  
+      </dt>
+			     <li>
+					  	<a href="http://blog.jrj.com.cn/8209431389" target="_blank">叶檀</a>	<a href="http://blog.jrj.com.cn/9434082848">水皮</a> <a href="http://blog.jrj.com.cn/5728703930">花荣</a> 
+<a href="http://blog.jrj.com.cn/0375173966" target="_blank">牛刀</a>	<a href="http://blog.jrj.com.cn/2780901748">沙黾农</a>	 <a href="http://blog.jrj.com.cn/9542698293">江南农民</a>              </li><li><a href="http://blog.jrj.com.cn/7481256113" target="_blank">黑嘴</a>  <a href="http://blog.jrj.com.cn/smxy">smxy</a>    
+<a href="http://blog.jrj.com.cn/0003037004" target="_blank">老刘</a>
+  <a href="http://blog.jrj.com.cn/0003772798">十三狼</a>     <a href="http://blog.jrj.com.cn/9062045342" target="_blank">叶荣添</a>       <a href="http://blog.jrj.com.cn/pihaizhou">皮海洲</a></li> 
+</ul></dl>
+			  </div>
+			</div>
+		</div>
+	 <!--niu end-->	
+	  
+	 </div>
+   </div>
+<!--row1 end-->
+<!--row2 end-->
+<div class="jrj-wrap">
+   <div class="search jrj-clear">
+    <form  name="" class="jrj-fl"><span class="tip">博客搜索：</span><input type="radio" name="stype" value="1" checked="checked"><label for="">博客作者</label><input type="radio" name="stype" value="2"><label for="">博客标题</label><input type="radio" name="stype" value="3"><label for="">博客标签</label><input type="text" class="txt" id="sword" name="sword" /><input type="button" class="searbtn" onclick="return searchSubmit();"/></form> 
+	<p class="jrj-fr">热门搜索： <a href="http://blog.jrj.com.cn/5316289337" style="color:blue" >北京一休</a><a href="http://blog.jrj.com.cn/5728703930">花荣</a><a href="http://blog.jrj.com.cn/8209431389">叶檀</a><a href="http://blog.jrj.com.cn/ghsn">股海锁牛</a></p>
+   </div>
+</div>
+<!--row3-->
+    <div class="blog3-2 jrj-wrap">
+      <div class="col-1">
+	     <div class="md">
+		    <div class="title kind1">
+			   <div class="titlebg"><h4>高手看盘</h4><p class="subtit"><a href="http://blog.jrj.com.cn/0002536234,12797505a.html"style="color:red"></a></p><span class="more"><a href="gskp.shtml"><a href="/gskp.shtml">更多</a></a></span></div>
+			</div>
+			<!--高手看盘 begin -->
+			<div class="content4">
+	<table border="0" class="tb tb1" width="100%">
+		<tr class="tt">
+			<th class="tit">标题</th>
+			<th class="autor">作者</th>
+			<th class="hitcount">点击数</th>
+		</tr>
+						<tr class="odd">
+			<td class="tit">
+				<a href="/2731223349,13907723a.html" title="6月第3周行情视频解读">
+				6月第3周行情视频解读
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/2731223349" title="瑜亮论金">
+				瑜亮论金
+				</a>
+			</td>
+			<td class="hitcount">187</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/9327271394,13907682a.html" title="世界杯魔咒何时吹哨?">
+				世界杯魔咒何时吹哨?
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/9327271394" title="小花狐狸博客">
+				小花狐狸博
+				</a>
+			</td>
+			<td class="hitcount">453</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/8019742585,13907631a.html" title="股市，我“泄露天机”了！">
+				股市，我“泄露天机”了！
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/8019742585" title="金钱的价值">
+				金钱的价值
+				</a>
+			</td>
+			<td class="hitcount">1768</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/zjnx168,13907423a.html" title="狙击牛熊：下周大盘走势路线图">
+				狙击牛熊：下周大盘走势路线图
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/zjnx168" title="zjnx168">
+				zjnx1
+				</a>
+			</td>
+			<td class="hitcount">5673</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/cglaowang,13907396a.html" title="差 距">
+				差 距
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/cglaowang" title="草根老王">
+				草根老王
+				</a>
+			</td>
+			<td class="hitcount">5669</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/2297214349,13907297a.html" title="下周趋势研判以及操作策略">
+				下周趋势研判以及操作策略
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/2297214349" title="独股九剑的博客">
+				独股九剑的
+				</a>
+			</td>
+			<td class="hitcount">5919</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/9905121953,13907193a.html" title="【世洋理财】下周走势提前分析，破位在即！">
+				【世洋理财】下周走势提前分析，破
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/9905121953" title="金银满堂李阳">
+				金银满堂李
+				</a>
+			</td>
+			<td class="hitcount">5875</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/pihaizhou,13907138a.html" title="别把臭烘烘的中国足球踢到A股市场">
+				别把臭烘烘的中国足球踢到A股市场
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/pihaizhou" title="皮海洲">
+				皮海洲
+				</a>
+			</td>
+			<td class="hitcount">5518</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/1537774961,13906951a.html" title="聂玉谈金：6.14(图)周评：反弹可以肆无忌惮？">
+				聂玉谈金：6.14(图)周评：反
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/1537774961" title="nxy1991">
+				nxy19
+				</a>
+			</td>
+			<td class="hitcount">5773</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/zs888999,13906871a.html" title="多重利好力破两“魔咒”(忠言)">
+				多重利好力破两“魔咒”(忠言)
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/zs888999" title="股海蓝精灵">
+				股海蓝精灵
+				</a>
+			</td>
+			<td class="hitcount">5592</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/SMXY,13906723a.html" title="高位题材股的出货特征">
+				高位题材股的出货特征
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/SMXY" title="smxy">
+				smxy
+				</a>
+			</td>
+			<td class="hitcount">5636</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/kaishandaozhang,13906699a.html" title="解析各种挂单形式">
+				解析各种挂单形式
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/kaishandaozhang" title="开山道长">
+				开山道长
+				</a>
+			</td>
+			<td class="hitcount">5912</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/7214358254,13906633a.html" title="打新的传说">
+				打新的传说
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/7214358254" title="股海逐风">
+				股海逐风
+				</a>
+			</td>
+			<td class="hitcount">5574</td>
+		</tr>
+				<tr>
+			<td class="tit">
+				<a href="/zs888999,13906522a.html" title="大黑马的特征">
+				大黑马的特征
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/zs888999" title="股海蓝精灵">
+				股海蓝精灵
+				</a>
+			</td>
+			<td class="hitcount">5895</td>
+		</tr>
+				<tr class="odd">
+			<td class="tit">
+				<a href="/wwhuahuay,13906426a.html" title="5只概念独特的政策受益股">
+				5只概念独特的政策受益股
+				</a>
+			</td>
+			<td class="autor">
+				<a href="/wwhuahuay" title="wwcocoww">
+				wwcoc
+				</a>
+			</td>
+			<td class="hitcount">4906</td>
+		</tr>
+	</table>
+</div>
+
+			<!--高手看盘 end -->
+		 </div>
+	  </div>
+	  <div class="col-2">
+	    <div class="md">
+		    <div class="title kind4">
+			  <div class="titlebg">
+			   <h4>博客财经排行榜</h4><span class="more"><a href="/rqph.shtml">更多</a></span>
+			  </div>
+			</div>
+			<div class="content4">
+			  <div class="rank">
+			  <div class="thead">
+			    <ul>
+			      <li class="tab cur" id="rank_1"><a>博客总人气排行</a></li>
+				  <li class="tab " id="rank_2"><a>博客周人气排行</a></li>
+			    </ul>
+			   </div>
+			   <div class="ranklist"></div>
+				<!--总排行榜begin -->
+				<table border="0" class="tb" width="100%" id="cont_1">
+			    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/0001286284" title="开心做股票">开心做股票</a></td>
+				<td class="jrj-tr">103739220</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/zhongqin" title="张中秦">张中秦</a></td>
+				<td class="jrj-tr">70658500</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/zjnx168" title="zjnx168">zjnx16</a></td>
+				<td class="jrj-tr">43991640</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/zuoyangping" title="左洋平">左洋平</a></td>
+				<td class="jrj-tr">39450840</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/jrzh" title="沧海潜龙">沧海潜龙</a></td>
+				<td class="jrj-tr">36965792</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/5624444030" title="盘古开天1964">盘古开天19</a></td>
+				<td class="jrj-tr">36435660</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/0003925771" title="股海弄潮007">股海弄潮00</a></td>
+				<td class="jrj-tr">33740540</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/shijinke" title="拾金客">拾金客</a></td>
+				<td class="jrj-tr">33672120</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/yinzhe" title="隐者333">隐者333</a></td>
+				<td class="jrj-tr">32800740</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/hzhj" title="后知后觉">后知后觉</a></td>
+				<td class="jrj-tr">31436817</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/zhujianzhong" title="空空道人之坏人也温柔">空空道人之坏</a></td>
+				<td class="jrj-tr">29532200</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/8209431389" title="叶檀的博客">叶檀的博客</a></td>
+				<td class="jrj-tr">29436260</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/0003037004" title="沈阳老刘">沈阳老刘</a></td>
+				<td class="jrj-tr">26717260</td>
+			</tr>
+    		<tr  class="odd">
+			<td class="numlist"></td>
+				<td ><a href="/yuxiuling" title="a于秀玲">a于秀玲</a></td>
+				<td class="jrj-tr">24588340</td>
+			</tr>
+		    <tr>
+			<td class="numlist"></td>
+				<td ><a href="/jiemuzhe" title="NEIMUXIAOXI">NEIMUX</a></td>
+				<td class="jrj-tr">24520120</td>
+			</tr>
+</table>
+				<!--总排行榜end  -->
+				<!--周排行榜begin  -->
+			   	<table border="0" class="tb" width="100%" id="cont_2"  style="display:none;">
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/4804477010" title="达善的博客">达善的博客</a></td>
+		<td class="jrj-tr">1909129</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/0002893448" title="炼金师">炼金师</a></td>
+		<td class="jrj-tr">662459</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/3745394629" title="流浪股神A">流浪股神A</a></td>
+		<td class="jrj-tr">237700</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/3647175159" title="道易简的博客">道易简的博</a></td>
+		<td class="jrj-tr">100679</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/zilangtouzi" title="子浪投资">子浪投资</a></td>
+		<td class="jrj-tr">75158</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/laole" title="老乐说股">老乐说股</a></td>
+		<td class="jrj-tr">67932</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/2440435772" title="梁明启">梁明启</a></td>
+		<td class="jrj-tr">66399</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/7694683793" title="股道faith酬勤">股道faith酬</a></td>
+		<td class="jrj-tr">66279</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/chenggongren" title="操盘盟主">操盘盟主</a></td>
+		<td class="jrj-tr">60848</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/8470913037" title="蔡猷斌VIP">蔡猷斌VIP</a></td>
+		<td class="jrj-tr">59864</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/0938985833" title="王旗斌">王旗斌</a></td>
+		<td class="jrj-tr">58876</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/1460077480" title="海盗捞金">海盗捞金</a></td>
+		<td class="jrj-tr">56258</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/zttjd" title="北方投资99">北方投资99</a></td>
+		<td class="jrj-tr">54304</td>
+	</tr>
+		    
+	<tr  class="odd">
+		<td class="numlist"></td>
+		<td ><a href="/wanlaiqiu" title="晚来秋">晚来秋</a></td>
+		<td class="jrj-tr">52458</td>
+	</tr>
+		    
+	<tr >
+		<td class="numlist"></td>
+		<td ><a href="/8994097059" title="乐嘉庆的blog">乐嘉庆的bl</a></td>
+		<td class="jrj-tr">51754</td>
+	</tr>
+	
+</table>
+<!--首页周排行 2014-06-15 09:30:16 -->
+			   	<!--周排行榜end  -->
+				 </div>
+				 <script type="text/javascript">
+				 var tabParam = {
+				  	menuPre:"rank_",
+				  	conPre:"cont_",
+				  	total : 2,
+				  	onClass:"cur"
+				}
+				var tab = new JRJ.ui.TabSwitch(tabParam);
+				 </script>
+			</div>
+		 </div>
+	  </div>
+	  <div class="col-3">
+	     <div class="md bgr">
+		    <div class="title kind1">
+			   <div class="titlebg"><h4>博客之星</h4></div>
+			</div>
+		   <div class="content">
+				    <!--博客之星 begin -->
+					<style type="text/css">
+<!--
+.STYLE1 {color: #FF0000}
+-->
+</style>
+                       <div class="picbox jrj-clear btbor">
+					   <div class="pic">
+						 <a href="http://blog.jrj.com.cn/9542698293"><img src="http://img.jrjimg.cn/2014/02/20140218132229403.jpg" width="50" height="50" border="0"/></a>
+						 <p><a href="http://blog.jrj.com.cn/9542698293">江南农民</a></p>
+  </div>
+						 <b><a href="http://blog.jrj.com.cn/9542698293">博主：江南农民</a></b>				 
+						 <p>推荐：</span>历经股市20多年风雨，创立独特的投资理念和操作技巧，荣获金融界2013十大名博……<a href="http://blog.jrj.com.cn/9542698293">[点击进入]</a></p>	
+</div>				 
+ 
+					 <div class="picbox jrj-clear btbor">
+					   <div class="pic">
+						 <a href="http://blog.jrj.com.cn/hug050"><img src="http://i5.jrjimg.cn/201212/24/hp/hp_13563384212371_m.jpg" width="50" height="50" border="0"/></a>
+						 <p><a href="http://blog.jrj.com.cn/hug050">虎哥</a></p>
+					   </div>
+						 <b><a href="http://blog.jrj.com.cn/hug050">博主：虎哥</a></b>				 
+						 <p>推荐</span> 金融界50强博主，只喜欢做稳健收益的中线操作，形成了一套自己的操盘策略……<a href="http://blog.jrj.com.cn/hug050">[点击进入]</a></p>					 
+</div>
+<div class="picbox jrj-clear">
+					   <div class="pic">
+					 <a href="http://blog.jrj.com.cn/lidalu"><img src="http://i5.jrjimg.cn/201201/27/hp/hp_13276496449471_m.jpg" width="50" height="50" border="0"/></a>
+						 <p><a href="http://blog.jrj.com.cn/lidalu">鬼门横刀</a></p>
+  </div>
+						 <b><a href="http://blog.jrj.com.cn/lidalu">博主：鬼门横刀</a></b>				 
+						 <p>推荐：</span> 历经牛熊，实践中形成自己独特的投资风格，认为股市就是提款机，拥有一批忠实粉丝……<a href="http://blog.jrj.com.cn/lidalu">[点击进入]</a></p>					 
+				     </div>					  
+
+					<!--博客之星 end -->
+			</div>
+			</div>
+		 </div>
+	  </div>
+
+<!--row3-->
+<!--row4-->
+    <div class="blog2-1 jrj-wrap">
+      <div class="col-1">
+	       <div class="md">
+		    <div class="title kind1">
+			   <div class="titlebg"><h4>最新博文</h4><span class="more"><a href="/zxbw.shtml">更多</a></span></div>
+			</div>
+			<!--最新博文begin  -->
+			
+<div class="content4">
+   <ul class="jrj-l1 blog-list new jrj-clear">
+   	
+      <li><a href="/6787875014" class="jrj-fr">英雄的博客</a><a href="/6787875014,7994755a.html" title="【英雄】2012年7月10日私募内参传闻参考">【英雄】2012年7月10日私募内参传</a></li>
+    
+      <li><a href="/0002536234" class="jrj-fr">风雪夜行人</a><a href="/0002536234,13708406a.html" title="【风雪看盘】个股百家以上跌停奔一时代！">【风雪看盘】个股百家以上跌停奔</a></li>
+    
+      <li><a href="/jzy66550963" class="jrj-fr">jzy6655096</a><a href="/jzy66550963,13708401a.html" title="2000点中国股市的分水岭">2000点中国股市的分水岭</a></li>
+    
+      <li><a href="/4913407792" class="jrj-fr">鸿牛实战</a><a href="/4913407792,13708397a.html" title="开盘击穿2000点！">开盘击穿2000点！</a></li>
+    
+      <li><a href="/7065320296" class="jrj-fr">郭昊论期</a><a href="/7065320296,13708392a.html" title="4月29日主要商品做单盘前观点">4月29日主要商品做单盘前观点</a></li>
+    
+      <li><a href="/ldtj" class="jrj-fr">零点拓金</a><a href="/ldtj,13708383a.html" title="零点拓金：黄金白银大涨大跌前的宁静（4-29早间建议）">零点拓金：黄金白银大涨大跌前的</a></li>
+    
+      <li><a href="/langwu" class="jrj-fr">狼五</a><a href="/langwu,13708364a.html" title="狼五：4月29日商品期货操作计划">狼五：4月29日商品期货操作计划</a></li>
+    
+      <li><a href="/6145668394" class="jrj-fr">股海听峰</a><a href="/6145668394,13708359a.html" title="4月29日盘前必读">4月29日盘前必读</a></li>
+    
+      <li><a href="/2998669609" class="jrj-fr">颜金熙</a><a href="/2998669609,13708358a.html" title="【颜金熙】&amp;mdash;4月29日现货黄金、天通银亚欧盘行情分析">【颜金熙】&amp;mdash;4月29日现货</a></li>
+    
+      <li><a href="/6808335387" class="jrj-fr">伯爵的博客</a><a href="/6808335387,13708345a.html" title="周二直播实时 ：★追杀主力+潜力股挖掘★（原创)">周二直播实时 ：★追杀主力+潜</a></li>
+    
+      <li><a href="/1590108701" class="jrj-fr">邵恩宏</a><a href="/1590108701,13708324a.html" title="2000点关口不适宜抄底">2000点关口不适宜抄底</a></li>
+    
+      <li><a href="/2835074584" class="jrj-fr">达善博客</a><a href="/2835074584,13708327a.html" title="暴风雨过后必出彩虹">暴风雨过后必出彩虹</a></li>
+    
+      <li><a href="/QQ779181770" class="jrj-fr">三水点金</a><a href="/QQ779181770,13708306a.html" title="启点张淼：市场走势谨慎，黄金再临风口">启点张淼：市场走势谨慎，黄金再</a></li>
+    
+      <li><a href="/huangjinwumi" class="jrj-fr">黄金屋谜</a><a href="/huangjinwumi,13708278a.html" title="黄金屋谜：银市震荡整理静候非农佳音">黄金屋谜：银市震荡整理静候非农</a></li>
+    
+      <li><a href="/6121578803" class="jrj-fr">公主霸金</a><a href="/6121578803,13708273a.html" title="黄金胜守：金价回落千三关口后 市场走势谨慎">黄金胜守：金价回落千三关口后 </a></li>
+    
+      <li><a href="/3683271976" class="jrj-fr">孙家千金</a><a href="/3683271976,13708271a.html" title="【孙家千金】4.29早间现货白银布局">【孙家千金】4.29早间现货白银布</a></li>
+    
+      <li><a href="/4135198514" class="jrj-fr">财富总管博</a><a href="/4135198514,13708279a.html" title="好戏才刚刚开始">好戏才刚刚开始</a></li>
+    
+      <li><a href="/liaojin" class="jrj-fr">金地拓荒</a><a href="/liaojin,13708258a.html" title="【金地拓荒】4月29日黄金行情短线精点">【金地拓荒】4月29日黄金行情短线</a></li>
+    
+      <li><a href="/4756462221" class="jrj-fr">李双微</a><a href="/4756462221,13708250a.html" title="此轮下跌政策底在哪？">此轮下跌政策底在哪？</a></li>
+    
+      <li><a href="/2222511859" class="jrj-fr">运命7828</a><a href="/2222511859,13708246a.html" title="今日关注个股">今日关注个股</a></li>
+    
+   </ul>
+</div>
+<!--最新博文 2014-04-29 08:35:06 -->
+			<!--最新博文end  -->
+		 </div>
+	  </div>
+	  <div class="col-2">
+	      <div class="md bgr">
+		    <div class="title kind1">
+			   <div class="titlebg"><h4>新博推荐</h4><span class="more"></span></div>
+			</div>
+			<div class="content">
+			  <div class="newblog">
+			    <!--最新博文begin  -->
+				<style type="text/css">
+<!--
+.STYLE1 {color: #FF0000}
+-->
+</style>
+<div class="picbox jrj-clear btbor">
+					   <div class="pic">
+						 <a href="http://blog.jrj.com.cn/3690061258"><img src="http://i5.jrjimg.cn/201303/07/hp/hp_13626363471751_m.jpg" width="50" height="50" border="0"/></a>
+						 <p><a href="http://blog.jrj.com.cn/3690061258">股狼A组</a></p>
+                        </div>
+						 <b><a href="http://blog.jrj.com.cn/3690061258">博主：股狼A组</a></b>				 
+                         <p>推荐：二十五年的实践教训，让博主掌握了一套股市操作规则，培养了狼一般干净利落的操盘手法……<a href="http://blog.jrj.com.cn/3690061258">[点击进入]</a></p>					 
+</div>
+					  <div class="picbox jrj-clear">
+					   <div class="pic">
+						 <a href="http://blog.jrj.com.cn/0121255084"><img src="http://i5.jrjimg.cn/201302/25/hp/hp_13617791413031_m.jpg" width="50" height="50" border="0"/></a>
+						 <p><a href="http://blog.jrj.com.cn/0121255084">股怪星云</a></p>
+						</div>
+						 <b><a href="http://blog.jrj.com.cn/0121255084">博主：股怪星云</a></b>				 
+						 <p>推荐：在证券市场滚打多年，积累了丰富的炒股经验，擅长数据分析及宏观面选股，愿意与广大网友分享……<a href="http://blog.jrj.com.cn/0121255084">[点击进入]</a></p>					 
+				     </div>
+
+				<!--最新博文end  -->
+				</div>
+			</div>
+		 </div>
+	  </div>
+   </div>
+<!--row4-->
+<!-- ad3-->
+<div class="jrj-wrap">
+  <div class="jrj-ad">
+    <div>
+        <!-- AdSame ShowCode: 金融界网站 / 博客 / 博客通栏2 Begin -->
+        <iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=19&op=1" >
+        </iframe>
+        <!-- AdSame ShowCode: 金融界网站 / 博客 / 博客通栏2 End -->
+    </div>
+  </div>
+</div>
+<!-- ad3 end-->
+<!--row6-->
+    <div class="blog3-3 jrj-wrap">
+      <div class="col-1">
+	     <div class="mod">
+	        <ul class="title kind2">
+			   <li class="first cur" id="typeRank1_1">财经杂谈</li><li id="typeRank1_2">行情</li>
+			</ul>
+			<div class="content2" id="typeRank1C_1">
+			    
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/2998669609" class="jrj-fr">颜金熙</a><a href="/2998669609,13905864a.html" title="【颜金熙】&amp;mdash;6月12日晚间现货黄金、现货白银行情分析">【颜金熙】&amp;mdash;6月12日</a></li>
+
+  <li><a href="/8235566894" class="jrj-fr">股海上的灯</a><a href="/8235566894,13904471a.html" title="回踩半年线后再上攻!">回踩半年线后再上攻!</a></li>
+
+  <li><a href="/8235566894" class="jrj-fr">股海上的灯</a><a href="/8235566894,13903214a.html" title="下午大盘走势分析预测!">下午大盘走势分析预测!</a></li>
+
+  <li><a href="/guhaifubi" class="jrj-fr">股海伏笔vi</a><a href="/guhaifubi,13902786a.html" title="午评：世界杯魔咒不跌反涨的现象说明">午评：世界杯魔咒不跌反涨的</a></li>
+
+  <li><a href="/2998669609" class="jrj-fr">颜金熙</a><a href="/2998669609,13902736a.html" title="【颜金熙】&amp;mdash;世界杯豪华盛宴、中国黄金消费量突破1000吨">【颜金熙】&amp;mdash;世界杯豪</a></li>
+
+  <li><a href="/6886208453" class="jrj-fr">独步k线</a><a href="/6886208453,13901249a.html" title="数据持续转好,个股将反复轮动!">数据持续转好,个股将反复轮</a></li>
+
+  <li><a href="/jzy66550963" class="jrj-fr">jzy6655096</a><a href="/jzy66550963,13900920a.html" title="首度揭秘国际资本暗度陈仓的证据！">首度揭秘国际资本暗度陈仓的</a></li>
+
+  <li><a href="/4913407792" class="jrj-fr">鸿牛实战</a><a href="/4913407792,13900807a.html" title="周末效应决定A股阴阳属性！">周末效应决定A股阴阳属性！</a></li>
+
+  <li><a href="/0002536234" class="jrj-fr">风雪夜行人</a><a href="/0002536234,13900800a.html" title="【风雪看盘】浦发不争气大盘就没戏！">【风雪看盘】浦发不争气大盘</a></li>
+
+  <li><a href="/2998669609" class="jrj-fr">颜金熙</a><a href="/2998669609,13900742a.html" title="【颜金熙】&amp;mdash;6月13日现货黄金、现货白银亚欧盘行情分析">【颜金熙】&amp;mdash;6月13日</a></li>
+  
+</ul>
+<!-- 2014-06-14 08:35:13 -->	
+			   <p class="recommend"><strong>名博推荐：</strong><a href="http://blog.jrj.com.cn/8209431389">叶檀</a>
+<a href="http://blog.jrj.com.cn/4107081741">徐小明</a>
+<a href="http://blog.jrj.com.cn/pihaizhou">皮海洲</a>
+<a href="http://blog.jrj.com.cn/caozhongming">曹中铭</a></p>
+			</div>
+			<div class="content2" style="display: none;" id="typeRank1C_2">
+			    
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13738352a.html" title="淡市合适配对交易-香港经济日报20140505">淡市合适配对交易-香港经济日</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13725892a.html" title="细节上有破绽-東方日報20140505">细节上有破绽-東方日報20140</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13709528a.html" title="今年不是追涨的好时候-香港經濟日報20140428">今年不是追涨的好时候-香港經</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13706140a.html" title="分析华润系股价被「招商局化」的可能性-東方日報20140428">分析华润系股价被「招商局化</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13679936a.html" title="中影独霸局势仍有待打破-香港經濟日報20140422">中影独霸局势仍有待打破-香港</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13678594a.html" title="过往收购纪录正常有助回复市场信心-东方日报20140422">过往收购纪录正常有助回复市</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13647171a.html" title="回复理智后的股价表现才有参考性-香港經濟日報20140414">回复理智后的股价表现才有参</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13641117a.html" title="现实跟理论是两回事-東方日報20140414">现实跟理论是两回事-東方日報</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13587398a.html" title="流動性決定基本面與市場面之間的彈性-香港經濟日報20140331">流動性決定基本面與市場面之</a></li>
+
+  <li><a href="/wangyayuan1217" class="jrj-fr">王雅媛</a><a href="/wangyayuan1217,13573162a.html" title="短期估值未见吸引-東方日報20140331">短期估值未见吸引-東方日報2</a></li>
+  
+</ul>
+<!-- 2014-06-15 10:10:07 -->	
+			   <p class="recommend"><strong>名博推荐：</strong><a href="http://blog.jrj.com.cn/1785841554">邓声兴</a><a href="http://blog.jrj.com.cn/7016964331">张赛娥</a><a href="http://blog.jrj.com.cn/9566270270,6317538a.html">时富金融</a><a href="http://blog.jrj.com.cn/5716329510">日发证券</a></p>
+			</div>
+			<script type="text/javascript">
+			 var tabParam5 = {
+			  	menuPre:"typeRank1_",
+			  	conPre:"typeRank1C_",
+			  	total : 2,
+			  	onClass:"cur"
+			}
+			var tab5 = new JRJ.ui.TabSwitch(tabParam5);
+			</script>
+		 </div>
+	  </div>
+	  <div class="col-2">
+	      <div class="mod">
+	       <ul class="title kind2">
+			   <li class="first cur" id="typeRank2_1">理财消费</li><li id="typeRank2_2">股票</li>
+			</ul>
+			<div class="content2" id="typeRank2C_1">
+			    
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/ldtj" class="jrj-fr">零点拓金</a><a href="/ldtj,13907022a.html" title="零点拓金：黄金白银下周行情分析（6.16-6.20周评）">零点拓金：黄金白银下周行情</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13905918a.html" title="范诺鑫：6.13晚间现货黄金白银操作建议">范诺鑫：6.13晚间现货黄金白</a></li>
+
+  <li><a href="/7065320296" class="jrj-fr">郭昊论期</a><a href="/7065320296,13904779a.html" title="这里主做焦炭橡胶（367）">这里主做焦炭橡胶（367）</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13904684a.html" title="范诺鑫：关注金价是否破败1280">范诺鑫：关注金价是否破败12</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13904448a.html" title="范诺鑫：白银刷新逾三周高位">范诺鑫：白银刷新逾三周高位</a></li>
+
+  <li><a href="/7065320296" class="jrj-fr">郭昊论期</a><a href="/7065320296,13903304a.html" title="这里主做焦炭橡胶（366）">这里主做焦炭橡胶（366）</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13902855a.html" title="范诺鑫：世界杯和伊拉克战火，谁能引领市场前行？">范诺鑫：世界杯和伊拉克战火</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13902647a.html" title="范诺鑫：大阳后天通银回到箱体中轨附近">范诺鑫：大阳后天通银回到箱</a></li>
+
+  <li><a href="/fannuoxin" class="jrj-fr">范诺鑫</a><a href="/fannuoxin,13902530a.html" title="范诺鑫：伊拉克恐怖组织ISIS异军突起，金银受其干扰">范诺鑫：伊拉克恐怖组织ISIS</a></li>
+
+  <li><a href="/3234168766" class="jrj-fr">刘亚伟_18</a><a href="/3234168766,13902466a.html" title="白银短线回调后继续做多">白银短线回调后继续做多</a></li>
+  
+</ul>
+<!-- 2014-06-15 10:10:06 -->
+			   <p class="recommend"><strong>名博推荐：</strong>
+<a href="http://blog.jrj.com.cn/0000845624">沧海潜龙</a>
+<a href="http://blog.jrj.com.cn/6927917985">虎子</a>
+<a href="http://blog.jrj.com.cn/0822125535" >左航</a></p>
+			</div>
+			<div class="content2" style="display: none;" id="typeRank2C_2">
+			    
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/5820338358" class="jrj-fr">笑侃股海1</a><a href="/5820338358,13266732a.html" title="反弹之旅正在行进中">反弹之旅正在行进中</a></li>
+
+  <li><a href="/3790458067" class="jrj-fr">王伟臣的博</a><a href="/3790458067,13266698a.html" title="持股还是持币过春节？">持股还是持币过春节？</a></li>
+
+  <li><a href="/6886208453" class="jrj-fr">独步k线</a><a href="/6886208453,13266638a.html" title="外围暴跌不改A股筑底趋势!">外围暴跌不改A股筑底趋势!</a></li>
+
+  <li><a href="/4730548975" class="jrj-fr">伟哥传奇</a><a href="/4730548975,13263333a.html" title="尾市盘点 资金回流 热点明显">尾市盘点 资金回流 热点明</a></li>
+
+  <li><a href="/9022922067" class="jrj-fr">中和博客</a><a href="/9022922067,13263324a.html" title="春节前大盘还是以震荡上行为主！">春节前大盘还是以震荡上行为</a></li>
+
+  <li><a href="/2714058222" class="jrj-fr">左亮博客</a><a href="/2714058222,13258608a.html" title="短线2050点一线或有一番震荡">短线2050点一线或有一番震荡</a></li>
+
+  <li><a href="/0402420025" class="jrj-fr">强者的博客</a><a href="/0402420025,13258599a.html" title="不炒新经济板块你炒什么呢？">不炒新经济板块你炒什么呢？</a></li>
+
+  <li><a href="/0873474271" class="jrj-fr">姜韧</a><a href="/0873474271,13258556a.html" title="坚定牛市起点持沪深300蓝筹股过春节 ">坚定牛市起点持沪深300蓝筹股</a></li>
+
+  <li><a href="/1417470501" class="jrj-fr">摩尔方德博</a><a href="/1417470501,13258122a.html" title="行情或延续到两会">行情或延续到两会</a></li>
+
+  <li><a href="/6893482666" class="jrj-fr">淘股看盘</a><a href="/6893482666,13257728a.html" title="周四策略 如期反弹了！">周四策略 如期反弹了！</a></li>
+  
+</ul>
+<!-- 2014-06-15 10:10:06 -->
+			   <p class="recommend"><strong>名博推荐：</strong><a href="http://blog.jrj.com.cn/2150283035">江南沙</a>
+</p>
+			</div>
+			<script type="text/javascript">
+			 var tabParam6 = {
+			  	menuPre:"typeRank2_",
+			  	conPre:"typeRank2C_",
+			  	total : 2,
+			  	onClass:"cur"
+			}
+			var tab6 = new JRJ.ui.TabSwitch(tabParam6);
+			</script>
+		 </div>
+	  </div>
+	  <div class="col-3">
+	       <div class="mod">
+	       <ul class="title kind2">
+			   <li class="first cur" id="typeRank3_1">期指期货</li><li id="typeRank3_2">贵金属</li>
+			</ul>
+			<div class="content2" id="typeRank3C_1">
+			   
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/6121578803" class="jrj-fr">公主霸金</a><a href="/6121578803,13907310a.html" title="【黄金胜守】白银周评：日线五连阳过后 多头是反弹还是继续上行？">【黄金胜守】白银周评：日线</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13906344a.html" title="乔振华：午夜小结">乔振华：午夜小结</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13905612a.html" title="乔振华：晚盘展望">乔振华：晚盘展望</a></li>
+
+  <li><a href="/8757832318" class="jrj-fr">梦若神机</a><a href="/8757832318,13904387a.html" title="梦若神机：下周将掀起新一轮暴涨">梦若神机：下周将掀起新一轮</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13902684a.html" title="乔振华：伊拉克冲突促生原油、黄金价格上涨">乔振华：伊拉克冲突促生原油</a></li>
+
+  <li><a href="/6121578803" class="jrj-fr">公主霸金</a><a href="/6121578803,13901634a.html" title="黄金胜守：平静过后终会爆发 后市谨防“灾难性”报复">黄金胜守：平静过后终会爆发</a></li>
+
+  <li><a href="/7065320296" class="jrj-fr">郭昊论期</a><a href="/7065320296,13900765a.html" title="6月13日主要商品做单盘前观点">6月13日主要商品做单盘前观点</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13900460a.html" title="乔振华：午夜小结">乔振华：午夜小结</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13899661a.html" title="乔振华：晚盘展望">乔振华：晚盘展望</a></li>
+
+  <li><a href="/2423800995" class="jrj-fr">silentqiao</a><a href="/2423800995,13897091a.html" title="乔振华：黄金本周波幅空间有限 需小区间操作">乔振华：黄金本周波幅空间有</a></li>
+  
+</ul>
+<!-- 2014-06-15 10:10:09 -->
+			   <p class="recommend"><strong>名博推荐：</strong><a href="http://blog.jrj.com.cn/wanggang4">王刚</a><a href="http://blog.jrj.com.cn/7065320296">郭昊论期</a><a href="http://blog.jrj.com.cn/5056858038">国泰君安</a><a href="http://blog.jrj.com.cn/4855747254">南华期货</a></p>
+			</div>
+			<div class="content2" style="display: none;" id="typeRank3C_2">
+			   
+<ul class="blog-list  jrj-clear jrj-l1">
+
+  <li><a href="/4016360299" class="jrj-fr">杨铂盈</a><a href="/4016360299,13907468a.html" title="　【鼎世鑫诚】杨铂盈：美联储决议重磅来袭，金价何去何从？">　【鼎世鑫诚】杨铂盈：美联</a></li>
+
+  <li><a href="/4016360299" class="jrj-fr">杨铂盈</a><a href="/4016360299,13907386a.html" title="　　【鼎世鑫诚】杨铂盈：6,14现货黄金周评及下周展望">　　【鼎世鑫诚】杨铂盈：6,</a></li>
+
+  <li><a href="/5308793118" class="jrj-fr">张津镭</a><a href="/5308793118,13907361a.html" title="张津镭：现货黄金白银本周周评">张津镭：现货黄金白银本周周</a></li>
+
+  <li><a href="/6121578803" class="jrj-fr">公主霸金</a><a href="/6121578803,13907338a.html" title="黄金胜守周评：美数据不佳及伊拉克乱局 现货金银再创新高">黄金胜守周评：美数据不佳及</a></li>
+
+  <li><a href="/6121578803" class="jrj-fr">公主霸金</a><a href="/6121578803,13907306a.html" title="【黄金胜守】黄金周评：回踩还是继续上涨 下周拭目以待">【黄金胜守】黄金周评：回踩</a></li>
+
+  <li><a href="/liaojin" class="jrj-fr">金地拓荒</a><a href="/liaojin,13907106a.html" title="【金地拓荒】6月第2周《黄金行情短线精点》回放">【金地拓荒】6月第2周《黄金</a></li>
+
+  <li><a href="/liaojin" class="jrj-fr">金地拓荒</a><a href="/liaojin,13907032a.html" title="【金地拓荒】6月第2周《黄金行情短线精点》回放">【金地拓荒】6月第2周《黄金</a></li>
+
+  <li><a href="/xunjinji8" class="jrj-fr">寻金记</a><a href="/xunjinji8,13907025a.html" title="【寻金记贵金属】伊拉克局势强化避险需求 金价一周涨1.7%">【寻金记贵金属】伊拉克局势</a></li>
+
+  <li><a href="/jinyinkuaixun" class="jrj-fr">金银快讯</a><a href="/jinyinkuaixun,13906978a.html" title="金银快讯-曾莫哲：本周金银节节走高，等待下周美联储终结">金银快讯-曾莫哲：本周金银节</a></li>
+
+  <li><a href="/liaojin" class="jrj-fr">金地拓荒</a><a href="/liaojin,13906961a.html" title="【金地拓荒】6月第2周《黄金行情短线精点》回放">【金地拓荒】6月第2周《黄金</a></li>
+  
+</ul>
+<!-- 2014-06-15 10:10:08 -->
+			   <p class="recommend"><strong>名博推荐：</strong><a href="http://blog.jrj.com.cn/liaojin">金地拓荒</a>
+<a href="http://blog.jrj.com.cn/dapengtouzi">梁大鹏</a>
+<a href="http://blog.jrj.com.cn/7035031828">金笔点金</a>
+</p>
+			</div>
+			<script type="text/javascript">
+			 var tabParam7 = {
+			  	menuPre:"typeRank3_",
+			  	conPre:"typeRank3C_",
+			  	total : 2,
+			  	onClass:"cur"
+			}
+			var tab7 = new JRJ.ui.TabSwitch(tabParam7);
+			</script>
+		 </div>
+	  </div>
+   </div>
+<!--row6 end-->
+<!--图片博客-->
+<div class="jrj-wrap">
+    <div class="md">
+		<div class="title kind1">
+		   <div class="titlebg"><h4>图片博客</h4></div>
+		</div>
+		<div class="content  jrj-clear">
+		    <div id="view">    
+	             <a id="view_left" class="roll_pre" href="javascript:void(0);" target="_self">left</a>
+	             <div id="viewCon">
+					  <ul id="viewUL" >
+						<!--图片博客begin  -->
+						<style type="text/css">
+<!--
+.style1 {color: #FF0000}
+-->
+</style>
+									
+
+ <li>
+<a class="box" href="http://pic.jrj.com.cn/yule/13889.html">
+<img src="http://img.jrjimg.cn/2014/05/20140513102932422.jpg" width="160" height="120"/></a>
+	            <p><a href="http://pic.jrj.com.cn/yule/13889.html">曾遭下迷药的女星</a></p>	
+</li>	
+	
+<li>
+<a class="box" href="http://pic.jrj.com.cn/yule/13487.html">
+<img src="http://img.jrjimg.cn/2014/04/20140425112628135.jpg" width="160" height="120"/>
+							</a>
+							<p><a href="http://pic.jrj.com.cn/yule/13487.html">民间高手让你瞠目结舌</a></p>
+</li>
+					
+<li>
+<a class="box" href="http://pic.jrj.com.cn/nvren/13269.html">
+<img src="http://img.jrjimg.cn/2014/04/20140418114551213.jpg" width="160" height="120"/>
+							</a>
+							<p><a href="http://pic.jrj.com.cn/nvren/13269.html" >北师大校花似范冰冰</a></p>
+</li>	
+
+<li>
+<a class="box" href="http://pic.jrj.com.cn/yule/13825.html">
+<img src="http://img.jrjimg.cn/2014/05/20140509113218046.jpg" width="160" height="120"/></a>
+	            <p><a href="http://pic.jrj.com.cn/yule/13825.html">雪姨王琳湿身拍封面照</a></p>	
+</li>
+	
+<li>
+<a class="box" href="http://pic.jrj.com.cn/yule/13024.html">
+<img src="http://img.jrjimg.cn/2014/04/20140410115701471.jpg" width="160" height="120"/>
+							</a>
+							<p><a href="http://pic.jrj.com.cn/yule/13024.html">奇葩民间设计师</a></p>	
+</li>
+		
+<li>	
+<a class="box" href="http://pic.jrj.com.cn/xinwen/13171.html">
+<img src="http://img.jrjimg.cn/2014/04/20140416103857193.jpg" width="160" height="120"/>
+							</a>
+							<p><a href="http://pic.jrj.com.cn/xinwen/13171.html" >说说相亲的那些事</a></p>						
+</li>
+
+
+<li>
+<a class="box" href="http://pic.jrj.com.cn/yule/13707.html">
+<img src="http://img.jrjimg.cn/2014/05/20140506111548903.jpg" width="160" height="120"/>
+							</a>
+							<p><a href="http://pic.jrj.com.cn/yule/13707.html" >《舌尖》女导演美照</a></p>
+</li>
+						<!--图片博客end  -->
+					</ul>
+				</div>
+			 <a id="view_right" class="roll_nex" href="javascript:void(0);" target="_self">right</a>
+			 </div>
+			 <!--滚动代码-->
+		</div>
+	</div>
+</div>
+<!--图片博客 end-->
+<!--row7-->
+<div class="blog3-3 jrj-wrap">
+     <div class="col-1">
+	    <div class="mod">
+	       <div class="title kind3">
+		       <h4>热门点击</h4>
+			   <ul class="tab3">
+				  <li class="cur" id="clickRank_1"><a>24小时</a></li>
+				  <li class="" id="clickRank_2"><a>48小时</a></li>
+				  <li class="" id="clickRank_3"><a>一周</a></li>
+			   </ul>
+			</div>
+			  <div class="content4">
+			    <div class="popular">
+				   <table border="0" width="100%" class="tb tb3" id="clickrankC_1" >
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >点击数</th>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/2358872843,13906652a.html" title="震荡反弹格局不变 下周可掘金三类股的机会">
+			震荡反弹格局不变 下周可掘金三类
+		</a>
+	</td>
+	<td class="hitcount">10618</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/wudonghua020,13907290a.html" title="服装高库存是如何产生的？">
+			服装高库存是如何产生的？
+		</a>
+	</td>
+	<td class="hitcount">8988</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/7536294901,13907590a.html" title="鸿海:新规之下“打新”攻略?！">
+			鸿海:新规之下“打新”攻略?！
+		</a>
+	</td>
+	<td class="hitcount">7173</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/2297214349,13907297a.html" title="下周趋势研判以及操作策略">
+			下周趋势研判以及操作策略
+		</a>
+	</td>
+	<td class="hitcount">5919</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/kaishandaozhang,13906699a.html" title="解析各种挂单形式">
+			解析各种挂单形式
+		</a>
+	</td>
+	<td class="hitcount">5912</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/9905121953,13907193a.html" title="【世洋理财】下周走势提前分析，破位在即！">
+			【世洋理财】下周走势提前分析，破
+		</a>
+	</td>
+	<td class="hitcount">5875</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/1537774961,13906951a.html" title="聂玉谈金：6.14(图)周评：反弹可以肆无忌惮？">
+			聂玉谈金：6.14(图)周评：反
+		</a>
+	</td>
+	<td class="hitcount">5773</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/zjnx168,13907423a.html" title="狙击牛熊：下周大盘走势路线图">
+			狙击牛熊：下周大盘走势路线图
+		</a>
+	</td>
+	<td class="hitcount">5673</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/cglaowang,13907396a.html" title="差 距">
+			差 距
+		</a>
+	</td>
+	<td class="hitcount">5669</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/SMXY,13906723a.html" title="高位题材股的出货特征">
+			高位题材股的出货特征
+		</a>
+	</td>
+	<td class="hitcount">5636</td>
+  </tr>
+</table>	
+		<table border="0" width="100%" class="tb tb3" id="clickrankC_2" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >点击数</th>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/4171430671,13905953a.html" title="下周大盘攻击波谁是龙头">
+			下周大盘攻击波谁是龙头
+		</a>
+	</td>
+	<td class="hitcount">12131</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/WDB5988,13904635a.html" title="【王大彬】一信号暗示下周将有惊天暴涨！">
+			【王大彬】一信号暗示下周将有惊天
+		</a>
+	</td>
+	<td class="hitcount">11555</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/9850394380,13905230a.html" title="“改革 新产业 资本运作”轮回炒作路径曝光！">
+			“改革 新产业 资本运作”轮回炒
+		</a>
+	</td>
+	<td class="hitcount">11430</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/kotto,13906061a.html" title="今年不会跌破1974，更不会跌破1849，年线必收阳">
+			今年不会跌破1974，更不会跌破
+		</a>
+	</td>
+	<td class="hitcount">11259</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/kotto,13903128a.html" title="从深成指看，主升浪明显">
+			从深成指看，主升浪明显
+		</a>
+	</td>
+	<td class="hitcount">11228</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/8398624822,13903496a.html" title="主力攻击权重释三大信号 A股或有惊人大变盘">
+			主力攻击权重释三大信号 A股或有
+		</a>
+	</td>
+	<td class="hitcount">10971</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/0822125535,13906477a.html" title="次新股后半月有望走出一波拉升行情">
+			次新股后半月有望走出一波拉升行情
+		</a>
+	</td>
+	<td class="hitcount">10948</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/8398624822,13905607a.html" title="一大多年难遇现象浮现 主力117亿暗中大扫筹">
+			一大多年难遇现象浮现 主力117
+		</a>
+	</td>
+	<td class="hitcount">10824</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/1053483598,13904817a.html" title="定向降准为何会触动房企心弦？">
+			定向降准为何会触动房企心弦？
+		</a>
+	</td>
+	<td class="hitcount">10808</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/5003608758,13905197a.html" title="放量向上突破，冲高需防回档">
+			放量向上突破，冲高需防回档
+		</a>
+	</td>
+	<td class="hitcount">10805</td>
+  </tr>
+</table>	
+		<table border="0" width="100%" class="tb tb3" id="clickrankC_3" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >点击数</th>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/7131671600,13882311a.html" title="06.10超短直播--小打小闹为主">
+			06.10超短直播--小打小闹为
+		</a>
+	</td>
+	<td class="hitcount">44540</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/7131671600,13894994a.html" title="06.12超短直播--担心反弹过弱后的杀跌">
+			06.12超短直播--担心反弹过
+		</a>
+	</td>
+	<td class="hitcount">39844</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/7131671600,13888922a.html" title="06.11超短直播--反弹还是反转？">
+			06.11超短直播--反弹还是反
+		</a>
+	</td>
+	<td class="hitcount">30538</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/a88b77,13896338a.html" title="赢在中国：金融开放加速，你准备好了吗">
+			赢在中国：金融开放加速，你准备好
+		</a>
+	</td>
+	<td class="hitcount">27509</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/a88b77,13876040a.html" title="赢在中国：内外有别，中国特色">
+			赢在中国：内外有别，中国特色
+		</a>
+	</td>
+	<td class="hitcount">26191</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/a88b77,13882117a.html" title="赢在中国：A股完全是非市场因素控制">
+			赢在中国：A股完全是非市场因素控
+		</a>
+	</td>
+	<td class="hitcount">22845</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/a88b77,13888892a.html" title="赢在中国：央行的信号市场懂">
+			赢在中国：央行的信号市场懂
+		</a>
+	</td>
+	<td class="hitcount">20025</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/a88b77,13900956a.html" title="赢在中国：政策面不允许股市立即回暖">
+			赢在中国：政策面不允许股市立即回
+		</a>
+	</td>
+	<td class="hitcount">19439</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/yzjn,13894502a.html" title="指数有限个股机会呈现">
+			指数有限个股机会呈现
+		</a>
+	</td>
+	<td class="hitcount">12597</td>
+  </tr>
+  <tr>
+	<td class="tit">
+		<a href="http://blog.jrj.com.cn/1594725265,13894611a.html" title="A股为何被MSCI新兴市场指数抛弃？">
+			A股为何被MSCI新兴市场指数抛
+		</a>
+	</td>
+	<td class="hitcount">12176</td>
+  </tr>
+</table>						     
+					<script type="text/javascript">
+					 var tabParam2 = {
+					  	menuPre:"clickRank_",
+					  	conPre:"clickrankC_",
+					  	total : 3,
+					  	onClass:"cur"
+					}
+					var tab2 = new JRJ.ui.TabSwitch(tabParam2);
+					 </script>
+					</div>
+				</div>
+		 </div>
+	  </div>
+	  <div class="col-2">
+	          <div class="mod">
+			   <div class="title kind3">
+				   <h4>热门评论</h4>
+				   <ul class="tab3">
+					  <li class="cur" id="commentRank_1"><a>24小时</a></li>
+					   <li class="" id="commentRank_2"><a>48小时</a></li>
+					  <li class="" id="commentRank_3"><a>一周</a></li>
+				   </ul>
+				</div>
+				  <div class="content4">	
+				   <div class="popular">				     
+					
+<table border="0" width="100%" class="tb tb3" id="commentrankC_1" >
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >评论数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/skyhorsecct,13906564a.html" title="三重复合底渐显 后市高度看量能（ 6月14日周评 ）">三重复合底渐显 后市高度看量能（</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/7214358254,13906633a.html" title="打新的传说">打新的传说</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/2358872843,13906652a.html" title="震荡反弹格局不变 下周可掘金三类股的机会">震荡反弹格局不变 下周可掘金三类</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/xg549238180,13906660a.html" title="半年线是否释放突破信号">半年线是否释放突破信号</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/kaishandaozhang,13906699a.html" title="解析各种挂单形式">解析各种挂单形式</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/SMXY,13906723a.html" title="高位题材股的出货特征">高位题材股的出货特征</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/3966589056,13906740a.html" title="此轮上升结束的时间及空间猜想">此轮上升结束的时间及空间猜想</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/gaorenlunjin,13906778a.html" title="高仁论金：6.16-20金银周评（伊拉克战火或引爆金银三角破位）">高仁论金：6.16-20金银周评（伊拉</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/1807381415,13906802a.html" title="张瑜论金：6.14周评 半路杀出程咬金 空头措手不及">张瑜论金：6.14周评 半路杀出程咬</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/zs888999,13906871a.html" title="多重利好力破两“魔咒”(忠言)">多重利好力破两“魔咒”(忠言)</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+</table>
+<!--1评论排行 2014-06-15 10:10:05 -->
+					
+<table border="0" width="100%" class="tb tb3" id="commentrankC_2" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >评论数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/wushibei,13901956a.html" title="吴仕北：6月13日现货黄金白银早间分析">吴仕北：6月13日现货黄金白银早间分</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/z278435687,13901992a.html" title="飞哥老师:6.13 乌俄硝烟未灭 伊美战火又燃">飞哥老师:6.13 乌俄硝烟未灭 伊</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/sunzhong,13902105a.html" title="调整会持续到何时？">调整会持续到何时？</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/jiujiu868,13902137a.html" title="曹向阳：黄金借势反弹 1277能否顶住">曹向阳：黄金借势反弹 1277能否顶</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/wudonghua020,13902156a.html" title="龙大肉食打造全国品牌需要智取">龙大肉食打造全国品牌需要智取</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/3515980119,13902246a.html" title="曦日：6.13 反弹高位，短线回落，修正开始！">曦日：6.13 反弹高位，短线回落，</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/4089994707,13902293a.html" title="老股民一句忠言......">老股民一句忠言......</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/5980661425,13902321a.html" title="断层量压缩时间周期完成，时间到了。">断层量压缩时间周期完成，时间到了</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/fannuoxin,13902347a.html" title="范诺鑫：亚盘黄金震荡走高至1275，关注1278压力">范诺鑫：亚盘黄金震荡走高至1275，</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/xunjinji8,13902357a.html" title="【寻金记贵金属】6、13金市操盘必读">【寻金记贵金属】6、13金市操盘必读</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+</table>
+<!--2评论排行 2014-06-15 10:10:07 -->
+					
+<table border="0" width="100%" class="tb tb3" id="commentrankC_3" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >评论数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/4730061874,13888497a.html" title="出尔反尔或使大盘反弹终结">出尔反尔或使大盘反弹终结</a></td>
+	<td class="hitcount">2</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/zhongqin,13900712a.html" title="张中秦：熊大和熊二会让中国股民一夜惊醒！">张中秦：熊大和熊二会让中国股民一</a></td>
+	<td class="hitcount">1</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/caozhongming,13882107a.html" title="应禁止问题公司带“病”融资">应禁止问题公司带“病”融资</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/aszt,13899505a.html" title="【爱尚涨停】6月12日沪深涨停榜实战点评">【爱尚涨停】6月12日沪深涨停榜实战</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/zgyxbh,13874878a.html" title="1849点的战略意义何在？">1849点的战略意义何在？</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/9300344558,13874893a.html" title="杀猪一样的节奏，管理层您们是瞎了双眼吗？">杀猪一样的节奏，管理层您们是瞎了</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/7536294901,13874904a.html" title="鸿海:公告大利好8股将出眺?！">鸿海:公告大利好8股将出眺?！</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/0822125535,13874929a.html" title="股市高手操作技巧8招">股市高手操作技巧8招</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/panyirong,13874986a.html" title="下周分析及周一策略">下周分析及周一策略</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/1537774961,13875053a.html" title="聂玉谈金：6.8(图)周评笑看多头如何反扑">聂玉谈金：6.8(图)周评笑看多头</a></td>
+	<td class="hitcount">0</td>
+  </tr>
+  
+</table>
+<!--7评论排行 2014-06-15 10:10:08 -->
+					<script type="text/javascript">
+					 var tabParam3 = {
+					  	menuPre:"commentRank_",
+					  	conPre:"commentrankC_",
+					  	total : 3,
+					  	onClass:"cur"
+					}
+					var tab3 = new JRJ.ui.TabSwitch(tabParam3);
+					 </script>
+					</div>
+				</div>
+		 </div>
+	  </div>
+	  <div class="col-3">
+	       <div class="mod">
+			   <div class="title kind3">
+				   <h4>热门支持</h4>
+				   <ul class="tab3">
+					  <li class="cur" id="upRank_1"><a>24小时</a></li>
+					   <li class="" id="upRank_2"><a>48小时</a></li>
+					  <li class="" id="upRank_3"><a>一周</a></li>
+				   </ul>
+				</div>
+				  <div class="content4">
+				    <div class="popular">					     
+						
+<table border="0" width="100%" class="tb tb3" id="uprankC_1" >
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >支持数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/4311315501,13269452a.html" title="创业板指连续调整     中小市值个股显回调">创业板指连续调整     中小市</a></td>
+	<td class="hitcount">49</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/2818964851,13268611a.html" title="张中秦：大盘二次崩溃很快就会来临！">张中秦：大盘二次崩溃很快就会来临</a></td>
+	<td class="hitcount">47</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/7326575471,13269137a.html" title="人民日报微倡议不靠谱">人民日报微倡议不靠谱</a></td>
+	<td class="hitcount">41</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/9552292040,13268649a.html" title="转复旦大学金融与资本市场研究中心主任 谢百三教授文章-----我对新股改革有意见">转复旦大学金融与资本市场研究中心</a></td>
+	<td class="hitcount">37</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/0056730228,13268622a.html" title="周二早间市场信息">周二早间市场信息</a></td>
+	<td class="hitcount">33</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/SMXY,13268604a.html" title="短线有望探底回升（28日早评)">短线有望探底回升（28日早评)</a></td>
+	<td class="hitcount">25</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/5002392818,13268650a.html" title="1.28大盘直播和操作策略">1.28大盘直播和操作策略</a></td>
+	<td class="hitcount">18</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/8235566894,13268595a.html" title="1月28日《盘中提示点评》">1月28日《盘中提示点评》</a></td>
+	<td class="hitcount">15</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/huangjindang,13268802a.html" title="黄金档：1.28现货黄金白银走势分析">黄金档：1.28现货黄金白银走势分析</a></td>
+	<td class="hitcount">11</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/yinzhe,13268598a.html" title="【早评】这个板块逐渐在成熟！">【早评】这个板块逐渐在成熟！</a></td>
+	<td class="hitcount">9</td>
+  </tr>
+  
+</table>
+<!--1被顶排行 2014-01-28 14:50:12 -->
+
+						
+<table border="0" width="100%" class="tb tb3" id="uprankC_2" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >支持数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/4311315501,13269452a.html" title="创业板指连续调整     中小市值个股显回调">创业板指连续调整     中小市</a></td>
+	<td class="hitcount">49</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/2818964851,13268611a.html" title="张中秦：大盘二次崩溃很快就会来临！">张中秦：大盘二次崩溃很快就会来临</a></td>
+	<td class="hitcount">47</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/7326575471,13269137a.html" title="人民日报微倡议不靠谱">人民日报微倡议不靠谱</a></td>
+	<td class="hitcount">41</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/9552292040,13268649a.html" title="转复旦大学金融与资本市场研究中心主任 谢百三教授文章-----我对新股改革有意见">转复旦大学金融与资本市场研究中心</a></td>
+	<td class="hitcount">37</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/0056730228,13268622a.html" title="周二早间市场信息">周二早间市场信息</a></td>
+	<td class="hitcount">33</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/SMXY,13268604a.html" title="短线有望探底回升（28日早评)">短线有望探底回升（28日早评)</a></td>
+	<td class="hitcount">25</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/5002392818,13268650a.html" title="1.28大盘直播和操作策略">1.28大盘直播和操作策略</a></td>
+	<td class="hitcount">18</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/8235566894,13268595a.html" title="1月28日《盘中提示点评》">1月28日《盘中提示点评》</a></td>
+	<td class="hitcount">15</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/huangjindang,13268802a.html" title="黄金档：1.28现货黄金白银走势分析">黄金档：1.28现货黄金白银走势分析</a></td>
+	<td class="hitcount">11</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/yinzhe,13268598a.html" title="【早评】这个板块逐渐在成熟！">【早评】这个板块逐渐在成熟！</a></td>
+	<td class="hitcount">9</td>
+  </tr>
+  
+</table>
+<!--2被顶排行 2014-01-28 14:50:13 -->
+
+						
+<table border="0" width="100%" class="tb tb3" id="uprankC_3" style="display:none;">
+  <tr class="tt">
+	<th class="tit">标题</th>
+	<th >支持数</th>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/4311315501,13269452a.html" title="创业板指连续调整     中小市值个股显回调">创业板指连续调整     中小市</a></td>
+	<td class="hitcount">49</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/2818964851,13268611a.html" title="张中秦：大盘二次崩溃很快就会来临！">张中秦：大盘二次崩溃很快就会来临</a></td>
+	<td class="hitcount">47</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/7326575471,13269137a.html" title="人民日报微倡议不靠谱">人民日报微倡议不靠谱</a></td>
+	<td class="hitcount">41</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/9552292040,13268649a.html" title="转复旦大学金融与资本市场研究中心主任 谢百三教授文章-----我对新股改革有意见">转复旦大学金融与资本市场研究中心</a></td>
+	<td class="hitcount">37</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/0056730228,13268622a.html" title="周二早间市场信息">周二早间市场信息</a></td>
+	<td class="hitcount">33</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/SMXY,13268604a.html" title="短线有望探底回升（28日早评)">短线有望探底回升（28日早评)</a></td>
+	<td class="hitcount">25</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/5002392818,13268650a.html" title="1.28大盘直播和操作策略">1.28大盘直播和操作策略</a></td>
+	<td class="hitcount">18</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/8235566894,13268595a.html" title="1月28日《盘中提示点评》">1月28日《盘中提示点评》</a></td>
+	<td class="hitcount">15</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/huangjindang,13268802a.html" title="黄金档：1.28现货黄金白银走势分析">黄金档：1.28现货黄金白银走势分析</a></td>
+	<td class="hitcount">11</td>
+  </tr>
+  
+  <tr>
+	<td class="tit"><a href="http://blog.jrj.com.cn/yinzhe,13268598a.html" title="【早评】这个板块逐渐在成熟！">【早评】这个板块逐渐在成熟！</a></td>
+	<td class="hitcount">9</td>
+  </tr>
+  
+</table>
+<!--7被顶排行 2014-01-28 14:50:13 -->
+
+						<script type="text/javascript">
+						 var tabParam4 = {
+						  	menuPre:"upRank_",
+						  	conPre:"uprankC_",
+						  	total : 3,
+						  	onClass:"cur"
+						}
+						var tab4 = new JRJ.ui.TabSwitch(tabParam4);
+						 </script>
+						</div>
+				</div>
+		 </div>
+	  </div>
+</div>
+<!--row7 end-->
+<!--万博园-->
+<div class="jrj-wrap">
+     <div class="md">
+		<div class="title kind1">
+		   <div class="titlebg"><h4>万博园</h4><p class="subtit"><strong><a href="#blogTopA" target="_self">A</a><a href="#blogTopB" target="_self">B</a><a href="#blogTopC" target="_self">C</a><a href="#blogTopD" target="_self">D</a><a href="#blogTopE" target="_self">E</a><a href="#blogTopF" target="_self">F</a><a href="#blogTopG" target="_self">G</a><a href="#blogTopH" target="_self">H</a><a href="#blogTopI" target="_self">I</a><a href="#blogTopJ" target="_self">J</a><a href="#blogTopK" target="_self">K</a><a href="#blogTopL" target="_self">L</a><a href="#blogTopM" target="_self">M</a><a href="#blogTopN" target="_self">N</a><a href="#blogTopO" target="_self">O</a><a href="#blogTopP" target="_self">P</a><a href="#blogTopQ" target="_self">Q</a><a href="#blogTopR" target="_self">R</a><a href="#blogTopS" target="_self">S</a><a href="#blogTopT" target="_self">T</a><a href="#blogTopU" target="_self">U</a><a href="#blogTopV" target="_self">V</a><a href="#blogTopW" target="_self">W</a><a href="#blogTopX" target="_self">X</a><a href="#blogTopY" target="_self">Y</a><a href="#blogTopZ" target="_self">Z</a></strong></p><span class="more"><i  class="new_uptate">刚刚更新</i><i  class="day_update">24小时内有更新</i></span></div>
+		</div>
+		<div class="content3">
+		   <dl class="list jrj-clear">
+   <dt><a name="blogTopA" id="blogTopA">A</a><a name="blogTopB" id="blogTopB">B</a><a name="blogTopC" id="blogTopC">C</a></dt>
+      <dd><a href="/5087231048" class="">阿枫看盘</a>|</dd>
+   <dd><a href="/0056968363" class="">ailong9999</a>|</dd>
+   <dd><a href="/0785828577" class="">阿小黄</a>|</dd>
+   <dd><a href="/4730061874" class="rnew_uptate">不要与趋势作对</a>|</dd>
+   <dd><a href="/1053483598" class="">不执着财经博客</a>|</dd>
+   <dd><a href="/zgyxbh" class="">白桦k线</a>|</dd>
+   <dd><a href="/5316289337" class="">北京一休</a>|</dd>
+   <dd><a href="/1826321732" class="">八大先生</a>|</dd>
+   <dd><a href="/cglaowang" class="rday_update">草根老王</a>|</dd>
+   <dd><a href="/0183545300" class="">CCTV许一力</a>|</dd>
+   <dd><a href="/caozhongming" class="">曹中铭</a>|</dd>
+   <dd><a href="/1604303065" class="">超凡点金</a>|</dd>
+   <dd><a href="/0000594770" class="">春意萌生</a>|</dd>
+   <dd><a href="/6598055633" class="">chengzhigang123</a>|</dd>
+   <dd><a href="/7131671600" class="">超短实盘</a>|</dd>
+   <dd><a href="/2240791210" class="">cfq2020</a>|</dd>
+   <dd><a href="/4947756426" class="">憧憬6124</a>|</dd>
+   <dd><a href="/jrzh" class="">沧海潜龙</a>|</dd>
+   <dd><a href="/7010865863" class="">曹建平98</a>|</dd>
+   <dd><a href="/6331107859" class="">财经评论员杜斌</a>|</dd>
+   <dd><a href="/8099837299" class="">崔红伟</a>|</dd>
+   <dd><a href="/905243586" class="">陈本旭</a>|</dd>
+   <dd><a href="/4115742649" class="">查尔斯王</a>|</dd>
+   <dd><a href="/3760645688" class="">陈磊仙</a>|</dd>
+   <dd><a href="/6198504880" class="">陈宗宝博客</a>|</dd>
+   <dd><a href="/3671470262" class="">曹凤岐的博客</a></dd>
+</dl>
+ <dl class="list jrj-clear odd">
+   <dt><a name="blogTopD" id="blogTopD">D</a><a name="blogTopE" id="blogTopE">E</a><a name="blogTopF" id="blogTopF">F</a><a name="blogTopG" id="blogTopG">G</a></dt>
+   <dd><a href="/2297214349" class="rday_update">独股九剑的博客</a>|</dd>
+   <dd><a href="/8827465171" class="">东呈团队</a>|</dd>
+   <dd><a href="/4038171030" class="">东方经济评论</a>|</dd>
+   <dd><a href="/7350116312" class="">东方论金</a>|</dd>
+   <dd><a href="/davy" class="">大卫davy</a>|</dd>
+   <dd><a href="/0567894512" class="">但斌的博客</a>|</dd>
+   <dd><a href="/6656698275" class="">德盛战舰</a>|</dd>
+   <dd><a href="/5330451296" class="">freeuser0110</a>|</dd>
+   <dd><a href="/fcj136142272" class="">冯城杰</a>|</dd>
+   <dd><a href="/1994495093" class="">冯小山</a>|</dd>
+   <dd><a href="/5003600048" class="">fangling881</a>|</dd>
+   <dd><a href="/3267201471" class="">飞扬理财</a>|</dd>
+   <dd><a href="/zs888999" class="rday_update">股海蓝精灵</a>|</dd>
+   <dd><a href="/7214358254" class="rday_update">股海逐风</a>|</dd>
+   <dd><a href="/kotto" class="">股市猎枪</a>|</dd>
+   <dd><a href="/9918495650" class="">股海直通车</a>|</dd>
+   <dd><a href="/guoshizhongvip" class="">郭世忠VIP</a>|</dd>
+   <dd><a href="/3513367797" class="">股海上的灯塔</a>|</dd>
+   <dd><a href="/3235523642" class="">股民老张v</a>|</dd>
+   <dd><a href="/1594725265" class="">郭施亮</a>|</dd>
+   <dd><a href="/guiguzi168" class="">鬼谷子论市</a>|</dd>
+   <dd><a href="/9298176222" class="">股海巨焦</a>|</dd>
+   <dd><a href="/0003925771" class="">股海弄潮007</a>|</dd>
+   <dd><a href="/8439604484" class="">股海王道</a>|</dd>
+   <dd><a href="/guguaixingyun" class="">股怪星云</a>|</dd>
+   <dd><a href="/guying" class="">股婴</a>|</dd>
+   <dd><a href="/lidalu" class="">鬼门横刀</a>|</dd>
+   <dd><a href="/9637045893" class="">股民-老杜</a>|</dd>
+   <dd><a href="/8782282831" class="">股海牛哥</a>|</dd>
+   <dd><a href="/3690061258" class="">股狼A组</a>|</dd>
+   <dd><a href="/6640474085" class="">股帆花修</a></dd>
+  </dl>
+ <dl class="list jrj-clear">
+   <dt><a name="blogTopH" id="blogTopH">H</a><a name="blogTopI" id="blogTopI">I</a><a name="blogTopJ" id="blogTopJ">J</a><a name="blogTopK" id="blogTopK">K</a></dt>
+   <dd><a href="/heizui" class="">黑嘴antai</a>|</dd>
+   <dd><a href="/linzhihe" class="">hyttlgxfc</a>|</dd>
+   <dd><a href="/wanggang4" class="">宏源王刚</a>|</dd>
+   <dd><a href="/huangjindang" class="">黃金檔</a>|</dd>
+   <dd><a href="/qq2322174466" class="">黄氏讲金</a>|</dd>
+   <dd><a href="/9112202882" class="">皓月点金</a>|</dd>
+   <dd><a href="/hejinzi" class="">何金子</a>|</dd>
+   <dd><a href="/4674522564" class="">胡任标</a>|</dd>
+   <dd><a href="/hug050" class="">虎哥hug050</a>|</dd>
+   <dd><a href="/haolei060701" class="">郝磊博客</a>|</dd>
+   <dd><a href="/6097279615" class="">珲玉炜业博客</a>|</dd>
+   <dd><a href="/5728703930" class="">花狐狸的博客</a>|</dd>
+   <dd><a href="/huidefeng" class="">蕙的风老师</a>|</dd>
+   <dd><a href="/shenyi" class="">ihebe</a>|</dd>
+   <dd><a href="/8019742585" class="rnew_uptate">金钱的价值</a>|</dd>
+   <dd><a href="/yzjn" class="rday_update">江南农民-专栏</a>|</dd>
+   <dd><a href="/9905121953" class="rday_update">金银满堂李阳</a>|</dd>
+   <dd><a href="/9850394380" class="">蒋勋论股</a>|</dd>
+   <dd><a href="/0793491921" class="">金鼎股战场</a>|</dd>
+   <dd><a href="/1835107617" class="">金生昨日</a>|</dd>
+   <dd><a href="/7970855199" class="">金先生WX</a>|</dd>
+   <dd><a href="/0002481543" class="">金印组合</a>|</dd>
+   <dd><a href="/8960793983" class="">金融学家_宏皓</a>|</dd>
+   <dd><a href="/a1429542007" class="">金夏之依12</a>|</dd>
+   <dd><a href="/5000288549" class="">京城散户</a>|</dd>
+   <dd><a href="/jianjin76" class="">鉴金之师</a>|</dd>
+   <dd><a href="/jingjixuejiaqyl" class="">经济专家邱仰林</a>|</dd>
+   <dd><a href="/jiaofu" class="">教父先生</a>|</dd>
+   <dd><a href="/6938957451" class="">金飘飞舞</a>|</dd>
+   <dd><a href="/dahaishipan" class="">机遇先生</a>|</dd>
+   <dd><a href="/xuzhiwei" class="">jacky19750512</a>|</dd>
+   <dd><a href="/kaishandaozhang" class="rday_update">开山道长</a>|</dd>
+   <dd><a href="/1515268995" class="">宽怀一度</a>|</dd>
+   <dd><a href="/0001286284" class="">开心做股票</a>|</dd>
+   <dd><a href="/2568278134" class="">康洪涛博客</a></dd>
+ </dl>
+ <dl class="list jrj-clear odd">
+   <dt><a name="blogTopL" id="blogTopL">L</a><a name="blogTopM" id="blogTopM">M</a><a name="blogTopN" id="blogTopN">N</a></dt>
+   <dd><a href="/7327605570" class="">李生论金</a>|</dd>
+   <dd><a href="/4572519070" class="">李丰吧</a>|</dd>
+   <dd><a href="/liubanghui235" class="">liubh235</a>|</dd>
+   <dd><a href="/8084616000" class="">李空翊</a>|</dd>
+   <dd><a href="/zavier668" class="">老沐</a>|</dd>
+   <dd><a href="/4687957686" class="">梁明启博客</a>|</dd>
+   <dd><a href="/6636648700" class="">李清远v</a>|</dd>
+   <dd><a href="/woonner" class="">绿荫梧桐</a>|</dd>
+   <dd><a href="/6410256966" class="">连升解盘</a>|</dd>
+   <dd><a href="/1565581794" class="">老朱看市</a>|</dd>
+   <dd><a href="/lw319789363" class="">LW老王论金</a>|</dd>
+   <dd><a href="/6394420888" class="">李谓金</a>|</dd>
+   <dd><a href="/ltlg" class="">龙头力哥</a>|</dd>
+   <dd><a href="/3023261332" class="">李鸿轶</a>|</dd>
+   <dd><a href="/lhsp" class="">老胡实盘</a>|</dd>
+   <dd><a href="/8560605047" class="">老徐大盘-最牛大盘分析师</a>|</dd>
+   <dd><a href="/7688037871" class="">刘忠良A</a>|</dd>
+   <dd><a href="/3298584057" class="">落袋的博客</a>|</dd>
+   <dd><a href="/2052488476" class="">李_飞</a>|</dd>
+   <dd><a href="/9010100066" class="">陌上千红</a>|</dd>
+   <dd><a href="/1578402172" class="">茅于轼的博客</a>|</dd>
+   <dd><a href="/5002144602" class="">摩根大通</a>|</dd>
+   <dd><a href="/1537774961" class="rday_update">nxy1991</a>|</dd>
+   <dd><a href="/jiemuzhe" class="">NEIMUXIAOXI</a>|</dd>
+   <dd><a href="/ncgs" class="">南城股沈</a>|</dd>
+   <dd><a href="/1489326729" class="">牛家庄</a>|</dd>
+   <dd><a href="/0375173966" class="">牛刀的博客</a></dd>
+ </dl>
+ <dl class="list jrj-clear">
+   <dt><a name="blogTopO" id="blogTopO">O</a><a name="blogTopP" id="blogTopP">P</a><a name="blogTopQ" id="blogTopQ">Q</a><a name="blogTopR" id="blogTopR">R</a><a name="blogTopS" id="blogTopS">S</a><a name="blogTopT" id="blogTopT">T</a></dt>
+   <dd><a href="/4958794188" class="">欧阳的博客</a>|</dd>
+   <dd><a href="/pihaizhou" class="rday_update">皮海洲</a>|</dd>
+   <dd><a href="/5624444030" class="">盘古开天1964</a>|</dd>
+   <dd><a href="/dawns1218" class="">破晓顾问团</a>|</dd>
+   <dd><a href="/2358872843" class="rnew_uptate">钱眼论市</a>|</dd>
+   <dd><a href="/4295023422" class="">秦国安博客</a>|</dd>
+   <dd><a href="/5002689922" class="">qwqw303</a>|</dd>
+   <dd><a href="/5716329510" class="">日发证券</a>|</dd>
+   <dd><a href="/SMXY" class="rday_update">smxy</a>|</dd>
+   <dd><a href="/0003037004" class="">沈阳老刘</a>|</dd>
+   <dd><a href="/xinlande" class="">深圳新兰德</a>|</dd>
+   <dd><a href="/hmkb" class="">闪电狂奔</a>|</dd>
+   <dd><a href="/0003772798" class="">十三狼168</a>|</dd>
+   <dd><a href="/654941573" class="">丨金笔点金丨</a>|</dd>
+   <dd><a href="/shijinke" class="">拾金客</a>|</dd>
+   <dd><a href="/6927917985" class="">山东虎子</a>|</dd>
+   <dd><a href="/2780901748" class="">沙黾农的博客</a>|</dd>
+   <dd><a href="/8356217223" class="">神话老师008</a>|</dd>
+   <dd><a href="/9434082848" class="">水皮博客</a>|</dd>
+   <dd><a href="/4089994707" class="">桃花源中人</a>|</dd>
+   <dd><a href="/1222124419" class="">天檀v</a>|</dd>
+   <dd><a href="/q596154243" class="">天涯淘金</a>|</dd>
+   <dd><a href="/6239832977" class="">田利维</a>|</dd>
+   <dd><a href="/6544513307" class="">天下看盘</a>|</dd>
+   <dd><a href="/3927446047" class="">淘金客的博客</a></dd>
+ </dl>
+ <dl class="list jrj-clear odd">
+   <dt><a name="blogTopU" id="blogTopU">U</a><a name="blogTopV" id="blogTopV">V</a><a name="blogTopW" id="blogTopW">W</a><a name="blogTopX" id="blogTopX">X</a><a name="blogTopY" id="blogTopY">Y</a><a name="blogTopZ" id="blogTopZ">Z</a></dt>
+   <dd><a href="/wwhuahuay" class="rnew_uptate">wwcocoww</a>|</dd>
+   <dd><a href="/wudonghua020" class="rday_update">吴东华vip</a>|</dd>
+   <dd><a href="/8398624822" class="">wlstock888</a>|</dd>
+   <dd><a href="/aszt" class="">wkm3000</a>|</dd>
+   <dd><a href="/wuyiping" class="">wuyiping518</a>|</dd>
+   <dd><a href="/WDB5988" class="">王大彬</a>|</dd>
+   <dd><a href="/wbkp" class="">wbcr</a>|</dd>
+   <dd><a href="/3878110027" class="">魏宁海</a>|</dd>
+   <dd><a href="/QQ1070406522" class="">稳健投资007</a>|</dd>
+   <dd><a href="/2327995633" class="">王凯进</a>|</dd>
+   <dd><a href="/wyyhx" class="">wyyhx</a>|</dd>
+   <dd><a href="/xwtk" class="">希望天空</a>|</dd>
+   <dd><a href="/1357461119" class="">学昌看盘</a>|</dd>
+   <dd><a href="/0002018947" class="">小黎飞刀2000</a>|</dd>
+   <dd><a href="/2634132143" class="">先河论市</a>|</dd>
+   <dd><a href="/xujunhao88" class="">许君浩</a>|</dd>
+   <dd><a href="/0056730228" class="">xiyiyi2007</a>|</dd>
+   <dd><a href="/7594405442" class="">笑傲点金</a>|</dd>
+   <dd><a href="/jiyou" class="">宣继游</a>|</dd>
+   <dd><a href="/4394010332" class="">笑傲金盈</a>|</dd>
+   <dd><a href="/6537860323" class="">犀首猎庄VIP</a>|</dd>
+   <dd><a href="/9020553023" class="">徐怀谈股</a>|</dd>
+   <dd><a href="/4107081741" class="">徐小明的博客</a>|</dd>
+   <dd><a href="/0040340953" class="">谢百三的博客</a>|</dd>
+   <dd><a href="/1493386939" class="">小杜的博客</a>|</dd>
+   <dd><a href="/2731223349" class="rnew_uptate">瑜亮论金</a>|</dd>
+   <dd><a href="/8955055840" class="">阳忠</a>|</dd>
+   <dd><a href="/4171430671" class="">一棚的博客</a>|</dd>
+   <dd><a href="/5837666767" class="">杨德龙-南方基金</a>|</dd>
+   <dd><a href="/5003608758" class="">一臂之力m</a>|</dd>
+   <dd><a href="/ydj168" class="">易道简</a>|</dd>
+   <dd><a href="/yinzhe" class="">隐者333</a>|</dd>
+   <dd><a href="/yhzj" class="">宇辉战舰-丹辉</a>|</dd>
+   <dd><a href="/1043128908" class="">永豐金融</a>|</dd>
+   <dd><a href="/yeqiuyu" class="">叶秋雨</a>|</dd>
+   <dd><a href="/a88b77" class="">赢在中国VIP</a>|</dd>
+   <dd><a href="/yidaitianjiao668" class="">一代天骄668</a>|</dd>
+   <dd><a href="/2909558480" class="">栐姮</a>|</dd>
+   <dd><a href="/0001911773" class="">月下横笛</a>|</dd>
+   <dd><a href="/1612890237" class="">严勇中</a>|</dd>
+   <dd><a href="/1682628763" class="">雨时-股海沉浮</a>|</dd>
+   <dd><a href="/8209431389" class="">叶檀的博客</a>|</dd>
+   <dd><a href="/9062045342" class="">叶荣添NO1</a>|</dd>
+   <dd><a href="/5745078019" class="">易梦淘金</a>|</dd>
+   <dd><a href="/4464621423" class="">叶荣添的博客</a>|</dd>
+   <dd><a href="/zhongqin" class="rnew_uptate">张中秦</a>|</dd>
+   <dd><a href="/zjnx168" class="rday_update">zjnx168</a>|</dd>
+   <dd><a href="/0822125535" class="">左航</a>|</dd>
+   <dd><a href="/changfengkongyue" class="">长风空月</a>|</dd>
+   <dd><a href="/zuoyangping" class="">左洋平</a>|</dd>
+   <dd><a href="/7278747034" class="">郑保华</a>|</dd>
+   <dd><a href="/9489461886" class="">张化桥</a>|</dd>
+   <dd><a href="/4783929256" class="">专家大亨</a>|</dd>
+   <dd><a href="/8444226438" class="">占豪VIP</a>|</dd>
+   <dd><a href="/4074421163" class="">99桃叶者vip</a>|</dd>
+   <dd><a href="/kaoyanhunter" class="">918野蔷薇</a></dd>
+</dl>
+<!-- 首页万博园 2014-06-15 10:00:00 -->
+		</div>
+	</div>
+</div>
+<!--万博园 end-->
+<!--友情链接-->
+  <div class="jrj-wrap">
+     <div class="md">
+		<div class="title kind1">
+		   <div class="titlebg"><h4>友情链接</h4></div>
+		</div>
+		<div class="content">
+		  <dl class="list jrj-clear links">
+		   	<dd><a href="http://money.163.com/blog/" target="_blank">网易财经博客</a>|</dd><dd><a href="http://blog.caixin.cn/" target="_blank">财新博客</a>|</dd><dd><a href="http://blog.ifeng.com/" target="_blank">凤凰播报</a>|</dd><dd><a href="http://blog.10jqka.com.cn/" target="_blank">同花顺博客</a>|</dd><dd><a href="http://blog.caixun.com/" target="_blank">财讯博客</a>|</dd><dd><a href="http://blog.techweb.com.cn/" target="_blank">TechWeb科技博客</a>|</dd><dd><a href="http://blog.cnfol.com/" target="_blank">中金博客</a>|</dd><dd><a href="http://blog.soufun.com/city/bj.htm" target="_blank">搜房博客</a>|</dd><dd><a href="http://column.iresearch.cn/" target="_blank">艾瑞专栏</a>|</dd><dd><a href="http://bbs.9666.cn/" target="_blank">股票论坛</a>|</dd><dd><a href="http://www.biaodian.com/" target="_blank"> 标点生活网</a>|</dd><dd><a href="http://bbs.ikaka.com" target="_blank">瑞星卡卡安全论坛</a>|</dd><dd><a href="http://blog.china.alibaba.com/" target="_blank"> 阿里巴巴网商博客</a>|</dd><dd><a href="http://blog.cnmo.com/" target="_blank"> 科技博客
+</a>|</dd><dd><a href="http://www.talicai.com" target="_blank"> 她理财网</a>|</dd><dd><a href="http://www.11yj.cn" target="_blank"> 股票教学</a>|</dd><dd><a href="http://www.zhankoo.com" target="_blank">展酷</a>|</dd><dd><a href="mailto:ying.yang02@jrj.com.cn">申请友情链接</a>
+</dd>
+		  </dl>
+		</div>
+	 </div>
+   </div>
+ </div>
+<!--友情链接 end-->
+</div>
+</div>
+<!--尾部-->
+<div class="f"><script type="text/javascript" src="http://js.jrj.com.cn/common/foot/v2.js" charset="gb2312"></script></div>
+<script src="http://js.jrjimg.cn/lib/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script  src="http://js.jrjimg.cn/lib/ui/ImageScroll-min.js"></script>	
+<script>
+	window.onload = function(){
+	new JRJ.ui.ImageScroll('viewCon', {delay:2, scrollItemCount:6, speed:10, distance:420,leftBtn:"view_left",rightBtn:"view_right"});	
+     var counter = 0;
+	  function onScroll(){
+	  	$("#logger").val($("#logger").val()+'滚动次数：' + ++counter + '\r\n');
+	  }
+	}
+	
+	
+/*=====滚动行情=====*/
+var url='http://data.share.jrj.com.cn/stocks/pubdata/jrjIndex.js?callback=?';
+var indexhtml='<b><a href="{url}" target="_blank">{name} {index}</a></b><em class="{updowncss}">{updownindex}</em>';
+indexhtml='<b><a href="{url}" target="_blank">{name}</a>：</b><i class="{updowncss}">{index} {updownindex} {percent}%</i>';
+//上值
+var shz="000001";
+//深值
+var szz='399001';
+//恒指
+var hz='HSI';
+//道指
+var dz='indu';
+//显示指数代码
+var allHtml='';
+$.ajax({
+  type: "GET",
+  url: url,
+  dataType: "script",
+  success:function(){
+	//alert('success');
+	var shzhi,szhi,hzhi,dzhi;
+	if(typeof(jrjIndexData) == "undefined") return;
+	var json=eval(jrjIndexData);
+	$.each(json,function(i,item){
+		//alert("item.code="+item.code)
+		if(item.code==shz){
+			shzhi="<li>"+assembleIndexHtml_1(item,'沪指','http://stock.jrj.com.cn/share/index/sh000001/index.shtml')+"</li>";	
+		}else if(item.code==szz){
+			szhi="<li>"+assembleIndexHtml_1(item,'深指','http://stock.jrj.com.cn/share/index/sz399001/index.shtml')+"</li>";	
+		}else if(item.code==hz){
+	 		hzhi="<li class=\"mss\">"+assembleIndexHtml_2(item,'恒指','http://hk.jrj.com.cn/share/I5001/')+"</li>";	
+		}else if(item.code==dz){
+	 		dzhi="<li class=\"mss\">"+assembleIndexHtml_2(item,'道指','http://usstock.jrj.com.cn/stocklist/indux.shtml')+"</li>";	
+		}
+	})
+	//alert(allHtml);
+	allHtml=shzhi+szhi+hzhi+dzhi;
+	//alert(allHtml);
+	$("#jrjindex").html($(allHtml));
+	var argsScr = {
+	     	 	speed:5,
+	     	 	timeOut:3000,
+	     	 	lineHeight:29,
+	     	  	scrollObjId:"jrjindex"
+    }
+    var scroll = new JRJ.ui.ScrollText(argsScr);
+  },
+  error:function(){
+	alert('error');
+  }
+});
+function assembleIndexHtml_1(item,name,url){
+	var returnHtml;
+	returnHtml=indexhtml.replace("{url}",url);
+	returnHtml=returnHtml.replace("{name}",name);
+	returnHtml=returnHtml.replace("{index}",item.price);
+	returnHtml=returnHtml.replace("{percent}",item.percent);
+	var percent=parseFloat(item.percent);
+	//alert(percent);
+	if(percent<0)
+	   returnHtml=returnHtml.replace("{updowncss}","gre");
+	else if(percent>=0)
+	   returnHtml=returnHtml.replace("{updowncss}","red");
+	
+	var diff=parseFloat(item.diff);
+	//alert(diff);
+	returnHtml=returnHtml.replace("{updownindex}",Math.abs(diff));
+
+        return returnHtml;
+}
+function assembleIndexHtml_2(item,name,url){
+	var returnHtml;
+	returnHtml=indexhtml.replace("{url}",url);
+	returnHtml=returnHtml.replace("{name}",name);
+	returnHtml=returnHtml.replace("{index}",item.price);
+	returnHtml=returnHtml.replace("{percent}",item.percent);
+	var percent=parseFloat(item.percent);
+	//alert(percent);
+	  if(percent<0)
+           returnHtml=returnHtml.replace("{updowncss}","red");
+        else if(percent>=0)
+           returnHtml=returnHtml.replace("{updowncss}","gre");
+	
+	var diff=parseFloat(item.diff);
+	//alert(diff);
+	returnHtml=returnHtml.replace("{updownindex}",Math.abs(diff));
+
+    return returnHtml;
+}
+</script>
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fff885e3822119b5c09ae344516007471' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=46" ></script>
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=47" ></script>
+
+
+<!---------------------底部通用导航html-------------------------->
+<div class="bottom_nav">
+    <div id="BBar_Main" class="open" style="display:none">
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+    <div class="left-box">
+    	<strong>实盘直播</strong>  
+    </div>
+	<div class="right-box">
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+    	<p class="btn">
+    		<a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a>
+    		<a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a>
+    		<a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a>
+    		<a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+        <b id="BBar_Msg_Tip" class="off"></b>
+    </div>
+    <div class="center-box">
+    	<div class="pab01">
+    		<div id="stock_scroll" class="scroll">
+              	<table>
+                    <tbody>
+	  	  				<tr>
+	  	  					<td id="stock_scroll_content1">
+	  	  					</td>
+	  	  					<td id="stock_scroll_content2"></td>
+	  	  				</tr>
+	  				</tbody>
+  				</table>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div id="BBar_Close_Cont" class="close_fc_new_btn" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+</div>
+<div id="popMsgBox" class="mb" style="display:none;">
+   <div id="popMsgBox_Titlebar" class="mbhd">
+	   <span id="popMsgBox_Title" class="title">系统消息</span>
+	   <b id="popMsgBox_Close" class="option"></b>
+   </div>
+   <div id="popMsgBox_Content" class="mnbd">
+   	  <div class="tit-mb">
+           <p></p>
+           <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa">查看</a></p>
+         </div>
+   </div>
+</div>
+<!---------------------------END 底部通用导航html--------------------------->
+
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+<script>
+//系统消息提示开关
+var BBarMsgSwitch = false;
+</script>
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+</body>
+</html>

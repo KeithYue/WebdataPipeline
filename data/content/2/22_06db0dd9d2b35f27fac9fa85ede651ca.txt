@@ -1,0 +1,516 @@
+http://bbs.hexun.com/u_20174571/_d.html
+1402804100.55
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	胡希明所有发帖_个人资料页_和讯论坛
+</title>
+
+<link href="/css/talk.css?3" rel="stylesheet" type="text/css" />
+<script src="/s/u/a.js" type="text/javascript"></script>
+
+
+<link href="/clientfiles/user/css/style.css?1" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<div id="roadlink">
+<div class="road"><a href="/u_20174571/_d.html" class="f06c0">胡希明</a>的和讯论坛个人中心</div>
+<div class="right" style="padding-top:10px;"></div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="325" valign="top" style="padding:0px 7px 0 0;">
+
+    
+<div class="sidemod" style=" border-top:0px;">
+<dl class="grzlcont">
+<dt><a href="/u_20174571/_d.html"><img src="http://logo3.tool.hexun.com/1ebd633-150.jpg" /></a></dt>
+<dd>
+<h3>个人资料</h3>
+<p>用户名：胡希明</p>
+<p>性别：<span id="spSex">..</span></p>
+<p>年龄：<span id="spAge">..</span></p>
+<p><nobr>所在地区：<span id="spAddress">.</span></nobr></p>
+<p>目前状态：
+<img src="/clientfiles/post/img/unline.gif" alt="在线" align="absmiddle" id="imgIsOnline"/>
+</p>
+<p>注册时间：2012-09-19</p>
+</dd>
+</dl>
+<p></p>
+<div class="grzlbtn">
+
+<a href="/profile/" class="ico4"  target="_blank" id="aProfile" style="display:none">修改资料</a> 
+<a href="javascript:MessageBox.show('胡希明');" id="aSendMsg" class="ico1">发送纸条</a>
+
+<a href="http://20174571.blog.hexun.com/" class="ico2" target="_blank">去<span class="ta">TA</span>的博客</a>
+<a class="ico3" href="http://t.hexun.com/20174571/default.html" target="_blank">去<span class="ta">TA</span>的微博</a></div>
+</div>  
+<div class="sidemod">
+<h3 class="tit01"><strong><span class="ta">TA</span>的论坛经历</strong></h3>
+暂时没有
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong><span class="ta">TA</span>的论坛个性签名</strong></h3>
+<div class="writecont">
+TA很懒，什么都没写
+</div>
+</div>
+
+<script type="text/javascript">
+function loadInfo(){
+    new Ajax({url:'/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx',postBody:'a=getBaseInfo&uid=20174571',onComplete:function(trans){
+            var r ;eval('r='+trans.responseText);
+            
+            if(r){
+                $id('spSex').innerHTML = r.gender;
+                $id('spAge').innerHTML = r.age;
+                $id('spAddress').innerHTML = r.address;
+                
+                
+                $id('spSex').title = r.gender;
+                $id('spAge').title = r.age;
+                $id('spAddress').title = r.address;
+            }
+        }})
+}
+
+function onGotUser(u){ 
+    var spans = $tagsC('SPAN','ta');
+    if(u.id == 20174571){
+        $id('aProfile').style.display = 'inline';
+        $id('aSendMsg').style.display = 'none';
+        
+       
+        for(var i=0;i<spans.length;i++){
+            spans[i].innerHTML = '我';
+        }
+    }
+    for(var i=0;i<spans.length;i++){
+        spans[i].style.display = 'inline';
+    }
+}
+addLoadEvent(loadInfo);
+</script>
+
+</td>
+    <td valign="top" style="padding-top:25px;">
+
+
+<div class="attmod">
+<h3 class="tit01"><strong>胡希明的论坛属性</strong></h3>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="borb">论坛等级：<span id="dvGradeName">..</span>            </td>
+    <td class="borb">论坛积分：<span id="dvuserpoint">..</span>           </td>
+    <td class="borb">登陆论坛：<span id="spLTs">3550</span>次</td>
+    <td class="borb"> 上次登陆：<span id="spLT">2014-06-11 08:03</span> <br /></td>
+    </tr>
+  <tr>
+    <td>发表主贴数：<span id="spPC">188</span>            </td>
+    <td>发表回复数：<span id="spRC">1261</span>             </td>
+    <td>精华文章数：<span id="spEPC">3</span>           </td>
+    <td>推荐文章数：<span id="spRPC">1</span> </td>
+    </tr>
+</table>
+</div>
+<script src="http://point.tool.hexun.com/pointLicai.aspx?userid=20174571&show=1" type="text/javascript"></script>
+<script type="text/javascript">
+function onGetUserProperties(u){
+    if(!u)return;
+    if(u.isOnline)$id('imgIsOnline').src = '/clientfiles/post/img/online.gif';
+    $id('spLTs').innerHTML = u.LoginTimes;
+    $id('spLT').innerHTML = u.LoginTime;
+    $id('spPC').innerHTML = u.PostCount;
+    $id('spRC').innerHTML = u.ReplyCount;
+    $id('spEPC').innerHTML = u.EssentialCount;
+    $id('spRPC').innerHTML = u.RecommentCount;
+    var fc = $id('spFootCn');
+    if(fc)fc.innerHTML = u.footCount;
+}
+</script>
+<script src="BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getProperties&uid=20174571" type="text/javascript"></script>
+
+<div class="listtab">
+
+<span class="current">最新主贴</span> 
+
+<span><a href="/u_20174571/r_1_d.html">最新回贴</a></span> 
+
+<span><a href="/u_20174571/p_essence_1_d.html">精华文章</a></span>   
+
+<span><a href="/u_20174571/p_recomment_1_d.html">推荐文章</a></span>   
+
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth" style=" margin:0px;">
+      <tr>
+        <th>标题</th>
+        <th width="80"> 发表版面</th>
+        <th width="80">回复/点击</th>
+        <th width="111">发表时间</th>
+      </tr>
+  </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist">
+        
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6875555_1_d.html" target="_blank" class="f234">·赞同当思欧美继续创新高</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">5</span>/<span class="pv" id="pv6875555">2388</span></td>
+            <td width="111"><p><span class="f666">2014-05-19 08:15</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6856460_1_d.html" target="_blank" class="f234">·新国九条---炒外汇将阳光化</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">10</span>/<span class="pv" id="pv6856460">8333</span></td>
+            <td width="111"><p><span class="f666">2014-05-12 14:23</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6851956_1_d.html" target="_blank" class="f234">·难得啊，美加大数据做对了一回</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">-15</span>/<span class="pv" id="pv6851956">3199</span></td>
+            <td width="111"><p><span class="f666">2014-05-09 20:45</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6804121_1_d.html" target="_blank" class="f234">·先看懂美日下跌图，再想象欧美下跌图，</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">3</span>/<span class="pv" id="pv6804121">4649</span></td>
+            <td width="111"><p><span class="f666">2014-04-23 13:16</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6779150_1_d.html" target="_blank" class="f234">·英镑押大押小，押定离手</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">8</span>/<span class="pv" id="pv6779150">4476</span></td>
+            <td width="111"><p><span class="f666">2014-04-16 15:50</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6763204_1_d.html" target="_blank" class="f234">·欧元好像是在大契形整理，还没到尾巴</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">4</span>/<span class="pv" id="pv6763204">4629</span></td>
+            <td width="111"><p><span class="f666">2014-04-11 18:13</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6759465_1_d.html" target="_blank" class="f234">·1.0915做多美加，试试</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">7</span>/<span class="pv" id="pv6759465">2614</span></td>
+            <td width="111"><p><span class="f666">2014-04-10 23:57</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/futures/post_46_6758567_1_d.html" target="_blank" class="f234">·棕榈要大跌，做空，目标创新低</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/futures/board_46_all_1_d.html">期市大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">18</span>/<span class="pv" id="pv6758567">8998</span></td>
+            <td width="111"><p><span class="f666">2014-04-10 17:44</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/futures/post_46_6751201_1_d.html" target="_blank" class="f234">·猪肉价下跌，菜粕上涨</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/futures/board_46_all_1_d.html">期市大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv6751201">1357</span></td>
+            <td width="111"><p><span class="f666">2014-04-09 10:07</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/futures/post_46_6746435_1_d.html" target="_blank" class="f234">·股指可能已经到底了，多单应该继续持仓。止损2100.</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/futures/board_46_all_1_d.html">期市大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">3</span>/<span class="pv" id="pv6746435">938</span></td>
+            <td width="111"><p><span class="f666">2014-04-08 10:06</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6736426_1_d.html" target="_blank" class="f234">·欧镑长线做多。止损40点，目标0.8800以上</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">26</span>/<span class="pv" id="pv6736426">5766</span></td>
+            <td width="111"><p><span class="f666">2014-04-03 16:29</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6730264_1_d.html" target="_blank" class="f234">·美日等待做空，分析如下，欢迎交流</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">51</span>/<span class="pv" id="pv6730264">18973</span></td>
+            <td width="111"><p><span class="f666">2014-04-02 12:01</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6724547_1_d.html" target="_blank" class="f234">·日本东京9.0级地震，看新闻</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">22</span>/<span class="pv" id="pv6724547">15209</span></td>
+            <td width="111"><p><span class="f666">2014-04-01 08:46</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6530956_1_d.html" target="_blank" class="f234">·美加的上涨趋势比美日还要大一个级别</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">4</span>/<span class="pv" id="pv6530956">2920</span></td>
+            <td width="111"><p><span class="f666">2014-01-23 09:38</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6525761_1_d.html" target="_blank" class="f234">·棒子1.6470做空，欧澳1.5260做空</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">3</span>/<span class="pv" id="pv6525761">1949</span></td>
+            <td width="111"><p><span class="f666">2014-01-22 15:57</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6525707_1_d.html" target="_blank" class="f234">·澳元的叉盘好像已经开始转势了</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv6525707">1111</span></td>
+            <td width="111"><p><span class="f666">2014-01-22 15:42</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6502007_1_d.html" target="_blank" class="f234">·1.36做多欧美，止损1.3440</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">11</span>/<span class="pv" id="pv6502007">5274</span></td>
+            <td width="111"><p><span class="f666">2014-01-16 08:50</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6501964_1_d.html" target="_blank" class="f234">·1.5240做多欧日，止损30点</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv6501964">712</span></td>
+            <td width="111"><p><span class="f666">2014-01-16 08:41</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6501914_1_d.html" target="_blank" class="f234">·澳元要准备加速下跌，</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">13</span>/<span class="pv" id="pv6501914">8978</span></td>
+            <td width="111"><p><span class="f666">2014-01-16 08:14</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_6499256_1_d.html" target="_blank" class="f234">·欧澳小5浪中，等待跌破1.5237再做多</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv6499256">559</span></td>
+            <td width="111"><p><span class="f666">2014-01-15 10:26</span></p></td>
+          </tr>
+          
+        </table>
+    <div class="botmod"><div class="pagenum"><a class="previousNo">&nbsp;</a><a href="/u_20174571/p_all_1_d.aspx" target="_self" class="current">1</a> <a href="/u_20174571/p_all_2_d.aspx" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="/u_20174571/p_all_4_d.aspx" target="_self">…</a> <a href="/u_20174571/p_all_7_d.aspx" target="_self">7</a> <a href="/u_20174571/p_all_8_d.aspx" target="_self">8</a> <a href="/u_20174571/p_all_9_d.aspx" target="_self">9</a> <a href="/u_20174571/p_all_10_d.aspx" target="_self">10</a> <a href="/u_20174571/p_all_2_d.aspx" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div></div>
+<script type="text/javascript">
+function postListMouseOver(e){
+    e = e || event;
+    var o = getSrcElement(e);
+    while(o && o.tagName != 'TR') o = o.parentNode;
+    var overColor = '#E4EBF8';
+    o.style.backgroundColor = overColor;
+    var cells = o.cells;
+    for(var i=0;i<cells.length;i++){
+        cells[i].style.backgroundColor = overColor;
+    }
+}
+
+function postListMouseOut(e){
+    e = e || event;
+    var o = e.fromElement;
+    while(o && o.tagName != 'TR') o = o.parentNode;
+    o.style.backgroundColor = o.srcBgColor;
+    var cells = o.cells;
+    for(var i=0;i<cells.length;i++){
+        cells[i].style.backgroundColor = o.srcBgColor;
+    }
+}
+
+function bindBgColorEvt(){
+    var otbls = $tags('TABLE');
+    var otbl = false;
+    for(var i=0;i<otbls.length;i++){
+        if(otbls[i].className == 'bbslist'){
+            otbl = otbls[i];
+            break;
+        }
+    }
+    if(otbl){
+        var trs = otbl.rows;
+        for(var i=0;i<trs.length;i++){
+            var tr = trs[i];
+            tr.srcBgColor = tr.style.backgroundColor;
+            addEvent(tr,'mouseover',postListMouseOver);
+            addEvent(tr,'mouseout',postListMouseOut);
+        }
+    }
+}
+addLoadEvent(bindBgColorEvt);
+
+function refreshPv(){
+    var pvSpans = $tagsC('span','pv');
+    var ids = '';
+    for(var i=0;i<pvSpans.length;i++){
+        if(i > 0) ids += ',';
+        ids += pvSpans[i].id.substr(2);
+    }
+    new Ajax({showLoading:false,url:'BBS.WebUI.Ajax.PostAjax,BBS.WebUI.ajax.asmx?a=getPVs',method:'post',
+        postBody:'ids=' + ids,onComplete:function(trans){
+        var r; eval('r=' + trans.responseText);
+        Debug.writeln('pv data length:' + r.length);
+        Debug.writeln('pv data:' + trans.responseText);
+        
+        if(r)
+        for(var i=0;i<r.length;i++){
+            var data = r[i];
+            var o = $id('pv' + data.id);
+            var old = parseInt(o.innerHTML.trim());
+            if(old < data.pv){
+                if(o)o.innerHTML = data.pv;
+                Debug.writeln('更新' + data.id + '值' + data.pv);
+                //加hot图标
+                if(data.pv >= hotPostMinPv){
+                    var titleTd = previousElement(previousElement(o.parentNode));
+                    var spans = $tags('SPAN',titleTd);
+                    var oIcons = spans[spans.length-1];
+                    if(oIcons){
+                        var hasHot = false;
+                        var imgs = $tags('IMG',oIcons);
+                        for(var j=0;j<imgs.length;j++){
+                            if(imgs[j].src.indexOf(ICON_HOT)>-1){
+                                hasHot = true;
+                                break;
+                            }
+                        }
+                        if(!hasHot){
+                            crt('IMG',{src:ICON_HOT,alt:'热帖',align:'absmiddle'},oIcons);
+                            Debug.writeln('添加热帖图标');
+                        }
+                    }
+                }
+            }
+        }
+        Debug.writeln('刷新Pv结束');
+        Debug.hide();
+    }});
+}
+addLoadEvent(refreshPv);
+</script>
+
+    </td>
+  </tr>
+</table>
+
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

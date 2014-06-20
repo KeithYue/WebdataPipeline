@@ -1,0 +1,460 @@
+http://news.stcn.com/2014/0304/11218009.shtml
+1402825359.36
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="zh-CN"><!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>2014全国两会：经济组政协委员被围堵追访 _宏观_新闻_证券时报网</title>
+<meta name="keywords" content="全国两会 政协委员 经济 组图" />
+<meta name="description" content="2014年3月3日，全国政协十二届二次会议在北京人民大会堂开幕。备受关注的全国政协经济组的重量级人物在驻地北京铁道大厦遭记者们“围追堵截”，回答国企改革、环保治污、互联网金融等热点问题，代表委员和媒体记者“斗智斗勇”的场景频频上演。" />
+	<link rel="stylesheet" type="text/css" href="http://img.stcn.com/templates/stcn/css/cmstop-common.css" />
+	<link rel="stylesheet" type="text/css" href="http://img.stcn.com/templates/stcn/css/cmstop-picture-show.css" />
+	<link rel="stylesheet" href="http://img.stcn.com/js/lib/gallery/black.css" />
+	<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/picture/grouppicture1.6/style.css" />
+	<script src="https://passport.stcn.com/wsLoginAssis.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://img.stcn.com/js/config.js"></script>
+    <script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/jquery.js"></script> 
+    <script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://www.stcn.com/common/mblog/general/2013genzt/script/cy.wb.js"></script>
+<script type="text/javascript">
+   var contentid = '11218009';
+   var topicid = '1477579';
+	
+	var confs = {page:1,pagesize:10,news_time:'2014-03-04',news_id:'11218009',news_source:'cmstop_image'};
+	function listTopics(){
+		confs.page = arguments[1];
+		var opt = {
+			render:'#cy_wb_list',
+			success:function(data){
+				if(data.ret == 0 && data.data.page_arr){
+					$('#cy_wb_list').append($(data.data.page_arr));
+				}
+			}
+		};
+		CY.comment_list(confs.news_source,confs.news_time,confs.news_id,confs.page,confs.pagesize,opt);
+	}
+	$(function(){
+		var $slide_ul = $('.slide-ul');
+		var $slide_li = $slide_ul.find('li');
+		var $num = $slide_li.size();
+		var $s1 = $('.s1');
+		var $s2 = $('.s2');
+		var $tl = $('.tl');
+		var $tr = $('.tr');
+		$slide_ul.css('width', $num*838)
+		$s2.text($num);
+		$tl.bind('click', function(){
+			if(!$slide_ul.is(':animated')){
+				var $s1_txt = $('.s1').text();
+				if($s1_txt == 1){
+					return false;
+				} else {
+					$slide_ul.animate({'margin-left': -($s1_txt-2)*838}, 1000);
+					$s1.text(Number($s1_txt) - 1);
+				}
+			}
+		});
+		$tr.bind('click', function(){
+			if(!$slide_ul.is(':animated')){
+				var $s1_txt = $('.s1').text();
+				var $s2_txt = $('.s2').text();
+				if($s1_txt == $num){
+					return false;
+				} else {
+					$slide_ul.animate({'margin-left': -$s1_txt*838}, 1000);
+					$s1.text(Number($s1_txt) + 1);
+				}
+			}
+		});
+		
+		
+		var url = CY.site_url;
+	CY.set_funcs({
+		login:function(data){
+			$(".leave-login").html('<strong><a href="'+url+'index.php?mod='+data.uid+'" target="_blank">'+data.nickname+'</a></strong>,欢迎发言！').show();
+		},
+		logout:function(data){
+			$(".leave-login").html("<strong><a href='javascript:CY.show_dialog();'>登录</a></strong>（请登录发言，并遵守相关规定）<strong><a href=\""+url+"index.php?mod=member\" target=\"_blank\">注册财苑社区</a></strong>").show();
+		},
+		topic_item:function(data){
+			if(!data) return '';
+			var ahd = '<a href="'+url+'index.php?mod='+data.uid+'" target="_blank">',aft = '</a>',
+				bhd = '<a href="javascript:;" class="a';
+			var html = '<li>'+ ahd + '<img class="cy-tx" src="'+data.face+'"/>' + aft;
+			html += '<div class="cy-from fn-clear"><em class="cy-name fn-left">'+ ahd + data.nickname + aft;
+			html += '</em><span class="cy-time fn-right">' + data.dateline;	
+			html += '</span></div><div class="cy-txt" id="cy_wb_cnt_'+data.tid+'">' + data.content;
+			html += '</div><div class="cy-td">';
+			html += bhd + '1" onclick="CY.click_reply(\'[强]\',\''+data.tid+'\',\'\',this);">顶</a>&nbsp;';
+			html += bhd + '2" onclick="CY.click_reply(\'[弱]\',\''+data.tid+'\',\'\',this);">踩</a>&nbsp;';
+			html += bhd + '3" onclick="CY.click_reply(\'转发讨论\',\''+data.tid+'\',\'\',this);">分享</a>&nbsp;';
+			html += bhd + '4" onclick="CY.dialog_reply(\''+data.tid+'\',\''+data.uid+'\',\''+data.nickname+'\',$(\'#cy_wb_cnt_'+data.tid+'\'))">评论</a></div></li>';
+			return html;
+		}
+	});
+	
+	$('#cy_wb_btn').click(function(){
+		var txtinput = $('#cy_wb_txt'),cnt = txtinput.val(),render = $('#cy_wb_list');
+		if(!cnt || !render.length){
+			alert('发布内容不能为空!');
+			return ;
+		}
+		render.attr('disabled',true);
+		CY.publish({type:'both',content:cnt,news_id:confs.news_id,news_src:confs.news_source},function(data){
+			if(data && data.ret == 0){
+				var htm = CY.handlers.topic_item(data.data);
+				htm && (render.prepend($(htm))),txtinput.val(''),alert('发布成功!');
+			}else{
+				alert('发布失败,请稍后再试!')
+			}
+			render.attr('disabled',false);
+		});
+		setTimeout(function(){
+			render.attr('disabled',false);
+		},2000);
+	});
+	
+	CY.check_login();
+	listTopics('',confs.page,1);
+	});
+</script>
+<script>
+var _hmt = _hmt || [];
+</script>
+</head>
+
+<body>
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+    <ul class="mainNav clearfix">
+			<li class="mainNav_firstLi"><a href="http://www.stcn.com/" target="_blank">首页</a></li>
+			<li><a href="http://news.stcn.com/" target="_blank">要闻</a></li>
+			<li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
+			<li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
+			<li><a href="http://imbark.stcn.com/" target="_blank">创业板</a></li>
+			<li><a href="http://stock.stcn.com/newstock/" target="_blank">新股</a></li>
+			<li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
+			<li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
+			<li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
+			<li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
+			<li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
+			<li><a href="http://overseas.stcn.com/" target="_blank">环球</a></li>
+			<li><a href="http://bond.stcn.com/" target="_blank">货币</a></li>
+			<li><a href="http://financing.stcn.com/" target="_blank">理财</a></li>
+			<li><a href="http://hk.stcn.com/" target="_blank">港股</a></li>
+			<li><a href="http://talk.secutimes.com/" target="_blank">访谈</a></li>
+			<li><a href="http://company.stcn.com/" target="_blank">产经</a></li>
+			<li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
+			<li><a href="http://wq.stcn.com/" target="_blank">维权</a></li>
+			<li><a href="http://cy.stcn.com/" target="_blank" >财苑社区</a></li>
+                        <li><a href="http://www.stcn.com/node_21864.htm" target="_blank" >移动终端</a></li>
+			
+			<li><a href="http://xinpi.stcn.com/" target="_blank" class="highlight">信披平台</a></li>
+			<li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
+  </ul><div class="bd">
+	<!-- 组图展示区域 -->
+    <div class="picture-main">
+        <div class="picture-header">
+            <h1 class="h1">2014全国两会：经济组政协委员被围堵追访  <span>
+										来源：证券时报网					&nbsp;&nbsp;&nbsp;&nbsp;时间：2014-03-04				</span>
+</h1>
+        </div>
+
+        <div id="gallery" class="mod-gallery">
+            <div class="gallery-overlay" data-gallery="overlay"></div>
+            <div class="gallery-content" data-gallery="content" style="visibility:hidden;">
+                <div class="gallery-toolbar">
+                    <span style="float: right">
+
+                    </span>
+                    <span style="float: left">
+                        <a data-gallery="view-origin" href="javascript:void(0);" hideFocus="true" target="_blank" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-origin"></i>查看原图</span><i class="btn-right"></i>
+                        </a>
+                        <a data-gallery="auto-play" href="javascript:void(0);" hideFocus="true" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-slide"></i>幻灯播放</span><i class="btn-right"></i>
+                        </a>
+                        <a data-gallery="auto-stop" href="javascript:void(0);" hideFocus="true" class="mod-btn">
+                            <i class="btn-left"></i><span><i class="btn-icon icon-stop"></i>手动播放</span><i class="btn-right"></i>
+                        </a>
+                        
+                        <a class="mod-btn" hideFocus="true" onClick="javascript:digg.set(11218009,'supports')"><i class="btn-left"></i><span><i class="btn-icon icon-vote"></i><b id="supports">0</b></span><i class="btn-right"></i></a>
+                    </span>
+                </div>
+                <div class="gallery-photo">
+                    <div class="gallery-photo-items" data-gallery="photo-items"></div>
+                    <div class="gallery-photo-prev" data-gallery="photo-prev">
+                        <a title="点击浏览上一张图片，支持'←'翻页" href="javascript:void(0);" hideFocus="true">上一页</a>
+                    </div>
+                    <div class="gallery-photo-next" data-gallery="photo-next">
+                        <a title="点击浏览下一张图片，支持'→'翻页" href="javascript:void(0);" hideFocus="true">下一页</a>
+                    </div>
+                    <div class="gallery-loading" data-gallery="loading"><span></span></div>
+                    <div class="gallery-end" data-gallery="end">
+                        <a class="end-close" data-gallery="end-close"></a>
+                        <div class="end-intro">
+                            <div class="thumb">
+                                <a href="javascript:void(0);"><img src="http://upload.stcn.com/2014/0304/thumb_120_90_1393903986398.jpg" alt="" width="120" height="90" /></a>
+                            </div>
+                            <div class="texts">
+                                <h4>2014全国两会：经济组政协委员被围堵追访 </h4>
+                                <div class="buttons">
+                                    <a class="mod-btn" data-gallery="replay"><i class="btn-left"></i><span><i class="btn-icon icon-replay"></i>重新播放</span><i class="btn-right"></i></a>
+                                    <a class="mod-btn" href="http://app.stcn.com/?app=comment&controller=review&action=index&topicid=1477579"><i class="btn-left"></i><span><i class="btn-icon icon-comment"></i>我要评论</span><i class="btn-right"></i></a>                                </div>
+                            </div>
+                        </div>
+                        <div class="end-related">
+                            <ul class="piclist">
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="全国政协十二届二次会议在京开幕（组图）" href="http://www.stcn.com/2014/0303/11215013.shtml"><img width="120" height="90" alt="" src="http://upload.stcn.com/2014/0303/thumb_120_90_1393833484667.jpg"></a>
+                                    </div>
+                                    <div class="title"><a title="全国政协十二届二次会议在京开幕（组图）" href="http://www.stcn.com/2014/0303/11215013.shtml">全国政协十二届二次会议在京开幕（组图）</a></div>
+                                </li>
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="境外记者办理两会采访证" href="http://www.stcn.com/2014/0303/11214737.shtml"><img width="120" height="90" alt="" src="http://upload.stcn.com/2014/0303/thumb_120_90_1393829689777.jpg"></a>
+                                    </div>
+                                    <div class="title"><a title="境外记者办理两会采访证" href="http://www.stcn.com/2014/0303/11214737.shtml">境外记者办理两会采访证</a></div>
+                                </li>
+                                                                <li class="v-pic">
+                                    <div class="thumb">
+                                        <a title="准备就绪 人民大会堂静待2014全国两会开幕" href="http://www.stcn.com/2014/0303/11214654.shtml"><img width="120" height="90" alt="" src="http://upload.stcn.com/2014/0303/thumb_120_90_1393828031160.jpg"></a>
+                                    </div>
+                                    <div class="title"><a title="准备就绪 人民大会堂静待2014全国两会开幕" href="http://www.stcn.com/2014/0303/11214654.shtml">准备就绪 人民大会堂静待2014全国两会开幕</a></div>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-photo-description">
+                    <p data-gallery="photo-description"></p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="gallery-footer" data-gallery="footer" style="visibility:hidden;">
+                <div class="clearfix">
+                    <div class="gallery-thumb" data-gallery="slider">
+                        <span class="gallery-thumb-prev">
+                            <a href="javascript:void(0);" hideFocus="true" data-slider="items-left"></a>
+                        </span>
+                        <span class="gallery-thumb-next">
+                            <a href="javascript:void(0);" hideFocus="true" data-slider="items-right"></a>
+                        </span>
+                        <div class="gallery-thumbs" data-slider="control">
+                            <div class="gallery-thumb-list">
+                                <ul class="gallery-thumb-items" data-slider="items"></ul>
+                            </div>
+                            <div class="gallery-thumb-bar mod-bar" data-slider="bar">
+                                <span class="bar-left"></span>
+                                <span class="bar-right"></span>
+                                <div class="bar-body">
+                                    <div class="bar-content">
+                                        <a class="bar-btn" href="javascript:void(0);" hideFocus="true" data-slider="btn">
+                                            <b class="bar-btn-left"></b>
+                                            <b class="bar-btn-right"></b>
+                                            <span class="bar-btn-body">
+                                                <span>
+                                                    <b class="bar-btn-content"></b>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- @end 组图展示区域 -->
+
+	<div class="fn-clear">
+<div class="fn-left pic">
+    <h2 class="ui-title1">热点组图推荐
+      <a style="float:right;font-size:14px;" href="http://news.stcn.com/list/picture.shtml" target="_blank">&gt;&gt; 查看更多</a>
+    </h2>
+    <ul class="ui-list-pic-small fn-clear">
+            <li>
+            <a href="http://www.stcn.com/2014/0613/11488203.shtml" target="_blank" title="东莞制造“世界杯”"><img src="http://upload.stcn.com/2014/0613/thumb_166_110_1402627456630.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">东莞制造“世界杯”</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0612/11484840.shtml" target="_blank" title="成都现最牛“钉子户” 堵死一条公路"><img src="http://upload.stcn.com/2014/0612/thumb_166_110_1402539610107.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">成都现最牛“钉子户” 堵死一条公路</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0612/11484780.shtml" target="_blank" title="广州一高校食堂出现自动打饭机"><img src="http://upload.stcn.com/2014/0612/thumb_166_110_1402539060420.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">广州一高校食堂出现自动打饭机</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0611/11482541.shtml" target="_blank" title="被中国土豪买下的海外地标建筑"><img src="http://upload.stcn.com/2014/0611/thumb_166_110_1402469916855.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">被中国土豪买下的海外地标建筑</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0611/11481982.shtml" target="_blank" title="世界最土豪的拉力赛 120辆跑车齐上阵"><img src="http://upload.stcn.com/2014/0611/thumb_166_110_1402456394103.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">世界最土豪的拉力赛 120辆跑车齐上阵</span>
+            </a>
+        </li>
+            <li>
+            <a href="http://www.stcn.com/2014/0609/11475305.shtml" target="_blank" title="广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）"><img src="http://upload.stcn.com/2014/0609/thumb_166_110_1402284081249.jpg" alt="" />
+                <span class="bg"></span>
+                <span class="title">广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）</span>
+            </a>
+        </li>
+        </ul>
+</div>
+	<div class="fn-right news">
+    <h2 class="ui-title1">组图新闻排行</h2>
+    <ul class="ui-list">
+        <li>
+            <a title="80后女大学生剃度出家引争议" href="http://www.stcn.com/2014/0612/11485737.shtml" target="_blank" >
+                80后女大学生剃度出家引争议                            </a>            
+        </li>
+        <li>
+            <a title="商业传奇No.42 健力宝：“倒下”难再起？" href="http://www.stcn.com/2014/0611/11481526.shtml" target="_blank" >
+                商业传奇No.42 健力宝：“倒下”难再起？                            </a>            
+        </li>
+        <li>
+            <a title="世界最土豪的拉力赛 120辆跑车齐上阵" href="http://www.stcn.com/2014/0611/11481982.shtml" target="_blank" >
+                世界最土豪的拉力赛 120辆跑车齐上阵                            </a>            
+        </li>
+        <li>
+            <a title="广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）" href="http://www.stcn.com/2014/0609/11475305.shtml" target="_blank" >
+                广西现大量烂尾别墅楼 阴森恐怖似鬼屋（组图）                            </a>            
+        </li>
+        <li>
+            <a title="股市魔咒你信不信？" href="http://www.stcn.com/2014/0613/11487587.shtml" target="_blank" >
+                股市魔咒你信不信？                            </a>            
+        </li>
+        <li>
+            <a title="李克强召集8省长开会" href="http://www.stcn.com/2014/0609/11475293.shtml" target="_blank" >
+                李克强召集8省长开会                            </a>            
+        </li>
+        <li>
+            <a title="成都现最牛“钉子户” 堵死一条公路" href="http://www.stcn.com/2014/0612/11484840.shtml" target="_blank" >
+                成都现最牛“钉子户” 堵死一条公路                            </a>            
+        </li>
+        <li>
+            <a title="记者探访玉林狗肉节" href="http://www.stcn.com/2014/0613/11488352.shtml" target="_blank" >
+                记者探访玉林狗肉节                            </a>            
+        </li>
+    </ul>
+</div>
+	</div>
+	<div class="cy">
+		<div class="ui-title2">
+			<h2>财苑社区</h2>
+		</div>
+		<div class="cy-content">
+			<div class="leave">
+				<div class="leave-login">
+					<strong><a href="">登录</a></strong> (请登录发言，并遵守相关规定) <strong><a href="">注册财苑社区</a></strong>
+				</div>
+				<textarea id="cy_wb_txt"></textarea>
+				<div class="leave-send"><input id="cy_wb_btn" type="button" value="提交评论" /></div>
+			</div>
+			<ul id="cy_wb_list" class="cy-list">
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="ft">
+	<div class="footer">
+	<iframe class="block bc" src="http://www.stcn.com/common28/include/footer.html" width="970px" height="160px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div></div>
+
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/apps/digg.js"></script>
+<script>
+$(function(){
+    digg.get(11218009,'supports');
+    $.getJSON(APP_URL+'?app=system&controller=content&action=stat&jsoncallback=?&contentid='+contentid, function(data){});
+});
+</script>
+<script type="text/javascript" src="http://img.stcn.com/js/lib/cmstop.gallery.js"></script>
+<script type="text/javascript">
+$(function() {
+var photos = [];
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986774.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986774.jpg', note: "2014\u5e743\u67082\u65e5\uff0c\u5168\u56fd\u4e24\u4f1a\u5728\u5317\u4eac\u53ec\u5f00\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u8d22\u653f\u90e8\u8d22\u653f\u79d1\u5b66\u7814\u7a76\u6240\u6240\u957f\u8d3e\u5eb7\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986665.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986665.jpg', note: "2014\u5e743\u67082\u65e5\uff0c\u5168\u56fd\u4e24\u4f1a\u5728\u5317\u4eac\u53ec\u5f00\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4e2d\u56fd\u94f6\u884c\u76d1\u4e8b\u6885\u5174\u4fdd\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986569.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986569.jpg', note: "2014\u5e743\u67082\u65e5\uff0c\u5168\u56fd\u4e24\u4f1a\u5728\u5317\u4eac\u53ec\u5f00\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u539f\u94f6\u76d1\u4f1a\u526f\u4e3b\u5e2d\u8521\u9102\u751f\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986119.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986119.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u4e24\u4f1a\u8bb0\u8005\u56f4\u8bbf\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u6df1\u4ea4\u6240\u7406\u4e8b\u957f\u9648\u4e1c\u5f81\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986398.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986398.jpg', note: "2014\u5e743\u67083\u65e5\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u4e24\u4f1a\u8bb0\u8005\u56f4\u5835\u8ffd\u8bbf\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u6df1\u4ea4\u6240\u7406\u4e8b\u957f\u9648\u4e1c\u5f81\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903986823.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903986823.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u8bb0\u8005\u56f4\u8bbf\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u5e7f\u4e1c\u8bc1\u76d1\u5c40\u5c40\u957f\u5019\u5916\u6797\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987511.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987511.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u5e7f\u4e1c\u8bc1\u76d1\u5c40\u5c40\u957f\u5019\u5916\u6797\u4e0e\u6d66\u53d1\u94f6\u884c\u884c\u957f\u6731\u7389\u8fb0\uff08\u53f3\uff09\u524d\u5f80\u53c2\u52a0\u5168\u56fd\u653f\u534f\u5341\u4e8c\u5c4a\u4e8c\u6b21\u4f1a\u8bae\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987748.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987748.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u53d1\u6539\u59d4\u526f\u4e3b\u4efb\u5f20\u6653\u5f3a\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987369.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987369.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u4e24\u4f1a\u8bb0\u8005\u56f4\u8bbf\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4e2d\u77f3\u5316\u8463\u4e8b\u957f\u5085\u6210\u7389\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987921.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987921.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4e0a\u6d77\u8bc1\u5238\u4ea4\u6613\u6240\u7406\u4e8b\u957f\u6842\u654f\u6770\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987935.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987935.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u524d\u4e2d\u56fd\u5de5\u5546\u94f6\u884c\u884c\u957f\u6768\u51ef\u751f\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987385.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987385.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u8054\u60f3\u96c6\u56e2\u603b\u88c1\u6768\u5143\u5e86\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987586.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987586.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4e2d\u77f3\u5316\u8463\u4e8b\u957f\u5085\u6210\u7389\u4e0e\u5168\u56fd\u653f\u534f\u59d4\u5458\u524d\u62db\u884c\u884c\u957f\u9a6c\u851a\u534e\uff08\u53f3\uff09\u524d\u5f80\u53c2\u52a0\u5168\u56fd\u653f\u534f\u5341\u4e8c\u5c4a\u4e8c\u6b21\u4f1a\u8bae\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987421.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987421.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u4e24\u4f1a\u8bb0\u8005\u56f4\u8bbf\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4e2d\u77f3\u5316\u8463\u4e8b\u957f\u5085\u6210\u7389\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903987271.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903987271.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4f4f\u5efa\u90e8\u526f\u90e8\u957f\u9f50\u9aa5\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+photos.push({ big: 'http://upload.stcn.com/2014/0304/1393903989470.jpg', thumb: 'http://upload.stcn.com/2014/0304/thumb_100_75_1393903989470.jpg', note: "2014\u5e743\u67083\u65e5\u4e0a\u5348\uff0c\u5317\u4eac\u94c1\u9053\u5927\u53a6\uff0c\u5168\u56fd\u653f\u534f\u59d4\u5458\u3001\u4f4f\u5efa\u90e8\u526f\u90e8\u957f\u9f50\u9aa5\u63a5\u53d7\u8bb0\u8005\u91c7\u8bbf\u3002" });
+$('#gallery').gallery({
+    photos: photos,
+    maxWidth: 900,
+    minHeight: 520,
+    preload: 1,
+    scrollIntoView: true,
+    hashPageParam: 'g11218009',
+    thumbWidth: 100,
+    thumbHeight: 75
+});
+});
+</script>
+<script type="text/javascript">
+    var commentTpl = '<div class="comment-item">\
+                        <div class="comment-content">\
+                            <p class="cont">{content}</p>\
+                        </div>\
+                     </div>';
+    $(function(){
+        getCommemt(topicid,$('#commentWrapper'),function(json) {
+            $('.comments').html(json.total);
+            if(json.total >0 ) $('.view-comment').show();
+        });
+    });
+    //取评论函数
+    function getCommemt(topicid,wrapper,callback) {
+        if(!topicid) return ;
+        $.getJSON(APP_URL+'?app=comment&controller=review&action=page&pagesize=5&all=1&topicid='+topicid+'&jsoncallback=?', function(json){
+            if(typeof(json) == 'object') {
+                for (var i=0,item;item=json[i++];) {
+                    var html = commentTpl;
+                    for (var key in item) {
+                        html = html.replace(new RegExp('{'+key+'}',"gm"), item[key]);
+                    }
+                    wrapper.append(html);
+                }
+            }
+            // 非评论页不能进行评论操作
+            $('.operate').remove();
+            typeof callback == 'function' && callback(json);
+        });
+    }
+</script>
+<!-- tongji文件star -->
+<div style="display:none;">
+	<script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+	<script type="text/javascript">
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F71eadf6763c330208eb6c988d9474ed5' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+</div>
+<!-- tongji文件end -->
+</body>
+</html>

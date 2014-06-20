@@ -1,0 +1,1764 @@
+http://bbs.hexun.com/stock/post_5_4634840_2_d.html
+1402798166.75
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	自2012.4.19以来的实盘总结-股市大家谈-股市论坛-财经世界-和讯论坛
+</title>
+	<link href="/s/p/a.css?0915" type="text/css" rel="stylesheet"/>
+<link href="/css/bbs2013.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/s/p/h.js?a"></script>
+<style type="text/css">
+.admA,.ipedit{display:none;}
+</style>
+<script type="text/javascript" language="javascript">
+var boardUrl = 'http://bbs.hexun.com/stock/board_5_all_1_d.html';
+var post = {id:4634840,boardId:5,title:'自2012.4.19以来的实盘总结',isTop:false,
+    isEssence:true,
+    isValid:true,isRecomment:true,isLock:false,
+    isMark:true,av:0};
+
+
+function $(id) { return document.getElementById(id); }
+
+var hasCopyMsg = '已复制帖子信息，请按Ctrl+V粘贴到MSN,QQ或Email分享给朋友吧！';
+function getShareText(){
+    var t = post.title;
+    var url = location.href;
+    var txt = (t + '\r\n' + url);
+    return txt;
+}
+
+function fixImg(oimg){
+    if(oimg.processError)return;   
+    var src = oimg.src;
+    oimg.processError = true;                
+    oimg.src = 'http://f200-9.bbs.hexun.com/service/externalImg.aspx?t='+new Date().getTime()+'&src=' + src.encodeURI();
+}
+</script>
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+	<table class="banner" style="width: 100%;display:none" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="adTopLeft" width="784"><a href="http://bbs.hexun.com/" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/100318/150926.jpg" alt="好风光"/></a></td><td id="adTopRight"><ul><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯解和论坛吗</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li></ul></td></tr></tbody></table>
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/stock/board_4_all_1_d.html" target="_top">股市论坛</a> &gt; <a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_top">股市大家谈</a></div>
+<div class="rigser"><form method="get" action="/search" style="display:inline" target="_blank">
+<p><input name="q" style="padding-bottom: 0px; line-height: 16px; padding-left: 2px; width: 150px; padding-right: 2px; height: 16px; color: #8b8b8b; padding-top: 0px;"  type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" /> 
+<label><select style="color: #8b8b8b;" name="type">
+<option value="1">标题</option>
+<option value="16">作者</option>
+<option value="2">正文</option>
+</select>
+</label>  
+<input type="image" src="/clientfiles/post/img/btn_ser.gif" alt="搜索" align="absMiddle" />
+</p>
+</form></div>
+</div>
+<div id="content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding-right:10px;" id="tdContent"><a name="top"></a>
+<div style="height:28px;clear:both">
+<div style="float:left;width:200px;">
+<a href="/newpost.aspx?bid=5" target="_blank"><img src="/clientfiles/post/img/btn_fb.gif" /></a>
+<a href="/newreply.aspx?bid=5&postId=4634840" target="_top"><img src="/clientfiles/post/img/btn_hf2.gif" /></a>
+</div>
+<div class="pagenum"><a href="http://bbs.hexun.com/stock/post_5_4634840_1_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_2_d.html" target="_self" class="current">2</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_3_d.html" target="_self">3</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_4_d.html" target="_self">4</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_5_d.html" target="_self">5</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_3_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="3" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+</div>
+<div class="artcont" style="overflow-x:hidden;width:766px" id="divPosts">
+   <div class="lymod"><a name="#22617549" id='A_22617549'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">51楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-23 16:05:30]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22617549"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:3.79% </p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、很多朋友一买股就想赚钱，但基于目前弱势的事实，现在买股被套是很正常的事情。别看每天都有不少的涨停股，但多半这样的股票都是几日游，怎么上去，就怎么下来。目前的股市还没有赚钱效应，整天盯着股市干着急是无济于事，更多朋友是揠苗助长，认为短线来回可以盈利更多，但股市<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>如农夫种树是一样的道理，在该种树的季节种下去，没必要理会它，等过一段时间来看看，就是棵大树了。如果你隔三差五的发现好沃土，就把树东移西挪，这样树能长大也算是奇迹。<br/>　　2、任何股票都有其运行节奏，短期弱于大盘，不能认为这就是个差股；同样的道理，短期强于大盘，不能认为这就是好股票而兴奋的在高位买入。典型的股票如海信电器，在11年11月到12月中旬，海信大幅下挫21%，远远弱于大盘。但如果你认为这就是个差股票而卖出的时候，那么两个月后你可能会痛不欲生，两个月的时间翻了一倍多，而这段时间大盘仅仅上涨3%。如果到了今年三月份，你终于“醒悟”而认为这是不可多得的股票的时候，终于鼓起勇气买了回来，此后的四个月，你可能听到“股票”两个字就会呕吐，四个月下跌超过45%。<br/>　　3、海信电器这个案例至少可以告诉我们三个道理：第一，使用技术分析你很有可能在11年底割肉出局，而后期的逼空行情也与你无缘；第二，在低位割肉与高位接货的风险一样大；第三，当个股行情处于疯狂上涨，股价大幅超出企业内在价值的时候，正是你应该卖出的时候；当个股下挫，安全边际明显的时候正是买入良机。 
+</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22617549">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22617549&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22617549&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22617549)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22617549)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22624804" id='A_22624804'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">52楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-24 08:12:48]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22624804"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　今日消息与点评：</p><p>　　1、汇丰8月<a href="http://bbs.hexun.com/search/?q=%D6%C6%D4%EC&type=1" target="_blank">制造</a>业PMI初值降至9个月新低</p><p>　　汇丰银行23日发布的数据显示，8月份中国制造业采购经理人<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>(PMI)初值为47.8，创下9个月以来最低，中国制造业产出指数初值从7月份的50.9降至47.9，为5个月以来最低。分项来看，8月份制造业产出转向萎缩，新订单萎缩加速，新出口订单萎缩加速；就业萎缩与上月持平；积压工作转向萎缩；出厂价格和投入价格加速下降；采购库存加速萎缩，成品库存加速扩张；采购数量加速萎缩；供应商供货时间转向拖延。</p><p>　　（吴：这些都是09年、10年量化宽松货币政策的后遗症，归因于中国政府在09年激进<a href="http://bbs.hexun.com/search/?q=%BE%C8%CA%D0&type=1" target="_blank">救市</a>政策以及11年急掉头转向控制<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>、楼市，导致各行业出现严重的产能过剩，而突然性的控制投资以及楼市让企业生产出来的产品无法消化，库存越积越多，企业负担沉重。产能过剩对经济的影响是久远的，现在只有两种最可行的办法改变这种局面，第一是大量建设保障房带动未来消费；第二是减税减小企业负担。）</p><p>　　2、住建部：进一步强化楼市调控政策 </p><p>　　（吴：很多人说中国应该推出房产税，简直就是瞎扯，美国有房产税，那是因为人家房产、土地绝大部分是私有化的，但中国土地并非私有化，在这种情况下，还推出房产税，还让百姓活吗？所以政府是否推出房产税肯定是相当犹豫的，而且最终推出的概率不大。但中国城市<a href="http://bbs.hexun.com/search/?q=%B7%BF%BC%DB&type=1" target="_blank">房价</a>确实是太高了，必须控制。现在住建部把保障房打包给地产商，但还是必须防范地产商保障房商品化，而且还要严格督查保障房的腐败，这两方面做好，要控制楼市问题并不是很大。）</p><p>　　3、红利税等税收政策调整正在论证</p><p>　　李小雪表示，针对会员反映的并购重组、股权激励及红利税的税收负担过重或税率过高的问题，协会组织力量进行了全面调查和深入研究，向监管部门和税收主管部门上报了《关于推动完善上市公司有关税收政策的建议》的报告。</p><p>　　（吴：10%的红利税并不高，国务院应该不要避重就轻，中国的单项税收并不高，但问题出在很多税种是重复征收。重叠起来，中国税收就相当高，国务院应该把重点放在税收的改革上，让<a href="http://bbs.hexun.com/search/?q=%CB%B0%CE%F1&type=1" target="_blank">税务</a>更加合理，对百姓、经济、股市都是利好。）</p><p>　　4、中石油中期净利微降6％ 三大油中料最“优”</p><p>　　中国石油8月23日公布2012年中期业绩，受炼化业务、天然气业务等板块影响，公司中期实现净利润620.24亿元，同比微降6％。不过，相比上半年净利润下降19％的中海油和被<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>预测净利降幅可能超过30％的中国石化，中石油的表现仍然可谓优于同行。业内人士认为，若下半年国际油价继续回升，加之成品油定价机制和天然气定价机制改革能有所推进，三大油下半年的业绩或许不会象上半年这样难堪。</p><p>　　（吴：中石油出现利润下滑的主要原因是进口天然气增加以及进销价格倒挂、及国内成品油宏观调控以及成本上升等因素影响。定价机制改革将改善公司的进销价格倒挂的问题，下半年石油价格出现快速反弹，中石油下半年业绩会出现好转。）</p><p>　　聊聊市场：</p><p>　　1、昨天是七夕节，特意选择这个时候去比较了一下苏宁电器门店以及国美电器、五星电器的客流量。虽然昨日是七夕节，但门店的客人少的可怜，苏宁电器的客人数与促销员人数相当，国美电器的客人数甚至比促销员人数还少，而在五星电器待了5分钟，除了自己，甚至看不到客人。随意比较了一下产品，三星的某一款手机，价格是4700元，而线上价格只需4000。可见，大家电零售企业正受到电商的强力冲击，如果不发展电商，大家电零售企业将死路一条。</p><p>　　2、虽然电商的发展速度很快，但却是不赚钱的行业，亚马逊做到今天这个规模，但利润还是相当微薄，所以从长期的投资角度来看，电商只能是线下的一个补充，真正赚钱的还是要靠服务性更好的线下产品，线上线下互补，这样大家电零售才会有未来。</p><p>　　3、大盘处于10日线做弱势盘整，除非今日能够放量突破10日线，否则短期仍不乐观。<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>明显强势，趋势向好，多条均线已经有向上发散的趋势，希望创业板能够持续强势，带动股市上涨。</p><p>　　4、昨日一根小阳线，而且横盘已有6个交易日，说明大盘已经到了抉择方向的时候了，若放量上涨，则是反转时机；若再次跌破2100点，短期则有可能加速下探。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22624804">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22624804&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22624804&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22624804)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22624804)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22632772" id='A_22632772'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">53楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-24 16:03:25]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22632772"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　仓位：100% 收益:3.56% </p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、哈尔滨大桥搭建不到一年断裂，A股躺着抽搐6日发生“肌腱”断裂。大桥里边惨“豆腐渣”，A股营养不良，“机体水肿”。“好事不出门，坏事传千里”，在经济不好的时候，坏消息总是一箩筐一箩筐的来。</p><p>　　2、人民日报：上市公司分红只够吃早点，指望<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>恐需等百年。如果指望分红，就不应该投资<a href="http://bbs.hexun.com/search/?q=%BF%C6%BC%BC&type=1&Submit=" target="_blank">科技</a>类企业、正处于飞速发展的中小企业，因为他们本身就处于缺资金的阶段。想要分红，就应该尽量投资现金牛企业，或是绩效优良的稳定增长性企业。重点在于你在股市的选择，而非一味的责怪上市企业分红少。</p><p>　　3、至于近期央行表示“不排除使用任何货币政策”，我较为认同罗杰斯的说法，目前政府不应该使用货币政策如降息降准去刺激经济，而应该继续收紧信贷阻止<a href="http://bbs.hexun.com/search/?q=%B7%BF%BC%DB&type=1" target="_blank">房价</a>上涨。同时，我个人认为目前政府应该在财政政策上有所动作，减轻企业<a href="http://bbs.hexun.com/search/?q=%CB%B0%CE%F1&type=1" target="_blank">税务</a>负担。</p><p>　　4、周小川：经济下行压力大 维护金融稳定面临挑战。经过去年以及今年的多次融资，目前银行的承受风险能力大大增强。我想央行已经有了面临风险的心理准备，并且以目前的银行资本充足率，抵御未来不可知的风险，央行已经有了较大的信心。</p><p>　　5、李宁盈利重挫全年预亏 上半年关店1200间。企业管理团队非常重要，稳重、踏实、稳定的管理团队是保证企业健康发展的前提条件。李宁的问题出在管理团队不稳定，而且对经济过于乐观，导致目前大量存货，影响未来经济效益，业绩不行，又动摇管理团队的稳定性，这是恶性循环。不过整的来说，在企业飞速发展过后，总会遇到瓶颈，尤其是在经济环境不利的时候，大部分的企业都会遇到这个瓶颈，这个时候，一个聪明、诚实、有效的管理团队至关重要。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22632772">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22632772&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22632772&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22632772)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22632772)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22642992" id='A_22642992'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">54楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-25 22:26:10]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22642992"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>1957年致股东信（解读版） </p><p>　　在去年的信中，我写到“我认为目前<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>的价格水平超越了其固有的价值，这种情况主要反映在蓝筹股上。如果这种观点正确，则意味着市场将来会有所下跌——价格水平届时将被低估。 【巴认为蓝筹股在1956年出现高估，并判断未来蓝筹股可能会出现回调，让市场价格水平出现低估】虽然如此，我亦同时认为目前市场的价格水平仍然会低于从现在算起五年之后的水平。即便一个完整的熊市也不见得会对市场价值的固有水平造成伤害。”  【虽然市场整体上有所高估，但巴预测五年之后的价格水平仍会高于目前。股市可能会遇到熊市，但短期的熊市不一定会影响到市场的内在价值】</p><p>　　“如果市场的价格水平被低估，我们的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>头寸将会增加，甚至不排除使用财务杠杆。反之我们的头寸将会减少，因为价格的上涨将实现利润，同时增加我们投资组合的绝对量。” 【如果市场出现过分低估，那么巴不排除使用财务杠杆，如通过银行借贷或融资（融资融券功能的一种）；如果市场出现高估，则会派现减仓，同时增加持仓品种以降低风险。】</p><p>　　“所有上述的言论并不意味着对于市场的分析是我的首要工作，我的主要动机是为了让自己能够随时发现那些可能存在的，被低估的股票。” 【巴不预测市场，主要通过对市场整体价格水平的判断得出股市的现有情况，从而更好的去发掘潜在低估的股票】</p><p>　　去年，股票的价格水平稍有下降。我之所以强调“稍有下降”，是因为那些在近期才对股票有感觉的人会认为股票的价格下降的很厉害。事实上我认为，相对股票价格的下降，上市公司的盈利水平下降的程度更快一些。换句话说，目前投资者仍然对于大盘蓝筹股过于乐观。 【蓝筹股的盈利下降幅度要大于股票的下跌幅度】 我并没有想要预测未来市场走势或者是上市公司的盈利水平的意思，只是想要在此说明市场并未出现所谓的大幅下降，同时投资价值也仍然未被低估。我仍然坚持认为，从长期的投资眼光来看，目前的市场仍显昂贵。 【巴认为1957市场显昂贵，但1958、1959年两年市场呈现快速上涨，这一点告诉我们，从价值投资的角度来讲，不能仅认为市场稍显高估就卖出手中股票，如果巴菲特这样做的话，那么未来两年巴菲特会大幅跑输市场，那么可能就没有现在的巴菲特了。】</p><p>　　我们在1957的主要活动</p><p>　　市场的下跌带来了更大的投资机会，因此我们的头寸（包括WORK-OUT的部分）也相应有所增加。所谓WORK-OUT的部分，是指我们对于公司出售、合并、清算等活动所进行的投资。这种投资的风险在于预期的上述活动可能最终没有完成。在1956年年末，我们的一半投资和WORK-OUT 的比例约为70/30，目前则为85/15。</p><p>　　去年我们面临投资量达到可能会需要在一定程度上参与公司决策的情况，其中之一我们达到了10-20%的水平，另外一个我们则拥有5%的股份（注：估计上述提到的公司是非上市公司）。因此这一部分投资将不太会受到市场下跌的影响，相信经过三到五年的努力，这一部分投资将会在风险很小的情况下获得良好的回报。当然，如果市场快速上涨，我们也无法从中获益。</p><p>　　1957 年的结果</p><p>　　在1957年，于1956 年成立的三个合伙企业的表现超越了市场。年初道琼斯<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>为499点，年底则为435点，下跌65 点。考虑股利分红的因素，实际市场下跌了约42点或8.4%。【与市场相比，不能仅仅看大盘的涨跌，还要把分红考虑进去，毕竟大盘的涨跌，是没有考虑分红的，比如，今年大盘的分红比例有2.8%，因此，2012年截至8月24日大盘下跌4.88%，但考虑分红因素，大盘实际下跌2%。】 大部分投资<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>的表现并不比市场要好，实际上据我所知，今年没有任何投资基金获得正收益。而我们三个合伙企业在今年分别获得了6.2%、7.8%和25%的净资产增长。当然这样的数字显然会引起一起疑问，尤其对于前两个合伙企业的投资人而言更是如此。这种情况的出现纯粹是运气使然。获得最高收益的企业成立的时间最晚，正好赶上市场下跌，同时部分股票出现了较为吸引人的价格。而前两个公司的投资头寸已经较高，因而无法获得这样的好处。</p><p>　　基本上，三个企业的投资标的和投资比例都是大致相同的。长期而言我将会满意于获得高于市场水平10%左右的回报率。对于1956年而言，这三个企业都已经超出了这个标准。</p><p>　　对于在1957年成立的另外两个合伙企业在57年的表现基本跟市场的平均水平差不多。相信随着时间的推移，这两个企业的投资绩效也会类似于之前的三个企业。</p><p>　　对于结果的解释</p><p>　　在某种程度上我们之所以可以取得超越市场的表现恰恰是因为今年市场上大部分股票的表现不好。我预计我们将来在熊市的表现会比在牛市的表现要好。如果在牛市的情况下，我将会满足于取得一个相当于市场平均水平的回报率。 【往往业绩优秀的成长性股票能够穿透周期，在熊市中，能大幅跑赢大盘，而周期性较强的股票，遇到熊市或经济不好的时候，会大幅跑输大盘，所以价值投资的优势在于熊市，而非牛市，市场处于牛市当中的时候，价值投资者能跟上市场涨幅就已经相当不容易了。】</p><p>　　我可以明确地告诉大家，我们的投资组合在1957年年底所呈现的价值要比1956年年底好得多，这取决于市场普遍较低的价格和我们有足够的时间去得到那些只有通过耐心等待才能得到的估值大大低于其内在价值的证券这一事实。 【价值是跌出来的】 在前面，我提到我们最大的优势就是拥有多种合伙公司10％~20％的资产。同时我计划把它作为多种合伙公司10％~20％资产的等价物，但这事不能急于求成。很明显，在任何一个购置阶段，我们的主要兴趣是让股票无所为，或是宁愿让股票价格下跌而不是上升。所以，在任何特定时期，我们投资组合的合理比例可能还在“不赢利”阶段，这个政策，尽管需要耐心，但将给我们的未来带来最大限度的长期利润。 【这句话很耐人寻味，这是价值投资的真谛。价值投资者看重的是未来3年或5年后的利润，而非眼前利润，所以对我个人而言，我会对不断上涨、价格已经不断接近价值的股票进行减仓，而买入股票正处于不断下跌、安全边际更大的股票，虽然不断下跌的股票可能会影响短期的账户盈利情况，但这样做可以带来未来的利润最大化。】 我一直试图把我认为可能有趣的各个方面包含进去，尽可能多地透露我们的投资理念。如果对与我们经营过程相关的任何一个阶段有疑问的话，我将非常高兴收到你们的来信。</p><p>　　1958年2月</p><p>　　沃伦·巴菲特</p><p>　　温馨提示：红色部分为个人解读笔记，如果妨碍你阅读，你可以去百度搜索相关内容。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22642992">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22642992&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22642992&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22642992)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22642992)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22647021" id='A_22647021'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">55楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-26 19:28:07]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22647021"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　1958年股票<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>的总体情况　<br/>　　一个运作中等规模<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>信托的朋友最近写到：浮躁易变的情绪是美国人的主要特征，而这一特征造就了1958年股票市场。1958年的股票市场，用“亢奋”这一词形容最合适。 <font style="font-size:16px"><font color="rgb(255,0,0)">【</font></font><font style="font-size:16px"><font color="rgb(255,0,0)">浮躁是人的天性，任何市场都会有浮躁情绪，越年轻的证券市场，浮躁就会更加突出，比如A股】　　</font></font><br/>　　我觉得这句话——无论从业余角度还是专业角度——很好地概括了主导1958年股票市场的心理变化。在过去的一年中，几乎所有的理由都被找出来，以证明市场是可投资的。无疑，相对于以前的若干年，现在的投资者队伍中充斥了更多的浮躁人群。他们持有股票的时间取决于他们这样的想法：多长时间内企业利润可以快速且毫不费力地实现。越来越多的此种人群加入投资大军，股票价格不断地被抬高。虽然不太可能预测这种现象会持续多长时间，但是我相信：这些人群造访的时间越长，他们退出的动能也会越大。　<font style="font-size:16px"><font color="rgb(255,0,0)">【浮躁的心理使得投资股票的人越来越多，股票被不断抬高，一旦市场开始下跌，这些加入股票投资的人也会因为股票下跌而退出股市】　</font></font><br/>　　我无意于预测股票市场，我主要的精力是寻找被低估的证券。公众普遍相信，他们一定可以从股票投资中获利。然而，我深信这种信仰将最终导致麻烦。如果发生，被低估的证券价格（依我看而不是其内在价值）也将无可避免会受到实质影响。　<font style="font-size:16px"><font color="rgb(255,0,0)">【股市持续性的攀升容易让从不接触股市的人误认为股市就是赚钱的机器，从而不管市场价格高低，闭着眼睛买入股票。物极必反，一旦市场转熊，那些还被低估的股票也会受到很大的影响。】</font></font><br/>　　1958年的经营结果<br/>　　在我去年的信中，我曾写道：“我们的业绩，相对而言，可能熊市中表现比牛市中表现更好。因此，能有以上的结果，主要还是我们处在应当表现相对好的一年。如果哪一年市场总体有一个比较大的涨幅，能够赶上平均水平我就已经非常满意了。”　 <font style="font-size:16px"><font color="rgb(255,0,0)">【以我个人对技术分析的了解，在大牛市当中，使用短线策略（技术分析）跑赢大盘的可能性非常小，而只有长线，才有更大可能战胜大盘。价值投资其实也是一样，由于在熊市中持有的价值股表现优秀，那么当遇到大牛市，这些股票能与大盘相当就不错了。】</font></font><br/>　　后句正巧是对1958年这一年的描述，我的预测成为了现实。道琼斯工业平均<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>从435点上升到583点，再加上20个点的红利，总体收益水平是38.5%。整年运作的五个合伙企业获得了比38.5%略高的平均收益率。1957年底至1958年底的一年时间中，他们以市场价值计算的收益率在36.7%至46.2%之间。考虑到事实上有相当一部分资产已经且仍然投资于证券之中，它们从快速上涨的市场得益甚少。我相信这些结果是相当好的。我仍然预测我们的投资结果在下跌或盘整的市场中将高于平均水平，但是在上升的市场中我们所能做的仅是跟上。　<font style="font-size:16px"><font color="rgb(255,0,0)">【在熊市中或盘整市当中，如果不能跑赢大盘，那就说明（价值）投资中在选股方面出现问题】</font></font><br/>　　一个典型的状况　　<br/>　　为了更好地理解我们的操作方法，我想我最好回顾一下1958年具体运作。去年我提到我们最大持股约占我们各个合伙人企业资产的10%-20%。我得指出，我非常乐意这只股票的价格是下跌的或者是保持稳定，这样我们就可以建立更大的头寸。正是这个原因，这只股票也许会在牛市中拖累我们的相对表现。 <font style="font-size:16px"><font color="rgb(255,0,0)">【有些大幅低估的股票很有可能在很长一段时间（也许一年，也许三年）没有任何表现，如果处于牛市当中，那么这些股票仓位较大的话，将会拖累业绩表现】　</font></font><br/>　　这只股票是位于新泽西的Commonwealth Trust Co. of Union City。我们开始购买这只股票时，保守计算，它的内在价值是每股125元。然而，尽管每股收益达到10元，它却有充分理由没有作任何现金分红。其中最大的理由是其被压低的价格仅有每股50元。我们拥有一个管理良好并且具有较强盈利能力的银行，但是交易价格远远低于其内在价值。管理层对我们这些新股东很友好，该笔投资最终损失的可能性很小。　<br/>　　Commonwealth Trust Co. of Union City的25.5%的股权由一家大银行持有。Commonwealth 拥有资产约达5000万美元，约为第一国民银行或位于奥马哈的美国国民银行的一半。这家大银行一直想对Commonwealth Trust Co. of Union City进行合并。出于个人的原因，该并购一直被阻止。但有证据显示，这种情况不会无限期地持续下去。因此我们有了这样的良好组合： ( 1 )很强的防御性特征； ( 2 )建立在一个理想步伐上的优良稳定价值； ( 3 )尽管可能是一年或十年，但是这个价值最终释放。如果后者属实，其价值大概已经达到了一个相当大的数字，即每股250美元。　<br/>　　一年多以来，我们成功地获得了Commonwealth约12 %的股权，平均成本约在每股51美元左右。很明显，我们具有保持股价不动而增持股票的优势。我们所持股份将随着公司规模的扩张而增长，尤其是我们成为第二大股东后，就具有足够的投票权以就合并事宜提供征询建议。 <font style="font-size:16px"><font color="rgb(255,0,0)">【</font></font><font style="font-size:16px"><font color="rgb(255,0,0)">第二大股东可以影响公司决策】　　</font></font><br/>　　Commonwealth大约只有300名股东，平均每月约有两个交易商。所以你可以理解为什么我说这部分股权从快速上涨的市场得益甚少了。 <font style="font-size:16px"><font color="rgb(255,0,0)">【由于股东数非常少，交易非常低迷，如果没有对手盘，那么股票很有可能长期在低位趴着】</font></font><br/>　　不幸的是，我们的确遇到了一些竞价对手。他们将股价抬高到65美元，而我们既不是买家也不是卖家。对于一个并不活跃的股票，很少的购买单子就有可以创造价格如此的较大变动。这就解释这样一个重要性：我们投资组合中的持股，不能作任何“遗漏”。　<br/>　　年底，我们成功地找到了一笔特殊的交易，这笔交易可以使我们以一个富有吸引力的价格收购而成为最大的股东。所以，我们以每股80元的价格售出Commonwealth的股份，于此同时，市场交易的价格大约打了20 %的折扣。 <font style="font-size:16px"><font color="rgb(255,0,0)">【由于股价在短时间内上涨了将近60%，而且巴判断市场还会出现下滑，这时候巴也做了一个波段。】</font></font><br/>　　显而易见，我们还可以在50元左右的价格，耐心地、积少成多地收集股票。虽然我们相对市场的业绩表现可能因此而不太好看，但是我仍将很高兴地进行这样一项目。一旦Commonwealth实现了利润的大幅增长，我们将变得十分富有。因此，当我们基于业绩的长期结果而估计时，我们的业绩表现在任何一个单一年份具有很大的局限性。不过，我认为，投资这样一个低估且有很好（安全边际）保护的项目，是获得证券长期收益的可靠手段　<br/>　　我可能提到，在80元左右收购的买家多年后也将做得不错。毕竟，80元相对于内在价值135元而言的低估程度，与50美元相对内在价值125元的低估程度比较，是不同的。在我看来，我们的资金应当在更好地形势下动作，所以决定以80元卖出再以50元慢慢收集。这种新的动作力度要稍微大一点，Commonwealth占我们合伙企业的资金总量达到了25 %左右。它的低估程度并不比我们现在持有的证券低估程度大多少，但是由于我们是最大的股东之一，我们可以利用这一优势更快地修正低估状态。正是因为这一特别的持股，我们确信在我们持股期间内，我们的业绩一定会优于道琼斯指数。 <font style="font-size:16px"><font color="rgb(255,0,0)">【</font></font><font style="font-size:16px"><font color="rgb(255,0,0)">虽然在增持期间会弱于大盘，但一旦达到控股的阶段，就可以影响公司决策，从而让价格更快的修正低估状态，这样从长期的角度来看，股票的表现最终将一定会优于道琼斯指数。】　</font></font><br/>　　现状　　<br/>　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B9%C9%D6%B8&x=20&y=13" target="_blank">股指</a>越高，被低估的证券就越少。我越来越感觉很难找到足够数量的、具有吸引力的投资机会。我宁愿增加获利了结（work-outs）的比例，但很难找到正确的时间。 <font style="font-size:16px"><font color="rgb(255,0,0)">【</font></font><font style="font-size:16px"><font color="rgb(255,0,0)">由于市场大幅的上涨，这个时候，巴已经有获利了结的念头了，不过市场还不至于高估的离谱，所以，卖出的最佳时点还没有到，巴依然选择继续持股。】　</font></font><br/>　　因此，尽可能地，我试图通过在几个低估的证券上获得较大仓位，以创造获利了结。这种政策将会导致实现我早先预期：熊市或盘整中业绩高于平均水平；牛市中业绩处于一般水平。我希望基于这样的基础被评价。如果你有任何问题，请随时提问。 <font style="font-size:16px"><font color="rgb(255,0,0)">【这句话应该这样理解：由于市场快速上涨，这个时候卖出一部分上涨幅度较大、已经有较大盈利的股票，把卖出股票的现金再买入市场上较为低估的股票。这种“高卖低买”的操作方式将影响牛市的业绩（因为低估的股票往往维持低迷的状态），但能够保证在熊市当中大幅跑赢大盘。】　</font></font><br/>　　沃伦 <a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>　　<br/>　　1959-2-11<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647021">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647021&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22647021&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22647021)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22647021)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22647281" id='A_22647281'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_19974249/_d.html"><img src="http://logo1.tool.hexun.com/169c830-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">56楼：<a href="/u_19974249/_d.html" class="f06c0">semeimei2012</a></span> 发表于：[2012-08-26 19:59:18]</p>
+   <p>[<a href="/u_19974249/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('semeimei2012');" class="f666">发送纸条</a>]<a name="22647281"></a> [<a href="http://blog.hexun.com/19974249/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/19974249/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><p>　　<img src="/editor/emts/01.gif" alt="微笑"/></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647281">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647281&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22647281&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22647281)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22647281)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22647944" id='A_22647944'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">57楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-26 21:37:08]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22647944"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　1959年股票<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>的总体情况<br/>　　道琼斯工业股票平均价格<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>无疑是被最广泛使用的指数，我们用它来描述1959年某种程度错误的情景。该指数从583涨至679，年回报率为16.46%。如果加上已经发放给股东的红利，总回报率将达到19.97%。 【<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>在1957年判断股市显昂贵，但58、59年股市出现了大幅上涨，显然，股市的上涨不会因为市场昂贵而停止上涨，相反，市场一旦高于内在价值，市场更容易上涨而非下跌。】<br/>　　尽管这显示了强劲的市场，然而纽约交易所中下跌的股票要多于上涨的股票数量，分别是710比682。无论是道琼斯铁路平均价格指数还是公用事业平均价格指数都有不同程度的下跌。<br/>　　大多数<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>信托同工业平均价格指数相比，表现要差得多。Tri-Continental 公司，全国最大的封闭式证券投资公司，总资产达到4亿美元，仅仅获得了5.77 %的收益率。其董事长弗莱德-布朗（Fred Brown）在最近一次分析师协会中的演讲中透露了该数据，并以此来描述整个市场特征。<br/>　　“不过，即使我们喜欢我们的组合中的股票，但Tri-Continental 公司1959年的市场表现仍然令人失望。投资者的信心和热情对1959年市场表现发挥了大部分的作用，对于训练于价值投资和长期投资理念的投资经理来讲很难琢磨。也许我们没有将我们的步伐调整合适，但是，我们认为这样我们可以将风险控制在有限的范围内，而这个风险是Tri-Continenta公司投资者的钱所可以承受的。有一个限度的风险比投资的一个机构,例如三,大陆应采取与其股东的钱,而且我们认为该组合是对未来年份的反应。”<br/>　　马萨诸塞投资者信托（Massachusetts Investors Trust），是全国最大的共同<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>，总资产十五亿美元，在当年取得了约9%的平均回报率。<br/>　　你们大都知道，我已经对股票总体水平表示担忧好几年了。迄今为止，这种谨慎看来还是不必要的。按以前的标准，新闻界普遍宣称的蓝筹股，其价格包含了大量的投机成分，存在造成相应的损失风险。也许还有其他估值标准正在进化，将永久地取代旧的标准。但是我不这么认为。也许我是错的，但是我宁愿接受因为过度保守而招致的惩罚，而不愿因为相信树木将长至天空外这样的“新时代”哲学观点而造成的错误结果。后者的错误将可能给资本带来的永久性损失。 【“新时代”是人们为投机照的最好的借口如通讯<a href="http://bbs.hexun.com/search/?q=%C9%E8%B1%B8&type=1" target="_blank">设备</a>时代，网络时代，投资者给与思科，亚马逊，雅虎过高的估值，实际上他们都已经是存活下来的好企业了，更有许多只有收入没有盈利的企业早已消失的无影无踪。网络泡沫破灭催灭了所有人的梦幻】 <br/>　　1959年的经营结果<br/>　　在以前的信中我一直强调过，我建议使用新的考核业绩标准来检验相对业绩（相对于一般市场指数和流行投资信托基金），在下跌或盘整的股市中是否有好的相对经营结果，而在迅速上涨的股市中可能拥有不是让人印象深刻的结果。<br/>　　在1959年我们很幸运地取得相当好的成果，六个合伙企业已取得了总体约在22.3%至30.0%之间的收益率，平均是25.97%。【巴菲特虽然在1957年就开始认为市场存在高估，但巴在1958年、1959年两年当中收益依然不错，可以判断，这两年巴菲特依然是满仓运行，他并没有因为自己的主观判断而减仓操作。可以肯定的是巴满仓或接近满仓操作，其中应该有超出内在价值的品种换成低估值品种的操作】 这些合伙企业的投资组合现在有80％的可比较性，但仍然存在一些差异是因为获取证券或现金的时间、支付给合伙人的资金不同。在过去的几年中，没有哪一个合伙企业持续地站在业绩的最前或最后。而当投资组合变得可比较时，合伙人之间的收益差异正在缩小。<br/>　　总收益的计算基于年初至年末的市场价值，并针对资金的支付或获取进行了修正。该收益率并不是当年实现盈利除以年初资金，这样将有利于衡量不断流动的资产价值变化。该收益率是支付合伙人红利之前的收益率（已在合伙人协议中特别说明），也是支付普通合伙人（巴菲特本人）盈利提成前的收益率，还是扣除营业费用之后的收益率。<br/>　　主要经营费用扣除准则基于的是Nebraska 无形资产税法（Nebraska Intangibles Tax ），该税额所有证券市场市值的0.47%。去年，也就是成立的第一年，这种税已经有效地执行。这样也意味着我们失去了资产的0.47%。<br/>　　投资组合现状<br/>　　去年我曾提到涉及各个合伙企业大约25%的资产一项投资，现在该投资已经上升到约35%。【早年巴的有限合伙公司持股是相当集中的，只有集中投资才能更大程度上取得优于市场的成绩】这是一个非常大且非正常的比例，但我有强有力的理由。实际上，这家公司是一个拥有约三十或四十其他高质量证券的投资信托基金。我们以保守的方法来评估该企业的价值，在资产价值的基础上大打折扣的市场价格上买入。目前我们是该公司的最大的股东，而其他两个大股东也赞成我们对该公司的看法，我们预计有利于我们的情况很快就会出现（指该公司的合并），很可能就是今年。我们的其他资产则被投资在被低估的或同时具有WORK-OUT（合并、清算等预期）性质的证券上。 【巴做work-out也是基于证券被低估的基础上。由于中国证券市场还明显不够成熟，以及信息的虚假性相当猖獗，即使信息是属实的，但在信息公布之前，股价已经反映出了信息的价值。因此，国内很难模仿巴菲特的WORK-OUT的操作模式。】<br/>　　沃伦　巴菲特<br/>　　1960-2-20<br/>　　【读后总结】：<br/>　　1、即使巴菲特在1957年觉得市场较为昂贵，但从他在58、59年的收益率来看，巴菲特的仓位显然是比较高的（大多情况是满仓）。<br/>　　2、巴菲特在早前使用WORK-OUT、控制型、低估非控制型三种操作模式，由于巴菲特常年处于重仓操作，那么巴菲特每年都能战胜市场，主要得益于WORK-out与控制型操作模式，这种操作模式在市场下跌当中起到很好的保护垫的作用。这两种操作模式在当下的A股都不太实际，其实巴菲特在资金雄厚了之后，已经慢慢停止了work-out的操作模式。尤其是他受到搭档查理.芒格的影响之后，他已经开始专注于具有安全边际的消费垄断性股票。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647944">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22647944&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22647944&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22647944)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22647944)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22649291" id='A_22649291'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">58楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-27 07:34:56]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22649291"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　今日消息与点评：</p><p>　　1、温家宝：采取针对措施推动出口增长</p><p>　　（吴：这三年以来，出口遇到前所未有的困难。由于欧美经济危机导致消费能力显著下降，出口出现了下滑，出口在未来依然是很大的问题，因为中国出口的竞争对手在不断增加，如人工成本更低的菲律宾、越南、印度等。如果中国仅仅还是<a href="http://bbs.hexun.com/search/?q=%D6%C6%D4%EC&type=1" target="_blank">制造</a>这些没有附加值的东西，那么中国经济竞争力会逐年下降，是时候鼓励企业创新，增加产品附加值了，只有这样，中国经济的实力才能真正意义上超越日本。）</p><p>　　2、上半年炼油亏损185亿 中国石化净利润大降逾四成 </p><p>　　（吴：中国石化利润大幅下降，主要原因与中石油利润下滑大致相同，都是进出价格倒挂以及国内成品油价格从紧控制导致炼油业务巨量亏损。只有定价机制改革之后，两桶油的利润增速才会有所改善）</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、由于<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>、有色、水泥、机械、金融等权重板块在今年的表现疲弱，导致大盘不断新低。整体上，蓝筹股的估值水平已经到了历史最低水平，当然，还不确定蓝筹股的估值还会不会继续下降，不过，未来3年内，蓝筹股表现很有可能会好于市场。</p><p>　　2、虽然大盘已经跌破2100点，但目前大概有四分之一的股票处于3500点以上的水平，这些股票大都处于<a href="http://bbs.hexun.com/search/?bid=&q=%C4%F0%BE%C6&type=1" target="_blank">酿酒</a>、医药的板块之中，也有很多是弱势板块中的强势个股。去年以及今年，白酒板块利润涨幅较大，但我非常怀疑它的持续性。部分老字号医药股今年股票涨幅也是非常大，透支了未来的涨幅，等蓝筹股估值回归的时候，这两年强势的股票很有可能最多与大盘表现相当甚至比大盘表现差。</p><p>　　3、对于<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>而言，我会尽量去找痛苦的阶段已经过去的板块或个股，这就如发动机才刚刚点火，未来将享受速度与激情。对于那些发动机已经转动很快或者超负荷的板块而言，我会尽力回避。这就好像从地面起飞，我大不了回到地面，但如果从平流层出发，我虽然有可能突破地球引力飞向太空，但也很有可能掉入地面，对于大部分正处于飞速发展的企业来说，“从平流层掉下地面”的居多。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22649291">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22649291&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22649291&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22649291)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22649291)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22657065" id='A_22657065'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">59楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-27 16:29:29]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22657065"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:1.1% （35.41卖出400股全聚德，5.84买入2400股苏宁电器；在熊市当中，重仓持有老字号优质股可能是最佳策略，但在熊市末端或牛市，就并非如此，增加持有低市盈率的成长性股或许更好。）</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、我昨天写“<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>1959年致股东信（解读版）”中写到，虽然巴菲特判断1957年市场显昂贵，但道琼斯<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>在1958、1959年出现了大涨，在那个蓝筹股明显高估的时代，市场不会因为整体市场显高估而出现下跌，相反，市场一旦具有赚钱效应，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者不会管市场是否高估，普通投资者犹如羊群一般涌入市场。颇有点讽刺的是，如今的市场与当年1958、1959年美国市场很对称，现如今的A股，蓝筹股市盈率低的一塌糊涂，银行业5倍的市盈率让市场担忧金融体系是否将遇到灾难。大盘连续创新低，让投资者绝望，投资者不会管市场已经非常低估，他们犹如羊群一般离开股市。</p><p>　　2、我敢肯定，5年之后，市场又会出现1958、1959年美股相类似的情况，届时，现在离开股市的这些投资者又会不管市场高低而涌入股市。</p><p>　　3、在熊市当中，总会有很多理由怪罪于外部条件，比如应该取消红利税，应该降低交易手续费等等，中国股市下跌与这些无关，其实，光交易这一块，与美国的交易成本相比，我们中国交易成本算是比较低的，我打个比方，你做完一个波段，如果盈利30%，100000资金，盈利30000，在美国要交资本所得税6000，而且还不包括交易手续费，但在中国，你只需交100元印花税和手续费。10%的红利税并不算高，要求取消红利税对股市整体情况没有丝毫作用。</p><p>　　4、股市之所以跌跌不休，原因在于目前下跌趋势明显，这是一个惯性，这种惯性会让大部分的机构与散户处于悲观状态，悲观状态就会使市场毫无生气、低迷，那么股市下跌就是很正常的。就如美股是上升市，惯性会让美股继续上涨一样。在政府换届之前，股市应该很难有好的表现，显然的是要等到新政府班子交接完之后才会放出“猛料”。</p><p>　　5、我相信：山重水复疑无路，柳暗花明又一村。 </p><p>　　【温馨提示】明日起，“早盘”停写，专注研究撰写个股（企业研究与后续跟踪）；早盘的“消息解读”放在收盘之后一起写。博客的任何言论以及操作不构成任何投资建议。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22657065">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22657065&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22657065&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22657065)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22657065)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22658801" id='A_22658801'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">60楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-27 19:07:55]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22658801"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<strong>以下为马云点评全文：</strong></p><p>　　令人瞠目结舌的电商"价格战＂终于戏剧般的开始，闹剧般的结束了。作为企业从事人员，这是互联网发展里的活生生的案例，难得的很，我们有必要以此案例做些反思。</p><p>　　1、此事来势迅猛，一夜之间席卷全国媒体。可见互联网时代新媒体的力量之厉害，京东善于利用微博造势的技能，值得很多企业学习。但此事迅速退潮，并且在消费者中失去信任感，更应从中吸取教训。成也宣传，败也宣传。今天的好事在网上流传的不会太快，因为人们对社会的信任度大大降低，社会宁可信坏事有多坏，而不愿意相信今天其实还有那么多好人好事。所以怪，坏，荒诞之事会迅速得到传播。这很悲哀，但确实是这个特定时代的特定的现象，生逢这时代，我们需要学会，接受，适应这种现象。但我相信这个时代会过去的。</p><p>　　兵不厌＂诈＂，在商场上可以偶尔＂诈＂一下竞争对手，作为乐趣。但绝对不能挟持消费者和合作伙伴去诈，更不能直接去诈消费者。做企业，必须要对消费者和合作伙伴要有敬畏和感恩之心。要坚信消费者的＂知商＂远远高于你。</p><p>　　2、从企业领导管理者来说，这次事件更需要我们思考规模企业的管理体系和规范作业。</p><p>　　从京东刘总的微博中得知这次巨大规模的价格战是＂临时动议＂，颇令我吃惊。涉及拥有数万名员工，上百亿销售额，几千家商品合作伙伴的规模型企业发动如此震撼价格战，居然是领导者在一夜之间作出的决定。除了佩服刘总的豪气和勇气外，我实在不知道如何可以做到调兵遣将，配备资源打一场三年的价格战？假如此战是真的，准备是否充分？(第二天货源就断了)，假如不是真的，那么今后领导者将很难做到令行既止，因为员工会被指令的真实性感到困惑。狼来了的故事我们从小就听过无数遍。</p><p>　　不可想像的是刘总在微博里宣称的所有管理者取消休假，豪无知情的被＂我决定。。。。＂紧急参与临时性的大规模价格战。。我估计很难有一家公司，整个管理体系和团队，要看自己老板的围脖，才得知下一步企业该怎么做，了解自己的业务方向。</p><p>　　呵呵我还是对京东的决策执行系统很是佩服的，因为一般如此的大规模活动，两个月的准备是少不了的。</p><p>　　3、价格战是企业竞争战术的一种，但这类战术带有很浓重的上世纪工业时代的痕迹。如今21世纪，我们除了拥有现代技术，<a href="http://bbs.hexun.com/search/?q=%C9%E8%B1%B8&type=1" target="_blank">设备</a>，资金外，我们更需要互联网的先进思想。即使要进行价格战，也要明白是为了谁而战。如果真是为了消费者而进行的价格战，你的对手是传统的即得利益群体和模式，那是一场持久的，单调，生态系统的竞争。假如，你是为了杀死对手的价格战，那是一种杀敌一千，自伤八百的蛮力街头打架。赢的可能性很小，因为靠力气打架的对手会层出不穷。21世纪，我们不能拿者现代化的武器，打得确是长矛斧头般的街头打斗。而且必须问这个问题，假如我们不是用<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者出的钱，而是用自己的积蓄打价格战，您还会打吗？</p><p>　　很多企业今天缺的不是资金，不是技术，而是思想！</p><p>　　所以打架之前，问明白自己为谁而战！凭啥可以战？如何战以及是否能接受最坏的结果。</p><p>　　4、价格战最终吃亏的是消费者。</p><p>　　大家有个误区，觉得价格战对消费者是巨大好处的。但事实上恶性价格战会严重伤害消费者的利益。假如生产厂家在价格战中没有利润，甚至是亏损经营，冲当炮灰，厂商们是不可能提供后续服务的，更不可能对消费者有持续创新。</p><p>　　目前人人都想做<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>商务平台，但作为平台，我们必须明白企业使用我们是为了赚更多的钱。我们必须在捍卫消费者权益的情况下，最大限度的保护生产厂家的利益。这个度的把握是平台成功的重要关键和原则。如果一场价格战是绑架了厂家，＂诈＂了消费者，用投资者的钱打自己认为值得的＂名战＂，这代价实在太大了点。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22658801">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22658801&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22658801&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22658801)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22658801)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22658812" id='A_22658812'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">61楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-27 19:09:11]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22658812"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22658812">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22658812&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22658812&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22658812)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22658812)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22660734" id='A_22660734'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">62楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-27 22:36:37]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22660734"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　1960年股票<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>总体情况<br/>　　一年前，我曾根据1959年从583点上升到679点，即上升了16.4%的道琼斯工业平均价格<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>对有些不完善的市场形势做出了评论。尽管实际上所 有的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>公司当年都有赢利，但其中不足10％的公司能够跟上或高于道琼斯工业平均价格指数。道琼斯公共事业平均指数甚至还有轻微下跌，下跌很大的是铁路行 业平均价格指数。<br/>　　1960年，经济形势倒转过来了。工业股票平均价格指数从679点下跌到616点，下降了9.3％。算上拥有道琼斯工业股票所带来的股息，总损失为 6.3％。另一方面，公共事业平均价格指数显示良好的获利纪录。尽管现在不能得到所有的结果，我估计大约90％投资公司的业绩要好于道琼斯工业平均价格指 数。大多数投资公司大致看起来都在上升5％和下跌5％之间。在纽约股票交易所，653只股票亏损，只有404只股票盈利。<br/>　　1960年的经营结果<br/>　　我在管理合伙<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>方面目标是：长期来看，收益率高于工业平均价格指数。 【即使是年轻股神，他也没有十足的把握能够每年战胜市场，毕竟市场存在很多变数，但一个优秀的投资者却又十足的把握能够在长期战胜市场。】经过这么多年的经营，我相信工业平均价格指数总是和最好的投资公司的收益率不相上下，如果我们不能达到高于工业平均价格指数的话，我们的合伙公司没有任何理由存在。 【如果基金不能取得高于大盘的收益率，那么基金是没有存在的理由的。在中国的这些基金里，有很大的比例是经验不足的海归派，当然，他们的业绩也是有目共睹！】<br/>　　但是我还是要指出：我们可能达到的任何一个优秀纪录，其相对工业平均价格指数的超额收益都不太可能总是稳定的。如果这种纪录可能被实现，那么我们尽可 能这样做：在股票市场稳定或是下跌的情况下，获得高于平均水平的投资业绩；而在股票市场上涨的情况下，获得与平均水平持平或者略低的投资业绩。 【一个价值型股票往往都是如此，在熊市当中，往往大幅战胜市场，但在牛市里，由于股性投机性不强，所以，在牛市里表现也较为一般，他们是熊市当中的英雄】<br/>　　如果有一年我们下降了15％，而市场平均下降了30％，这与我们和市场都上升了20％相比，就算是业绩非常突出的一年。日子久了，我们总会碰到好时候 和坏时候，投资并不因为好时候非常热情或者坏时候非常沮丧而有所得。就像打高尔夫球一样，重要的是以低于标准杆数的成绩去打赢某个球道。在一个标准杆数为 3杆的球道上，如果你的成绩是4杆的话，那么，你的成绩就不如在标准杆数为5杆的球道上你用5 杆击球入洞的成绩。假设我们把标准杆数是3 和标准杆数是5的两个成绩平均起来是不现实的。 【股市投资比的是相对回报，而非绝对回报。<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>用高尔夫球举例真是非常恰当。如果基金经理常年的杆数高于标准杆数，那显然是不合格的基金经理。】<br/>　　以上是我的投资哲学，我把它再次告诉大家，是因为今年我们有许多新的股东成员，我想确保他们能明白我的奋斗目标、我的衡量标准以及我的认知极限。<br/>　　了解这一点，就不难预料在1960年我们应当获得高于平均值的业绩。和工业平均价格指数5.3％的总损失率比起来，1960年我们七家整年运作的合伙 公司平均盈利达到了22.8％。我们合伙公司整整四年的投资业绩如下：（该业绩扣除了营业费用，但未扣除应当支付给有限责任股东的红利，亦未扣除应当支付 给一般合伙人的报酬）<br/>　　合伙公司的运行状况</p><p>　　<br/>　　年份<br/>　　</p><p>　　整年运营公司数<br/>　　</p><p>　　合伙公司利润率<br/>　　</p><p>　　道琼斯工业平均指数涨跌幅<br/>　　</p><p>　　1957<br/>　　</p><p>　　3<br/>　　</p><p>　　10.40%<br/>　　</p><p>　　-8.40%<br/>　　</p><p>　　1958<br/>　　</p><p>　　5<br/>　　</p><p>　　40.90%<br/>　　</p><p>　　38.50%<br/>　　</p><p>　　1959<br/>　　</p><p>　　7<br/>　　</p><p>　　25.90%<br/>　　</p><p>　　19.90%<br/>　　</p><p>　　1960<br/>　　</p><p>　　9<br/>　　</p><p>　　22.80%<br/>　　</p><p>　　-6.30%<br/>　　</p><p>　　<br/>　　在此再次强调，这是合伙公司的最终结果。有限合伙人的最终结果将依据合伙公司的相关协议而定。<br/>　　总的赢利或损失是以市场价格为根据计算出来的。考虑到增加投资或撤回投资的金额后，盈利结果略有不同。后一个结果是基于年末相对年初对合伙公司资产的 清算来实现的。 当然，这不同于纳税结果的计算，因为纳税结果可以从成本上对证券进行估价，只有当证券真正售出后才能知道是赢利还是亏损。<br/>　　混合起来，累计结果如下：</p><p>　　<br/>　　年份<br/>　　</p><p>　　合伙公司利润率<br/>　　</p><p>　　道琼斯工业指数涨跌幅<br/>　　</p><p>　　1957<br/>　　</p><p>　　10.40%<br/>　　</p><p>　　-8.40%<br/>　　</p><p>　　1958<br/>　　</p><p>　　55.60%<br/>　　</p><p>　　26.90%<br/>　　</p><p>　　1959<br/>　　</p><p>　　95.90%<br/>　　</p><p>　　52.50%<br/>　　</p><p>　　1960<br/>　　</p><p>　　140.60%<br/>　　</p><p>　　42.60%<br/>　　</p><p>　　<br/>　　虽然四年只是短短的一瞬间，不足以让我们得出某种推论，但是，从中我们还是可以看出，在股票行情有所下跌或是静态的市场状况下，我们的经营结果会相对 好得多。在这个意义上，事实确实如此，这表明我们的投资组合相对于我们拥有“蓝筹股”的情况下可能要保守的多，尽管确实是不太符合常规。在蓝筹股急剧上涨 的市场行情下，在赶上他们的业绩方面我们可能确实存在困难。 【这是巴菲特的自我肯定，因为那几年蓝筹股非常强势，而巴菲特的持股重心并没有在蓝筹股上，而业绩却大幅跑赢市场，这的确非常不容易。】</p><p>　　合伙公司的多样性 </p><p>　　上面的图表显示我们的合伙公司在不断地壮大，和我们合伙公司群的平均值相比，还没有任何一家合伙公司的业绩一直高于或低于我们，虽然我们努力让所有的 合伙公司在同一种股票上投资相同的数额。但是，每年的经营结果都存在着一些差异。当然，这种差异可以通过把现有的合伙公司并入到一家大的合伙公司的方式来 消除。这样的措施同时还会消除太多细节性的东西以及相当一部分费用。</p><p>　　坦白地说，在未来的几年，我有意沿这个方向发展。问题是各位合伙人对合伙公司的运行方式各有偏爱。没有合伙人的一致同意，什么事情也干不成。</p><p>　　预付款 </p><p>　　好几位合伙人都曾问过是否能增加投资，虽然有此先例，但在经营过程中要想修正合伙公司的经营协议也是很难的一件事，尤其是当有限合伙人中不止一个家庭时更是如此。所以，在混合型的合伙公司中附加利息通常要等到年底才能拿到。</p><p>　　我们确实在每年的经营过程中接受预付款，和合伙公司的利息，利息率是6%。当时，按照合伙人对经营协议的修正，预付款加上利息被添加到合伙公司的资本金上，此后，预付款放入公司的损益表中。</p><p>　　桑伯恩地图公司 </p><p>　　去年，有人提到占到我们净资产35％的一笔数额很大且不同寻常的一项投资，同时，人们还议论说，我希望这项投资包括在1960年度投资中。这种希望被物化了。可能你对这么大数目的投资历史感兴趣。</p><p>　　桑伯恩地图有限公司从事出版以及美国所有城市详细地图的不断修正工作。比如说，仅奥马哈的地图册就可能重达50磅，对每一处的<a href="http://bbs.hexun.com/search/?q=%BD%A8%D6%FE&type=1&Submit=" target="_blank">建筑</a>都做出了仔细而准确 的说明。通过用糨糊粘住需要修改的地方对原地图进行修正，在涂过糨糊的地方标明新的建筑物的名称、业主的变换、新的消防设施的配置、建筑材料的变换，等 等。这种变动几乎每年都要在地图上标出，当地图不能进一步通过用糨糊粘住需要修改的地方时，新的地图就要重新出版一次，地图每隔20年 ～ 30年就要更新一次。对于奥马哈的消费者来说，每年花在修正地图上的费用大约有100美元。</p><p>　　详细的信息表明街道下面总水管的直径，消防栓所在位置，屋顶的构成等，所有这些对火险公司至关重要。位于中央办公室的<a href="http://bbs.hexun.com/search/?q=%B1%A3%CF%D5&type=1" target="_blank">保险</a>业的各个部门，可以通过遍及 全国的代理人对企业进行价值的评定。其理论是“一幅照片顶得上一千句话”，这种价值的评定方法将决定风险是否得到正确的估价，这个地区大火灾发生的频率， 合理的再保险程序等。尽管地图也出售给保险业以外的顾客，比如说像一些公用事业、抵押公司和评税权威人士，桑伯恩公司大部分的业务对象是大约30家保险公 司。</p><p>　　75年来，桑伯恩公司一直以一种多少有些垄断的方式进行经营，每年实现的利润几乎全然不受经济衰退的影响，不需任何销售方面的努力就能达到。在公司的 早期经营阶段，保险业担心桑伯恩公司如此高的利润，会使得许多保险公司的重要人物进入到桑伯恩公司的董事会，担当公司的监察人员。</p><p>　　20世纪50年代早期，保险业一种被称为“梳理”的竞争性方法对桑伯恩公司造成了巨大的冲击，使得地图业从20世纪30年代的后期年平均50多万美元 的税后利润，下降到1958年和1959年的不足10万美元。考虑到这个阶段经济向上偏压的特点，这种竞争性方法使得这家规模大，且具有稳定赚钱能力的大 商业几乎全军覆没。</p><p>　　然而，在20世纪30年代早期，桑伯恩公司开始积累证券清单。这对商业来讲没有资金要求，所以，任何未分配的利润都可以被用于这个计划。一段时间之后 大约投资了2500万美元，一半投资于<a href="http://bbs.hexun.com/search/?bid=&q=%D5%AE%C8%AF&type=1&x=20&y=8" target="_blank">债券</a>，另一半投资于股票。这样特别是在最近10年，在地图业经营不景气的时候，证券清单却赢利丰厚。</p><p>　　下面让我解释一下这两个因素间极端的分歧。1938年，当道琼斯工业指数在100 ～ 120之间的时候，桑伯恩公司的股票以每股110美元的价格售出。1958年，当道琼斯工业指数在550左右时，桑伯恩公司的股票的价格只有45美元。但 是与此同时，桑伯恩公司的证券清单从每股20美元上升到每股65美元。实际上，这就意味着，1938年购买桑伯恩公司股票的人在商业和股票市场萧条低迷的 状况下，为报纸业90美元一股的股票上添加了积极价值，在1958年强有力的经济气候下，对同一家出版业股票的估价则是股价不足20美元股票，购者不愿意 多付70美分，因为投资出版业的证券清单参加合伙经营却没有任何收益。</p><p>　　这是怎么一回事儿呢? 不论是1938年还是1958年，桑伯恩公司拥有很多对于保险业来讲有实际存在价值的信息。再现这么多年来他们收集的详尽信息，将花费他们上千万美元。尽 管保险公司实行了“梳理”政策，5亿多美元的火灾保险费由“制图”公司承担。但是，出售、包装桑伯恩公司的产品、信息的手段多年来一直未变，最后这种惯性 从收益中体现出来。 </p><p>　　证券清单经营得如此成功这件事情，在大多数董事的眼中对出版业东山再起的必要性减少到最低限度。桑伯恩公司每年的销售额大约在250万美元，同时还拥 有价值700万美元的可销售债券。来自证券清单的收益是丰富的，公司没有任何经济上的后顾之忧，保险公司对地图的价格感到非常满意，股东们依然在分红。但 是，这些股息在8年的时间里削减了5次，尽管我可能永远都不会找到任何适合削减员工工资和董事们以及委员会费用的建议纪录。</p><p>　　在我进入到董事会以前，14位董事中有9位是保险业中身居要职的人，在10.5万股已公开发行的股票中他们只拥有46股。尽管他们在一些大公司里都担 任重要职位，公司还是建议用金融手段使他们至少购买一定数量的股票，在这个群体中拥有股票最多的是10股。在几种情况下，与他们所拥有的投资组合相比，保 险公司所拥有很少的股票数量仅仅是象征性的一点投资。在过去的10年中，在任何和桑伯恩股票相关的交易中，保险公司都是惟一的卖主。</p><p>　　第10位董事是公司的律师，他持有10股股票；第11位董事是一个银行家，他也拥有10 股股票，他清楚地意识到公司所存在的问题并积极地把问题指出来，后来他又购买了一些股票。接下来的两位董事是桑伯恩公司的高级职员，他们拥有大约300股 股票，这两个高级职员有很强的工作能力，他们意识到了公司中存在的问题，但是，董事会只安排他们担任一些辅助性的工作。最后一名董事是桑伯恩公司故去的总 裁的儿子，总裁的遗孀拥有15000股股票。</p><p>　　1958年后期，故去的那位总裁的儿子对公司的趋势感到不满意，要求担任公司的第一把手，在他的要求遭到拒绝后，他向公司递交了辞职书，公司准予了他 的辞职。随后我们出价购买他母亲所拥有的股票，我们做成了这笔交易。当时另外还有两笔数量很大的股票，一笔大约有1万股，另一笔大约有8000股。这些人 对当时的情况很不满意，非常希望撤出他们在报纸业的投资，我们也是如此。</p><p>　　最后，通过市场公开购买的方式，我们拥有的股票数量达到24000股，以三家为代表的总量上升到了46000股。我们希望能把这两种商业分开，实现有 价证券的公平价值，努力工作以重新恢复出版业的赚钱能力。看起来这是一个真正的机会，我们可以通过利用桑伯恩公司丰富的原材料资源，再加上利用<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>技术把 这个数据转换成顾客利用率最高的形式来增加地图的利润。 【这笔投资是巴菲特典型的控制型投资，通过控制该企业经营，从而达到企业利润的最大化。】 <br/>　　董事会中对于任何形式的变动，都会有很多人表示反对，尤其是当这种变动是由一个“局外人”发起的时候，情况更是如此，尽管公司的管理完全符合我们的计 划，管理专家布斯、艾伦和汉密尔顿为我们推荐了一个类似的计划。为了避免代理人之间发生争论，以及由于桑伯恩公司大部分的资金都投入了蓝筹股而造成时间上 的拖延，按照当时的价格，我们对蓝筹股并不看好，我们制定出这样一个计划，即所有想撤出的股东都按照公平的价格结清。证券交易委员会对这一计划的公正性表 示赞同。桑伯恩公司大约70%的股票，其中涉及1600名股东的半数，都按照公平价格转换成了有价证券组合。最后，出版业只剩下125万美元的政府及市政 公债作为准备金。公司潜在的100多万美元的资金收益税被免除。留给未走的股东们的资产名义价值也有所上升，每股股票的赢利额有大幅度提升，股息率也得到 了提高。 【相当于一次公司股票<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%D8%B9%BA&x=16&y=13" target="_blank">回购</a>案例】</p><p>　　有必要说一下，上面这个小小的情节剧对这项投资经营做出了非常简短的描述。但是，考虑到我们的有价证券运行情况以及在短时间内，比如说一年的时间，检 验我们的运行结果的无效性，它却强调了保守秘密的必要性。这种“可操纵性局面”是非常罕见的。我们基本的生意是买入估值偏低的债券，然后在估值偏低的行情 被调整过来，再加上在“特殊情况”方面的投资，即利润的获得是依靠大家的努力而不是市场行为的情况下再把股票抛出去。在这个意义上，合伙公司的资金继续上 升，在“可操纵性局面”中能够得到更多的机会。 【“特殊情况”方面的投资应该指的是控制型投资模式，不管是什么模式上的投资，其理念是一样的，就是买入估值偏低的股票，等股票价格高估的时候，选择卖出股票。】</p><p>　　大约在一周之内，审计师将把你的财务决算以及税款信息寄出去。如果你对他们的报告或是我的信有任何问题的话，一定要告诉我。<br/>　　沃伦 巴菲特<br/>　　1961-1-30</p><p>　　温馨提示：红色部分为个人解读笔记，如果妨碍你阅读，你可以去百度搜索相关内容。</p><p>　　【读后总结】：</p><p>　　1、价值投资者是熊市中的英雄，在牛市中，很难辨认谁是价值投资者，谁是裸泳者。但在熊市中，从盈亏情况来看，一看便知。</p><p>　　2、巴菲特早前的投资非常集中，其中控制型的仓位达到30%~40%，往往集中于一个股票当中。通过影响公司管理，从股东价值出发，通过清算、收购、股票回购等方式，提高股东价值。</p><p>　　3、复利是第九大奇迹，这就如滚雪球一般，随着时间的积累，雪球越滚越大。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22660734">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22660734&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22660734&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22660734)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22660734)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22661404" id='A_22661404'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_19982258/_d.html"><img src="http://logo2.tool.hexun.com/1b2e730-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">63楼：<a href="/u_19982258/_d.html" class="f06c0">方正之星</a></span> 发表于：[2012-08-27 23:48:34]</p>
+   <p>[<a href="/u_19982258/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('方正之星');" class="f666">发送纸条</a>]<a name="22661404"></a> [<a href="http://blog.hexun.com/19982258/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/19982258/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　只有不断总结 才会进步</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22661404">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22661404&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22661404&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22661404)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22661404)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22668521" id='A_22668521'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">64楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-28 15:07:53]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22668521"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:2.26%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、蓝筹<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%D8%B9%BA&x=16&y=13" target="_blank">回购</a>第一炮打响，宝钢宣布不超过5元的价格进行回购，回购的资金不超过50亿元。上次苏宁也有相类似的举动，不过苏宁是属于大股东增持，而宝钢是回购，回购对股票的利好程度将明显更大，因为回购会使股本缩小，增加每股收益，是双向刺激股价上涨。宝钢的此次回购大大增加了市场信心，回购第一炮打响，很有可能市场会出现连环炮。蓝筹股短期内可能会有所动作。</p><p>　　2、午后两桶油出现放量拉升，原因可能有三个：第一，成品油定价机制有所眉目；第二，页岩气项目获得国务院许可；第三，油价再次上调。当然也有可能受宝钢的影响，两桶油也有低位回购的冲动也说不定。不过回购的可能性不是很大，因为中国石油与宝钢情况有很大不同，钢铁业目前正处于整顿期，业务扩展性较低，短期内所需资金量不大，所以宝钢有多余的钱就可以去回购股份，但中国石油目前正需要资金，前段时间也有融资的动作，目前中石油正在扩建销售网点以及海外并购，所以中石油并没有多余的钱进行回购。</p><p>　　3、由于页岩气板块表现一般，所以两桶油的拉升应该与页岩气无关，从石油板块来看，泰山石油、龙宇燃油出现了涨停，他们均是成品油购销为主，所以，今天石油的拉升很有可能与油价上调或成品油定价机制有关，至于是哪个，就要看今晚或明日的消息面了。</p><p>　　4、中石化董事长傅成玉昨日终于憋不住出来抱怨了，认为机制不透明，即使价格调整了，“大家都不知道为什么要变”。他又指出，“炼油厂厂长都不好当，因为愈炼就愈亏，愈亏就愈少炼”。因此他认为，成品油价格机制有改革的必要，只有当价格市场化，集团才能把低能耗、高产出率等优势体现出来。傅董的话说到重点上了，价格市场化，对石油企业、对百姓都有好处。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22668521">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22668521&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22668521&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22668521)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22668521)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22684860" id='A_22684860'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">65楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-29 16:44:47]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22684860"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:2.28%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、面对跌跌不休的市场，其实，我想要写的东西不是更少，而是更多。无疑，这个市场已经让绝大多数的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者绝望。在熊市当中，我们可以搬出一大堆的悲观理由，来证明现在离开股市还不晚；但在牛市当中，我们至少也有100种乐观情绪让我们在高位博傻。这就是人性的弱点，自从资本市场存在的一百多年以来，这种人性弱点就始终在股市发挥的淋漓尽致。</p><p>　　2、股市下跌，很多专家以及知名博主搬出“中石油原罪IPO”的言论，认为股市下跌的主因在于中石油为代表的企业高价发行。这种言论看似有道理，但经不起推敲。中石油发行价为16元，发行市盈率为22倍，在07年的疯狂年月，22倍的市盈率算是低的，但上市首日，股价被推高至48元，这完全是投资者自己齐心合力把匕首抛向高空，但等匕首快速下落的时候，却无人敢接。这完全是A股市场的投资者疯狂所造成的结果，同样是中国石油，H股的中石油却要理性的多，自从08年的低位以来，中石油H股已经翻了一倍多，而中石油A股却还在不断新低，市场用了将近5年时间来弥补当时疯狂所犯下的错。</p><p>　　3、市场总是惊人的相似，07年的疯狂，一定会在未来重演。</p><p>　　4、我不想高举价值投资的大旗，因为，很少人会因我说价值投资如何如何好而真正去执行价值投资。事实上，作为散户，使用技术分析做股票，90%的人最终会亏损离开股市，而即使做价值投资，也不见得盈利的概率会有多高，除非你的性格适合价值投资，你愿意花很大的精力去学习总结扩大自己的能力圈。</p><p>　　5、我个人认为，现在正是投资的时候，投资的对象是那些负债率低，有丰富的现金流、有良好竞争优势的企业。因为这样的企业正是在市场环境不好的时候才会有大作为，正是这个时候，他们才有机会扩大市场，一旦市场转好，他们的利润就会出现大幅提升。到时候，股价必定会快速反映出他们的价值出来。投资应该就是这么简单，不要去管在慢慢熊市还有多少跌幅，我们的目的是在熊市当中买到一个相对便宜的价格，而在牛市当中，卖出相对较高的价位。不要去想买在最低，卖在最高。现在应该是大部分股友处于被套当中，我只能说，如果你持有的股票基本面不差，现金流稳定，负债率不高，那么就应该坚定持有，等待市场回暖，熊市有多熊，牛市就会有多牛，这是市场的规律。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22684860">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22684860&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22684860&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22684860)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22684860)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22684880" id='A_22684880'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">66楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-29 16:45:53]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22684880"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22684880">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22684880&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22684880&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22684880)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22684880)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22700953" id='A_22700953'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">67楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-30 17:39:37]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22700953"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:1.94%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、今天下午一直在看商业<a href="http://bbs.hexun.com/search/?q=%B0%D9%BB%F5&type=1" target="_blank">百货</a>的几个个股年报，综合比较了一下几个较为看好的商业百货股。再结合股价的表现来看，我认为商业百货板块目前已经到了可以重点关注的时候了。大多数的商业百货股这两年下跌幅度非常大，跌幅超过50%一大把，但大多数的商业百货个股这两年的利润降幅并没有这么大，也就是说市场过分担忧商业百货的未来发展能力。由于电商这几年的发展，让<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者担忧未来零售业的发展，这种担忧是正常的，不过电商对零售的影响有限，从美国市场来看，线上的业务只占到10%，这也是为什么沃尔玛根本不担心电商对其业务的冲击。</p><p>　　2、由于目前中国消费习惯的原因，在线上消费只占不到3%，这个比例虽然会在未来不断提高，但提高的速度是非常缓慢的，对零售业的影响是非常小的，而且中国人喜欢热闹，我认为传统的零售业还将会呈现快速发展。</p><p>　　3、转融资出台，券商板块大涨。融资炒股得以增加市场交易量，利好于券商；同时融资也可以增加银行利息收入，所以今天银行板块也表现不错。证监会在这个时候推出转融资业务，我们应该掌声响起，至少在未来5年内，转融资对普通股民来说，整体会出现正面效应，毕竟目前大盘<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>已经非常低了，但我不得不说，融资炒股是一把双刃剑，赚钱是可以赚的更快，但同时亏钱也会越快。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22700953">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22700953&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22700953&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22700953)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22700953)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22714574" id='A_22714574'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">68楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-31 17:02:20]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22714574"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:1.41%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、最近一直有不少股友问我：这个大盘到底是怎么了？说实话，这样的问题，难倒我了，我非常不情愿回答这样的问题，因为我如果仅仅脱口而出说是因为“转融通”、“解禁潮再袭”这些我认为是废话的解答内容，我感觉会对不起信任我的股友，因为，这样的回答太牵强了，我敢肯定，郭主席也很想知道股市下跌真正的主因。</p><p>　　2、即使知道大盘下跌的原因，那又如何呢？我们无法改变这个事实。就像潮汐一样，一般的渔民虽然未必知道这种涨退潮背后的主因，但他们知道如何利用这个现象进行捕鱼。但即使我们知道潮汐是因为太阳与月亮的引力造成的，我们也无法改变潮汐的规律。我们只能通过经验判断退潮时什么水位是比较低的，涨潮时什么水位是比较高的。这个道理运用在股市再恰当不过，在大盘“退潮”时，我们无法知道大盘会跌到哪，但通过我们的经验，我们大概可以判断出大盘哪个<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>是比较低的，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>就是在市场“退潮”的时候找一个便宜的价格进场，然后等“涨潮”时脱身。虽然我把投资说的过于简单，但从事投资，要想赚钱，就必须从这个理念着手。想要在海上的每个浪花当中赚取微利，那么也可能在海中呛水。</p><p>　　3、海水潮汐是因为太阳月亮的万有引力导致的，弹簧摆动是因为有弹性势能。那么股市涨跌也必定有一种“力量”，这种“力量”导致大盘由“价值--高估--价值--低估--价值”这样不断摆动。其实道理谁都会讲，大盘是这样摆动的大部分投资者也知道，那如何去判断是低估还是高估呢，判断大盘是高估还是低估有很多的方法，其中最重要的判断依据是判断市场心理，市场心理永远都不会改变，永远处在悲观--乐观之间摆动。不管是在05年，还是08年，只要市场处于极度悲观的时候，股神们认为还有十八层地狱的时候，那就说明大盘离底部不远了；同样的道理，不管是2001年、2007年，市场处于极度乐观的时候，认为大盘万点不是梦的时候，那也说明大盘离顶部不远了。</p><p>　　4、最近打开财经媒体，老是看到“民间股神们”发表对大盘的极度悲观看法。我非常奇怪，为什么在大盘6124或3478点的时候没有见过他们发表类似的看法，既然他们没有先知先觉的能力，那在2000点附近的大盘，我们为什么还要相信这些所谓的“民间股神们”的悲观言论呢？</p><p>　　祝大家周末愉快！ </div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22714574">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22714574&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22714574&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22714574)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22714574)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22715101" id='A_22715101'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">69楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-08-31 18:23:38]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22715101"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　8月份初大盘触及2100点之时迎来了一波反弹，反弹幅度达3.35%，最高上涨75点。但中下旬在金融、地产等权重板块的拖累下，大盘开始跌跌不休，跌破2100点整数关口，最终收于2047,整个8月份下跌2.67%。</p><p>　　其实，这已经是大盘连续四个月下跌，自从04年以来，这是首次出现连续四个月下跌的情况。四个月大盘累计下跌14.56%。在这四个月的下跌过程中，有相当一部分股票跌幅至少在三成以上，也有一小部分跌幅跌幅惨重，幅度超过50%以上。不过在这四个月当中，我们也发现部分板块有上升之势，比如本栏一直在关注的<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>器件板块，这个板块我之前在博客有提到，这个板块最痛苦的阶段已经过去，受益于欧美<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>经济的复苏。这个板块的强势股如光韵达四个月上涨51%，科力远上涨46%，歌尔声学上涨42%，深天马A虽然四个月累计涨幅不大，但8月份上涨幅度高达45%。这个板块的大部分股票在近几个月远强于大盘表现。</p><p>　　本栏的示范账户也刚好经历了这“冰川”期，示范账户是从4月19日的2380开始，虽然大盘反弹到5月7日，上涨了3%，高点达到2450，但在5月7日示范账户却出现2.77%的亏损，也就是说示范账户的前两周，示范账户跑输了大盘5.77%，不过由于本栏及时做出了调整，操作风格做了适当的改变，在接下来的4个多月里，大盘下跌14%整，而本栏盈利了1.4%，跑赢了大盘15.4%，如果从5月7日开始算起，相当于跑赢了大盘21%。在这个过程当中，“防守胜于进攻”的道理让我更加的深刻。</p><p>　　这四个多月以来，虽然本栏示范账户跑赢了大盘，但由于账户持股较为集中，也不排除在未来出现变数。即使未来充满变数，但从价值的角度来讲，目前的持股结构要优于之前任何一天，本栏对未来充满期待，对大盘后市也乐观十足。与市场流行观点不同，我认为大盘估值下降，安全系数越高；而大盘估值上升，就越应该谨慎。<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22715101">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22715101&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22715101&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22715101)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22715101)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22727553" id='A_22727553'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">70楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-01 23:45:33]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22727553"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　我们生意的境况</p><p>　　一个聪明头脑对以上的数据进行合理分析的结果很可能会导致错误的结论。</p><p>　　头十年的结果并不能说明这种情况可能会在未来的十年中得到复制。同样的业绩也许会被某个以$105,100起家的25岁的毛头小伙子复制，同时<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>的情况还要能够一直合适于他的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>哲学从而使他能够靠执行这一投资哲学而获得成功。</p><p>　　而这种情况将不太可能被一个脑满肠肥的36岁的管理着$54,065,345合伙人资金的人所复制，并且他脑袋中关于可以照此哲学执行的投资的点子都还不及25岁时的五分之一甚至十分之一。</p><p>　　Buffett Associates,Ltd.（我们合伙企业的前身）于1956年5月5日成立于密苏里西岸。初始的支持者包括我的四位家庭成员，3个我的好友和$105,100的启动资金。</p><p>　　在当时，以及在随后的几年中，为数不少的证券在以低于“对私人拥有者而言的合理价值”出售。我们也获得了不少的加油满意收益率的WORKOUTS。当时我们面临的问题不是买什么，而是买哪个。因此我们往往持有15至25只证券，并充满热情地期待它们中的任何一个可能会给我们带来的惊喜。</p><p>　　而在近几年中，情况发生了很大的转变。我们目前发现只有很少的股票能够被我理解，并且具有足够的额度以便我们购买，同时亦能给我们在提供在长期中战胜道琼斯<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>10%的预期。 【随着市场的上涨，很多股票已经充分体现了股票的价值，那些预期能够战胜大盘10%的股票是越来越少。】在近几年中我们往往一年下来只能发现两三个投资对象符合上述标准。幸运地是有时我们充分地利用上了它们。虽然如此，在早期的岁月中，同样的努力往往能给我们带来数十个同样的投资机会。相比而言，三个新的因素出现了：1）一个多少变化了的市场环境；2）我们的资金基数的扩大；3）我们面临着更加激烈地竞争。</p><p>　　显而易见的是，基于几滴机会之水的生意将比基于一股稳定的机会之泉的生意要有着更加惨淡的前景。这种生意将会面临机会之水完全断绝的危险。</p><p>　　目前的状况将不会促使我进行我自认为在我能力以外的投资（我个人信奉的哲学不是：如果你不能征服他们，那就加入他们。相反我信奉的是：如果你不能加入他们，那你就去征服他们。）。因此我不会投资那些含有不能被我理解的<a href="http://bbs.hexun.com/search/?q=%BF%C6%BC%BC&type=1&Submit=" target="_blank">科技</a>因素，而且这些因素对生意具有重大影响的生意。我对半导体和集成电路的了解程度就跟我对于一种叫做chrzaszcz的东西的交配习惯的程度一样（有兴趣的人可以去查一查，这是一种波兰的小虫子。如果你觉得对于读出它的名字有困难，你大可以把它念成thrzaszcz）。 【不熟不做，这是<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>的最重要的原则。】</p><p>　　除此之外，我们亦不会跟随目前市场流行的一种投资风气，即尝试通过对市场波动而导致股票价格大于其商业价值来获利。此种投资方法在近年来也确实创造了实实在在的收益，并且这些收益往往是在短期获得的。关于这种投资技巧背后的坚固性我即无法否定也无法肯定。这种技巧并不能够完全获得我认识层面的认可（也许是我的偏见使然），同时与我的脾气完全背离。我不会将自己的钱通过这种方式进行投资，所以我也不会用你们的钱通过这种方式进行投资。</p><p>　　总而言之，我们将不会在一个很有机会出现人性的失误的投资方式中寻找利润，哪怕预期的利润非常诱人。 【通过市场波动来谋取市场的短期收益，很容易出现人性的失误，如该止损而未止损，高位不断追高等等这些人性的失误将可能导致股票永久性损失。】</p><p>　　我可以向你们保证的是，我将会努力使得未来产生的每一滴机会之水都被得到最大的利用，如果有一天机会之水完全干涸，你们也将会在第一时间被告知，然后我们可能会对此做出新的选择。</p><p>　　对于1966年结果的分析</p><p>　　我们的四个投资种类在1966年都有良好的表现：</p><p>　　Category Average Investment Overall Gain</p><p>　　Controls $17,259,342 $1,566,302</p><p>　　Generals-Private Owner 1,359,340 1,004,362</p><p>　　Generals-</p><p>　　Relatively Undervalued 21,847,045 5,124,254</p><p>　　Workouts 7,666,314 1,714,181</p><p>　　Miscellaneous,including</p><p>　　DVANCE\d6U.S.Treasury Bills 1,332,609 (18, 422)</p><p>　　Total Income $9,390,677</p><p>　　**s:General Expense 483,976</p><p>　　Overall Gain $8,906,701</p><p>　　控制权投资</p><p>　　对于取得了控制权的公司的投资情况，在1966年主要有三方面的收益：1）所拥有的公司在当年所获得的利润；2）在公开市场买入的被低估的我们拥有控制权的公司的股票；3）我们控制的公司所持有的证券的未实现增值。加在一起总共是$2,600,838。</p><p>　　由于在上一年的信中我已经提过的原因（注：即主要是未实现的增值部分不能计入当年的收益）。我们实际上在这一部分的账面收益只有$1,566,058。</p><p>　　幸运的是1966年我们有相对高的净资产比例投入在了实际的生意而非市场的股票上。同样的资金如果投在市场上的话将很可能意味着全年都将持续地发生损失。上述情况的发生并不是我有意为之，所以如果市场有了显著的上涨这一部分的投资将很可能会拖累我们的整体表现。 【对于取得控制权的股票，权益是按照成本法来算的，也就是说即使控股的股票是下跌的，但巴菲特合伙公司由于能收到分红或现金股利以及卖出股票而得到投资收益，那么巴菲特在这一份投资中是能取得正收益的。（0~20%按成本法（针对非上市公司），20~50%按照权益法（针对非上市公司），50%以上的持股比例按照成本法（上市公司与非上市公司）。】</p><p>　　私人拥有的普通股投资</p><p>　　自从1965年年中以来，我们就已经开始购买一家售价远远低于其价值的证券。我们希望我们将最终投入一千万美元或更多的钱。该公司经营的不同的几种生意都是我们可以了解的，我们也可以通过公司的竞争者、供货商、前雇员等等了解公司的竞争优势和劣势。该股票所面临的奇特的市场情况让我们希望可以在不干扰其股价的情况下耐心地买入足够分量的股票。</p><p>　　在1965年年末我们投资了$1,956,980，其市场价值为$2,358,412，即$401,432贡献到了1965年的盈利当中。之后由于股价上升，我们并未买到符合预期的分量，且在1966年有另一家我们从来没听说过的第三方对该公司提出了股权收购，于是我们只好将其卖出，总共实现的收益为$1,269,181。 【由于第三方提出股权溢价收购，今年长期股权投资所获得的投资收益非常高，获利74%。这种投资在市场表现更好的时候，获利效应将更好。】</p><p>　　我想说的是，虽然实现的收益对1966年的业绩产生了正面的影响，但是如果我们能够有机会继续以一个很低的价格买入更多的股票，那么总体而言我们将在未来实现更多的收益。</p><p>　　价格被低估的普通股投资</p><p>　　我们在这一部分的投资取得了史无前例的好成绩，这主要归因于其中一笔在1965年年底和1966年年底都占我们投资额度最大的一笔投资的表现。在1964-1966年三年中，这笔投资都持续地战胜了道琼斯指数。也正是因为这笔投资的吸引，我才在1965年的11月声称我们可能将净资产的40%都投入到某一只证券上。我们也在其上花费了相当的努力，以对其方方面面进行评价，并对我们认为其优于其它的投资机会的假设进行检验。这种持续地评估和对于不断变化的各个投资标的的价格的比较对于我们的投资运营来说是至关重要的。 【巴菲特也再此进行滚动操作，虽然整体市场估值不断上移，但巴菲特对大幅盈利之后的股票进行减仓，转而加仓买入那些低估的标的，而这种低估标的为将来整体收益提供能量泵的作用。】</p><p>　　当然如果未来我们能够告知各位我们对于价格被低估的普通股的投资组合是由分布于10个不同的产业中的15只股票组成的，并且他们都跑赢了市场，那我无疑会感到更加高兴。但我们确实没有这么多的好点子。正如上面我说过的，我们会不断地将我们的新点子与旧点子进行比较，而只要我们认为就目前的情况而言新点子不会取得比就点子更好的业绩表现的话，我们就仍将维持原有的投资。这种情况产生的另一个副产品则是：我们的每个年度已实现的收益部分占资产的比例将会比合伙企业成立之初（那时我们拥有源源不断地好点子）时要少得多。 【如果遇到不错的好股票，但与持有的股票相比，还是不如持股的话，那么操作策略就是继续持股不动。随着控股型投资的部位越来越大，以及新点子越来越少，导致巴菲特持股时间越来越长。】</p><p>　　我们在这一部分投资的集中性将会导致我们的业绩存在大幅波动的可能。而有时候这种波动可能会令人感到相当的不愉快。这也就是为什么我觉得频繁地想各位回报我们的业绩表现将是一种愚蠢而且具有误导性地做法，尤其是对我们这种以长期收益为投资导向的生意而言。</p><p>　　因此，希望大家对我们未来可能出现的糟糕的收益情况做好心理准备，我个人是宁愿令我们的资产遭受短时期的不良表现而获得长期的良好表现的。但是我亦不会让我们遭受永久性的本金损失——哪怕以此为代价可能令我们有机会获得长期的良好回报。未来的糟糕年份正好能被我们在1965年和1966年的良好业绩所抵消。 【由于巴菲特在65年开始在普通型-被低估的股票投资上的持股比例达到较为空前的规模（45%），这样一来，未来的业绩表现将存在大幅波动的可能，不过事实上，巴菲特又再一次踩准了节奏，66年被巴菲特一直认为高估的蓝筹股大幅下挫，但巴菲特持股的低估股票却表现非常强劲。巴菲特在66年的普通型被低估的股票投资上盈利了25%。其实，巴菲特在66年能踩准也是必然，因为巴菲特一直认为蓝筹股存在高估，而向来持有低估股票的巴菲特必定是持有较为低估的股票，像66年这样的行情，巴菲特注定是要盈利的。】</p><p>　　同时我们在资金的借贷方面亦是非常地保守，1966年全年平均的银行借款不超过我们资本金的10%。</p><p>　　最后对该部分投资的一点补充。我们在1966年的晚春开始买入一只股票，我们大概才买入了160万美元时，它的价格突然快速上涨，而导致我们最终只好卖出这只股票并获利约73万美元。这一投资结果对我们今年的业绩有正面的贡献，但就长期而言则对我们不利——我们损失了一个可能在长期获得更大收益的机会。</p><p>　　对于WORKOUTS</p><p>　　我们这部分的投资因为利用了借贷资金而取得了更高的净资产收益率。值得注意的是在上半年我们的平均投入为$7,870,151，而收益仅为可怜的$16,112。大家可以想象出下半年我们在这部分的投资收益是多么的惊人。</p><p>　　在之前的年份中，我们有时会将净资产的30-40%都投入到这一部分来，不过未来可能不太可能再度出现上述情况。不过我们仍然能够期盼将来我们在这一部分所投入的适量的资金会取得令人满意的回报。</p><p>　　其它杂项</p><p>　　我们对巴菲特合伙企业都有着超出了一般学术性质的兴趣。在1967年1月1日，我们企业的员工，我，我们的配偶和孩子们在公司的投资金额已经超过了一千万美元。对就我自己的家庭来说，我们投入合伙企业的钱超过了我们净资产的90%。</p><p>　　1967年1月25日</p><p>　　温馨提示：红色部分为个人解读笔记，如果妨碍你阅读，你可以去百度搜索相关内容。</p><p>　　【读后总结】：</p><p>　　1、长期而言，账面价值的增长曲线与内在价值的增长曲线是同步的。</p><p>　　2、不熟不做。</p><p>　　3、通过市场波动来谋取市场的短期收益，很容易出现人性的失误。</p><p>　　4、在股票市场表现不好的时间里，控制型投资使得整体业绩大幅跑赢大盘。</p><p>　　5、长期股权投资（持股比例在20~50%内，巴菲特在此项的投资多集中于非上市企业）容易获得第三方溢价收购，这种投资尤其在一级市场乐观的时候，第三方收购溢价幅度较大，从而获得的利润最大，因此，往往在市场非常乐观的时候，长期股权投资获利幅度是最大的。</p><p>　　6、对于普通型-被低估股票投资中，巴菲特往往采取滚动性的操作方式，如果一个股票低估程度较大，巴菲特会在大幅盈利的股票当中进行减仓，而在低估程度较大的股票中进行加仓，即使一只股票达到仓位的40%也不为过。</p><p>　　7、即使新点子不断，但如果新点子的价值不如老点子的当前价值，那仍将维持原来的投资。</p><p>　　吴振兴</p><p>　　2012.9.1<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22727553">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22727553&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22727553&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22727553)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22727553)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22742996" id='A_22742996'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">71楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-03 17:02:47]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22742996"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:2.85%（8.81卖出中国石油，11.83买入广州友谊）</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、今天财经媒体的头条是上市银行赚走市场一般利润，这种市场很明显是不健康的，银行之所以有如此大的利润，原因在于息差较大，竞争强度不足导致的。不过国内如此高的息差是不可能维持下去的，随着国外银行的引进，国内银行的竞争格局才真正打开。可以预料的是，未来银行的利润将会出现萎缩。</p><p>　　2、如今4、5倍的市盈率，也充分反映了银行业绩将在未来出现下滑，可以肯定的是，国内银行业已经步入明显的周期性，而非过去的高成长。不过，即使未来银行业绩出现下滑，其股价未必会出现下跌，因为即使银行利润下滑50%，其9、10倍的市盈率仍低于市场的平均水平。</p><p>　　3、最近有不少的知名经济专家表达对未来经济的担忧，我想非常直接明了对他们的评价：90%的专家都是随大流的，美国市场也好，欧洲市场也好，中国市场也罢，都是一个样。宏观经济没有人可以预测，作为股神，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>已经在股市叱咤风云50年了，作为80多岁的智者，他仍然认为很难预测未来的经济走向。我的意思并非是指这些经济学者对经济毫无用处，而是指作为<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者，要有独立思考能力，而不要被市场专家影响自己的投资节奏。</p><p>　　4、自从买入中国石油之后，包括分红，整体亏损4%，而同期大盘下跌11%，考虑到分红，大盘真实下跌8.5%，再此期间，中石油起到了对账户的保护作用。6月6日，虽然本栏认为市场估值水平较低，但仍认为市场的“好点子”不多，而买入中石油不失为一个好的操作。但经过两三个月的下跌以来，市场逐渐浮现了不少“好点子”，考虑到中石油的盘子不小的问题，从长期来看，很难跑赢大盘10%，这也正是今日换股操作的原因。跑赢市场10%为本栏的目标，这个目标难度虽然较大，但并非不可能，我认为只要以5毛钱的价格去买1元的价值，就已经为成功打下最坚实的基础。<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22742996">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22742996&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22742996&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22742996)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22742996)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22746976" id='A_22746976'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">72楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-03 23:03:44]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22746976"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>致合伙人的信（1969年5月29日）</p><p>　　致合伙人：</p><p>　　大概在18个月以前，我曾经给你们致信，认为<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>环境和我个人情况的变化将导致我对我们未来业绩预期做出调整。</p><p>　　我当时所讨论的投资环境，已经变得更加的恶劣且令人沮丧。也许我仅仅是缺乏从精神层面进行调整的能力。（正如一位评论家对超过40岁的证券分析师所评价的那样：“他们知道太多如今已不再适用的东西。”）</p><p>　　虽然如此，就我看来：(1)在过去的二十年中，对于数量（定量）分析方法所能把握的机会之水已经逐渐干涸，到今天可以说是已经完全枯竭了；（2）我们的资金基数已经达到一个亿，也就是说不超过三百万的投资量对于我们净资产的影响几乎可以忽略不计，实际上我们的投资标的的市值已经不能低于一亿美元；（3）大量地对于投资的专注已经导致<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>的交易行为变得极度追求短期的利润，市场的投机性大大增加。</p><p>　　在1967年10月的信中我亦提到个人境遇的变化是我调整我们未来收益预期的最重要的原因。我表达了自己不想再在合伙公司上注入我100%的精力的愿望。然而在过去的18个月中我完全没有做到这一点。我曾经写到：“希望随着预期的降低，我的对此投入的个人努力也可以随之降低。”然而实际上完全不是这样，我发现只要我一天还在管理合伙企业，我就完全无法让自己投入到其它与之无关的东西上去。我不想让自己成为一个永远管理着资金，追逐着投资收益的疯狂的兔子，而唯一让我放缓脚步的办法，就是将其停止。 【十二年19倍的收益，巴菲特经历了一段不朽的传奇。】</p><p>　　所以，在年底之前，我希望所有的有限合伙人都能正式地得知我的退休愿望。</p><p>　　巴菲特致合伙人的信（1969年10月9日)</p><p>　　致合伙人：</p><p>　　以下是接下来我认为对于我的退休将要涉及的事情：</p><p>　　（1）向你们介绍一下Bill Ruane（注：比尔·鲁安，红杉<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>创始人），一位非常优秀的资金管理人。</p><p>　　（2）十一月底，按要求我将提前三十天正式通知各位我的退休意愿。</p><p>　　（3）关于我们解散的方案的选择，你们将收到目前合伙公司控股企业的资料，请详细研究这些资料并考虑接下来的选择。</p><p>　　（4）在大约1月5日- (a)约占超过我们净资产56%的现金将会分配给各位；(b)按照你们的持股比例，DRC和BERKSHIRE的股份也将分配给各位，如果各位选择直接变现股份的话，那么将会为你带来占各位1969年底净资产30-35%的现金。</p><p>　　我们可能会进一步出售我们的资产，这样在年底的现金分配比例将会超过56%。</p><p>　　(5) ……</p><p>　　(6) 我们将花一点时间进行合伙公司的清算。</p><p>　　对于一个人类在未来不确定环境中的判断显然并不容易，不过有时我们只能在不确定的情况下做出选择。我认为BILL是一个可以在未来预期其有优异表现的资金管理人，而且在可以预见的将来他仍然将继续从事该项事业。</p><p>　　如果各位有意将钱交给BILL打理，我将会记录下各位的名字，同时他也会与各位联系。</p><p>　　BILL拥有非常好的投资业绩，在1956-1961年，以及1964-1968年，他的投资组合的年均回报率达到了惊人的40%。不过在1962年他的资产亦曾遭受50%的损失。然而他的投资组合中并没有控股公司和WORKOUTS，并且在普通股上的投资他的投资标的有不少跟我的是重合的。</p><p>　　目前BILL管理的资金量约为两千万到三千万，资金预计还会增加。对于各位的不利因素是，资金基数的扩大会造成投资业绩的相对下滑。另外由于BILL最近开了一家公司（NEW YORK STOCK EXCHANGE FIRM），公司的日常事物亦可能分散他的精力。最后，优异的管理人往往也只能取得略胜于市场平均水平的业绩。</p><p>　　最后的忠告是，跟随BILL的投资可能将会整体市场的未来表现密切相关，这一点请各位注意。</p><p>　　在我整个的投资生涯中，我第一次感到对于一般的投资者而言，对于被动地投资<a href="http://bbs.hexun.com/search/?bid=&q=%D5%AE%C8%AF&type=1&x=20&y=8" target="_blank">债券</a>和投资有专业人士管理的股票，几乎没有太大的差别。如果我的这种感觉是正确的，那么其中就有着重要的暗示。让我在此进行简要的叙述：</p><p>　　（1）收入税的问题。我所说的情况是，联邦政府收入税达到40%之多，除此之外还包括其它的州政府的收入税。</p><p>　　（2）我所讲的是指未来十年的情况。</p><p>　　（3）目前纯粹被动地投资债券的收益可以达到每年6.5%。</p><p>　　（4）综合的公司股票的预期收益为每年9%，包括3%的红利收入和6%的价值增长。考虑到税收，实际收益与债券无异。</p><p>　　（5）对于好像Bill管理的表现优异的基金而言，可能会取得高于市场3%左右的年均复合收益，因此如果你们足够幸运的话，也许将会因此取得约9.5%的年收益率。</p><p>　　（6）所以最后得出的惊人的结论就是在今天的奇特环境下，债券的收益跟股票的未来收益几乎持平，而也只是略逊于表现优异管理上佳的股票基金。</p><p>　　对于未来的估计显然未必正确，然而这其实是我目前的想法。</p><p>　　最后还是要靠你们自己来选择是持有股票还是债券，如果你们想就此跟我谈一下的话，鄙人亦乐意效劳。</p><p>　　巴菲特致合伙人的信(1969年12月5日)</p><p>　　致合伙人：</p><p>　　此信将提供给你们一些关于我们的两个控股公司（以及它们的四个主要的营运构成）的公开信息。我亦将同时对其营运情况给出我自己的评价。</p><p>　　到年底，合伙公司将拥有80万到100万Diversified Retailing Company 的已发行股票。第一曼哈顿公司和Wheeler, Munger & Company 将各自拥有10万股。DRC之前拥有100%的Hochschild, Kohn & Company of Baltimore，而目前拥有100%的联合零售<a href="http://bbs.hexun.com/search/?q=%B0%D9%BB%F5&type=1" target="_blank">百货</a>（之前的名称是联合棉花店）。在12月1日，DRC卖掉了其HK的所有权益给Supermarkets General Corp，作价$5,045,205现金以及SGC的价值2百万的，于70年1月2日偿付的无息票据和价值$4,540,000的，于71年1月2日偿付的无息票据。这些票据的现值大概为6百万，所以总共的卖出价约为11百万。</p><p>　　联合零售公司的净资产值大概是7.5百万。它是一个非常好的，同时具有强劲财务状况的公司。其营运边际利润良好，近年来还实现了历史上最好的销售和利润的增长。去年其销售额约为37.5百万而净利润约为1百万。今年将会出现销售和利润的新纪录，据我估计大概会有1.1百万的税后利润。</p><p>　　DRC有6.6百万的已发行债券，这些债券有一个特殊的附加条款，即如果我本人或任何一个我控制的公司不是DRC的最大持股人的或，那么债券持有人便有权将债券兑现。</p><p>　　DRC的净资产值约为每股$11.5-12，这是一个运营优异的生意，其产生的利润足以让我用来投资其它的营运生意。</p><p>　　Berkshire Hathway, Inc。有着983,582股的已发行股份，合伙公司拥有其中的691,441股。</p><p>　　BH主要有三方面的业务，纺织业务，<a href="http://bbs.hexun.com/search/?q=%B1%A3%CF%D5&type=1" target="_blank">保险</a>业务（由国民赔付公司和国民火灾及海事保险公司执行，以下统称保险公司），以及伊利诺亚国民银行和伊利诺亚罗科福德信托公司。BH亦拥有太阳报，布莱克印刷公司和70%的Gateway Underwriter， 不过这些业务对BH的总体贡献有限。</p><p>　　纺织业务目前大概每股值$16。虽然我认为相对纺织业的整体情况而言公司是有进步的，但是该业务仍算不上是令人满意的生意。其资本回报率尚不足以覆盖该业务所需的新增资产，而且其未来的表现估计也不会比现在及过去要好。相较而言，当我们在四年半前买下该企业时，它正处于最好的时期。来自其它业务的资金则被成功地重新分配，开始时是被暂时地分配到了可交易的证券上，现在则被永久性地用到了保险和银行业务上去。我喜欢从事纺织业务的员工，他们努力地在困难地情况下改善该业务，只要纺织业务的情况能够维持在接近目前的水平，我们就将继续将此业务做下去。</p><p>　　BH拥有100%权益的保险业务和拥有97.7%的银行业务则有着令人愉悦的画面。这些都是我们一流的生意，给我们提供了非常好的资本回报，同时其营运数据不论是从绝对还是相对的分析角度都是不错的。银行业务对于BH来说大概值每股$17，保险业务则为$15。我预计它们目前的盈利能力大概是每股$4（1968年大概是$3.4），预期其总值$32的净资产也有望在未来继续增长。总体而言，BH每股的有形净资产约为$43，账面价值约为$45。</p><p>　　在DRC和BH之间，我们有四个主要的业务，而其中的三个就我看来无论根据任何常有的评判标准而言都是一流的业务。这三个优异的业务都是由超过60岁的人经营着。这些人都工作勤奋，富有且表现非常杰出。他们的年龄固然是一个弱点，但这也就是他们唯一的不足之处了。我能高兴地持有相当大的资产在这些业务上的原因之一，就是因为这些业务被他们掌管着。</p><p>　　DRC和BH没有分配股息，而且在未来也很可能不会分配或者只分配有限的股息。这是有多种原因的。这两个母公司都有借贷，而我们想为我们的银行及保险业务的客户提供一个良好水平的保护，而且其中的一些公司有着良好的利用增量资金的方式-我们亦有希望发现新的，可以使我们的投资更加多元化且可进一步放大我们的盈利能力的生意。</p><p>　　就我的个人观点而言，我认为DRC和BH的内含价值将会随着年份增长。当然无人知道未来的情况，但如果未来它们取得的年均增长率低于10%的话，我将会感到失望。随着市场的价值会围绕内含价值出现很大的波动，就是长期而言公司的内含价值终将在某个时刻被市场价值正确地反映出来。因此我认为它们会有良好的长期表现，我亦愿意将我个人净资产的相当一部分投资在它们上面。当你直接拥有这些证券时，你应当对无视其短期内的价格表现，就如同你通过BH间接持有它们一样。我把它们视为实业，而非股票，如果长期而言实业的业绩良好，那么股票也会有着同样的表现。</p><p>　　我认为我仍将在相当长的时间内维持对DRC和BH投资，但我不会对此做出道德上的绝对承诺。我们目前准备在明年1月5日进行合伙企业的现金分配，分配量将至少不低于1969年1月1日合伙企业所拥有的资金减去1969年所分配的资金后的总量的64%。由于我们还有一项悬而未决的对于我们的Blue Chip Stamps holdings公开发售，如果其能在这个月底前完成，则我们分配的资金比例将达到至少70%。</p><p>　　巴菲特致合伙人的信(1969年12月26日)</p><p>　　致合伙人：</p><p>　　就上一次的信各位提出了不少问题，现分别回答如下：</p><p>　　（1）既然我们在BH的纺织业务上没有好的回报，为何还要继续营运下去呢？</p><p>　　主要是因为我在之前的信中提到的观点。我不想解散一个雇佣了1100人的生意，尤其在管理层已经在努力改善公司相对整体行业的表现，而且也取得了合理结果的时候，同时该业务目前尚不需要额外的资本投入。但是如果未来我们面临需要投入大量资本，或者该业务遭受相当程度的损失时，我将做出不同的决定。</p><p>　　（2）我们在太阳报等的投资量有多大？我们有进一步进入报纸、广播和电视领域的意图吗？</p><p>　　我们在太阳报、布莱克印刷和Gateway Underwriters的投资大概略多于$1的每股BH股票，每股收益大概略少于10美分。我们对于进入上述领域未有具体的计划。</p><p>　　（3）Gateway Underwriters是干什么的？</p><p>　　Gateway Underwriters主要是作为国民偿付公司在密苏里州的一般代理人存在的。</p><p>　　（4）对于管理着三块优秀业务的人而言，是否有相应的接班人？</p><p>　　相应的二把手是非常难去评估的，唯一能够证明某人是否具备营运某个企业的方法就是让他去实际营运这个企业。虽然如此，我们的一些业务也确实并不是单靠一个人来营运的，所以从长远看来，我们确实会有相应的人选。</p><p>　　（注：共有13问，之后的问题主要涉及清算问题等等，不在此翻译。）</p><p>　　【读后总结】</p><p>　　巴菲特在1957年~1968年，取得了将近19倍的收益，复合收益率达到了29.6%。光是这个收益率就已经挤入最顶尖的行列，如果再加上13年来，没有一年出现亏损，那就是前无古人后无来者。巴菲特能取得如此稳定、高效的业绩，主要原因在于有控制型、WORKOUTS的操作模式，而这个模式是一般投资人士甚至是机构都很难模仿的，这就是区别于其他伟大的价值投资派人士的地方，比如69年巴菲特清算时把自己的合伙人推荐给BILL，由于BILL专注于二级市场，没有控制型以及WORKOUTS的操作，所以他的业绩无疑将存在很大的波动，比如在62年，BILL的基金损失达50%，如果仅仅专注于二级市场的权益性投资的话，那么在十多年当中，必定会出现与市场相当的波动，那么亏损在所难免，不过杰出的投资人士，从长期而言，复合收益率会比大盘高出一定的百分点，如果能常年高出10%的收益率，那就堪称伟大。用巴菲特的话来讲，就是优异的管理人往往也只能取得略胜于市场平均水平的业绩。</p><p>　　自巴菲特在1965年控股了伯克希尔之后，巴菲特就慢慢改变了投资策略与理念，这主要受到他的搭档查理芒格的影响。如经典案例就是巴菲特与芒格收购了喜事糖果以及保险业务，再后来就是重仓买入可口可乐、吉利剃须刀等。其实我们所了解的巴菲特是属于1969年以后的巴菲特，通过买入具有护城河的消费性垄断性股票。通过阅读1957年~1968年巴菲特致股东信，我们可以看出这个时期的巴菲特的操作模式与我们所了解的巴菲特有相当大的不同。早期的巴菲特主要用格雷厄姆的雪茄烟蒂法来进行投资，持股时间平均在1~3年内，相比老年时期的巴菲特，早年的时候，巴菲特可以说是价值派的短线好手。</p><p>　　不只是巴菲特走出格雷厄姆的雪茄烟蒂法，他的好友BILL也在后期接受了目前流行的价值投资法，BILL持有伯克希尔股票、可口可乐时间达20年以上，这个持有期限并非格老的主流投资方式。</p><p>　　总的来说，两个时期的“巴菲特”都值得我们深入学习，在选股上，我们应该侧重学习老年时期的巴菲特，但在时机以及资金配置上，我们则应该侧重学习早年的巴菲特，毕竟我们资金不算多，操作更应该灵活，应该采取滚动的操作模式。</p><p>　　吴振兴</p><p>　　2012.9.3<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22746976">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22746976&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22746976&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22746976)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22746976)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22757601" id='A_22757601'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">73楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-04 16:37:56]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22757601"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:3.96%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、就在我昨天评论银行板块将会受到外资银行引入的竞争，今天就出现了对国内银行不利的新闻：中国放弃就WTO银联案上诉 VISA等将获准在内地发卡。这意味着中国银行业“断奶”了，今后国内银行将面临更激烈的竞争。受此利空消息影响，今天银行板块弱势下探，拖累大盘。</p><p>　　2、良好的股市总是与政治稳定、和平发展分不开，但这两方面恰恰是影响目前股市的最重要因素。在换届期间，也就是政治稳定、和平发展最容易发生变数的时节。最近“保钓”事件让这个时期变得更加敏感，希望在政府换届期间能够平稳度过。</p><p>　　3、大盘横盘多日，今日出现一根阴包阳形态，收盘<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>创三年半新低。照此形势，看样子2000点不破，空头是不罢休的了，从多头的角度来讲，则是节节败退，毫无作为。这样的市场，真是没什么好说的了，不如潜心多多研究方法，多多找寻更好的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>机会。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22757601">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22757601&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22757601&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22757601)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22757601)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22777616" id='A_22777616'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">74楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-05 19:32:22]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22777616"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:5.78%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、我在前日评论银行的息差过高，不幸这个言论在随后两三天里得到市场的强化，昨日，银行就出不利消息，今日各大媒体推波助澜表示银行高息差是一去不复返。银行板块最近明显弱势，拖累大盘创出新低。各大银行均出现放量破位下跌。</p><p>　　2、虽然大盘受权重板块的弱势下跌影响而不断新低，但<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>明显强势，上周的弱势下跌，本周基本上已经收复上周的大跌，稳稳站上中短期的所有均线。并且中短期所有均线有黏合的态势。这是一个好现象。一旦创业板突破这四个月的平台阻力，那么市场就很有可能出现趋势性上涨。</p><p>　　3、不管怎么样，在熊市的末端，应该多多关注中小市值股，如多多关注中小板，甚至是创业板的股票。从目前创业板的量能及走势来看，是明显有资金在注入的，这一点我敢肯定，不过即使有资金注入，也不能保证接下来会呈现突破性的走势，或许我应该这样说，创业板让我们看到了未来。</p><p>　　4、现在<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>器件走的相当不错，这个板块我也是一直强调看好，因为我多次强调这个板块最困难的时候已经过去，一旦股市转牛，这个板块的股票最容易走牛。这个板块还可以继续重点关注，对于很多加速上涨的股票，目前最好不要买，等待回抽重要均线再说。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22777616">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22777616&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22777616&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22777616)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22777616)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22791221" id='A_22791221'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">75楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-06 17:36:47]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22791221"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:6.7%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>近5个月以来已经筑成一个强势整理平台，一旦突破，将唤醒市场冰封已久的多头力量。虽然目前创业板还处于强势平台之内，但从目前的蓄势以及量能的情况来看，或许不久的将来，创业板将走出长期的趋势性上涨。</p><p>　　2、今天银行超跌反弹，其中<a href="http://bbs.hexun.com/search/?q=%C3%F1%C9%FA&type=1&Submit=" target="_blank">民生</a>银行午盘拉升4个百分点，推进午后大盘的反弹，使得大盘重上5日线，不过量能依然低迷，说明个股的机会主要集中于中小市值股当中，这一点从涨停股当中也能明显看出，25个股票涨停，其中就有17个股票属于中小板与创业板。</p><p>　　3、有股友反映最近的博文有些索然无味，好像少了最核心的东西：大盘预测。其实本栏已经在慢慢的“去预测化”，为什么近来没有有关预测的言论，一来是因为我认为预测对我们的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>无益，我们也无法准确预测大盘走势，而且预测大盘走势也无法给我们账户带来额外的收益；二来是因为目前大盘估值水平较低，任何看空的预测都是要谨慎的，我个人认为，现在最好的策略就是做“死多头”。</p><p>　　4、今后本栏会更多倡导趋势投资、价值投资理念，我认为这才是对大家有益的东西。</p><p>　　5、逆向投资大师霍华德·马克斯先生有一句话说的很好：“等待投资到来而不是追逐投资，你会做得更好。在卖家积极卖出的东西中挑选而不是固守想要什么才买什么的观念，你的交易往往会更为划算。机会主义者之所以买进某种东西，是因为它们特价。价格不低时买进没什么特别的。”，这让我们想起目前的A股，我们大家都知道贵州茅台，对于想做价值投资的投资者来说，大部分投资者更愿意买贵州茅台、云南白药这些股票，但这些股票受到太多人关注，这些股票越强，一般散户越是愿意在高位买入，那么在这种情况下，这些股票都不会是低估的股票。而很多股票受到暂时性的打击，但长期不改基本面的情况，这些股票受到卖家积极卖出，那么低估的股票很有可能就从中出现。那么不管是价值投资还是逆向投资，市场的这种盲从提供了我们很好的投资机会。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22791221">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22791221&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22791221&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22791221)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22791221)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22801068" id='A_22801068'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">76楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-07 15:38:48]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22801068"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:10.03%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、今天的市场就像是一个被囚禁了几年的好色之徒突然放在女人堆里，被尘封已久的荷尔蒙突然激活，所表现的是竭斯底里的疯狂。我们希望的并非是“一夜情”，我们希望的是细水长流式的恩爱。</p><p>　　2、放量巨阳，在市场不断阴跌的市场当中，让我觉得有点彷徨，也有点惊喜。惊喜的是已经有两年没有出现3%以上的上涨，而且是低位区域出现爆发性的放量，让市场重拾了已经非常朦胧的信心。彷徨的是这样的大阳线能否带动后期的趋势性行情，我们多多少少都有点怀疑。</p><p>　　3、<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>放量突破平台阻力区间，这是一种趋势性的力量，这个平台构筑了5个月，因此，今天的突破很有可能带来趋势性的行情，当然，趋势性的行情并非是指逼空行情，任何正常健康的行情都是震荡走高的。</p><p>　　4、今天是权重板块集体暴发，券商、水泥、<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>、有色、钢铁领涨两市，涨停板也集中于此。涨停股个数达到了70只，而这70只主要集中于上证<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>与深证指数当中。所以如果持股并非是<a href="http://bbs.hexun.com/search/?bid=&q=%C8%A8%D6%D8%B9%C9&type=2&x=30&y=6" target="_blank">权重股</a>的话，跑输大盘是很正常的。</p><p>　　5、大盘涨到60日线的2150附近明显受到承压，短线资金明显在2100点以上有出货，60天线已是目前大盘最重要的一道坎，一旦被站稳，中期的趋势将空翻多。虽然短期可能面临休整，但本栏对中长期充满期待。</p><p>　　祝大家周末愉快！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22801068">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22801068&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22801068&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22801068)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22801068)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22803357" id='A_22803357'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">77楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-07 19:36:06]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22803357"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　大盘结束了连续三周的下跌，本周后程发力，在权重板块的逆转之下，大盘本周最终上涨3.92%。我们似乎已经感受到了“金九银十”收获的“稻香”。</p><p>　　“金九银十”实际上是一个时间的概念，在时间上因为九月份和十月份<a href="http://bbs.hexun.com/search/?q=%C5%A9%D2%B5&type=1&Submit=" target="_blank">农业</a>收获季节，开始进入秋收，按照人的收支消费心理，在花钱方面，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>方面心情带动各行业，只要进入到秋天，延续到冬季，特别是临近两节，家庭消费明显增加，是一个随时间季节消费的金融概念。尤其是10月份初的两个节日重合，将刺激<a href="http://bbs.hexun.com/search/?q=%C2%C3%D3%CE&type=1" target="_blank">旅游</a>板块、消费类板块。由于进入秋季，企业资金相对宽松，资金进入股市也将提振股市。</p><p>　　本周大盘上涨3.92%，示范账户上涨7%；自从4月19日以来，大盘下跌10.6%，算上2.6%的大盘红利，大盘实际下跌8%，示范账户上涨10.03%。</p><p>　　本周跑赢大盘，主要是因为苏宁电器大幅上涨所致，在接下来的三周，示范账户能跟得上大盘就算不错。由于本栏持股非常集中，本栏迟早会出现周表现远弱于大盘的时候。（在大盘低位，本栏持股会非常集中（3~5只），到了大盘高位，本栏将会相对分散（10~15），到了大盘明显高估的时候，本栏将会逐步清仓）</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22803357">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22803357&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22803357&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22803357)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22803357)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22826620" id='A_22826620'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">78楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-10 15:47:35]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22826620"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:9.71%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、招行行长马蔚华：银行利差受保护时代结束。银行高息差时代结束，主要有以下几个原因，第一：利率市场化即将来临，由于银行间的竞争，银行会提高存款利率来吸引存款，同时，银行为了抢占市场，降低贷款利率。第二，股市差劲，存款转到长期化的<a href="http://bbs.hexun.com/search/?bid=&q=%D5%AE%C8%AF&type=1&x=20&y=8" target="_blank">债券</a>市场。银行可拿来贷出的资金减少，银行为了吸引存款，必然会提高存款利率，这样也将缩减利差。</p><p>　　2、银行高利差时代结束对百姓以及实体经济都是一大福音，16家银行利润之和达到整个股市的总利润一半，这种现象在5年后将成为“背影”。所以，我们非常期待利率市场化的来临。</p><p>　　3、受到“发改委发力稳增长，再批30个项目”的利好消息刺激，水泥建材板块最近可以用“井喷”来形容，但我认为一定要理性对待，不要跟随游资炒作，虽然水泥板块这两年下跌幅度较大，但从<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>角度来看，水泥板块不是一个好标的，尤其是最近大幅上涨过后，投资者更是击鼓传花，谁也不知道发改委或者游资什么时候停止击鼓，鼓一停，花（风险）便落，这种游戏，股友还是不要参与的好。</p><p>　　4、大盘在60日线之下震荡整理，较上一个交易日量能有所萎缩，不管是机构也好，还是普通散户也好，60天线这个压力位，大家都在关注，这个位置，也是长线资金与短线资金在博弈，2150是一个非常重要的压力位，因为以往大盘在2150处反复挣扎过，因此，这个位置肯定存在大量的套牢盘，所以，多头要形成合力方能放量突破。上周五已经出现放量突破，今天休整一日也是非常正常的，我们也可看成是蓄势整理，但这种蓄势整理最好不要超过3个交易日，所谓“一鼓作气，再而衰，三而竭”。我们期待大盘做一个短期的休整过后再次放量突破，形成趋势性行情。</p><p>　　今天是一个伟大的节日：教师节，祝天下教师们节日快乐！<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22826620">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22826620&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22826620&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22826620)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22826620)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22837566" id='A_22837566'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">79楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-11 15:58:00]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22837566"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:11.58%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、因为钓鱼岛事件，现在中日两国的友好程度已经降到冰点，不管怎么样，我非常不希望两国会因此而开战（虽然这种可能性较低），我希望能有一个更好的结局。中国外交苦心经营的友好形象以及和平来之不易；改革开放三十年，经济高速发展不容易；人居收入步入5000美元也不容易，这一切都非常不容易。如果布入战争，最直接受苦的无疑是老百姓，整个经济也将会受到非常大的影响。中日两国是近邻，若开战对中日两国都非常不利，而长期受益最大的无疑是美国。要知道为什么美国能成为<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B3%AC%BC%B6&x=32&y=10" target="_blank">超级</a>大国，那是因为美国近一百年都没有在身家领土发生过任何大型战争，“鹬蚌相争渔翁得利”，美国扮演“渔翁”的角色从来都不觉得腻。</p><p>　　2、<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者要有怀疑精神，但同时也必须要有乐观精神。没有怀疑精神，不做逆向思考，那根本就做不好投资；如果没有乐观精神，一点风吹草动就担心的要命，那根本就不适合投资。最近中日两国局势僵硬，让很多股友担心，认为一旦开战，A股必<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B1%A9%B5%F8&x=15&y=6" target="_blank">暴跌</a>。我不知道会不会开战，也不知道若开战A股会不会下跌，我只知道，开战的概率很低，如果因此这个而卖出股票，我只能说，你可能是一个谨慎的投机者，而不是一个稳重的投资者。我们要有一点怀疑精神，如果两国会开战，我敢肯定，美国股市都会出现暴跌，而A股早在上周就应该大跌了，但最近的股市还是上涨的，从这点来看，我并不需要去过分担心两国会不会开战的问题。怀疑和逆向思考很重要。</p><p>　　3、最近零售板块表现较好，这个板块我在买入苏宁电器的当日就表示看好，而且随后回踩后，我再次以看好零售板块为博客文章标题，同时过了几天，把中国石油换成了广州友谊。我不敢肯定他们此后会不会有更好的表现，但我认为这个板块的整体表现应该会比大盘好，这正是我追求的，投资必须要有一个“标准杆”作为参考，只要少于“标准杆”，那我认为我就是成功的，从长期的表现来看，我就会有优秀收益。因为，我个人判断，在今后的十年里，大盘会有15%~20%的年复利性增长，那如果我每年能比大盘高出10%，那么10年后，我将会有十倍的收益。如果大盘果真如我预期，那么十年内10倍收益便是我的目标，这个目标非常困难，但只有高难度的目标才值得追求。（70%~80%的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>会跑输大盘）</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22837566">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22837566&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22837566&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22837566)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22837566)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22850634" id='A_22850634'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">80楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-12 16:19:49]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22850634"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:11.41%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、“香橼扬言杀向中国A股 李开复坐镇率众反击”。所谓“苍蝇不叮无缝蛋”，如果中国概念股没有问题，又有谁敢去做空呢？即使有人去做空，那又有什么好反击的呢？”行得正，坐的端“，要做空，就让他们做去，好企业根本就无需担忧；当然，动不动就添加三聚氰胺或地沟油，这种“坏事做尽”的企业也应该得以惩罚。</p><p>　　2、每个人都应该有一套如何正确看待市场的方法，不要被市场涨跌或其他人影响，包括鄙人在内。有些人趋势做的很好，有很好的耐心等待市场机会，那么就应该等待趋势明朗之后再<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>，在没有趋势的时候就休息；而有些人是以价值的角度出发，在价格跌到价值以下，并且有一定的安全边际才会出手。</p><p>　　3、除了判断持股的价值水平之外，我还要判断持股在未来5年内能否每年战胜大盘10%，如果有数据表明战胜大盘10%的可能性甚微，比如持股相对大盘涨幅过大，那么我要做的就是去优化账户持股，比如卖出涨幅较大的股票，去添置估值更低，未来跑赢大盘10%概率较大的股票。战胜大盘是未来的事情，未来的事情谁也不知道，但如果判断价值的误差较小，那么从长期来看，股价也会体现出价值出来，所以，这是以长期的角度出发的。判断未来能否战胜大盘10%，这需要从定性与定量的角度思考，同时结合自己的经验。</p><p>　　4、大盘出现一根“假阴线”，这三日还可以看成是强势整理，明日将很有可能决定方向，如果明天放量上攻，那么就是属于突破型形态，是短期的趋势性突破，显然，也是中期空翻多的“逆转”，如果明日<a href="http://bbs.hexun.com/search/?bid=&q=%CB%F5%C1%BF&type=2&x=30&y=10" target="_blank">缩量</a>下跌，短期局势就不太乐观。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22850634">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22850634&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22850634&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22850634)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22850634)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22864083" id='A_22864083'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">81楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-13 16:04:56]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22864083"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 </p><p>　　<br/>　　初始资金：290000（大盘：2380）</p><p>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</p><p>　　操作原则：以内在价值为中心进行滚动操作。</p><p>　　年收益目标：高于大盘10个百分点。</p><p>　　最新持股情况：</p><p>　　<br/>　　仓位：100% 收益:9.32%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</p><p>　　1、日媒称中国开始中止与日官方交流；美两架F-22战机抵日本；并且十位少将就钓鱼岛联合发声：做好收拾日本准备。这些小孩子都看的明白的信息明显传达给我们的意思是：中日起火或一触即发。当然，游资或部分<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>们比起小孩子更为好动，他们已经在军工航天下重注了。军工航天板块有四个股票涨停，并且这些股票是连续<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B1%A9%B5%F8&x=15&y=6" target="_blank">暴跌</a>拉升，当然，我认为肾上腺素的分泌总会出现一个峰值。</p><p>　　2、尾盘出现了明显的跳水，这主要是因为水泥、<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>、有色等权重板块出现了步调较为一致的跳水动作，难度系数达到了惊人的3.6（3.8最高）,而且步调如此一致，我们不得不给出10分的满分。从这里我们可以看出市场先生是得到了抑郁症的，他经常心情低落，一旦遇到让人悲观的因素，就会有一些想不开的念头。我们现在要做的当然是平心静气。</p><p>　　3、我在周一就说过大盘在2150附近会有很大的阻力，不过这并不代表我们就应该上下从事小幅波段，我们遵循这样一个原则：在优秀的公司上赚取伟大的收益。就像有两只猴子，其中一只好动，一下子跳到香蕉树上摘一把香蕉，完了之后，又马上到桃树上摘桃子。但总的下来，累计的收获并非很大。而另一只猴子好静，他在桃树下织了一个网，守在桃树下，等桃子成熟了之后，这只猴子只要摇摇桃树，桃子就掉入网中。我们更愿意做第二只猴子。</p><p>　　4、基于以上的比喻，可能会引来很多反驳，比如说，第一只猴子虽然可能最终收获少，但至少是实实在在的收获，而第二只猴子如果桃树不结果咋办呢；其实这也正是90%的股友喜欢从事短线交易的原因，因为他们买入股票的前提是相信他们有能力摘到“桃子”，而如果一直守着股票，则有可能一无所获。但是事实告诉我们，信心并不等于收获，即使你是短线的高手，你也无法保证下一笔或下一年的短线交易当中能够盈利。但是从<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>的角度出发，我们首先要确定它以往都能否正常结出果子，如果能，那么在正常的情况下，下一年，桃树也自然会开花结果，这是从桃树出发，就像我们做股票，是从企业出发一样。如果一个企业绩效优良，有好的竞争力，那么下一个经济周期，它必然像正常的桃树一样会开花结果。这是我个人的见解，当然每个人都自己的理念，智者见智，理念决定方法，同时也决定投资结果。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22864083">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22864083&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22864083&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22864083)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22864083)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22878452" id='A_22878452'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">82楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-14 16:57:51]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22878452"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<br/>　　本周的两大事件，打乱了本周应有的走势节奏。一是钓鱼岛事件，二是QE3。其中QE3整体上对大盘利好，但对中小板与<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>属利空，因为QE3直接刺激了<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>、有色等权重板块上涨，而由于QE3导致人民币被迫升值，出口受到影响，而中小板与创业板的股票出口业务占的比重较大，所以QE3短期利空中小板与创业板。</p><p>　　同样是为了增加选票，奥巴马出台QE3，刺激经济，提高就业；而日本就比较“多情”，居然动起中国国土的主意来了。日本当然知道中国不可能妥协，日本也只是借此提高政府威望，来提高支持率，最后这个事件肯定也是草率收场。因为日本进一步购岛“国有化”，中国肯定也会进一步公务船“巡逻”，这样要不最后打开来，要不这样下去，日本必然吃亏。但打起来是不现实的，这不符合美国的利益，美国只是希望中日两国这样僵持下去，这样最有利于美国。但日本也不是傻瓜，中国耗得起，但日本则远远耗不起，因为，中国与日本的体制不一样，中国就算GDP下降个2%，也不影响政府交接，但如果日本GDP即使下降个1%，日本首相野田的支持率就会大幅下滑。所以“钓鱼岛事件”的结局已经非常清晰明了了。</p><p>　　本周收益 本月收益 示范以来</p><p>　　示范账户 -0.87% 7.55% 9.07%</p><p>　　大盘 -0.18% 3.73% -10.79%</p><p>　　差值 -0.70% 3.82% 19.86%</p><p>　　本周示范账户的三个股票跌幅相当，这个跌幅也是非常正常的，整体上跑输大盘0.7%。由于本栏持股非常集中，因此出现周表现远弱（强）于大盘是较为常见的。（在大盘低位，本栏持股会非常集中（3~5只），到了大盘高位，本栏将会相对分散（10~15），到了大盘明显高估的时候，本栏将会逐步清仓）<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22878452">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22878452&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22878452&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22878452)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22878452)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22904677" id='A_22904677'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">83楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-17 16:42:39]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22904677"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:5.73%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、 大盘大幅下挫，我认为原因主要是与周末的浩浩荡荡的游行示威有关。搞得游行街附近的国内大型<a href="http://bbs.hexun.com/search/?q=%B0%D9%BB%F5&type=1" target="_blank">百货</a>商场不敢开门，日本厂家和卖场被砸毁，佳能松下中国工厂今日起不得不暂时停工等等，经济受到影响，股市焉能不大跌？<br/>　　2、这次抵制日货的示威游行在这十几二十年是最为严重的一次，所以抵制日货对于股市的影响可能会比我们想象的要严重。如果你有长远眼光，那可以不必过于担心，反而可以借此次的机会进行低吸，因为，抵制日货的举动是短期的。<br/>　　3、为什么日本要搞出这么一个钓鱼岛“国有化”事件，那是因为我们中国经济还不够强的原因，在中国还没有成为真正的经济<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B3%AC%BC%B6&x=32&y=10" target="_blank">超级</a>强国之前，美国、日本必须要牵制住中国，以保持美日的核心竞争力。美国与日本不是真正想要那么一个弹丸之地，所以说日本“国有化”钓鱼岛，那是玩虚的，本意不是如此，因为，日本人知道他们根本就拿不走钓鱼岛。我要说的本意是不要被美日所利用，搞什么游行示威，更是出现打砸抢的犯罪行为。我们要做的是强大自己的经济，稳住换届前后的政治形势（不要像日本一样），如果中国的经济总量超过美国，日本与韩国以及菲利宾肯定对中国服服帖帖，解决钓鱼岛的问题就容易的多。我们就算天天示威游行，如果经济上不去，美国、日本更不会罢休，我们抵制日货，就算把日本给搞垮了，美国还有韩国、菲利宾、印度等很多棋子，我们与日本两百俱伤之后，难道下一个还要去抵制韩货吗？所以，我们不要被美国所利用，好好冷静下来，好好努力工作、研究，该消费的消费，自己要抵制的，为“爱国”出一份力的，那就良性的抵制日货，不要砸毁同胞们花钱买的东西。只有经济腾飞、综合国力提高了，才有可能解决这些问题。现在的情况，正中美国的下怀，美国人正在偷乐。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22904677">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22904677&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22904677&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22904677)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22904677)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22916516" id='A_22916516'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">84楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-18 15:14:57]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22916516"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:5.54%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、银行利润占到整个股票市场利润的一半，所以说，大盘是被银行所绑架的，从走势来看，也非常明显，各大银行股价的走势与大盘非常相似，也就是说，银行涨或跌将直接影响大盘，银行市盈率的变化也将直接影响市场的市盈率。虽然目前沪深300的市盈率只有11倍，但随着银行利润的下滑，银行板块市盈率的上涨，将带动整个市场估值的上升，所以，即使未来大盘<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>维持目前的状态，未来大盘市盈率也会呈现逐渐走高的态势。<br/>　　2、不管是评估公司也好，还是评估市场也好，我都不会仅仅用市盈率去评估，市盈率是非常静态的东西，只能说，我会用到市盈率的，一般是在横向筛选股票的时候，比如在同一个行业当中去选择市盈率低的股票，或是在综合评估企业未来复合增长率的时候，如果未来复合增长率高于目前的静态市盈率，那么就是一个很好的买入时机。用彼得林奇说的，就是PEG小于1的股票。<br/>　　3、所以，我们仅仅看现在大盘市盈率只有11倍，就觉得大盘实在是太便宜了，是在玫瑰底，又或是在下金雨，我觉得说这些都为之尚早。我只能认为，大盘在未来5年内可能会出现15%的速度的复合增长，至于这其中是怎么走的，这个很难判断。对于股市中大部分股票，我都不觉得已经达到了便宜的状态，甚至都不能说是合理，我的意思是说，至少70%的股票都是不值得<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>的，或者说有点偏高估的。为什么会出现这种情况，你只要每天看看财经新闻，你都可以看出，目前各部委也在积极配合市场的投机性心理，动不动就搬出这个行业的千亿投资，那个产业的万亿规划，游资和机构们一看到这些东西就来劲，把大量不属于他们的钱投入到这些产业当中，这比较典型的是环保产业、医疗器械、新能源等等朝阳产业。打个比方，如果杭州市是一个全世界都觉得美女集中的地方，而吸引了世界上90%的光棍们来到杭州，可想而知，你再去杭州还能找到心仪的美女对象吗？我的意思是，这个时候，你去其他地方找，找到心仪的对象的可能性要大的多。<br/>　　4、投资不是那么容易，最不容易的是知行合一，洞察力是必须要有的，但这不代表你具备执行的能力，作为一个优秀的投资者，必须要知道自己的能力圈，然后要有反市场行为的勇气以及必备的持股耐心。这一点，我要与大家一起去努力与进步，如果我做不到这一点，我会很失望，我做到了，我也希望经常光顾我博客的人也有所进步。<br/>　　5、9月7日的大阳线已经全部失陷，大盘也是六连阴，市场陷入一片恐慌，我还是那一句话，在市场陷入恐慌的时候，如果你还持有的话，那就继续持有，当然，前提条件是你的股票值得长期持有。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22916516">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22916516&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22916516&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22916516)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22916516)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22929549" id='A_22929549'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">85楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-19 16:05:19]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22929549"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:6.46%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、两节临近，9天<a href="http://bbs.hexun.com/search/?q=%B3%A4%BC%D9&type=1" target="_blank">长假</a>刺激酒店<a href="http://bbs.hexun.com/search/?q=%C2%C3%D3%CE&type=1" target="_blank">旅游</a>、餐饮板块上涨，按道理来说，高端酒在长假来临前，应该会有提振效应，但今天贵州茅台、张裕A、洋河股份均出现大跌，原因很有可能是高端酒的三季度利润增速放缓导致的，由于白酒类在这几年价格增长过快，市场已经出现较为明显的产能过剩，因此，白酒的利润出现短暂的下滑是迟早的事情，这也将在未来的股票表现得以表现。当然，我认为这些股票的下跌是机会的呈现，未来他们依然是价值优质股。白酒的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>机会要到明年才好去发掘，因为要关注一下明年的利润增长情况。<br/>　　2、日本再推货币宽松，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>规模扩大10万亿日元。推动了午后有色、<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>板块的上涨，日本推出这个计划，对<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>元器件也有利好效应。由于QE3，美元持续下跌，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%C6%BD%F0&x=23&y=5" target="_blank">黄金</a>大幅上涨。自发生钓鱼岛事件以来，日本股市是节节攀升，形成上升通道，而可怜的中国股市则是不断下挫。这种现象，是我们中国股市的一大特性，我们已经很难解释。<br/>　　3、六连阴之后首现曙光，这是下跌中继，还是反转点？如果明天能够放量拉升，则钓鱼岛事件对A股的影响逐步消失。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22929549">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22929549&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22929549&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22929549)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22929549)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22958654" id='A_22958654'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">86楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-21 16:01:24]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22958654"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:0.27%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、在能源（<a href="http://bbs.hexun.com/search/?q=%C8%BC%C6%F8&type=1" target="_blank">燃气</a>、<a href="http://bbs.hexun.com/search/?q=%D0%F3%C4%C1%D2%B5&type=1&Submit=" target="_blank">煤炭</a>、电力）、有色等板块的护盘下，大盘得以收阳，但个股惨烈，中小板下跌1.24%，<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>大跌2.2%。跌停数量达到8个，跌幅超5%逾100个。<br/>　　2、市场分化较为严重，即使个股下跌惨重，但涨停个股也达到了11个。每天总会有一些“明星股”。三季度马上就要过去了，三季报对市场的影响逐渐升级，对于三季报有预增的股票，短期恐会受到资金青睐，同时正处于水深火热的零售板块则在三季度依然不容乐观，当然我只是说企业的经营情况，而非指股票表现。大家看到苏宁电器最近的大跌也能知道目前消费领域的暗淡，我个人认为零售业在今年是最为痛苦的阶段，而明年则只能起到平手，部分经营不错的企业可以取得优于市场平均水平。<br/>　　3、本周持股大幅下挫，当然这不是本栏预想到的最坏阶段，我买入苏宁电器也预想会有20%的亏损，那些认为我一买入股票就会上涨或者就有期待上涨的想法，我认为这是错误的。我买入股票，至少是考虑到7年（大体一个经济周期）情况，企业能长大到什么程度，目前估值是否合理，是否有安全边际，我是买入股票划算，还是买入国债合理？比如，我现在买入的市盈率是15倍，假如我卖出的市盈率也是15倍，那么我的盈利空间则是企业利润的增长空间，如果市场能给予估值上的溢价，比如市盈率达到了30倍，那么我的盈利空间则包括两部分，一部分是本身企业的盈利增长，另一部分则是市场的估值增长。如果7年内该股净利润增长4倍，而估值增长一倍，那么7年的收益率则有800%。这就是我<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>思维的重要部分，当然评估的是7年时间，持股不一定会7年，有可能是一年，也有可能是2年，具体要看股票的表现。只要看好股票并买入后，我就不会因短期股票下跌而抱怨什么，我的双眼就只注视着企业的本身经营情况。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22958654">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22958654&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22958654&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22958654)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22958654)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#22959270" id='A_22959270'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">87楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-21 16:43:04]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="22959270"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　上周大盘在60日线附近横盘4个交易，本周出现了破位性快速砸盘，这与哈尔滨的塌桥事件非常相似，4辆超重货车把一座大桥给“压垮”了，货车便随桥垂直落地。当然这大盘的“桥”到底有多少豆腐渣，这又有谁判定的清楚呢？或许证监会领导们开新闻发布会会这样说：大盘坍塌，这是因为股民期望大盘上涨的“心”过于膨胀了。<br/>　　上面的内容只是玩笑，对于<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>来说，大盘涨跌自然不过，我们应该更多关注的是企业经营本身，我们是基于两方面赚钱，一方面是跟着企业自身成长赚钱，另一方面是基于<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>（个股）估值修复赚钱，两者都对投资有正作用，我们才会出手，我们只喜欢做乘法。<br/>　　本周大盘大跌4.57%，中小板大跌6.02%，<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>下跌7.16%。不过我们账户组合下跌更为惨重，是示范以来最惨的一次，下跌8.07%，这主要“归功于”苏宁电器，其下跌幅度达到了10.09%，不过正如我之前说过的，由于持股非常集中化，而且将大部分仓位布局于零售业，将使得账户在短期内出现大跌（大涨）的情况，不过这种变化是正常的，这种股价变动不会影响到我们的持股心态，对于短期内来说，我们更宁愿犯傻，但对于长期来说，我们一定会去找其确定性，只有充分的确定性，我们才会选择坚定持股，如果未来每年收益不能至少达到10%，我们是不会去投资股票的，而转而投资国债市场。如果你看到我们满仓持有消费股，那本身就告诉了你，我们很看好未来的股票表现。<br/>　　本周收益 本月收益 示范以来<br/>　　示范账户 -8.07% -1.13% 0.27%<br/>　　大盘 -4.57% -1.02% -14.88%<br/>　　差值 -3.50% -0.11% 15.15%</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22959270">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=22959270&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=22959270&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(22959270)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(22959270)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23001819" id='A_23001819'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">88楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-25 15:49:59]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23001819"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：<br/>　　:<br/>　　仓位：100% 收益:2.16%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、《21世纪经济报道》今日报道称，苏宁电器今日召开发布会或宣布收购红孩子。苏宁认为此报道可能会严重影响股价表现，待公司通过指定媒体披露澄清公告后复牌。其实，红孩子是一个严重亏损的B2C电商平台，属于细分市场的垂直电商。虽然市场传闻苏宁易购将收购红孩子，但苏宁易购却在一直否认，而《21世纪经济报道》此次报道可能也并非空穴来风，可能是知道些许内幕。但即使是属实的，我认为这样的收购并不值得持有苏宁的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者激动，红孩子可以弥补易购在母婴产品的缺陷，但至于能否有很好的协同效应，我们只能走一步看一步。<br/>　　2、央行周二开展2900亿元天量逆<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%D8%B9%BA&x=16&y=13" target="_blank">回购</a>，创下历史记录。但即使央行使出如此之大的市场资金投放，A股仍然长满“绿苔”，这表明投资者对目前的A股仍显担忧。不过也的确是，在几年以来的最低位做横盘整理，市场也不会对某些不够实在的“利好”抱有兴趣。不过2900亿的逆回购，也可以看出央行还是非常重视两节的资金流动性。其实，这应该对市场有很大的利好提振的，或许，市场在这么弱势的市场当中，对利好总是慢一拍的，我们期待明天能够反映出来。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23001819">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23001819&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23001819&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23001819)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23001819)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23016819" id='A_23016819'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">89楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-26 16:06:13]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23016819"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：<br/>　　:<br/>　　仓位：100% 收益:-0.2%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、随着<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>解禁高峰的来临，创业板的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者是弃甲曳兵，连续性的下跌，10个交易日跌幅已超13%，中小板跌幅亦超过9%，蓝筹股相对表现抗跌，因此，大盘只下跌6%。示范账户由于持股集中，而且近段时间零售业跌幅也较为惨重，因此，示范账户表现也算是惨烈，最高盈利10%，而目前已经跌至地板，希望地板下不要有太多的地窖。<br/>　　2、三年半后，大盘终于破2迎1，让人不免哀叹。如果你看到美股的牛市，就连菲利宾这样的小国股市都呈现牛市状态，我们可能甚至都有点愤怒。但没办法，中国式的股市，我们必须要适应，有一句话说的好：如果你不能征服它，那就去适应它，如果适应不了它，那就远离它。作为一般投资者，如果不能适应这样的股市，就尽量不要投入股市，股市不是一般投资者可以容易做好的，这种地方，没有刻苦铭心的教训，一厢情愿的认为在股市可以赚大钱，那就大错了。在股市里，不管是用技术分析来炒股，或者是基本面分析来价值投资，都是要非常努力的去做功课才行。<br/>　　3、大盘从05年的998点到今天的2000点，一共7年时间，大盘每年上涨10%，如果算上每年2.5%的红利，那么大盘从05年到今天，基本上是每年12.5%的复合收益率，这个收益率不算低，高于GDP的增长。如果你在05年的那一天开始持有，到今天的收益有128%，肯定会有人说，怎么可能买在05年的最低点呢？但我现在要说，如果再过7年时间，大盘再以12.5%的速度增长，90%的散户会亏损，你会选择持有一个确定性比较高的好股票做投资呢？还是来来回回短炒呢？回答好这个问题有助于你在下一个7年取得突破性的投资表现。<br/>　　4、7年，刚好是一个经济周期，7年前，大盘破千，7年后，大盘依然破千，这就好像是一个梦！这样梦会反复持续，我相信在2012~2020年依然会有07年的疯狂，我同时也相信会有08年的惨痛。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23016819">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23016819&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23016819&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23016819)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23016819)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23030611" id='A_23030611'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">90楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-27 15:57:48]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23030611"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：<br/>　　:<br/>　　仓位：100% 收益:2.34%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、9月26日晚间，30余家<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>公司几乎同时发布了关于不减持公告，这30多家创业板公司要么承诺2012年年内不减持，要么追加股份锁定。1.65万亿险资或将进入股市，9家机构获首批入场券等等，总之，今天既有创业板在证监会的“压力”之下出来安抚民心的，也有传闻说险资万亿资金抄底的。<br/>　　2、券商板块在今年大幅跑赢大盘，宏源证券今年上涨76%，国海证券上涨116%，国金证券上涨46%，其他券商股也涨幅多在20%~30%左右，而同期的大盘下跌6.5%。券商板块的走强与今年的业绩好转不无关系，很多券商在连续业绩下滑，今年已经开始出现增长或者下滑速度明显下降。我在年初就判断对券商板块以及<a href="http://bbs.hexun.com/search/?q=%B5%E7%D7%D3&type=1" target="_blank">电子</a>元器件会在今年出现明显好转，虽然目前电子元器件表现不如券商，但也明显好于大盘，相信，电子元器件到明年会有更好的表现。<br/>　　3、券商的走强是一个正面的信号，我打个比方，宏源证券、中信证券在05年3月份探底回升，而大盘出现探底是在05年6月份，所谓“春江水暖鸭先知”，券商的走强一般会比大盘提前3~6个月左右。虽然，我们不能以此作为抄底的依据，但这的确是一个信号，7年前大盘破“千”之后，大盘再没有跌破1000点，而此次大盘依然破“千”，是否就真正的底部呢？千点是否是僵住牛市的咒印，捅破千点是否意味着大盘真正的熊市终结，我们拭目以待吧！希望，这一次，我们不再失望！<br/>　　</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23030611">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23030611&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23030611&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23030611)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23030611)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23043957" id='A_23043957'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">91楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-09-28 17:20:18]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23043957"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：<br/>　　:<br/>　　仓位：100% 收益:6.76%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、随着大盘不断的破位下跌，大盘甚至跌破2000点，这与7年前的破千点是一样的，市场哀嚎遍野，散户资金不断离场，但大盘往往在这个时候容易出现底部。在大盘下跌的时候，绝大部分的人都非常恐慌，觉得对中国绝望了，或是中日要打战了，只要大盘下跌，大部分人都会有100个理由把股票卖了，等到市场疯狂上涨的时候，同样也能找到100个理由去博傻。不要觉得我说的滑稽，我曾经在券商做过几年，这个市场有什么样的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者，面对股市涨跌，他们的情绪是怎么样，我是看的麻木了。<br/>　　2、不管市场涨跌，要保持自己对市场的独立见解，这个很重要，决定自己在资本市场当中能否成功。不管怎么样，一定要反着思考。我们要去思考，那些在不断离开市场的散户们到底是正确的，还是错误的，如果他们是错误的，那么坚持股票的人就是正确的。当然我说的比较泛，最重要的是要持有行业的优质股票。<br/>　　3、大盘连续大涨，量能明显增加，在节前出现这样的走势，说明是有长线资金看好后市，我们保持对节后走势的一份期待。虽然1999未必是最低点，但目前肯定是底部区域，因为现阶段，产业资本以及QFII等资金在不断入场，他们都是觉得便宜才会入场。<br/>　　祝大家中秋快乐，国庆节愉快！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23043957">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23043957&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23043957&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23043957)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23043957)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23056941" id='A_23056941'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">92楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-01 11:44:51]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23056941"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　从大盘的季线来看，大盘始终在季60日线以上运行，01年到05年，大盘跌至季60线获得支撑，08年再次跌至60线附近获得支撑，而今年第三季度再次跌到60线，这次大盘能否获得支撑出现反转呢？前两次获得支撑均是在政策的影响之下，如05年的反转是因为股权分置改革，08年的反转是因为宽松的货币政策。我们A股是一个明显的政策市，不管是短期，还是长期，政策对A股的影响非常之大，至少在未来5~10年，国家政策依然是决定股市命运的最重要因素。</p><p>　　我一直强调，中国的税收太高，在国家调控的背景下，国务院必须给企业减负，尤其是民营企业。中国税赋的问题主要发生在税收的重叠上，这是很不科学的税收体制。我想说的是，如果下一个7年，如果A股有超额收益，那么必定是因为中国税赋改革。而且，这个税赋改革箭在弦上，中国管理层必须要对其合理化，否则，中国式矛盾会愈演愈烈。</p><p>　　回顾这三个月，大盘不断破位下跌，主要是因为国务院自从控制<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>、限购以来，中国实体经济受到很大的影响，这在我们生活当中就能深刻体会到，尤其是生意越来越难做，这种恐慌的情绪由二级<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>传到一级市场，然后又由一级市场反馈给二级市场，导致投资者对后市担忧、恐慌。再加上国有企业利润出现大幅下滑，导致每次年度（季度）报告发布之际，股票不断下跌。另外也有很大的因素，就是限购以来，有很大的一部分本觊觎于中国楼市和产业的<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%C8%C8%C7%AE&x=32&y=12" target="_blank">热钱</a>外流，这些外流的热钱一部分回流美国、一部分流至亚太、南非等人工成本更低的国家。比如菲利宾的股市出现强势的牛市特征，这说明欧美很多资本已经转到菲利宾、越南等这些人工成本较低的国家。中国的转型已经到了火烧眉毛的时刻。</p><p>　　虽然中国还有很多恶劣事迹发生，如贪污受贿严重、贪官携款外逃，以及高利贷、非法集资等等，但这些是一个发展中国家必然要面对的事情，尤其是中国这么大的国家，本身就难以管理。</p><p>　　如果因为这些因素，就觉得A股不值得投资，那就犯下了以偏概全的错误。虽然A股大部分的股票不值得投资，但仍有少部分股票值得一生拥有。我们的任务或是目标就是寻找这些我们值得一生拥有的股票，虽然最终持有多久会根据市场而变化，但我们不选择投机，我们买入后，即使股票下跌，我们还会选择继续持有，我们不会轻易选择止损，只要我们认为这个企业在未来能够成为该行业的龙头，并且能不断产生盈利，股东收益率保持不错的水平，我们就会像该企业创始人一样珍惜该股票。</p><p>　　三季度沪深300下跌6.85%，300股票股息率为3.04%，因此，沪深300<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>实际下跌3.85%；示范账户盈利8.34%</p><p>　　本周收益 本月收益 三季度收益 示范以来</p><p>　　示范账户 6.48% 5.28% 8.34% 6.76%</p><p>　　沪深300 4.28% 4.00% -6.85% -11.8%</p><p>　　差值 2.20% 1.28% 15.19% 18.56%（不包括指数红利）</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23056941">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23056941&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23056941&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23056941)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23056941)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23057023" id='A_23057023'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_20241968/_d.html"><img src="http://logo0.tool.hexun.com/130de34-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">93楼：<a href="/u_20241968/_d.html" class="f06c0">吾股丰登2086</a></span> 发表于：[2012-10-01 12:08:37]</p>
+   <p>[<a href="/u_20241968/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('吾股丰登2086');" class="f666">发送纸条</a>]<a name="23057023"></a> [<a href="http://blog.hexun.com/20241968/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/20241968/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<strong>凤凰股份(600716)大笔举债进军文化地产</strong></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23057023">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23057023&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23057023&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23057023)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23057023)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23092186" id='A_23092186'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">94楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-08 16:19:04]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23092186"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font style="font-size:16px"><font color="#ff0000"><font size="4">初始日期：2012.4.19</font></font></font> <p>　　<font size="4"><font color="#ff0000">初始资金：290000（大盘：2380）</font></font></p><p>　　<font size="4"><font color="#ff0000">选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</font></font></p><p>　　<font size="4"><font color="#ff0000">操作原则：以内在价值为中心进行滚动操作。</font></font></p><p>　　<font size="4"><font color="#ff0000">年收益目标：高于大盘10个百分点。</font></font></p><p>　　<font size="4"><font color="#ff0000">最新持股情况：</font></font></p><p>　　<font size="4">仓位：100% 收益:5.73%</font></p><p>　　<font size="4"><font color="#ff0000">聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</font></font></p><p>　　<font size="4"><font color="#ff0000"><strong>1、节假日，我们似乎看的更多的是<a href="http://bbs.hexun.com/search/?q=%C2%C3%D3%CE&type=1" target="_blank">旅游</a>的“盛景”，人山人海。其最美丽的风景倒不是风景本身，而是可以移动的人海。对于一部分旅客来说，一天下来，看人都已经看累了，哪还有闲暇看风景啊！</strong></font></p><p>　　<font size="4"><strong>2、人多，代表消费潜力大。所以，只要政府刺激消费得当，懂得“付出”，我相信中国的消费会拉动中国经济再一次雄起。</strong></font></font></p><p>　　<font size="4"><font color="#ff0000"><strong>3、虽然总有很多人忙着去人看人，但总会有一部分自称为价值<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者的人忙着去看他们手中股票业务的销售情况。比如在这个<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%C6%BD%F0&x=23&y=5" target="_blank">黄金</a>节段，贵州茅台的单店销售是否要比以往好，但很让这些“价值投资者”失望的是，今年的黄金周茅台酒销售量让人失望，于是乎，价值投资者找到一个可以卖出的理由。同样的情况，很多价值投资者发现“佰草集”好像卖的不错，于是，不管股价高低，一股脑买进家化。</strong></font></font></p><p>　　<font size="4"><font color="#ff0000"><strong>4、今天平均卖出一部分股票，组合中新加入一个伙伴，从长期来看，这个家伙的潜力大致与现有三者相当。由于想在后期增加持股，所以暂时不公开。</strong></font></font></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23092186">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23092186&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23092186&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23092186)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23092186)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23107617" id='A_23107617'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">95楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-09 16:23:31]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23107617"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:8.08%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、商务部8日数据显示，9月30日至10月7日，全国重点监测零售和餐饮企业销售额8006亿元，比2011年国庆<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%C6%BD%F0&x=23&y=5" target="_blank">黄金</a>周期间增长15%左右。国家<a href="http://bbs.hexun.com/search/?q=%C2%C3%D3%CE&type=1" target="_blank">旅游</a>局发布的旅游信息通报显示，两节<a href="http://bbs.hexun.com/search/?q=%B3%A4%BC%D9&type=1" target="_blank">长假</a>期间，全国纳入监测的119个直报景区点共接待游客3424.56万人次，同比增长20.96%；旅游收入17.65亿元，同比增长24.96%。这个数据让我们可以看出中国的消费潜力有多么大，中国的消费是可以引导的，比如这次国家惠民政策的高速公司免费通行，都是国家有意刺激内需。<br/>　　2、很多<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者很担心中国经济硬着陆，但中国有这么多人需要“房子”、“车子”，城镇化进程还远没有结束，中国政府只要适当的引导，经济就有可能再次起飞。中国经济增速这两年之所以下滑，那是因为国务院主动控制投资的结果，这是主动降速的结果，也是转型的需要，就像本来高速行驶的轮船，我想要改变45度方向，肯定是需要先减速，等方向转正之后，然后再加速。我想这很容易理解，不要拿中国与印度这些国家相比，中国有世界上最发达的基础设施，就像一个非常壮硕的年轻人，不会因为被击了一下肌肉，就会倒地。<br/>　　3、之所以股市会这么差，这是有很多因素导致的，主要是制度不够完善，监管不到位留下来的后遗症，但自从郭主席上任之后，现在这种情况已经在逐渐好转，我们平时看新闻媒体，也能看得出来，上市企业市盈率降下来了，老鼠仓减少了等等。<br/>　　4、我相信在未来20年内，投资股市要比投资房产好的多，我也一直在表达我对股市的乐观。现在不去买好股票，那还等什么时候呢？！<br/>　　5、大盘最近量能放的非常不错，大盘也站上了60天线，<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>也到了上月中旬的盘整区，接下来大盘可能会这个盘整区域附近震荡，一旦突破，中期趋势就明显转牛了。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23107617">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23107617&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23107617&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23107617)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23107617)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23119876" id='A_23119876'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">96楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-10 16:04:43]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23119876"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:9.05%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、中小板与<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>近期走势强劲，近5个交易日以来，创业板上涨9.12%，中小板上涨8.28%，大盘的上涨幅度也达到5.78%。最近涨幅榜上，第一版的股票基本上都是涨停股，市场的信心在逐渐的恢复，回暖迹象非常明显，甚至在某一个板块当中又见疯狂。<br/>　　2、地热概念股连续三涨停，在几个月之前，你听说过地热吗？谁会想利用火山或温泉的热量来供我们生活之用？由于地热无法远距离输送，因此，这限制了地热的大规模发展。或许从零开始，它具有一定的前景，如目前的中国，地热才近几年开始开发，未来还是有一定的增长率的，但规模不可能很大。对我来说，<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>地热比投资风电更不可靠谱，当然，这是我个人的愚见。<br/>　　3、现在有很多动态市盈率很低的企业，我们买股票的时候，一定不能简简单单的看软件上的市盈率，我们股票软件上计算动态市盈率是用股价除以中报的双倍利润。这种计算动态市盈率是很不合理的，比如很多企业，其业绩具有很强的季节性，有的前半年利润占了年度利润的80%，有是只占年度的20%，那么计算动态市盈率就有很大的不同，有的会有几倍的差距。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23119876">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23119876&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23119876&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23119876)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23119876)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23132522" id='A_23132522'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">97楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-11 17:23:19]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23132522"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:8%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、@但斌 ： 虽然以上证<a href="http://bbs.hexun.com/search/?q=%D6%B8%CA%FD&type=1&Submit=" target="_blank">指数</a>为代表的证券市场表现十年为零，很多人对经济发展有疑虑和质疑，但从2002年到2012年，十年間中国GDP年均增速10.7%，2010年超越日本，成为仅次于美国的第二大经济体，一定是做对了一些事情，成就了奇迹。未来2013到2023年，希望中国经济依然能保持稳健增长，希望股市能有超越经济的表现。 <br/>　　2、股市踉踉跄跄的上涨最好，走两步，退一步，这样的股市更健康。<br/>　　3、美国商务部于今日凌晨宣布了对中国光伏电池及组件的双反终裁结果，反倾销税率为18.32%至249.96%，反补贴税率为14.78%至15.97%，并从中扣除10.54%的出口补贴，经计算行业关税范围为23.75%至254.66%，远远超出中国光伏行业能够承受的范围。这告诉我们，产品定价权是多么重要，不要老生产一些没有附加值的东西，要创新，不要做代加工产。或许，美国的这种自我保护的作法，反而能激发国内的创新意识，同时也更能重视国内市场的开发。 </div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23132522">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23132522&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23132522&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23132522)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23132522)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23144513" id='A_23144513'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">98楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-12 16:40:36]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23144513"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　初始日期：2012.4.19 <br/>　　初始资金：290000（大盘：2380）<br/>　　选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）<br/>　　操作原则：以内在价值为中心进行滚动操作。<br/>　　年收益目标：高于大盘10个百分点。<br/>　　最新持股情况：</p><p>　　仓位：100% 收益:6.89%</p><p>　　聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：<br/>　　1、【今天最兴奋的事情，就是莫言获奖！莫言，对中国历史的贡献是：第一次将中国社会展现给当代主流文明社会。正如诺贝尔文学奖对其评价 “将魔幻现实主义与民间故事、历史与当代社会融合在一起”。一个国家的文明要真正让世界认知，靠的不是形象宣传片，而是真正美好的社会生活和真正美妙的文学创作。中国过去的乡土生活必然很快为全世界所了解；中国要让全世界了解新型城镇化下的新生活，还有很长的路。——孙建波】<br/>　　2、瑞典著名汉学家、诺贝尔文学奖终审评委马悦然评点莫言说：“莫言非常会讲故事，太会讲故事了。他的小说都是很长的，除了在《上海文学》发表的《莫言小说九段》。”，“我感觉他写得太多了，他的书有现在的一半厚就更好了。”他还曾亲自对莫言说：“你的小说太长了，你写得太多了。”，莫言幽默地回答：“我知道，但是因为我非常会讲故事，只要开始了就讲不完。” 日本诺贝尔文学奖获得者大江健三郎认为，莫言是中国作家中有资格问鼎诺贝尔文学奖的人选。 【不同阶段、不同境界的人所理解的东西不一样，就像我们国内很多<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>者无法理解<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>、李嘉诚他们持股会持有这么久一样。所出发点，目的不一样，其操作方式就会不一样。】<br/>　　3、现在市场在做横盘整理阶段，这个区域是前期的高点，我也周二也说过，大盘很有可能会在此区域做整理，希望大盘继续整理一个礼拜，蓄势时间越久，一旦突破，上升浪将越大。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23144513">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23144513&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23144513&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23144513)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23144513)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23171647" id='A_23171647'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">99楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-15 16:05:17]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23171647"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font style="font-size:16px"><font color="rgb(255,0,0)"><font size="4"><font color="rgb(255,0,0)">初始日期：2012.4.19</font></font></font></font> <p>　　<font size="4"><font color="#ff0000">初始资金：290000（大盘：2380）</font></font></p><p>　　<font size="4"><font color="#ff0000">选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</font></font></p><p>　　<font size="4"><font color="#ff0000">操作原则：以内在价值为中心进行滚动操作。</font></font></p><p>　　<font size="4"><font color="#ff0000">年收益目标：高于大盘10个百分点。</font></font></p><p>　　<font size="4"><font color="#ff0000">最新持股情况：</font></font></p><p>　　<font size="4"><font color="rgb(0,0,0)">仓位：100% 收益:6.46%</font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)">聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"><font color="rgb(0,0,0)"><strong><font color="rgb(0,0,0)">1、由于<a href="http://bbs.hexun.com/stock/post_5_4093596_1_d.html" target="_blank">创业板</a>必须在15日之前出三季报修正公告，遮羞布始终都要被撕下的，最晚出公告的这一批成为跌幅最大的创业板股票，今天总共有16家个股跌停，其中就有12只是属于创业板的，96只股票跌幅超过5%，其中有52家属于创业板股票。</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><strong>2、真正优秀的企业家，肯定是一个坦诚、正直、为广大股东着想的企业家。但我们中国企业家们非常缺少这样的优良基因。</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><strong>3、经济增速明显放缓，上市企业休养生息，很多优秀的企业基本上都在做同一件事情：去库存！一部分企业去库存的状态已经一年多了，依然还没有看到结束的征兆，这是过度繁荣之后的结果，很容易让我们联想起白居易《长恨歌》的“<strong>自古多情空余恨，此恨绵绵无绝期”。也有一部分企业还处于过度扩张时期，他们的理念是：只要库存还有现金，我的目标就是扩张。也有一些企业也摆好了去库存的姿态，但因为要分摊高额的财务费用以及成本折旧，他们还必须维持一定的生产规模，这样也加长了去库存的进度。总之，做股票与做企业都要看时势，顶风而上未必是英雄。企业得以修养，积聚现金，一旦形势有所好转，再加大产能，这样的企业才有可能有良好的持续性效应。</font></strong></font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><font color="rgb(0,0,0)"><strong><strong>4、将眼光放于企业，而非几根K线。</font></strong></font></strong></font></font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23171647">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23171647&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23171647&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23171647)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23171647)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#23186326" id='A_23186326'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18823597/_d.html"><img src="http://logo1.tool.hexun.com/1ad391f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">100楼：<a href="/u_18823597/_d.html" class="f06c0">老吴操盘888</a></span> 发表于：[2012-10-16 16:37:27]</p>
+   <p>[<a href="/u_18823597/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('老吴操盘888');" class="f666">发送纸条</a>]<a name="23186326"></a> [<a href="http://blog.hexun.com/18823597/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18823597/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font style="font-size:16px"><font color="rgb(255,0,0)"><font size="4"><font color="rgb(255,0,0)">初始日期：2012.4.19</font></font></font></font> <p>　　<font size="4"><font color="#ff0000">初始资金：290000（大盘：2380）</font></font></p><p>　　<font size="4"><font color="#ff0000">选股原则：选择具有安全边际的成长性股（配置价格合理的高成长性股以及价格大幅低估的缓慢成长性股）</font></font></p><p>　　<font size="4"><font color="#ff0000">操作原则：以内在价值为中心进行滚动操作。</font></font></p><p>　　<font size="4"><font color="#ff0000">年收益目标：高于大盘10个百分点。</font></font></p><p>　　<font size="4"><font color="#ff0000">最新持股情况：</font></font></p><p>　　<font size="4"><font color="rgb(0,0,0)">仓位：100% 收益:7.08%</font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)">聊聊<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>：</font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"><font color="rgb(0,0,0)"><strong><font color="rgb(0,0,0)">1、三季报市场效应降临A股，几家欢喜几家愁。每天都有不少涨停，亦有不少股票大跌。究其原因，主要是市场的短期投机风气作怪。市场的资金绝大多数是追求短期利润的，发现某一个板块将在三季度或是四季度会有预增，就开始布局，当然最后跟入的是绝大多数是散户。</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><strong>2、二季度的中报依然让我们失望，昨天公布的数据，ppi创下了36个月新低，这说明产能在萎缩，经济不行，产值自然会出现下降，直到降到产销值较为合理为止。在中国控制经济增速的同时，消费需求也在萎缩，我想这一点出乎高层的意料当中，其经济的严峻超出他们的想象。现在的问题是，在控<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>的情况下，经济增速下滑到底什么时候才能稳定，消费需求什么时候才能提升？在欧美经济复苏良好的情况下，出口视乎并没有让我们惊喜。</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><strong>3、中国消费能力毋庸置疑，如何提升消费在经济中的比重，这就考验新管理层的智慧了。这一点，我选择乐观等待，既然中国经济“弱”了这么多年了，我们还有什么理由在中途“下车”呢？</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font size="4"><font color="rgb(255,0,0)"><strong>4、在<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=26&y=15" target="_blank">巴菲特</a>的年报当中，我最喜欢这一段，拿来与大家分享：</font></strong></font></font></p><p>　　<font size="4"><font color="rgb(255,0,0)"></font> </p><p>　　<font color="rgb(255,0,0)"><strong><font size="5"> 不管是研究买下整家公司或股票投资时，大家会发现我们偏爱变化不大的公司与产业，原因很简单，我们希望买到的公司是能够持续拥有竞争优势达十年或二十年以上者，变迁快速的产业环境或许可能让人一夕之间大发利市，但却无法提供我们想要的稳定性。身为投资人，对于热门流行产业的态度就好象在太空探险一样，对于这种勇猛的行为我们给予喝采，但是若要我们自己上场，那就再说吧! 当然所有的产业都会变化，在今日喜斯糖果的经营形态与我们当初在1972年买下这家公司时又有很大的不同，喜斯提供了更多样的糖果、生产<a href="http://bbs.hexun.com/search/?q=%C9%E8%B1%B8&type=1" target="_blank">设备</a>与销售通路也大不相同，不过人们为什么要购买盒装巧克力的动机，与购买盒装巧克力又为什么一定要选择喜斯的原因，自从喜斯在1920年代由喜太太家族创立以来就从来没有变过，而我想这原因在往后20年，乃至于50年都不会有所改变。在买进股票时我们同样也追求可预测的未来，以可口可乐来说，可口可乐产品所代表的热情与想象在总裁古崔塔的带领下升华到极点，此举为公司股东创造出可观的价值，在don keough与doug ivester的协助之下，古崔塔从头到尾重新塑造公司的每一部份，不过这家公司的本质——可口可乐强力的竞争优势与主导性，多年来却从未改变。像可口可乐与吉列这类的公司应该可以被归类为"永恒的持股"，分析师对于这些公司在未来一、二十年饮料或刮刀市场的预测可能会有些许的不同，而我们所说的永恒并不意味这些公司可以不必继续贯彻在<a href="http://bbs.hexun.com/search/?q=%D6%C6%D4%EC&type=1" target="_blank">制造</a>、配销、包装与产品创新上的努力，只是就算是最没有概念的观察家或甚至是其最主要的竞争对手，也不得不承认可口可乐与吉列，在终其一生的投资生涯，仍将在其各自的领域中独领风骚，甚至于他们的优势还有可能会继续增强，过去十年来，两家公司在原有极大的市场占有率又扩大许多，而所有的迹象显示，在往后的十年间，他们还会继续以此态势扩大版图。当然，比起一些具爆发性高<a href="http://bbs.hexun.com/search/?q=%BF%C6%BC%BC&type=1&Submit=" target="_blank">科技</a>或新创的事业来说，这些被永恒持股公司的成长力略显不足，但与其两鸟在林，还不如一鸟在手。虽然查理跟我本人终其一生追求永恒的持股，但能够真正让我们找到的却属鳞毛凤角，光是取得市场领导地位并不足以保证成功，看看过去几年来通用汽车、<a href="http://bbs.hexun.com/search/?bid=&type=4&q=IBM&x=23&y=11" target="_blank">ibm</a>与西尔斯这些公司，都曾是领导一方的产业霸主，在所属的产业都被赋予其无可取代的优势地位，大者恒存的自然定律似乎牢不可破，但实际结果却不然，也因此在找到真正的真命天子之前，旁边可能还有好几打假冒者，这些公司虽然曾经红极一时，但却完全经不起竞争的考验，换个角度来看，既然能够被称为永恒的持股，查理跟我早就有心理准备，其数量绝对不可能超过五十家或甚至是不到二十家，所以就我们的投资组合来说，除了几家真正够格的公司之外，还有另外几家则是属于极有可能的潜在候选人。当然有时你也很有可能以过高的价格买下一家好的公司，这种风险并不是没有，而以我个人的看法，像现在的时机买任何股票就都有可能必须承担这样的风险，当然也包含永恒的持股在内，在过热的股市进场买股票的投资人必须要先做好心理准备，那就是对于付出高价买进的优良企业来说，必须要有更长的一段时间才有办法让他们的价值得以彰显。对于各位个人的投资方式，让我提供一点心得给各位参考，其实你也可以选择建立自己的投资组合，但有几点是大家必须特别注意的，智慧型投资并不复杂，当然它也不是一件容易的事，投资人真正需要具备的是给予所选择的企业正确评价的能力，请特别注意"所选择"这个字，你不必像很多专家一样同时研究许多家公司，相反的你要做的只是选择少数几家在你能力范围之内的公司就好，能力范围的大小并不重要，要紧的是你要很清楚自己的能力范围。投资要成功，你不需要研究什么是beta值、效率市场、现代投资组合理论、期权定价或是新兴市场，事实上大家最好不要懂得这一些理论，当然我这种看法与目前以这些课程为主流的学术界有明显不同，就我个人认为，有志从事投资的学生只要修好两门课程——亦即"如何给予企业正确的评价"以及"思考其与市场价格的关系"即可。身为一位投资人，大家其实只要以合理的价格买进一些很容易了解且其盈余在未来五到十年内会大幅成长的企业的部份股权，当然一段时间下来，你会发现只有少数几家公司符合这样的标准，所以要是你真的找到这样的公司，那就一定要买进足够份量的股权，在这期间，你必须尽量避免自己受到外界诱惑而偏离这个准则，如果你不打算持有一家公司股份十年以上，那最好连十分钟你都不要拥有它，在慢慢找到这样盈余加总能持续累积的投资组合后，你就会发现其市值也会跟着稳定增加。虽然我们很少承认，但这正是伯克希尔股东累积<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B2%C6%B8%BB&x=31&y=10" target="_blank">财富</a>的唯一方式，我们的透视盈余在过去几年间大幅跃进，而同期间我们的股票价格也跟着大涨，要不是我们的盈余大幅增加，柏克夏所代表的价值就不可能大幅成长。当然我们现在背负庞大的资金基础将无可避免地会影响到我们未来盈余成长的能力，但我们还是会按照和过去一致的方向，在现有的基础之上，这部份的难度较低，因为我们拥有一群杰出的经理人，同时继续买进全部或部份一些不会受外界环境影响且拥有竞争优势的新事业。</font></font></font></strong></font></p><p>　　<font size="4"></font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23186326">回复</a>  | 
+   <a href="/newreply.aspx?bid=5&postId=4634840&parentId=23186326&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=5&replyId=23186326&postId=4634840">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(23186326)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(23186326)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="botpage">
+<div class="pagenum"><a href="http://bbs.hexun.com/stock/post_5_4634840_1_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_2_d.html" target="_self" class="current">2</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_3_d.html" target="_self">3</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_4_d.html" target="_self">4</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_5_d.html" target="_self">5</a> <a href="http://bbs.hexun.com/stock/post_5_4634840_3_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="3" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>
+</div>
+
+
+<script type="text/javascript" src="/s/p/b.js?a"></script>
+
+
+
+<script type="text/javascript">
+var editor = new punymce.Editor({
+	id : 'txtContent',
+	toolbar:'insertimage,insertlink,inserttable,insertchar,removeformat',
+    plugins : 'Protect,TextColor,EditSource,Entities,Hexun,BBCode',
+	min_width : 500,
+	max_width:500,
+	customSetup:replySetupMce,
+    styles : [
+	    { title : 'Code', cls : 'pre', cmd : 'FormatBlock', val : '<pre>' },
+	    { title : 'Quote', cls : 'quote', cmd : 'mceSetClass', val : 'quote'},
+	    { title : 'Unquote', cls : 'quote', cmd : 'mceSetClass', val : ''}
+    ],
+    image:{skip_css:true},
+    link:{skip_css:true},
+    textcolor:{skip_css:true},
+    fonts:['Arial','宋体','新宋体','黑体','幼圆','隶书','华文彩云','华文琥珀','微软雅黑'],
+    fontsizes:['8pt','10pt','12pt','14pt','18pt','24pt','36pt'],
+    resize:false,
+    enableCustomSetup:true
+});
+//被禁用的工具栏
+function updateDisableTools(disabledTools){
+    editor.disabled = disabledTools;
+}
+</script>
+<script src="/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getPostPageDisabledTools&bid=5" type="text/javascript"></script>
+
+<!--快速回复 b-->
+<div class="kshfmod"><a name="reply"></a>
+<h3>快速回复</h3>
+<div class="cont">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="520">
+<form method="post" name="formLogin" action="https://reg.hexun.com/login.aspx"><input name="gourl" value="http://bbs.hexun.com/post.aspx?bid=5&postId=4634840&pageNumber=2" type="hidden">
+<p class="yhxx"><span id="spnLoginStatus">未登录用户请在此登录：</span>
+    <input value="用户名" type="text" name="username" id="txtUserName" class="btn01"  style=" width:95px" onfocus="if(this.value=='用户名') this.value='';this.style.color='000000'" />　 
+    <input value="密码" type="password" name="password" id="txtPassword" class="btn01"  style=" width:95px" onfocus="if(this.value=='密码') {this.value='';this.style.color='000000';}" />
+    <input type="image" src="/s/p/img/login.jpg" class="lg"/>
+    <a href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS" class="f06c0" id="aReg"><u>新用户注册</u></a>
+</p>
+</form>
+<form name="aspnetForm" method="post" action="../post.aspx?bid=5&amp;postId=4634840&amp;pageNumber=2" id="aspnetForm" target="_self">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjIyNTU1OTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRRjdGwwMCRjJGJ1dHRvblN1Ym1pdA==" />
+</div>
+
+<textarea name="content" id="txtContent" rows="12" cols="60"></textarea>
+<!--[if IE]>
+<br/><font color="gray">Ctrl + 回车可以快速提交</font>
+<![endif]-->
+<div style="display:none" id="plVc"></div>
+
+
+<div class="post_reply"><span id="ctl00_c_labelMsg" style="color:Red;"></span> 
+<p><input type="image" name="ctl00$c$buttonSubmit" id="ctl00_c_buttonSubmit" src="/clientfiles/post/img/btn_fb.gif" onclick="return checkForm(this);" style="border-width:0px;" /></p>
+</div>
+
+<script src="/js/md5.js" type="text/javascript"></script><script>var police={address:'695cf4868f8415e802c84e7da0b450c6',ip:'6b3fcff3c889e35400ab265eb155e95b'};addLoadEvent(function(){setPoliceCode(document.aspnetForm||theForm);});</script></form></td>
+    <td valign="top" class="contrig">   
+    <p><button  class="editbtn" type="button"  style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入股票行情图',src:'/service/quotechart.aspx?type=stock',width:'500px',height:'240px'});">插入股票行情图</button></p>
+     <p><button  class="editbtn" type="button" style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入基金行情图',src:'/service/quotechart.aspx?type=funds',width:'500px',height:'240px'});">插入基金行情图</button></p>
+<div style="font-size:1px;height:1px">&nbsp;</div>
+     <div>表情：<a class="emtSelected" id="aEmNew" href="javascript:Emotion.turn(0)" target="_self">新版</a>
+      | <a class="emtUnselected" id="aEmOld" href="javascript:Emotion.turn(1)" target="_self">老版</a>
+      </div>
+     <div id="divEmotions"></div></td>
+  </tr>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+<!--快速回复 e-->
+
+</td>
+    <td width="215" valign="top">
+<?xml version="1.0" encoding="gb2312"?>
+
+
+<!--include virtual="/inc/ads/180x150.inc"-->
+
+<div id="sidebar">
+
+<div class="sidemod">
+<ul class=li02>
+<li><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank><img alt=短期理财就选它 src="http://i4.hexunimg.cn/2014-05-13/164743323.jpg"></a><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank>短期理财就选它</a></li>
+
+<li><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank><img alt=来就送2000元 src="http://i9.hexunimg.cn/2014-06-09/165513774.jpg"></a><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank>来就送2000元</a></li>
+</ul>
+
+</div>
+
+<div class="sidemod">
+	<h3 class="tit01">
+		<strong>热点</strong>
+	</h3>
+	<ul class="li01" id="R_listAD_1"></ul>
+</div>
+	
+<div class="sidemod"><h3 class="tit01"><strong>精彩内容推荐</strong></h3><ul class="li02"><li><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank"><img src="http://i0.hexunimg.cn/2014-04-24/164238019.jpg" alt="货币明智操作"/></a><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank">货币明智操作</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank"><img src="http://i3.hexunimg.cn/2014-04-24/164238026.jpg" alt="信托100违规"/></a><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank">信托100违规</a></li></ul><ul class="li01"><li><a href="http://bbs.hexun.com/post_385_6819779_1_d.html" target="_blank">大盘或重返1时代</a></li><li><a href="http://bbs.hexun.com/post_412_6819563_1_d.html" target="_blank">5月将迎来井喷行情</a></li><li><a href="http://bbs.hexun.com/post_488_6819748_1_d.html" target="_blank">多一分谨慎少一分悲观</a></li><li><a href="http://bbs.hexun.com/post_598_6819710_1_d.html" target="_blank">郭施亮：证监会要毁掉股市吗</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6819554_1_d.html" target="_blank">只有创业板止跌调整才会结束</a></li><li><a href="http://bbs.hexun.com/post_466_6819669_1_d.html" target="_blank">武汉老张：一周股市热点解读</a></li><li><a href="http://bbs.hexun.com/post_823_6605989_1_d.html" target="_blank">美元的走向左右金银后市方向</a></li><li><a href="http://bbs.hexun.com/post_769_6605968_1_d.html" target="_blank">金银可能出现超跌反弹的走势</a></li><li><a href="http://bbs.hexun.com/money/post_75_6606044_1_d.html" target="_blank">金银回调看涨 高空后继续低多</a></li><li><a href="http://bbs.hexun.com/money/post_75_6605977_1_d.html" target="_blank">继续等待更完美的空头信号</a></li></ul></div>
+<!--include virtual="/inc/fragments/post_right_search.inc"-->
+<!--include virtual="/inc/fragments/post_right_hotbars.inc"-->
+ 
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新精华</strong></h3>
+<ul class="li01" id="ulEssence">
+</ul>
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新推荐</strong></h3>
+<ul class="li01" id="ulRecomment">
+</ul>
+</div>
+
+<!--20120419取消组图/inc/pics.inc-->
+
+<style>
+#bbs_6room li{margin-bottom:0px}
+#bbs_6room img{width:86px; height:64px; background:none; border:1px solid #ccc;padding:1px}
+</style>
+<div class=sidemod id="bbs_6room">
+<h3 class=tit01><strong>音乐互动女主播</strong></h3>
+<ul class=li02>
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F8058%3Fcoop%3D1022" target=_blank><img alt=?╮樂樂こ src="http://vi2.6rooms.com/live/26/22/e593f2eda2ac0da7c61564e0cadaf170_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>?╮樂樂こ</a></li>
+
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F3130%3Fcoop%3D1022" target=_blank><img alt=★じ☆ve糖小糖 src="http://vi2.6rooms.com/live/95/68/0dc38b75e0dd514ce7d2591271eef782_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>★じ☆ve糖小糖</a></li>
+</ul>
+</div>
+
+</div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+needVc = true;
+getAttachmentDownloadTimes();
+addLoadEvent(loadFooterHtml);
+var bid = 5;
+resizeTooWide();
+
+//判断是否可以回复该帖子
+
+(new Image()).src = '/img/processing.gif';
+function checkForm(o){
+    if(typeof theForm == 'undefined') {
+			//alert("=t=!");
+			theForm = o.form;
+		}
+    //if(typeof theForm.hasSetPoliceCode != 'undefined' && theForm.hasSetPoliceCode === true){
+        var ou = $id('txtUserName');
+        var opwd = $id('txtPassword');
+        if(ou.value == '用户名')ou.value = '';
+        var c = editor.getContent().replace('<html/>','');
+        
+        if(c .isEmpty()){
+            dialog.alert('提示','请输入回复内容');
+            return false;
+        }
+        processing(o);
+        return true;
+    //}else{
+    //    alert('请等待页面载入完毕后提交表单!');
+    //    return false;
+    //}
+}
+
+addLoadEvent(Emotion.init);
+
+function doSubmit(){
+    var btn = $id('ctl00_c_buttonSubmit');
+    if(checkForm(btn)){
+        btn.click();
+    }
+}
+addLoadEvent(function(){
+    setTimeout(function(){setQuickSubmit([editor.getWin().document.body],doSubmit);},2000);    
+});
+
+//脚印
+function initialFootprint(data){
+    var oc = $id('ulVisitors');
+    
+    if(data && data.length){
+        for(var i=0;i<data.length;i++){
+            var u = data[i];
+            var li = crt('LI',{},oc);
+            crt('IMG',{src:u.logo},crt('A',{href:u.url},li));
+            crt('A',{href:u.url,innerHTML:u.name},li);
+        }
+    }
+}
+function onGotUser(u){
+    if(!post.isLock && typeof theForm != 'undefined')setPoliceCode(theForm);
+    
+    if(u.id > 0){
+        var oS = $id('spnLoginStatus');
+        if(oS){
+            oS.innerHTML = '已登录用户可在此更换帐号：';
+        }
+        if($id('aReg'))$id('aReg').style.display = 'none';
+    }
+    
+    if(typeof u.needVerifyCode != 'undefined' && u.needVerifyCode === true){
+        //显示验证码
+        $id('plVc').style.display = 'block';
+        if(!$id('ctl00_c_vc'))
+        $id('plVc').innerHTML = '<style>.verifyCodeInput{width:60px;height:16px;line-height:16px;margin-right:4px;}</style>'
+        + '<p style="margin:10px 0 5px 0;line-height:20px;">'
+        + '请输入验证码：<span id="ctl00_c_vc"><input onfocus="onVcInputFocus(this,\'vc__img\',\'/vc.asmx?\');" maxlength="4" type="text" name="vc_code" id="vc_code" class="verifyCodeInput"/><img src="/vc.asmx" align="absmiddle" id="vc__img" class="verifyCodeImg"/><a class="verifyCodeAnchor" href="javascript:void(0);" target="_self" onclick="replaceCode(\'vc_code\',\'vc__img\',\'/vc.asmx?\')"/>看不清?</a></span>'
+        +'</p>';
+    }
+    
+    if(u.isAdmin){
+        
+        var as = $tags('SPAN',$id('content'));
+        for(var i=0;i<as.length;i++){
+            var a = as[i];
+            if(a.className.indexOf('admA')>-1)a.style.display = 'inline';
+        }
+        var oc = $id('divAbc');
+        var d1 = oc.firstChild.innerHTML;
+        var d2 = oc.lastChild.innerHTML;
+        new Ajax({url:'BBS.WebUI.Ajax.IPParser,BBS.WebUI.ajax.asmx?bid=5&k=4634840',postBody:'i=' + d1+'&l='+d2,onComplete:function(trans){
+            setIL(eval(trans.responseText));
+        }});
+        
+        var odivs = $tags('div');
+        for(var i=0;i<odivs.length;i++){
+            if(odivs[i].className.indexOf('ipedit')>-1){
+                odivs[i].style.display =  'block';
+            }
+        }
+    }
+}
+function setIL(d){
+    if(!d)return;
+    var id = d[0];
+    var ld = d[1];
+    var odivs = $tags('div');
+    var rI = 0;
+    for(var i=0;i<odivs.length;i++){
+        if(odivs[i].className.indexOf('ipedit')>-1){
+            var od = odivs[i];
+            var spn = $tag('SPAN',od);
+            if(spn){
+                var oi = $tag('SPAN',spn,0);
+                var ol = $tag('SPAN',spn,1);
+                if(oi && ol){
+                    oi.innerHTML = id[rI];
+                    ol.innerHTML = ld[rI];
+                }
+            }
+            rI ++;
+        }
+    }
+}
+
+
+function updatePostPv(pv){var o = $id('pv');if(o){o.innerHTML = pv;}}
+addLoadEvent(function(){loadPosts(5,'Essence');loadPosts(5,'Recomment');});
+
+
+</script>
+
+<style type="text/css">
+.hilite0,.hilite1,.hilite2{color:red!important;background:#ee0!important}
+</style>
+<script language="vbscript">
+Function URLDecode(input) 
+    Dim str,code,a(3),b(1) 
+    str="" 
+    code=input 
+    code=Replace(code,"+"," ") 
+    Const hexstr = "0123456789ABCDEF" 
+    While len(code)>0 
+        If InStr(code,"%")>0 Then 
+            str = str & Mid(code,1,InStr(code,"%")-1) 
+            code = Mid(code,InStr(code,"%")) 
+            a(0) = UCase(Mid(code,2,1)) 
+            a(1) = UCase(Mid(code,3,1)) 
+            If a(1)<>"" And InStr(hexstr,a(0))>0 And InStr(hexstr,a(1))>0 Then 
+                b(0) = Eval("&H" & a(0) & a(1)) 
+                If b(0)>127 And Mid(code,4,1)="%" And len(code)>=6 Then 
+                    a(2) = UCase(Mid(code,5,1)) 
+                    a(3) = UCase(Mid(code,6,1)) 
+                    If a(3)<>"" And InStr(hexstr,a(2))>0 And InStr(hexstr,a(3))>0 Then 
+                        b(1) = Eval("&H" & a(2) & a(3)) 
+                        str = str & chr(b(0)*256+b(1)) 
+                        code = Mid(code,7) 
+                    Else 
+                        str = str & "%" 
+                        code = Mid(code,2) 
+                    End If 
+                Else 
+                    str = str & chr(b(0)) 
+                    code = Mid(code,4) 
+                End If 
+            Else 
+                str = str & "%" 
+                code = Mid(code,2) 
+            End If 
+        Else 
+            str = str & code 
+            code = "" 
+        End If 
+    Wend 
+    URLDecode = str 
+End Function 
+</script> 
+<script src="http://img.hexun.com/hx_bbs/hx_bbs_finalpage.js"></script>
+
+<script type="text/javascript">
+Hilite.autoForSeachEngine($id('tdContent'));
+
+</script>
+
+<script src="/service/visitlog.aspx?pid=4634840&bid=5" type="text/javascript">
+</script>
+<noscript>
+<img src="/service/visitlog.aspx?pid=4634840&bid=5" 
+    width="1" height="1" border="0"/>
+</noscript>
+
+<div id="divAbc" style="display:none"><span>1854B5C4F0D15BC16B253A0306865A8563CFAFE87E396A9C22308AEE24E1CDC0E23987A89B28C84AA3C729C8D59710D879B6BB30EDD57A04D9A1FEFFA59A06D134E6C751DE1ED3958B40BC9D3F8F94F7E48955EF5B99CDE632FD06972D02DF57F7B2B3A30A78F04D87E114DCCDBD12B3F9363C818A283D2EFF30049F12A8245355175ACE4117F82BE18BEE70D0D28FE5E34653C45912CBFE79DE208654B52265478B461D715A9B1EF1C69B25D1D96311F57619C81E3309CFEE3914A120388A2AB861A3FE59985545A4DDF2475B0223A805B2A0A92CF33A8F5342FD05FCE7B20DD4B0C9B755644E46F4572F573B963CA0B82F1D527EA09273A3D009E3EE7BF697F119496325DCA9B2CB34C1A4EC7778C6E419E00A22364FE83801A7C37298A596F08047A4C12BD1FF521B28B6A26BA9C47AC0C53C58842CE4EA8CB7DEB35A071A2203DA7987505BCFDC2B1F08676F757EAEB80C49788D0B58AB3A7ED7784267807E9E09208214CA514A3144B7C2DEB35217A2F0420FCDD53548D7ADA5B9EE4AA74CA97D816E6C25007BF6710BAA170776A7F6CA4DFCFC85CC34A1D3D4941ACD59A3D14DB275541A323FFC9180930E232FB01859DC8D45E1A1F7C29659F498256B7B94F512DB10320C03B76F5F4AA888E14FE206535E56E82FFC11A3561FB573486170C5EC3B0F172954364876BAE9D163FE6B9CF92C73C6B558BCEBFB63F8DA0C0228A0D67363BFB0ADC2F943275798FA3360DF2BCC1DD46DE2294F61481EA421675AB865ADB05379565BD12A695079D45FA2FA71AB51BAB770FEA764876F895D81C8F823D77B19FBCCF7E8F470EAE2A21030AFD23A9031546E2688BB8569BDC90738391E27AB31EF5EEDCB88D7AA4C1607D9994D1664D5E48C2526B6BAE76D835C9C471FDA9B52C1F3D51517BA661B7B56272C138791798C1F5D2B1958995700E0EB81238BA48B6D793D8CD6AD0223EEE9C866524C691B5C2DC520917185EBF9CE3E87C8B54DC158F429ED09D8758A5176908ED12EBA31C145BDE7F9AF4488D7</span><span>52EB4B4409A67A061E177363A643DD5D32F8276231CC1CB1FAF12F8EBAE6DF576C4FDDA90CA64BBFB48BC7418BF055B6FAAC5F2231D322EB8B27F79491CF8312CA209B9069EC4BBCA5E5CEC1E9DE8541EEAD9ECB9652FFDBBBAC3871D271B967AE554B27A820A139E87C609D2C0498D821D32A3C85B421206999DDC2BB6B263EEA48769CE8F2C39EC5A9D9FD5230F172EFCB6F653A6CF54C31D37FA38FFDDC9236513D9452A55E530B12B1E95B5E277ED5B8D9BC43225598BA236AF5D434D4860698765DAFE454E459DD92F991E3E1D9D97348A97BC0D24BD2861E25CF90FD4742D85216E10EAED2ED49B3D47A1245547E965DD8684403DF113E49163B72928C52AE29ED12C371A3913E8EE6CEBDDFDD87B047E347A4767FB42193EDB9EAD72E52186B9CE7B61AD26396A0324322081D66F6DB5B450A032D83607AFD0E96FEF41D7B58BA733F9F419240BFDC182FC4B9EDB5ACDE2A69E2D0F1D5F00024987A36B8E4977FA97496D097CC33E9944FD1315F4A1C33543C279A8980F4C55BB138E5A9DC534E910071E2FEABA79234DD7D0655FF106F0455F4B5A8F8E3D3F9421C639D228C5D80520CF79E554CA4A644AB29467800DCF5F4E99AE4E7DEB8D80B2908B55B89055276052C95D9E2544FF53FC98D5D16F211C7CE71BD86A046D5C85E1C88640C65DCC66E915A8E874B48C1DD6500D41E496F8DA4CCC881420BBD0F74BB8E35114EDBADF2E17BB5C8571119FB50B7352C3A702A68F94A27C6BE17333D81632EA8D5B5853EA1DDB64B7840364784D91884DAD6AF1FC67F13C6D8EC0942D3435F1B4D50AF2A49304FCEFC4D55E00F886EF954DAE1D2D3FFBBB5275A1114257ED81D93359332F7241DFC008D85FD091D712C9DA7A1F9D77A5905834D363E4CCC24D686F18E470E7C2CA41AB50FE657FC605ACCCE5CBA7474FA1285BE529514DC0F5910E829FE0396BDA5C9B6F0235186435595E919F8D40339DD335AB6A7A1FFDAB2F71969DD693A8CE2AB5088397E1284888C6215DB5614FBBA6E62636A70C4B77EC3FE3F879D45526D36755880432CA8C22A48AF5579C9DD1BE738E13803F486D667B0DB0E6B323273729F12481F2430A9A4ABBEE3702D58A64C16EBB200907A7804CB5B2BBDCE79C4D68318F6E3E4F817D5FEE01784CD5A398E68AE6C5AE1F8EF2FF7B237C2C032EDCCEBBC3B65A54CE7A3C169A3E5F0626579576F54B5275DC908E95F26ECCCBD967A743EC6D072D2BFED8322DCFE598822AF0178C2237EB960ED3361402896F0FAD36E91199645CB9034D95D30C223F98EFA1C3AED60B0300645FF656718386819EC1A8CFD31D8FA4A18A62AB6213EE87C9F9915489E88AB1B435FC2AA696868228030C5C427EC78B8D77916D8889F002E7EBAD6F072D14773750CF5E0F9DEDDC70B4F8BCC7EB8F071E87E3DDA702E1821B1212C0D05E0C3FCC2F2484296E4BFEF9A4F267B3A29C47303B9DE8255F142A70CA5EB182055C00777DC78D1595A28CDD24221A2EE7EE3A694419756D2D9EE968AAE9BFF5C6405EFFDCA424DAE8BE83561FF1BA92E32103DF969C5015750B1183C191103E9622589E6771B6FCAC331C84212DBEB1C30010686FF803406C1DC2A06BF421944</span></div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

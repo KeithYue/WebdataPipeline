@@ -1,0 +1,362 @@
+http://epaper.stcn.com/paper/zqsb/html/2012-01/06/content_332669.htm
+1402802348.11
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>意西希麻烦不断 匈牙利或成欧盟首个违约国-证券时报多媒体数字报刊平台</title>
+<link rel="stylesheet" href="../../../tplimg/wz_style_2010.css" />
+<link href="../../../tplimg/calendar_2010.css" rel="stylesheet" type="text/css"/>
+<SCRIPT language=Javascript src="../../../tplimg/prototype_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/mp_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/calendar2_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/range_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/menu_display_2010.js"></SCRIPT>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(function(){
+	var $tr = jQuery('#bmdh tr,#btdh tr');
+	$tr.hover(function(){
+		jQuery(this).addClass('hover');
+	},function(){
+		jQuery(this).removeClass('hover');
+	})
+	
+	var _url = location.href;
+	var aUrls=_url.split("/");
+	var nurl = aUrls[aUrls.length - 1];
+	var $a = jQuery('.daodu a');
+	$a.each(function(){
+		if(jQuery(this).attr('href') == nurl){
+			jQuery(this).css('color','#999');
+		}
+	})
+	
+})
+function showDiv(obj){
+	var _body = document.body;
+	var _width = _body.scrollWidth;
+	var _height = _body.scrollHeight;
+	var $z9999 = jQuery('#z9999');
+	var $z10000 = jQuery('#z10000');
+	var $z10001 = jQuery('#z10001');
+	$z9999.css({width:_width, height:_height, opacity:0.3});
+	$z9999.show();
+	$z10000.show();
+	$z10001.load(obj + ' #mainTxt',function(){
+		var $fenxiangA = jQuery('.tuijian a');
+		$fenxiangA.attr('href',obj);
+	});
+	return false;
+}
+
+window.onload = function(){
+	rankings();
+}
+
+function rankings(){
+	var oDiv = document.getElementById('zz_rankings');
+	var oUl = oDiv.getElementsByTagName('ul')[0];
+	var oA = oUl.getElementsByTagName('a');
+	var oOl = oDiv.getElementsByTagName('ol');
+	for(var i = 0; i < oA.length; i++){
+		oA[i].id = i;
+		oA[i].onmousemove = function(){
+			for(var j = 0; j < oA.length; j++){
+				oA[j].className = '';
+				oOl[j].style.display = 'none';
+			}
+			this.className = 'highlight';
+			oOl[this.id].style.display = 'block';
+		}
+		oA[i].onclick = function(){
+			return false;
+		}
+	}
+}
+
+ function copy(obj){
+	var clipBoardContent = obj.href;
+ if(window.clipboardData){
+ window.clipboardData.clearData();
+ window.clipboardData.setData("Text", clipBoardContent);
+ }else if(navigator.userAgent.indexOf("Opera") != -1){
+ window.location = clipBoardContent;
+ }else if (window.netscape){
+ try{
+ netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+ }catch (e){
+ alert("您的当前浏览器设置已关闭此功能！请按以下步骤开启此功能!新开一个浏览器，在浏览器地址栏输入'about:config'并回车.然后找到'signed.applets.codebase_principal_support'项，双击后设置为'true'。声明：本功能不会危极您计算机或数据的安全！");
+ }
+ var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+ if (!clip) return;
+ var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+ if (!trans) return;
+ trans.addDataFlavor('text/unicode');
+ var str = new Object();
+ var len = new Object();
+ var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+ var copytext = clipBoardContent;
+ str.data = copytext;
+ trans.setTransferData("text/unicode",str,copytext.length*2);
+ var clipid = Components.interfaces.nsIClipboard;
+ if (!clip) return false;
+ clip.setData(trans,null,clipid.kGlobalClipboard);
+ }
+ alert("地址已经复制到您的剪贴板，您可以发送给您的朋友啦！");
+ return true;
+}
+function addFavorite(obj){ 
+	var _url = obj.href;
+	var vDomainName=_url;
+	var description=jQuery('#mainTiile h2').html(); 
+	if(document.all){//IE 
+		window.external.AddFavorite(vDomainName,description); 
+	}
+	else if (window.sidebar){//FF 
+		window.sidebar.addPanel(description,vDomainName,""); 
+	} 
+} 
+//打印
+function doPrint(obj) { 
+	var _url = obj.href;
+	
+	window.location.href="http://epaper.stcn.com/paper/newZQSB/html/print/print/print.html?"+_url;
+ } 
+ //阻止冒泡
+function stopBubble(){
+ 	if(document.all){
+		getEvent().cancelBubble = true;
+	}else{
+		getEvent().stopPropagation();
+	} 
+ }
+</script>
+
+</head>
+<body onload="initMPPage();initialize();">
+<SPAN id=leveldiv title=点击查看内容 
+style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; Z-INDEX: 100; LEFT: 233px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 210px; CURSOR: hand; POSITION: absolute; TOP: 123px; HEIGHT: 34px; BORDER-RIGHT-WIDTH: 0px" onmouseout="MouseOutMap()"></SPAN>
+<div class="header" onclick="document.getElementById('daydh').style.display='none';">
+	<h1><a href="#">证券时报多媒体数字报</a></h1>
+	<div class="navWrap"> <a class="logo" href="http://www.stcn.com/" target="_blank"><img src="../../../tplimg/stcn_2010.jpg" /></a>
+			<ul class="nav">
+				<li><a class="a1" href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">时报快讯</a></li>
+				<li><a class="a2" href="http://stock.stcn.com/" target="_blank">股票市场</a></li>
+				<li><a class="a3" href="http://company.stcn.com/" target="_blank">上市公司</a></li>
+			</ul>
+		<div><a href="#" onclick="if(document.all){javascript: window.external.AddFavorite('http://epaper.stcn.com/','证券时报多媒体数字报刊平台');}else if (window.sidebar){window.sidebar.addPanel('证券时报多媒体数字报刊平台','http://epaper.stcn.com/',''); }">收藏</a><span>/</span><a href="http://www.stcn.com/" target="_blank">返回主页</a></div>
+	</div>
+	<div class="searchWrap">
+		<div class="date"> <span class="today" >
+			2012年1月6日
+		</span>按日期查找:<img title="鼠标点击，显示日历牌" onclick="autoShowDate();stopBubble();" src="../../../tplimg/datelog_2010.jpg" /> <span id="upqi" ><span onClick="goPrePeriod()" style="cursor:pointer">&lt; 上一期</span> <span onClick="goNextPeriod()" style="cursor:pointer">下一期 &gt;</span></span></div>
+		<div class="search" >
+			<form target="_blank" method="post" action="/PaperQueryAction.do" name="myform" id="myform">
+				<label for="key">稿件搜索：</label>
+				<input class="inpTxt" name="keyword" id="keyword" type="text" />
+				<select class="type" name="queryType" id="queryType">
+					<option value="0">全部</option>
+					<option value="1">标题 </option>
+					<option value="2">正文</option>
+				</select>
+				<input class="inpBtn" type="submit" value="搜索" />
+			</form>
+		</div>
+	</div>
+	<!-- -------------------------日期导航 -------------->
+	<script language=JavaScript>
+<!--
+document.write("<div id=detail style=position:absolute;width:300px; onclick=stopBubble();></div>");
+//-->
+</script>
+	<div id=daydh style="display:none; position:absolute; left:185px; top:125px; z-index:10000" onclick="stopBubble();">
+		<form name=CLD id="CLD" style="padding:0px;margin:0px;">
+			<table width="210" border="0" cellpadding="0" cellspacing="1" >
+				<tr>
+					<td style="padding: 3px;"><table cellspacing=0 cellpadding=0 width="100%" align=center border=0>
+						<tr>
+							<td style="background:#fff;"><table width="100%" align=center border="0" cellpadding="1" cellspacing="1">
+								<tr class="default" align=center>
+									<td height=15 colspan=7 style="background:#d2d2d2;"><table width="100%" border="0" cellpadding="2" cellspacing="0">
+										<tr align="center">
+											<td align="left" nowrap><img src="../../../tplimg/d1_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SY,0)" /></td>
+											<td><select class=jumpmenu onChange=changeMPCld() name=SY id="SY">
+												<script language=JavaScript>
+					for(i=2006;i<2051;i++)
+					document.write('<option>'+i+'</option>')
+ 			</script>
+											</select>
+											</td>
+											<td><img src="../../../tplimg/d_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SY,1)" /></td>
+											<td align="center" nowrap><img src="../../../tplimg/d1_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SM,0)" /></td>
+											<td><select class=jumpmenu onChange=changeMPCld() name=SM id="SM">
+												<script language=JavaScript>
+				<!-- 
+					for(i=1;i<13;i++) document.write('<option>'+i+'</option>')
+				//-->
+ 			</script>
+											</select>
+											</td>
+											<td><img src="../../../tplimg/d_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SM,1)" /></td>
+											<td align="right" nowrap><strong><font id=GZ fface="Arial, Helvetica, sans-serif"></font></strong></td>
+										</tr>
+									</table></td>
+								</tr>
+								<tr align=middle style="background:#e8e8e8;" class="default">
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">日</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">一</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">二</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">三</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">四</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">五</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">六</font></b> </td>
+								</tr>
+								<script language=JavaScript>
+		<!--
+			var gNum;
+			for(i=0;i<6;i++) 
+			{
+				document.write('<tr align=center>');
+				for(j=0;j<7;j++) 
+				{
+					gNum = i*7+j;
+					document.write('<td class="default" align=center id="GD' + gNum +'" style="cursor: default;" width="14%"><a href="" id="CD' + gNum + '"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onMouseOver="mOvr(' + gNum +')" onMouseOut="mOut()" id="SD' + gNum +'"');
+					document.write('></font></span></a><br><font id="LD' + gNum + '" size=2 class=pt9 style=display:none></font></td>');
+				}
+				document.write('</tr>');
+			}
+		//-->
+ 	</script>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	<!-------日期导航END------>
+</div>
+<div class="content" onclick="document.getElementById('daydh').style.display='none';">
+	<table>
+		<tr>
+			<td valign="top"><div class="side">
+				<div width="381" height="550" bgcolor=#ffffff style="BORDER: #111111 1px solid" align="center">
+					<MAP NAME="pagepicmap"><Area coords="87,378,373,378,373,471,87,471,87,378,87,378,373,378,373,378,87,378,87,378" shape="polygon" href="content_332667.htm"><Area coords="189,477,372,477,372,537,189,537,189,477,189,477,372,477,372,477,189,477,189,477" shape="polygon" href="content_332668.htm"><Area coords="87,49,194,49,194,275,87,275,87,49,87,49,373,49,373,77,87,77,87,49,87,49,204,184,373,184,373,187,204,187,204,184,204,75,373,75,373,181,204,181,204,75,204,184" shape="polygon" href="content_332669.htm"><Area coords="8,478,187,478,187,486,8,486,8,478,10,488,185,488,185,537,10,537,10,488" shape="polygon" href="content_332670.htm"><Area coords="8,49,74,49,74,471,8,471" shape="polygon" href="content_332671.htm"><Area coords="204,193,373,193,373,275,204,275,204,193,204,193,373,193,373,193,204,193,204,193" shape="polygon" href="content_332672.htm"><Area coords="87,286,137,286,137,318,141,318,141,286,373,286,373,368,87,368,87,286,87,286,373,286,373,286,87,286,87,286" shape="polygon" href="content_332673.htm"></MAP><img src=../../../page/1/2012-01-06/A004/19921325786302803.jpg border=0 USEMAP=#PagePicMap>
+				</div>
+				<iframe src="http://stock.stcn.com/common/gethtml/get_tuijian.html" width="381px" height="61px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+				<iframe class="zhuantiIframt" src="http://stock.stcn.com/common/gethtml/get_zhuanti.html" width="381px" height="298px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+				<div class="statement">
+					<h2>证券时报网络版郑重声明</h2>
+					<p>经证券时报社授权，证券时报网独家全权代理《证券时报》信息登载业务。本页内容未经书面授权许可，不得转载、复制或在非证券时报网所属服务器建立镜像。欲咨询授权事宜请与证券时报网联系 (0755-83501827) 。</p>
+				</div>
+			</div></td>
+			<td valign="top"><div class="main">
+				<ul class="subNav">
+					<li><a href="http://epaper.stcn.com/">首页</a><span>|</span></li>
+					<li><a href="#nogo" onMouseOver="setNavigationDIV('block','btdhLinkId','bmdh');" onMouseOut="setNavigationDIV('none','btdhLinkId','bmdh');">版面导航</a><span>|</span></li>
+					<li><a href="#nogo" id="btdhLinkId" onMouseOver="setNavigationDIV('block','btdhLinkId','btdh');" onMouseOut="setNavigationDIV('none','btdhLinkId','btdh');">标题导航</a></li>
+				</ul>
+				<div class="wrap">
+					<div id="mainTxt">
+						<div id="mainTiile">
+							<!-- =========================================标题开始 ====================================== --->
+							 <div style="padding:10px 0 0; text-align:center; color:#827E7B;"></div> <h2>意西希麻烦不断 匈牙利或成欧盟首个违约国</h2> <h3 style="text-align:center; font-size:12px; font-weight:normal; color:#827E7B; margin-bottom:10px;"></h3> <div class="from"> 2012-01-06 来源：证券时报网 作者：吴家明</div> 
+							<!-- =========================================标题结束 ====================================== --->
+						</div>
+						<div id="mainCon">
+							<div class="txtWrap">
+								<!-- ===============================文章里面的图片 ============================ -->
+								<table>
+									<tr>
+										<td align="center"><table style="BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; MARGIN: 0px 8px 8px 0px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid" cellSpacing=0 cellPadding=0 width="300" border=0>
+<tr>
+<td><img src=../../../res/1/20120106/53991325786303115.jpg></td>
+</tr>
+<tr>
+<td class=px12 
+ style="PADDING-RIGHT: 3px; PADDING-LEFT: 8px; PADDING-BOTTOM: 3px; LINE-HEIGHT: 18px; PADDING-TOP: 6px" 
+ align=center bgcolor="#E0E0C9" warp>　　匈牙利虽然属于欧盟国家，却不使用欧元。图为匈牙利货币福林。  IC/供图</td></tr></table>
+
+										</td>
+									</tr>
+								</table>
+								<!-- ==============================文章里面的图片end =================================== -->
+								<script language=javascript>
+	if(picResCount>0){
+		document.getElementById("picres").style.display="block";
+		document.write("<br>");
+	}
+</script>
+								<!-- ===============================文章内容 ================================= -->
+								<founder-content><P>　　证券时报记者 吴家明</P><P>　　新年伊始，欧洲股市迎来了“开门红”。然而，股市“开门红”却难掩投资者的灰色心情。在意大利、西班牙、希腊以及匈牙利四国均传出利空消息之后，投资者对欧债危机的忧虑情绪再度升温。这似乎预示着，在欧债危机彻底解决之前，任何经济数据所带来的正面影响都无法持久。</P><P>　　希腊或面临无序违约</P><P>　　投资者一直担心，希腊会否在2012年违约？</P><P>　　对此，希腊总理帕帕季莫斯4日表示，如果未能与“三驾马车”就改革方案和援助计划达成一致，希腊将在3月直接面临无序违约的危险。据悉，由欧盟、国际货币基金组织（IMF）以及欧洲央行组成的调查小组将于本月16日抵达希腊，就去年10月份制定的最新援助计划进行谈判。</P><P>　　希腊政府发言人卡普西斯日前表示，除非马上和国际债权方就总值1300亿欧元的援助贷款达成协议，否则希腊将面临退出欧元区的风险。帕帕季莫斯在新年致辞中也表示，希腊将面临艰难的一年，接下来的3个月尤其关键，政府必须继续努力让希腊留在欧元区内。</P><P>　　除了希腊，同属“欧猪五国”的意大利和西班牙，日子也都不好过。西班牙2011年预算赤字水平可能超过国内生产总值（GDP）的8%，西班牙政府正在考虑向IMF和欧洲稳定基金寻求贷款。</P><P>　　意大利总理蒙蒂在接受媒体采访时表示，意大利实体经济受到冲击的程度比其他国家小，欧洲没有理由担心意大利会像希腊和爱尔兰那样面临新的困难。不过，意大利裕信银行增发新股并筹集75亿欧元的资金，还是增加了市场对于欧洲银行业可能需要更多资金支持的担忧。</P><P>　　匈牙利货币危机一触即发</P><P>　　尽管匈牙利没有使用欧元，但该国已经成为市场关注的新焦点。越来越多的投资者开始将目光投向这个小小的东欧国家，担心布达佩斯成为欧盟首个违约政府。</P><P>　　市场数据显示，匈牙利货币福林兑欧元的汇率4日跌至历史最低点。而在昨日，匈牙利国债信用违约担保费率再创纪录新高。有分析人士表示，福林遭到投资者的大量抛售，导致匈牙利政府偿还外债成本加大，显示匈牙利正在走向货币危机，市场形势正迫使匈牙利政府接受外部援助。</P><P>　　此外，匈牙利国会日前通过了一项有争议的新中央银行法，这项新的法案大大削弱了央行行长的权力和央行的独立性，惹怒了欧盟和IMF。匈牙利国家经济部表示，IMF将于本月１８日召开会议，确定其与匈牙利谈判的代表团的授权问题。匈牙利谈判代表团团长陶马什也将于本月１１日前往华盛顿与IMF就贷款问题进行非正式谈判。</P><P>　　数据显示，匈牙利央行目前的现金储备仅为25亿欧元，今年将有约43亿欧元的外债到期。野村新兴市场经济学家蒙塔尔托表示，如果匈牙利府无法与欧盟和IMF达成协议，该国将成为债务危机的新导火索，没有外部救援的匈牙利或将成为欧盟第一个主权信用违约国。</P><P>　　美国和英国的经济数据依然亮丽，但上述四国均传出利空消息之后，市场信心遭受重创，隔夜欧洲股市下跌。而在昨日的欧洲交易时段，欧洲股市高开低走，三大股指盘中跌幅均超过0.5%。</P></founder-content> <INPUT type=checkbox value=0 name=titlecheckbox sourceid="" style="display:none">
+								<!-- ===========================文章内容end ========================================= -->
+							</div>
+						</div>
+						<!--�?�?分享开始-->
+						<div id="fenxiang" style="overflow: hidden; zoom:1; padding:8px; background:#eee;" >
+							<div class="shareto_toolbox" style="float:left;"> <a href="#" class="shareto_button_compact">分享到</a> <span class="shareto_separator">|</span> <a class="shareto_button_tsina"></a> <a class="shareto_button_tsohu"></a> <a class="shareto_button_renren"></a> <a class="shareto_button_kaixin001"></a> <a class="shareto_button_douban"></a> <a class="shareto_button_qzone"></a> <a class="shareto_button_xianguo"></a> <a class="shareto_button_hexun"></a> <a class="shareto_button_t163"></a> <a class="shareto_button_tqq"></a> </div>
+							<div class="tuijian" style="float:right; font-size:12px;"> <a href="#" onclick="copy(this);return false;" >[推荐]</a> <a href="#" onclick="doPrint(this); return false;">[打印]</a> <a href="#" onclick=" addFavorite(this);return false;">[收藏]</a> <a href="#" onclick="javascript:scroll(0,0); return false;">[顶部]</a> </div>
+							<script src="http://www.stcn.com/common/js/shareto/sjs/shareto_button.js" charset="utf-8" type="text/javascript"></script>
+						</div>
+						<!--�?�?分享结束-->
+					</div>
+					<!-- -------------------------页脚标题导航-------------->
+					<DIV class="daodu">
+						<h3>本版导读：</h3>
+						<TABLE width="100%" border=0 cellPadding=2 cellSpacing=0 bgcolor="#FFFFFF" width=277> <tbody> <tr height=22px id=mp332667> <td width=20px class="dian"></td> <td class="black"> <a href=content_332667.htm>奥巴马任内难交满意经济答卷</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332668> <td width=20px class="dian"></td> <td class="black"> <a href=content_332668.htm>武汉人福医药集团股份有限公司董事会关于2011年度第二期短期融资券发行公告</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332669> <td width=20px class="dian"></td> <td class="black"> <a href=content_332669.htm>意西希麻烦不断 匈牙利或成欧盟首个违约国</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332670> <td width=20px class="dian"></td> <td class="black"> <a href=content_332670.htm>中小盘估值风险释放，市场加速探底</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332671> <td width=20px class="dian"></td> <td class="black"> <a href=content_332671.htm>公司新闻</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332672> <td width=20px class="dian"></td> <td class="black"> <a href=content_332672.htm>法国顺利发债 评级风险依然不减</a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> <tr height=22px id=mp332673> <td width=20px class="dian"></td> <td class="black"> <a href=content_332673.htm>香港三发钞行人民币同业拆息差距较大 </a> </td><td width=80px align=right style="color:#999999"> 2012-01-06 </td></TR> </tbody></TABLE> 
+					</DIV>
+					<!-- -------------------------页脚标题导航 END -------------->
+				</div>
+			</div></td>
+		</tr>
+	</table>
+</div>
+<div class="footer">
+	<iframe width="100%" height="150" frameborder="0" scrolling="no" src="http://www.stcn.com/common/include/indexFooter.html"></iframe>
+</div>
+<!-------bmdh版面导航------>
+<div id=bmdh onMouseOver="document.getElementById('bmdh').style.display = 'block';" onMouseOut="document.getElementById('bmdh').style.display = 'none';">
+	<div class="in">
+		<TABLE border=0 cellPadding=2 cellSpacing=0 bgcolor="#FFFFFF"> <TBODY> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_2.htm class="black" id=pageLink>第A001版：头 版（今日68版）</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A001/55001325824052881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_3.htm class="black" id=pageLink>第A002版：要 闻</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A002/54561325786555615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_4.htm class="black" id=pageLink>第A003版：评 论</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A003/44641325786556600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_5.htm class="black" id=pageLink>第A004版：环 球</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A004/10351325786302818.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_6.htm class="black" id=pageLink>第A005版：视 觉</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A005/31481325786303818.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_7.htm class="black" id=pageLink>第A006版：机 构</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A006/42871325786557600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_8.htm class="black" id=pageLink>第A007版：创业·资本</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A007/8891325786304834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_9.htm class="black" id=pageLink>第A008版：视 觉</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A008/66531325786305834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_10.htm class="black" id=pageLink>第A009版：舆 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A009/76771325786558600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_11.htm class="black" id=pageLink>第A010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A010/33431325786559631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_12.htm class="black" id=pageLink>第A011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A011/49731325786306834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_13.htm class="black" id=pageLink>第A012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A012/85331325786560615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_42.htm class="black" id=pageLink>第B001版：B叠头版：公 司</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B001/35081325786561615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_43.htm class="black" id=pageLink>第B002版：公 司</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B002/83721325786816506.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_44.htm class="black" id=pageLink>第B003版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B003/17581325786307881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_45.htm class="black" id=pageLink>第B004版：产 经</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B004/60721325786562600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_78.htm class="black" id=pageLink>第C001版：C叠头版：市 场</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C001/22491325786563600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_79.htm class="black" id=pageLink>第C002版：动 向</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C002/67551325786564600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_80.htm class="black" id=pageLink>第C003版：期 货</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C003/71325786565600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_81.htm class="black" id=pageLink>第C004版：个 股</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C004/6371325786566600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_82.htm class="black" id=pageLink>第C005版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C005/84211325783196412.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_83.htm class="black" id=pageLink>第C006版：行 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C006/54821325783197443.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_84.htm class="black" id=pageLink>第C007版：行 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C007/40651325783198615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_85.htm class="black" id=pageLink>第C008版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C008/68541325783199459.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_86.htm class="black" id=pageLink>第C009版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C009/72211325783200443.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_87.htm class="black" id=pageLink>第C010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C010/31561325786567678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_88.htm class="black" id=pageLink>第C011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C011/81641325786308850.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_89.htm class="black" id=pageLink>第C012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C012/42441325786309881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_521.htm class="black" id=pageLink>第D001版：D叠头版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D001/12691325786568615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_522.htm class="black" id=pageLink>第D002版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D002/48011325786569615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_523.htm class="black" id=pageLink>第D003版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D003/57771325786570631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_524.htm class="black" id=pageLink>第D004版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D004/2971325786571631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_525.htm class="black" id=pageLink>第D005版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D005/49631325786311178.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_526.htm class="black" id=pageLink>第D006版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D006/94981325786572740.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_527.htm class="black" id=pageLink>第D007版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D007/91431325786573678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_528.htm class="black" id=pageLink>第D008版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D008/81981325786312209.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_529.htm class="black" id=pageLink>第D009版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D009/57681325786574631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_530.htm class="black" id=pageLink>第D010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D010/75881325786575647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_531.htm class="black" id=pageLink>第D011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D011/41811325786576787.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_532.htm class="black" id=pageLink>第D012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D012/55261325786577615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_533.htm class="black" id=pageLink>第D013版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D013/67041325786578631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_534.htm class="black" id=pageLink>第D014版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D014/5601325786313193.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_535.htm class="black" id=pageLink>第D015版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D015/9931325786579647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_536.htm class="black" id=pageLink>第D016版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D016/55511325786314334.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_537.htm class="black" id=pageLink>第D017版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D017/48641325786315178.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_538.htm class="black" id=pageLink>第D018版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D018/73151325786580615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_539.htm class="black" id=pageLink>第D019版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D019/93491325786817506.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_540.htm class="black" id=pageLink>第D020版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D020/62061325786316193.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_541.htm class="black" id=pageLink>第D021版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D021/74091325786581647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_542.htm class="black" id=pageLink>第D022版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D022/64711325786582631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_543.htm class="black" id=pageLink>第D023版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D023/31181325786583772.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_544.htm class="black" id=pageLink>第D024版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D024/80611325786584678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_545.htm class="black" id=pageLink>第D025版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D025/5821325786585631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_546.htm class="black" id=pageLink>第D026版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D026/38151325786317256.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_547.htm class="black" id=pageLink>第D027版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D027/38431325786318240.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_548.htm class="black" id=pageLink>第D028版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D028/63761325786586615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_549.htm class="black" id=pageLink>第D029版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D029/62451325786587631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_550.htm class="black" id=pageLink>第D030版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D030/64181325786319225.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_722.htm class="black" id=pageLink>第D031版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D031/51325786320256.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_552.htm class="black" id=pageLink>第D032版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D032/12491325786588615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_553.htm class="black" id=pageLink>第D033版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D033/18121325786589787.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_554.htm class="black" id=pageLink>第D034版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D034/21901325786590631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_555.htm class="black" id=pageLink>第D035版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D035/15031325786591647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_556.htm class="black" id=pageLink>第D036版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D036/76051325786592647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_557.htm class="black" id=pageLink>第D037版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D037/67201325786321209.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_558.htm class="black" id=pageLink>第D038版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D038/50481325786322225.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_559.htm class="black" id=pageLink>第D039版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D039/52141325786593647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_560.htm class="black" id=pageLink>第D040版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D040/31581325786323240.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> </TBODY> </TABLE></div>
+</div>
+<!-------bmdh版面导航END------>
+<!-- -------------------------标题导航-------------->
+<DIV id=btdh style="display:none; position:absolute; left:500px; top:155px;" onMouseOver="document.getElementById('btdh').style.display = 'block';" onMouseOut="document.getElementById('btdh').style.display = 'none';">
+	<div class="in">
+		<TABLE border=0 cellPadding=2 cellSpacing=0 bgcolor="#FFFFFF" width=277> <tbody> <tr height=27px id=mp332667> <td width=10px></td> <td class="black"> <a href=content_332667.htm>奥巴马任内难交满意经济答卷</a> </td></TR> <tr height=27px id=mp332668> <td width=10px></td> <td class="black"> <a href=content_332668.htm>武汉人福医药集团股份有限公司董事会关于2011年度第二期短期融资券发行公告</a> </td></TR> <tr height=27px id=mp332669> <td width=10px></td> <td class="black"> <a href=content_332669.htm>意西希麻烦不断 匈牙利或成欧盟首个违约国</a> </td></TR> <tr height=27px id=mp332670> <td width=10px></td> <td class="black"> <a href=content_332670.htm>中小盘估值风险释放，市场加速探底</a> </td></TR> <tr height=27px id=mp332671> <td width=10px></td> <td class="black"> <a href=content_332671.htm>公司新闻</a> </td></TR> <tr height=27px id=mp332672> <td width=10px></td> <td class="black"> <a href=content_332672.htm>法国顺利发债 评级风险依然不减</a> </td></TR> <tr height=27px id=mp332673> <td width=10px></td> <td class="black"> <a href=content_332673.htm>香港三发钞行人民币同业拆息差距较大 </a> </td></TR> </tbody></TABLE> 
+	</div>
+</DIV>
+<!-- -------------------------标题导航 END -------------->
+<!-- tongji文件star -->
+<div style="display:none;">
+	<script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+	<script src='http://w.cnzz.com/c.php?id=30023490' language='JavaScript' charset='gb2312'></script>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-10571449-2");
+	pageTracker._setDomainName(".secutimes.com");
+	pageTracker._trackPageview();
+	} catch(err) {}
+ </script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-18256358-1']);
+	_gaq.push(['_setDomainName', '.stcn.com']);
+	_gaq.push(['_trackPageview']);
+ (function(){
+	 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+ </script>
+</div>
+<!-- tongji文件end -->
+</body>
+</html>
+
+<!--enpproperty <founder-date>2012-01-06</founder-date><founder-author>吴家明</founder-author><founder-title>意西希麻烦不断 匈牙利或成欧盟首个违约国</founder-title><founder-nodename></founder-nodename><founder-keyword></founder-keyword><founder-ip></founder-ip><founder-ChannelID>1</founder-ChannelID><founder-imp>0</founder-imp><founder-subtitle></founder-subtitle><founder-type>1</founder-type><founder-introtitle></founder-introtitle><founder-pagepicurl>zqsb/page/1/2012-01-06/A004/66101325786302818.jpg</founder-pagepicurl><founder-pagenum>A004</founder-pagenum><founder-papername>北京欢迎你－abc1-证券时报</founder-papername><founder-nodeid>5</founder-nodeid><founder-paperhead>zqsb/logo/</founder-paperhead> /enpproperty-->

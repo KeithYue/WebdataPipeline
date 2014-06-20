@@ -1,0 +1,1328 @@
+http://bbs.hexun.com/search?bid=&type=4&q=%b4%b4%d2%b5%b0%e5&x=21&y=9
+1402801107.87
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	创业板 - 和讯论坛搜索
+</title>
+
+
+<script src="/s/b/h.js" type="text/javascript"></script>
+<link href="/s/b/a.css" type="text/css" rel="stylesheet"/>
+
+<base target="_blank"/>
+<style>
+#tblPosts A.f666:hover{color:#CC0000}
+#tblPosts A.f666:visited{color:#666}
+</style>
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<script>var q = '创业板';var qT = 4;
+var isUrlRewrite = false;
+function gotoPage(oid){
+    var p = $id(oid).value;
+    
+    var url = location.href;
+    var re;
+    var replacement;
+    if(isUrlRewrite){
+        re = /_(\d+)_d.aspx/ig;
+        replacement = '_'+p+'_d.aspx';
+    }
+    else{
+        var re = /([&?]{1})pageNumber=\d+/ig;
+        replacement = '$1pageNumber=' + p;
+    }
+    if(re.test(url)){
+        url = url.replace(re,replacement);
+    }else{
+        url = url + (url.indexOf('?')>-1? '&':'?') + 'pageNumber=' + p;
+    }
+    if(ie()){
+        var ev = event;
+        var a = getSrcElement(ev);
+        if(a)a.href = url;
+    }
+    location.href = url;
+}
+</script>
+
+<div class="topnav">
+<div class="bgrig">
+<div class="bgleft">
+<div class="bbslogo"><a target="_top" href="http://bbs.hexun.com/"><img id="logoImg" src="/img/default_board_logo.gif" /></a></div>
+<div id="topsearch" >
+<div class="tab"><span id="taba1" class="current" onmouseover="tab('taba',1,2);">论坛搜索</span> </div>
+<div id="taba_cont1"><form name="fqA" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input id="qA" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/>  <input name="type" type="radio" value="1" checked="checked"  /> 标题 <input id="radioContent" name="type" type="radio" value="2" /> 正文 <input name="type" type="radio" value="16" /> 作者 <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> </form></div>
+<div id="taba_cont2" style="display: none;">
+<form name="fqB" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input name="type" type="hidden" value="4" /> <input id="qB" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/> <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> <strong class="hot">热门标签：</strong> <a href="http://bbs.hexun.com/search/?type=4&q=股票" target="_blank">股票</a> <a href="http://bbs.hexun.com/search/?type=4&q=期货" target="_blank">期货</a> <a href="http://bbs.hexun.com/search/?type=4&q=基金" target="_blank">基金</a> <a href="http://bbs.hexun.com/search/?type=4&q=理财" target="_blank">理财</a> <a href="http://bbs.hexun.com/search/?type=4&q=地震" target="_blank">地震</a> </form></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+function setQueryKey(){
+    if(typeof bid != 'undefined' && !isNaN(bid)){
+        document.fqA.bid .value = document.fqB.bid .value = bid;
+    }
+    
+    if(typeof qT == 'undefined')return;
+    if(qT == 4){
+        tab('taba',2,2);
+    }else{
+        if(qT == -1){
+            //document.fqA.target = document.fqB .target = '_blank';
+        }
+        else{
+            //document.fqA.target = document.fqB .target = '_top';
+            var radios = document.fqA.type;
+            for(var i=0;i<radios.length;i++){
+                if(qT == radios[i].value){
+                    radios[i].checked = true;
+                    break;
+                }
+            }
+        }
+    }
+
+    if(typeof qT == 'undefined' || typeof q == 'undefined'){}
+    else ((qT == 4 ? $id('qB') : $id('qA')).value = q);
+}
+
+addLoadEvent(function(){setTimeout(setQueryKey,600);});
+
+function checkSearchForm(f){
+    var q = f.q.value;
+    if(q.trim() == '' || q == '输入关键词'){
+        alert('请输入搜索关键词');
+        f.q.focus();
+        return false;
+    }
+    return true;
+}
+// ]]></script>
+</div>
+</div>
+</div>
+
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/">和讯论坛</a> &gt; 
+ 搜索标签 “ 创业板 ”
+找到相关结果6656条
+</div>
+<div class="right">在线人数：<span id="spanOnlineUserCn">..</span>
+</div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="130" valign="top">
+
+<div class="bbsmenu"  id="menu">
+<div class="menu01b" onclick="openShutManager(this,'box2')">财经世界</div>
+<div  id="box2" class="secend"><dl class="itemList_show"><dt style="background:url(/clientfiles/list/img/up.gif) no-repeat #c0d2f2 22px -13px;"><a target="_blank" href="http://bbs.hexun.com/profession/">高手版区</a></dt></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_567_all_1_d.html">经济观澜</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_568_all_1_d.html">经济观澜</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/stock/board_4_all_1_d.html">股市论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/stock/board_5_all_1_d.html">股市大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/stock/board_54_all_1_d.html">港股论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/stock/board_759_all_1_d.html">策略海</a></dd><dd><a target="_top" href="http://bbs.hexun.com/stock/board_141_all_1_d.html">股市热点评论</a></dd><dd><a target="_top" href="http://bbs.hexun.com/stock/board_826_all_1_d.html">量化投资</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/futures/board_7_all_1_d.html">期市论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/futures/board_46_all_1_d.html">期市大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_824_all_1_d.html">期权大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_70_all_1_d.html">股指期货论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_272_all_1_d.html">期市热点评论</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_807_all_1_d.html">国债期货论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_811_all_1_d.html">量化交易论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/futures/board_825_all_1_d.html">藏书阁</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_28_all_1_d.html">基金论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/funds/board_30_all_1_d.html">基金大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_29_all_1_d.html">开放式基金</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_273_all_1_d.html">基金热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_83_all_1_d.html">理财论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_84_all_1_d.html">E起理财</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_85_all_1_d.html">理财天地</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_86_all_1_d.html">大话收藏</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_87_all_1_d.html">理财宝</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_278_all_1_d.html">理财热点评论</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_372_all_1_d.html">财富测试评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_74_all_1_d.html">黄金论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_75_all_1_d.html">黄金大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_277_all_1_d.html">黄金热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_63_all_1_d.html">汇市论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_274_all_1_d.html">汇市热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_66_all_1_d.html">房产论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_67_all_1_d.html">房产投资</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_276_all_1_d.html">房产热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_42_all_1_d.html">债券论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_73_all_1_d.html">债市大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_275_all_1_d.html">债市热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_78_all_1_d.html">银行论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_79_all_1_d.html">银行大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_80_all_1_d.html">银海拾贝</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_193_all_1_d.html">工商银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_195_all_1_d.html">农业银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_196_all_1_d.html">中国银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_197_all_1_d.html">建设银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_199_all_1_d.html">交通银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_200_all_1_d.html">招商银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_201_all_1_d.html">中信银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_202_all_1_d.html">民生银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_203_all_1_d.html">兴业银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_204_all_1_d.html">浦发银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_205_all_1_d.html">华夏银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_206_all_1_d.html">光大银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_207_all_1_d.html">深圳发展银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_208_all_1_d.html">广发银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_209_all_1_d.html">北京银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_210_all_1_d.html">南京银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_211_all_1_d.html">宁波银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_212_all_1_d.html">汇丰银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_213_all_1_d.html">花旗银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_214_all_1_d.html">渣打银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_215_all_1_d.html">东亚银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_225_all_1_d.html">平安银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_226_all_1_d.html">邮储银行 </a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_227_all_1_d.html">上海银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_228_all_1_d.html">浙商银行</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_279_all_1_d.html">银行热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_76_all_1_d.html">保险论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_77_all_1_d.html">保险大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_271_all_1_d.html">保险热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_247_all_1_d.html">券商论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_248_all_1_d.html">券商大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_249_all_1_d.html">晒交易佣金</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_250_all_1_d.html">券商爆料台</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_523_all_1_d.html">投行论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_251_all_1_d.html">中金公司</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_252_all_1_d.html">中信证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_253_all_1_d.html">国泰君安</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_254_all_1_d.html">银河证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_255_all_1_d.html">申银万国</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_256_all_1_d.html">民生证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_257_all_1_d.html">长江证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_258_all_1_d.html">广发证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_259_all_1_d.html">国金证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_260_all_1_d.html">国信证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_261_all_1_d.html">海通证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_262_all_1_d.html">民族证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_263_all_1_d.html">瑞银证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_264_all_1_d.html">太平洋证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_265_all_1_d.html">湘财证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_266_all_1_d.html">兴业证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_267_all_1_d.html">中信建投</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_268_all_1_d.html">招商证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_269_all_1_d.html">中银国际</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_270_all_1_d.html">宏源证券</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_528_all_1_d.html">平安证券</a></dd></dl><dl class="itemList_show"><dt style="background:url(/clientfiles/list/img/up.gif) no-repeat #c0d2f2 22px -13px;"><a target="_top" href="http://bbs.hexun.com/money/board_221_all_1_d.html">文交所专区</a></dt></dl><dl class="itemList_show"><dt style="background:url(/clientfiles/list/img/up.gif) no-repeat #c0d2f2 22px -13px;"><a target="_top" href="http://bbs.hexun.com/money/board_232_all_1_d.html">津贵所论坛</a></dt></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_240_all_1_d.html">部委论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_241_all_1_d.html">部委论坛</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_617_all_1_d.html">地方论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_618_all_1_d.html">河南论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_619_all_1_d.html">福建论坛</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_727_all_1_d.html">德州扑克</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_728_all_1_d.html">德州扑克</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_743_all_1_d.html">国际财经</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_744_all_1_d.html">国际财经</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_801_all_1_d.html">现货论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_802_all_1_d.html">现货大家谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_803_all_1_d.html">文交所专区</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_804_all_1_d.html">津贵所论坛</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/money/board_819_all_1_d.html">虚拟币之家</a></dt><dd><a target="_top" href="http://bbs.hexun.com/money/board_820_all_1_d.html">比特币专区</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_821_all_1_d.html">莱特币专区</a></dd><dd><a target="_top" href="http://bbs.hexun.com/money/board_822_all_1_d.html">其它电子币</a></dd></dl></div><div class="menu01b" onclick="openShutManager(this,'box3')">品质生活</div>
+<div  id="box3" class="secend"><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_152_all_1_d.html">社会生活</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_91_all_1_d.html">休闲时尚</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_155_all_1_d.html">军事博览</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_156_all_1_d.html">文化读书</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_163_all_1_d.html">公益爱心</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_94_all_1_d.html">商学院</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_239_all_1_d.html">团购根据地</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_468_all_1_d.html">社会热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_552_all_1_d.html">图闻天下</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_553_all_1_d.html">图闻天下</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_97_all_1_d.html">数码论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_98_all_1_d.html">玩转数码</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_469_all_1_d.html">数码热点评论</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_95_all_1_d.html">摄影论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_100_all_1_d.html">作品赏析</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_101_all_1_d.html">软件论坛</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_238_all_1_d.html">新飞狐软件</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_11_all_1_d.html">汽车时代</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_111_all_1_d.html">水煮爱车</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_790_all_1_d.html">自驾游论坛</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_793_all_1_d.html">宝马财友会</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_791_all_1_d.html">丰田财友会</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_792_all_1_d.html">奥迪财友会</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_794_all_1_d.html">奔驰财友会</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_797_all_1_d.html">起亚财友会</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_795_all_1_d.html">用户投诉论坛</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_47_all_1_d.html">IT业界</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_48_all_1_d.html">业界动态</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_805_all_1_d.html">旅行家</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_806_all_1_d.html">旅行家</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_828_all_1_d.html">首都网警</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_829_all_1_d.html">首都网警</a></dd></dl></div><div class="menu01" onclick="openShutManager(this,'box10')">论坛站务</div>
+  <div  id="box10" style="display:none" ><ul class="menu03" ><li><a target="_top" href="http://bbs.hexun.com/board_23_all_1_d.html" target="_blank">论坛公告</a></li><li><a target="_top" href="http://bbs.hexun.com/board_25_all_1_d.html" target="_blank">论坛管理</a></li><li><a target="_top" href="http://bbs.hexun.com/board_62_all_1_d.html" target="_blank">新手帮助</a></li><li><a target="_top" href="http://bbs.hexun.com/board_61_all_1_d.html" target="_blank">BUG反馈</a></li><li><a target="_top" href="http://bbs.hexun.com/board_131_all_1_d.html" target="_blank">版主申请</a></li><li><a target="_top" href="http://bbs.hexun.com/board_764_all_1_d.html" target="_blank">活动专区</a></li></ul></div><div class="menu01b" onclick="openShutManager(this,'box125')">和讯推荐</div>
+<div  id="box125" class="secend"><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_150_all_1_d.html">和讯活动</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_151_all_1_d.html">线下聚会专区</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_126_all_1_d.html">期天大胜</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_127_all_1_d.html">技术交流</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_128_all_1_d.html">市场分析</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_129_all_1_d.html">期天大胜</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_130_all_1_d.html">售后服务</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_164_all_1_d.html">收费产品服务</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_166_all_1_d.html">收费产品帮助</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_167_all_1_d.html">收费产品公告</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_171_all_1_d.html">网友提问专版</a></dd></dl><dl class="itemList_show"><dt><a target="_top" href="http://bbs.hexun.com/board_242_all_1_d.html">股神争霸</a></dt><dd><a target="_top" href="http://bbs.hexun.com/board_243_all_1_d.html">客服专区</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_244_all_1_d.html">活动专区</a></dd><dd><a target="_top" href="http://bbs.hexun.com/board_245_all_1_d.html">经验交流</a></dd></dl></div><div class="menu01" onclick="openShutManagerNew()">投资培训</div>
+<div  id="box746" class="display:none"><ul class="menu03" ><li><a target="_top" href="http://bbs.hexun.com/board_747_all_1_d.html" target="_blank">投资培训</a></li><li><a target="_top" href="http://bbs.hexun.com/board_749_all_1_d.html" target="_blank">产品帮助</a></li><li><a target="_top" href="http://bbs.hexun.com/board_750_all_1_d.html" target="_blank">投诉建议</a></li></ul></div>
+
+</div>
+<script type="text/javascript">
+function addFav(){ 
+    var oc = $id('boxFav');
+    if(!oc)return;
+    new Ajax({
+        url:'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getFavorite&t=' + (new Date().getTime()),method:'GET',onComplete:function(trans){
+        var r ;eval('r=' + trans.responseText);
+        
+        if(r && r.length){
+            var ul = crt('UL',{className:'menu03'},oc);
+            for(var i=0;i<r.length;i++){
+                crt('A',{innerHTML:r[i].name,href:r[i].url,target:'_top'},crt('LI',false,ul));
+            }
+        }
+    },showLoading:false
+    });
+}
+</script>
+    </td>
+    <td valign="top">
+<div id="rigcontent" >
+<div class="listtab">
+   &nbsp;
+</div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="/search/4_%b4%b4%d2%b5%b0%e5_1_d.aspx" target="_self" class="current">1</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_2_d.aspx" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="/search/4_%b4%b4%d2%b5%b0%e5_41_d.aspx" target="_self">…</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_81_d.aspx" target="_self">81</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_82_d.aspx" target="_self">82</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_83_d.aspx" target="_self">83</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_84_d.aspx" target="_self">84</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_2_d.aspx" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth clear" style=" margin:0px;">
+      <tr>
+        <th>主题</th>
+        
+        <th width="103"> 作者</th>
+        <!--<th width="93">回复/点击</th>
+        <th width="104">最后回复人</th>-->
+      </tr>
+      </table><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist" id="tblPosts">
+
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_568_6956132_1_d.html" class="f234">视点：创业板再融资配套规则料近期发布</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_568_all_1_d.html" target="_blank"><font color="#234e93">经济观澜</font></a>]</font></span>
+        <span></span></td>
+        <td width='110'><a href="/u_14548461/_d.html">headingss</a>
+          <p>14-06-13 14:11</p></td>
+       <!-- <td width='90'><span class="f1b6">0</span>/<span id="pv6956132"">1</span></td>
+        <td width='110'>---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6897991_1_d.html" class="f234">创业板反弹收六连阳</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_23826941/_d.html">问股堂</a>
+          <p>14-05-26 16:33</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6897991"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_724_6892004_1_d.html" class="f234">创业板后势发展态势</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_724_all_1_d.html" target="_blank"><font color="#234e93">慧鹰德</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_9189116/_d.html">浩瀚慧鹰德</a>
+          <p>14-05-23 14:51</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6892004"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6873852_1_d.html" class="f234">【点金同钞】怎样拿稳中长线单子！其实很简单，就怕</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-18 10:27</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6873852"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6872459_1_d.html" class="f234">【点金同钞】中长空头势在必行，谨防乌克兰拦路虎！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-17 11:56</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6872459"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6869463_1_d.html" class="f234">【点金同钞】数据引发大幅跳水，止跌迹象并不明朗</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-16 10:20</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6869463"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6865127_1_d.html" class="f234">【点金同钞】局势暂稳技术需求，小幅回调继续做多！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-14 23:56</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6865127"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6865056_1_d.html" class="f234">【点金同钞】三分分析七分操作，由不得你不信！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-14 22:52</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6865056"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6863184_1_d.html" class="f234">【点金同钞】中小型散户不得不知的生存、制胜法则！！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-14 14:29</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6863184"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6861603_1_d.html" class="f234">【点金同钞】强势之后趋于平静，金融市场寻求指引</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-14 07:45</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6861603"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6861190_1_d.html" class="f234">【点金同钞】金融市场阴晴难定，普京态度成晴雨表</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-13 23:47</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6861190"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6861083_1_d.html" class="f234">【点金同钞】市场上，永远不要妄想吃掉整条鱼！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-13 22:21</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6861083"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6858203_1_d.html" class="f234">【点金同钞】乌俄时局迷雾重重，做空机制忧心忡忡！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-13 07:28</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6858203"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6858069_1_d.html" class="f234">【点金同钞】日线收阳板上钉钉，后市发展依然看晴？</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-13 00:07</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6858069"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6858068_1_d.html" class="f234">【点金同钞】日线收阳板上钉钉，后市发展依然看晴？</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-13 00:05</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6858068"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6858038_1_d.html" class="f234">【点金同钞】如何让解锁变得容易！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-12 23:34</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6858038"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6855136_1_d.html" class="f234">【点金同钞】红军势穷割地赔款，大举反攻岂在朝夕！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-12 07:37</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6855136"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6849321_1_d.html" class="f234">【点金同钞】弱势下行成主旋律，周末上演偷天换日？</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-05-09 07:30</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6849321"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6823536_1_d.html" class="f234">【点金同钞】暴风雨前最后平静，欧美非农连续冲击！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-04-29 07:47</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6823536"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6819763_1_d.html" class="f234">【点金同钞】超级周引爆贵金属，乌俄争端火上浇油！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-04-28 07:43</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6819763"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6800176_1_d.html" class="f234">明天或旱地拔葱</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-22 15:04</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6800176"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6797503_1_d.html" class="f234">周二直播实时 ：股指还有调整，回避风险</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-22 07:48</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6797503"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6789244_1_d.html" class="f234">下周或有大派对</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-18 15:08</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6789244"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6781498_1_d.html" class="f234">【月末备选】300253卫宁软件</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_1754959/_d.html">辛丑牛</a>
+          <p>14-04-16 21:10</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6781498"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_75_6759743_1_d.html" class="f234">【点金同钞】连跌美指难衬金银，强势欧元有心无力</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_blank"><font color="#234e93">黄金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21881892/_d.html">点金同钞</a>
+          <p>14-04-11 07:56</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6759743"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/money/post_568_6756151_1_d.html" class="f234">视点：创业板首季业绩预计增长一至三成</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/money/board_568_all_1_d.html" target="_blank"><font color="#234e93">经济观澜</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_14548461/_d.html">headingss</a>
+          <p>14-04-10 10:54</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6756151"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6750414_1_d.html" class="f234">周三直播实时 ：重心趋于向上权重成为稳定的中坚力量</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-09 07:42</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6750414"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_435_6750225_1_d.html" class="f234">早市导航 蓝筹股趋势回升 创业板超跌反弹</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_435_all_1_d.html" target="_blank"><font color="#234e93">高手往来 --情意篇</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18189440/_d.html">子浪投资</a>
+          <p>14-04-09 01:51</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6750225"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6748696_1_d.html" class="f234">首席策略—主板与创业板“分道扬镳”?</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_23969791/_d.html">股票小公子</a>
+          <p>14-04-08 16:06</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6748696"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6747419_1_d.html" class="f234">主板与创业板“分道扬镳”？</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_23969791/_d.html">股票小公子</a>
+          <p>14-04-08 11:52</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6747419"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6746576_1_d.html" class="f234">李易天：大盘告别底部，中线和短线机会均现</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_19348776/_d.html">heyi158</a>
+          <p>14-04-08 10:20</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6746576"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6745620_1_d.html" class="f234">周二直播实时 ：重磅利空半夜悄然来袭！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-08 07:40</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6745620"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6740131_1_d.html" class="f234">清明不哭必大涨</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-04 15:01</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6740131"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6734969_1_d.html" class="f234">监管了！明天创业板次新股全线跌停（拭目以待）</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-03 12:16</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734969"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_385_6734824_1_d.html" class="f234">4.3午盘：午后最可能的走势</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_385_all_1_d.html" target="_blank"><font color="#234e93">彬哥看盘</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_8589651/_d.html">王彬看盘</a>
+          <p>14-04-03 11:44</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734824"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6734587_1_d.html" class="f234">午后或有大惊喜</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-03 11:17</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734587"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6734559_1_d.html" class="f234">杨建波案上证监会就是满嘴吐屎</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_4455498/_d.html">趋势加行业龙头</a>
+          <p>14-04-03 11:13</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734559"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6734371_1_d.html" class="f234">120日均线将成为创业板的铁顶！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-03 10:50</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734371"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6734189_1_d.html" class="f234">股市变脸：创业板业绩变脸重创市场 估值重心连续下移</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_1395948/_d.html">只剩一毛钱</a>
+          <p>14-04-03 10:24</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6734189"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_512_6733502_1_d.html" class="f234">早评：重提固定资产投资地产铁路或成稳定器</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_512_all_1_d.html" target="_blank"><font color="#234e93">十 一 少</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_7076798/_d.html">股海十一少</a>
+          <p>14-04-03 08:36</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733502"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/funds/post_30_6733492_1_d.html" class="f234">沪港交易所确认洽谈互联通 创业板恐遭"釜底抽薪"</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/funds/board_30_all_1_d.html" target="_blank"><font color="#234e93">基金大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_1221/_d.html">杨义群</a>
+          <p>14-04-03 08:34</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733492"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_488_6733403_1_d.html" class="f234">谨防创业板的再度杀跌</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_488_all_1_d.html" target="_blank"><font color="#234e93">金鼎实战</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_8315507/_d.html">金鼎</a>
+          <p>14-04-03 07:36</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733403"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_385_6733391_1_d.html" class="f234">4.3盘前：会不会有黑周四</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_385_all_1_d.html" target="_blank"><font color="#234e93">彬哥看盘</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_8589651/_d.html">王彬看盘</a>
+          <p>14-04-03 07:29</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733391"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_486_6733239_1_d.html" class="f234">尽快选择个股</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_486_all_1_d.html" target="_blank"><font color="#234e93">阿枫看盘</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_17608449/_d.html">阿枫看盘</a>
+          <p>14-04-03 00:22</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733239"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6733000_1_d.html" class="f234">4月2日：缩量的大盘继续反弹</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_21982749/_d.html">老炒股票_qq</a>
+          <p>14-04-02 22:02</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6733000"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_582_6732803_1_d.html" class="f234">盘盘整整蓄势之方向：向上！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_582_all_1_d.html" target="_blank"><font color="#234e93">金色足迹</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_19006951/_d.html">金太阳66</a>
+          <p>14-04-02 20:15</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732803"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_815_6732569_1_d.html" class="f234">稳增长将为股市增添新动力</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_815_all_1_d.html" target="_blank"><font color="#234e93">黄文泽</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_14906256/_d.html">hwz19768</a>
+          <p>14-04-02 18:43</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732569"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6732551_1_d.html" class="f234">周四走势预测</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_7488424/_d.html">wzhaobing</a>
+          <p>14-04-02 18:35</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732551"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_496_6732239_1_d.html" class="f234">今天行情在赌政策，一着不慎血本无归！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_496_all_1_d.html" target="_blank"><font color="#234e93">童彬点股</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_17580709/_d.html">童彬点金</a>
+          <p>14-04-02 17:15</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732239"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6732210_1_d.html" class="f234">4.2股市市况：权重发力沪指涨0.56% 创业板大跌2%</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_1395948/_d.html">只剩一毛钱</a>
+          <p>14-04-02 17:11</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732210"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_724_6732003_1_d.html" class="f234">周四创业板触底反弹</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_724_all_1_d.html" target="_blank"><font color="#234e93">慧鹰德</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_9189116/_d.html">浩瀚慧鹰德</a>
+          <p>14-04-02 16:36</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6732003"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_494_6731894_1_d.html" class="f234">主力明修栈道突袭权重</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_494_all_1_d.html" target="_blank"><font color="#234e93">厦门乘风</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_22582343/_d.html">yimoneyc</a>
+          <p>14-04-02 16:23</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731894"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_494_6731847_1_d.html" class="f234">地产股死扛能否抵挡IPO重启压力?</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_494_all_1_d.html" target="_blank"><font color="#234e93">厦门乘风</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_22582343/_d.html">yimoneyc</a>
+          <p>14-04-02 16:13</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731847"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_395_6731704_1_d.html" class="f234">银行和地产有效互动为做多奠定基础</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_395_all_1_d.html" target="_blank"><font color="#234e93">版主专区</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_320360/_d.html">春意萌生</a>
+          <p>14-04-02 15:50</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731704"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6731693_1_d.html" class="f234">狐眼看市：44%专家看多周四股市</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18845752/_d.html">新飞狐运营6</a>
+          <p>14-04-02 15:48</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731693"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6731668_1_d.html" class="f234">创业板中期调整压力巨大</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_23969791/_d.html">股票小公子</a>
+          <p>14-04-02 15:44</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731668"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_538_6731448_1_d.html" class="f234">短期又要大跌！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_538_all_1_d.html" target="_blank"><font color="#234e93">七月投资</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3887/_d.html">七月投资</a>
+          <p>14-04-02 15:22</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731448"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_385_6731443_1_d.html" class="f234">4.2收盘：能否反弹看一点</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_385_all_1_d.html" target="_blank"><font color="#234e93">彬哥看盘</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_8589651/_d.html">王彬看盘</a>
+          <p>14-04-02 15:21</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731443"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6731398_1_d.html" class="f234">指数思维不要太浓</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_19996812/_d.html">盛东辉</a>
+          <p>14-04-02 15:18</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731398"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_512_6731374_1_d.html" class="f234">04-03大盘【创业板血流不止主板难有作为且走且看】</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_512_all_1_d.html" target="_blank"><font color="#234e93">十 一 少</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_7076798/_d.html">股海十一少</a>
+          <p>14-04-02 15:16</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731374"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6731283_1_d.html" class="f234">明天大跌就动手</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-02 15:05</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6731283"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6730994_1_d.html" class="f234">出来混迟早是要还的，恶炒创业板的人到还的时候了！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3407387/_d.html">输赢皆欢喜</a>
+          <p>14-04-02 14:29</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6730994"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6730227_1_d.html" class="f234">创业板跌时不言底，大盘开始涨时不言顶</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 11:55</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6730227"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_385_6730202_1_d.html" class="f234">4.2午盘：创业板深跌的原因</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_385_all_1_d.html" target="_blank"><font color="#234e93">彬哥看盘</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_8589651/_d.html">王彬看盘</a>
+          <p>14-04-02 11:49</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6730202"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6730000_1_d.html" class="f234">创业板跌停之时，就是大盘涨停之日（注意换股）</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 11:15</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6730000"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_542_6729959_1_d.html" class="f234">午后大涨还差一条</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank"><font color="#234e93">股 中 笑</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18342020/_d.html">股中笑博客</a>
+          <p>14-04-02 11:11</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729959"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6729766_1_d.html" class="f234">创业板跌的越多，大盘会涨的越高！！！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 10:49</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729766"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6729338_1_d.html" class="f234">创业板下跌之时，就是蓝筹股暴涨之日！！！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 09:53</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729338"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6729108_1_d.html" class="f234">涨幅大于4%的创业板，开盘掉鱼后将瞬间跌停（快跑</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 09:32</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729108"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6729093_1_d.html" class="f234">创业板反弹不可持续，大盘反转向上正当其时</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 09:30</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729093"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6729003_1_d.html" class="f234">去年涨多了的创业板中小板2014年就该跌002555</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 09:24</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6729003"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6728820_1_d.html" class="f234">铜价价上涨之时就是创业板暴跌之日！</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-02 09:04</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6728820"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6727671_1_d.html" class="f234">沪指四连阴终结 题材股发力创业板大涨2%</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18896078/_d.html">hqys33</a>
+          <p>14-04-01 17:59</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727671"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6727662_1_d.html" class="f234">中证日评：创业板超跌反弹 “小带大”助力市场</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_18896078/_d.html">hqys33</a>
+          <p>14-04-01 17:56</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727662"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_494_6727653_1_d.html" class="f234">资金抄底或为弄虚作假</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_494_all_1_d.html" target="_blank"><font color="#234e93">厦门乘风</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_22582343/_d.html">yimoneyc</a>
+          <p>14-04-01 17:51</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727653"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6727555_1_d.html" class="f234">创业板反弹不可持续，大盘反转正当其时</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-01 17:19</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727555"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6727220_1_d.html" class="f234">（转贴）创业板的天花板 [主人：文国庆]</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-01 16:31</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727220"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/post_395_6727028_1_d.html" class="f234">创业板重新激活个股做多热情</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/board_395_all_1_d.html" target="_blank"><font color="#234e93">版主专区</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_320360/_d.html">春意萌生</a>
+          <p>14-04-01 16:02</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727028"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6727004_1_d.html" class="f234">2055横盘震荡整理两天 创业板要提防530式巨震</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-01 15:58</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6727004"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+      <tr class="bg">
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/> <a href="http://bbs.hexun.com/stock/post_5_6726941_1_d.html" class="f234">明天创业板不暴跌？和讯论坛多没面子（300059必跌停</a>
+         <span><font color="#234e93">[<a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank"><font color="#234e93">股市大家谈</font></a>]</font></span>
+        <span></span></td>
+        <td ><a href="/u_3153/_d.html">吉米米</a>
+          <p>14-04-01 15:47</p></td>
+       <!-- <td ><span class="f1b6">0</span>/<span id="pv6726941"">1</span></td>
+        <td >---/---
+        
+         </td>-->
+      </tr>
+    
+    </table>
+
+<div class="botmod">
+    <div class="botroad" style="width:360px"><img src="/clientfiles/list/img/back.gif" align="absmiddle" /><a target="_self" href="#top">返回顶端</a></div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="/search/4_%b4%b4%d2%b5%b0%e5_1_d.aspx" target="_self" class="current">1</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_2_d.aspx" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="/search/4_%b4%b4%d2%b5%b0%e5_41_d.aspx" target="_self">…</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_81_d.aspx" target="_self">81</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_82_d.aspx" target="_self">82</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_83_d.aspx" target="_self">83</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_84_d.aspx" target="_self">84</a> <a href="/search/4_%b4%b4%d2%b5%b0%e5_2_d.aspx" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>    
+
+</div>
+</div>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript">
+function onGotUser(u){
+    $id('spanOnlineUserCn').innerHTML = u.onlineUserCn;
+    if(u.id > 0 && typeof addFav == 'function') addFav();
+}
+</script>
+<!---->
+
+<script src="/s/b/b.js" type="text/javascript"></script>
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

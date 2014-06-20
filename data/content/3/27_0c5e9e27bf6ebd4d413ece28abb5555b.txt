@@ -1,0 +1,626 @@
+http://stock.stcn.com/2013/0107/10211143.shtml
+1402829716.04
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="中金所 公告 " />
+<meta name="author" content="" />
+<title>沪深300股指期货新合约上市通知_证券时报网</title>
+<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/base.css" />
+<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/common.css" />
+<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/stock.css" />
+<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/article/newsFinalPage/newsFinalPage.css" />
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/plugin1.js"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stocksuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/suggestfinance.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/fundsuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/MD5.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stockhq.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/css/article/newsFinalPage/commonPage.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/js/config.js"></script>
+<script type="text/javascript" src="http://img.stcn.com/js/lib/jquery.cookie.js"></script>
+<script type="text/javascript">
+var contentid = 10211143;
+
+</script>
+</head>
+<body ><script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stock_v3_091024.js" charset="gb2312"></script>
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+<div class="wrap bc">
+	<div class="header">
+		<style type="text/css">
+.mainNav { width:978px; height:35px; margin:0 auto; line-height:35px;}
+.mainNav li { position:relative; float:left; margin-left:30px;}
+.mainNav .mainNav_firstLi { margin-left:40px;}
+.mainNav a { color:#000;}
+.mainNav .highlight { color:#f00;}
+</style>
+<ul class="mainNav clearfix">
+    <li class="mainNav_firstLi"><a href="http://www.stcn.com" target="_blank">首页</a></li>
+    <li><a href="http://news.stcn.com/" target="_blank">新闻</a></li>
+    <li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
+    <li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
+    <li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
+    <li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
+    <li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
+    <li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
+    <li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
+    <li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
+    <li><a href="http://wq.stcn.com/" target="_blank">维权</a></li>
+    <li><a href="http://cy.stcn.com/" target="_blank" >财苑社区</a></li>
+    <li><a href="http://m.stcn.com/" target="_blank" >移动终端</a></li>
+    <li><a href="http://xinpi.stcn.com/" target="_blank" class="highlight">信披平台</a></li>
+    <li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
+    <li><a href="http://rs.stcn.com/rsIndexAction.do?method=initIndex" target="_blank">路演</a></li>
+</ul><!--网站文章头部公告区块-->
+		<div class="logo clearfix">
+			<div class="fl">
+				<a class="stcnLogo1 fl" href="javascript:">证券时报网</a>
+				<div class="cromb fl"><a href="http://www.stcn.com/">首页</a>   			  &gt; <a href="http://stock.stcn.com/">股票</a>
+			  			  &gt; <a href="http://stock.stcn.com/gzqh/">股指期货</a>
+			  </div>
+			</div>
+                    <div class="search fr">
+                              <select onchange="changeViewInputs(this.value, 0);" id="typeSelect_0">
+                                <option value="1" selected="selected">股票</option>
+                                <option value="2">基金 </option>
+                                <option value="3">新闻</option>
+                              </select>
+                              <input type="text" class="inpTxt" id="suggestInput_0" onKeyDown="javascript:if(event.keyCode==13){ toSearch(); }" 
+                    		  onclick="if(this.value=='新闻内容')this.value=''" value="代码/名称/拼音" >
+                              <input class='inpBtn' type='button' value='查询' id='suggestMain_input_submit_0' onclick='toSearch();' >
+                              <div style="display: none;">
+                                <form id="newssearchform" name="newssearchform" method="get" target="_blank" action="http://newsearch.stcn.com/fly/search.jsp">
+                                  <input id="searchText" name="searchText" type="hidden" value="" >
+                                </form>
+                              </div>
+                              <script language="javascript" type="text/javascript">
+                    		      changeViewInputs("1", 0);
+                    	      </script>
+                            </div>
+			
+		</div>
+	</div>
+	<div class="content clearfix">
+		<div class="main fl">
+			<div class="txt">
+				<div class="txt_hd">
+					<h1>沪深300股指期货新合约上市通知</h1>
+					<div class="info">2013-01-07 15:04   				<span>来源：cffex.com.cn</span>
+                					<span class="FZ"><span class="fl fz">字号：</span><span class="setFZ setFZ12" rel="txt_bd">12</span> <span class="setFZ setFZ14" rel="txt_bd">14</span></span>
+					</div>
+				</div>
+				<div class="txt_bd lh24 fz14" id="ctrlfscont">
+					<p>各会员单位：</p>
+<p>沪深300股指期货IF1302合约定于2012年12月24日上市交易，IF1302合约的挂盘基准价为2390点；该合约交易保证金标准为12％</p>
+<p>特此通知。</p>
+<p>中国金融期货交易所</p>
+<p>二〇一二年十二月二十一日</p>				</div>
+                                              <div id=div_biaoti style="DISPLAY: none"> <input id="biaoti" name="biaoti" type="hidden" value="沪深300股指期货新合约上市通知"></div>
+		       <div class="txt_ft pb15 clearfix">
+					<div class="fl"> <a href="javascript:window.print();" class="a1">打印</a> <a onclick="AddFavorite()" href="javascript:void(0);" class="a2">收藏</a> <a onclick="copyToClipBoard();" href="javascript:void(0);" class="a3">转发</a> <a onclick="javascript:window.close(); return false;" href="javascript:void(0);" class="a4">关闭页面</a> </div>
+					<div class="fr">
+						<div>
+						<div class="shareto_toolbox">
+						<a href="#" class="shareto_button_compact">分享到</a>
+			
+			               <span class="shareto_separator" style="overflow:hidden; zoom:1;">|</span>
+						 <a class="shareto_button_cystcn"></a> 
+                                                 <a class="shareto_button_tstcn"></a> 
+                                                 <a class="shareto_button_tqq"></a> 
+                                                 <a class="shareto_button_tsina"></a> 
+                                                 <a class="shareto_button_thexun"></a> 
+                                                 <a class="shareto_button_tsohu"></a>
+						</div>
+						</div>
+						<script src="http://www.stcn.com/common/js/shareto/sjs/shareto_button.js" type="text/javascript"></script>
+					</div>
+				</div>
+			</div>
+			<div class="relate bort">
+				<h2 class="fz14">相关新闻</h2>
+				<ul class="x_titleList pt10 pb10 lh24 fz14">
+                                                                                   <!---->
+
+                                         <li><a href="http://stock.stcn.com/2013/0107/10211141.shtml">关于2013年休市安排的通知 </a><span >2013-01-07</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://stock.stcn.com/2013/0107/10211139.shtml">关于IF1212合约最后交易日及交割相关事项的通知  </a><span >2013-01-07</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2013/0107/10210929.shtml">1月7日午间公告透利好 11股有潜力 </a><span >2013-01-07</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2013/0104/10209853.shtml">1月4日晚两市股票重要公告汇总 </a><span >2013-01-04</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2013/0104/10209887.shtml">1月4日晚深市中小板公告汇总 </a><span >2013-01-04</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2013/0104/10209535.shtml">1月4日午间公告透利好 7股有潜力 </a><span >2013-01-04</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2013/0104/10209147.shtml">4日盘前利好公告速递 18股有望发力 </a><span >2013-01-04</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://kuaixun.stcn.com/2012/1228/10206738.shtml">12月28日晚间两市增持减持公告一览 </a><span >2012-12-28</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://company.stcn.com/2012/1228/7909269.shtml">东方明珠转让松江大学城资产 预计获利1.32亿 </a><span >2012-12-28</span></li>
+						                                            <!---->
+
+                                         <li><a href="http://company.stcn.com/2012/1228/7909264.shtml">*ST金城复牌后重组方轻松赚一倍 黄金储量大缩水 </a><span >2012-12-28</span></li>
+						 	
+
+
+				</ul>
+
+                       <input id="yinti" name="yinti" type="hidden" value=""> 
+			</div>
+			<div class="relate2 pt15 pb15 bort" id="stock_cookes" style="display:none;">
+				<div class="relate2_a fl">
+					<h3 class="fz14">本文涉及个股 </h3>
+					<div class="relate2_a fl">
+						<div class="img" id="img"></div>
+					</div>
+				</div>
+                        <div class="relate2_b fl" id="zjdp"> </div>
+                        <div class="relate2_c" id="zxyb"> </div>
+                        
+			<!-- </div>-->	  
+		</div>  
+                        <iframe src="http://cy.stcn.com/index.php?mod=stcn_yjgz" width="613px" height="260px" frameborder="0" scrolling="no"></iframe>
+			<div class="other pt15 pb15 bort">
+				<p class="p1 c999">如果您对本网有任何意见或建议，请到交流平台反馈。<a href="javascript:">【反馈意见】</a></p>
+				<p class="p2 pt20 lh22 fz14 ti2 c666">证券时报网声明：此消息系转载自本网合作媒体，证券时报网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。文章内容仅供参考，不构成投资建议。投资者据此操作，风险自担。</p>
+			</div></div>
+	        <div class="side fr">
+                      <div class="QSslide bc">
+<ul class="picList">
+  <li>    <a href="http://news.stcn.com/2013/0507/10463482.shtml" target="_blank" title="能源项目审批有望大放权 10股有望爆发"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367889092486.jpg" /></a>
+    <span>能源项目审批有望大放权 10股有望爆发</span>
+      </li>
+  <li>    <a href="http://news.stcn.com/2013/0507/10463673.shtml" target="_blank" title="农田水利3000亿投资落地 8概念股价值解析"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367890700478.jpg" /></a>
+    <span>农田水利3000亿投资落地 8概念股价值解析</span>
+      </li>
+  <li>    <a href="http://stock.stcn.com/2013/0507/10463697.shtml" target="_blank" title="3000亿舟山新区蓝图出炉 10股风云再起"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367891933243.jpg" /></a>
+    <span>3000亿舟山新区蓝图出炉 10股风云再起</span>
+      </li>
+  <li>    <a href="http://news.stcn.com/2013/0507/10463773.shtml" target="_blank" title="农夫山泉标准门升级 关闭北京厂"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367894109175.jpg" /></a>
+    <span>农夫山泉标准门升级 关闭北京厂</span>
+      </li>
+</ul>
+</div><!--图片新闻循环区块-->
+                      <div class="x_tabW tab1 bb10">
+        <div class="x_tabNavW">
+          <ol class="x_tabNav">
+            <li><a href="#nolink" class="active"><span>操盘必读</span></a></li>
+            <li><a href="#nolink" class=""><span>数据大全</span></a></li>
+          </ol>
+        </div>
+        <div class="x_tabBoxW">
+          <div class="x_tabBox">
+            <dl class="clearfix">
+              <dt class="dt1">必读</dt>
+              <dd><a target="_blank" href="http://news.stcn.com/cjtt/1.shtml">财经头条</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/notice.jsp">今日提示</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/issueNewStocke.jsp">新股提示</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金发行</a></dd>
+              <dd><a target="_blank" href="http://research.stcn.com/chbg/1.shtml">券商晨报</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=1">业绩预报</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/macroData.shtml">宏观数据</a></dd>
+              <dt class="dt2">公告</dt>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/allabstract/abstractlist_1.shtml">公告摘要</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/">紧急公告</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/jjzx/otherbulletin1.shtml">基金</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxshbulletin/bulletinlist_1_1.shtml">沪市</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxszbulletin/bulletinlist_1_1.shtml">深主板</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxzxbulletin/bulletinlist_1_1.shtml">中小板</a></dd>
+              <dd><a target="_blank" href="http://chinext.stcn.com/">创 业 板</a></dd>
+              <dt class="dt3">数据</dt>
+              <dd><a target="_blank" href="http://data.stcn.com/fivedataInfo.shtml">每笔成交</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/statics/dataBlockTrade.htm">大宗交易</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/guGaiLiftTheBan.jsp">解禁一览</a></dd>
+              <dd><a target="_blank" href="http://zt.stcn.com/rongzrq2010.shtml">融资融券</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/newfundnav/otherfund.jsp">基金净值</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/fundDataSearch.jsp?typeName=1">基金进出</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/overseas/moreAHStock.jsp">A-H 比价</a></dd>
+            </dl>
+          </div>
+          <div class="x_tabBox hide">
+            <dl class="read clearfix lh24 pt5 pb5">
+              <dt class="dt4">公司</dt>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?PageSize=20&isyugao=0">年报业绩</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/securityInvestment.jsp">交叉持股</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/gsssSubject/payoffForcast_more.html">盈利预测</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/planRefinanceDataSearch.jsp">再融资</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=1">业绩预告</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=2">业绩快报</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/employeeEmolument.jsp">高管薪酬</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/regularProfitSharing.jsp">分红送股</a></dd>
+              <dt class="dt5">股票</dt>
+              <dd><a target="_blank" href="http://dty.stcn.com/tradinginformation/shanghaiexchange.jsp">公开信息</a></dd>
+              <dd><a target="_blank" href="http://zt.stcn.com/rongzrq2010.shtml">融资融券</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/partnerOutperform.jsp">增减持</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/guGaiLiftTheBan.jsp">限售解禁</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/capitalStructureChange.jsp">股本变动</a></dd>
+              <dd><a onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');" href="javascript:void(0);">低市盈率</a></dd>
+              <dd><a onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');" href="javascript:void(0);">低市净率</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/marketData/zdfRankingMore.html">板块动向</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/statics/dataBlockTrade.htm">大宗交易</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/marketData/marketCenterMoreTop.html">异动股</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fivedataInfo.shtml">每笔成交</a></dd>
+              <dd><a onclick="http://info.stcn.com/companydata/sHnum.jsp" href="javascript:void(0);">股东户数</a></dd>
+              <dt class="dt6">基金</dt>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金分红</a></dd>
+              <dd><a target="_blank" href="http://fund.stcn.com/common/fund/fundRatingFinalPage.html">基金评级</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金发行</a></dd>
+              <dd><a href="http://fund.stcn.com/fundnav.shtml">基金净值</a></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+<!--页面右侧数据链接区块-->
+                      <div class="tg-wrap">
+<h2 class="hide">推广</h2>
+<ul>
+  <li>    <a href="http://kuaixun.stcn.com/2014/0224/11193440.shtml" target="_blank">新股助手四大功能助股民打新</a>
+      </li>
+  <li>    <a href="http://m.stcn.com/" target="_blank">移动互联新时代，不一样的精彩</a>
+      </li>
+</ul>
+</div>
+
+<!--页面右侧推广内容区块-->
+                      <div class="kx-wrap">
+                            <h2><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank"> 快讯</a></h2>
+<div class="wrap_bd">
+<ul>
+  <li><a target="_blank" title="6月15日晚间两市公司利好公告（更新中）" href="http://kuaixun.stcn.com/2014/0615/11490375.shtml" >6月15日晚间两市公司利好公告（更新中）</a></li>
+  <li><a target="_blank" title="新开源筹划重大事项 16日起停牌" href="http://kuaixun.stcn.com/2014/0615/11490435.shtml" >新开源筹划重大事项 16日起停牌</a></li>
+  <li><a target="_blank" title="富邦股份首发不超1600万股 6月24日申购" href="http://kuaixun.stcn.com/2014/0615/11490434.shtml" >富邦股份首发不超1600万股 6月24日申购</a></li>
+  <li><a target="_blank" title="周末利好消息一览（更新中）" href="http://kuaixun.stcn.com/2014/0615/11490432.shtml" >周末利好消息一览（更新中）</a></li>
+  <li><a target="_blank" title="周末可能影响股价重要财经资讯速递（更新中）" href="http://kuaixun.stcn.com/2014/0615/11490288.shtml" >周末可能影响股价重要财经资讯速递（更新中）</a></li>
+  <li><a target="_blank" title="华联控股：若中冠A筹划事项成功实施 或将丧失相对控股地位" href="http://kuaixun.stcn.com/2014/0615/11490431.shtml" >华联控股：若中冠A筹划事项成功实施 或将丧失相对控股地位</a></li>
+  <li><a target="_blank" title="信贷资产支持证券首次登陆上交所" href="http://kuaixun.stcn.com/2014/0615/11490429.shtml" >信贷资产支持证券首次登陆上交所</a></li>
+  <li><a target="_blank" title="中冠重大事项系重组 预计7月16日前披露预案" href="http://kuaixun.stcn.com/2014/0615/11490428.shtml" >中冠重大事项系重组 预计7月16日前披露预案</a></li>
+</ul>
+</div>
+ <!--快讯首页内容区块-->
+                      </div>
+                      <div class="yd-wrap">
+<h2>推荐阅读</h2>
+<div class="wrap_bd">
+<h3>
+<a href="http://www.stcn.com/2014/0614/11490127.shtml" target="_blank" title='QFII资金大腾挪 “左手倒右手”背后三大猜想待解'>QFII资金大腾挪 “左手倒右手”背后三大猜想待解</a>
+</h3>
+<ul>
+  <li>    <a href="http://kuaixun.stcn.com/2014/0614/11490099.shtml" target="_blank" title='五省区率先发行516亿元地方债 地方政府将被评级'>五省区率先发行516亿元地方债 地方政府将被评级</a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0614/11490097.shtml" target="_blank" title='多地悄然放松贷款限购 房企销售现回暖'>多地悄然放松贷款限购 房企销售现回暖</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489437.shtml" target="_blank" title='习近平：积极推动我国能源生产和消费革命 '>习近平：积极推动我国能源生产和消费革命 </a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0613/11489511.shtml" target="_blank" title='证监会发布创业板首发和再融资信息披露准则'>证监会发布创业板首发和再融资信息披露准则</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489500.shtml" target="_blank" title='国企改革方案有望9月后公布 明年开始试点'>国企改革方案有望9月后公布 明年开始试点</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489423.shtml" target="_blank" title='余额宝上线一周年:从“理财神器”到金融变革先声'>余额宝上线一周年:从“理财神器”到金融变革先声</a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0613/11489392.shtml" target="_blank" title='李大霄：新股首日交易新规则提高了效率有进步'>李大霄：新股首日交易新规则提高了效率有进步</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489495.shtml" target="_blank" title='多地开发商放宽首付比例 担忧美国次贷危机重演'>多地开发商放宽首付比例 担忧美国次贷危机重演</a>
+      </li>
+   </ul>
+</div>
+</div><!--页面右侧推荐阅读区块-->
+                      <iframe width="300px" scrolling="no" height="244px" frameborder="0" allowtransparency="true" src="http://stock.stcn.com/node_19269.htm"></iframe>
+                     <div class="bb10">
+                        <div class="agz clearfix"> <a target="_blank" href="http://aigu.stcn.com/">爱股者</a>
+                            <input type="text" onkeydown="javascript:if(event.keyCode==13){ toSearch1(); }" name="secucode" id="secucode" class="inpTxt" autocomplete="off" style="color: rgb(153, 153, 153);" />
+                            <input type="button" onclick="toSearch1();" id="selButton" value="查询" class="inpBtn" />
+                        </div>
+                    </div>
+                      <div class="ph-wrap">
+	<h2>新闻排行</h2>
+	<div class="wrap_bd">
+	<ol class="clearfix">
+			<li><a class="actiev" href="javascript:"><span>日排行</span></a></li>
+			<li><a href="javascript:"><span>周排行</span></a></li>
+			<li><a href="javascript:"><span>月排行</span></a></li>
+	</ol>
+         	<ul>
+        
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490227.shtml" >周六可能影响股价重要财经资讯速递</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490288.shtml" >周末可能影响股价重要财经资讯速递（更新中）</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490274.shtml" >京津冀一体化方案初步形成 或6月底出台</a></li>
+
+            
+
+         <li><a target="_blank" href="http://stock.stcn.com/2014/0615/11490325.shtml" >周一机构一致看好10大金股</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490276.shtml" >上海发布产业结构调整负面清单及能效指南</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490317.shtml" >国务院发文将用十年完善地下管线 概念股迎升机</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490426.shtml" >6月15日晚间深交所公告速递（更新中）</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490375.shtml" >6月15日晚间两市公司利好公告（更新中）</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490275.shtml" >全国政协副主席苏荣涉嫌严重违纪违法正接受调查</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490406.shtml" >6月15日晚间沪深两市公司重要公告（更新中）</a></li>
+
+					</ul>
+	<ul class="hide">
+	             
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0613/11488111.shtml" >解放军今日15时在渤海北部进行导弹打靶 船只禁入</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0612/11485735.shtml" >12日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0609/11475934.shtml" >9日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0610/11479495.shtml" >10日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0608/11473325.shtml" >周末可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0612/11485765.shtml" >12日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0610/11479499.shtml" >10日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0611/11482600.shtml" >11日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0611/11482635.shtml" >11日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0609/11476017.shtml" >6月9日晚间两市公司利好公告</a></li>
+         				
+	</ul>
+	<ul class="hide">
+                      
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0613/11488111.shtml" >解放军今日15时在渤海北部进行导弹打靶 船只禁入</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0602/11459874.shtml" >端午假期可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0605/11468739.shtml" >5日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0519/11428220.shtml" >19日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0604/11465513.shtml" >4日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0527/11448817.shtml" >5月27日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0528/11451728.shtml" >5月28日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0518/11425236.shtml" >周日可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0529/11455199.shtml" >5月29日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0606/11471947.shtml" >6日晚间利好消息汇总</a></li>
+         		
+	</ul>
+	</div>
+</div>
+<!--页面右侧新闻排行区块-->
+                </div>
+		<div class="content_clear">1</div>
+	</div>
+	<div class="footer"> 
+	    <iframe class="block bc" src="http://www.stcn.com/common28/include/footer.html" width="970px" height="160px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+	</div>
+</div>
+ <!-- tongji文件star -->
+<div style="display:none;">
+  <script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+  <script src='http://w.cnzz.com/c.php?id=30023490' language='JavaScript' charset='gb2312'></script>
+  <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18256358-1']);
+  _gaq.push(['_setDomainName', '.stcn.com']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+<!-- tongji文件end -->
+</body>
+
+<script type="text/javascript">
+function read(){
+    	var  service;
+    	service = window.location.protocol + "//";
+    	service = service + window.location.host;
+    	var yinti=document.getElementById("yinti").value;
+    	read_stockHq_xml(yinti,service);
+    }	
+    
+var content = '';//第一页内容缓存
+var context = '';//全文内容缓存
+var isfulltext = false;
+$(function(){
+        read();   
+	toonclick();
+	var oTable = document.getElementsByTagName('table');
+	for(var i = 0; i < oTable.length; i++){
+		var oTr = oTable[i].getElementsByTagName('tr');
+		for(var j = 0; j < oTr.length; j+=2){
+			oTr[j].className = 'even';
+		}
+	}
+        $('.QSslide').QSslide();
+	$('.tab1').QStab();
+	var $setFZ = $('.setFZ');
+	$setFZ.each(function(){
+		var $fz = parseInt($(this).text());
+		var $txtObj = $(this).attr('rel');
+		$(this).click(function(){
+			var $obj = $('.' + $txtObj);
+			$obj.css('fontSize',$fz);
+		});
+	});
+	
+	
+	var $relate = $('.relate');
+	var $relate_ul = $('.relate').find('ul');
+	if($relate_ul.size() == 0){
+		$relate.hide();
+	};
+
+	var $mainNavLi = $('.mainNav').find('li:has(strong)');
+	var $mainNavStrong = $mainNavLi.find('strong');
+	var $downNav = $mainNavLi.find('.downNav');
+	$mainNavLi.hover(function(){
+		$mainNavStrong.addClass('show_downNav');
+		$downNav.show();
+	}, function(){
+		$mainNavStrong.removeClass('show_downNav');
+		$downNav.hide();
+	});
+        /* 新闻排行 */
+	var $a = $('.ph-wrap ol a');
+	var $ul = $('.ph-wrap ul');
+	$a.each(function(){
+		var $n = $a.index($(this));
+		$(this).click(function(){
+			$(this).addClass('actiev').parent().siblings().find('a').removeClass('actiev');
+			$ul.eq($n).removeClass('hide').siblings('ul').addClass('hide');
+		});
+	});
+	//digg.get(contentid);
+	content = $('#ctrlfscont').html();
+	var font = $.cookie(COOKIE_PRE+'font');//根据cookie设置字体大小并初始化按钮
+	if(font){
+		$('#ctrlfssummary,#ctrlfscont').addClass(font);
+		if(font == 'fs-big'){
+		 	$('#bfont').addClass('cor-current');
+			$('#sfont').removeClass('cor-current');
+		}
+	}
+	$.getJSON(APP_URL+'?app=system&controller=content&action=stat&jsoncallback=?&contentid='+contentid);
+	
+	$('form[id^="vote"]').each(function(){
+		var contentid = $(this).find('>input[name="contentid"]:hidden').val();
+		var maxoptions = $(this).find('>input[name="maxoptions"]:hidden').val();
+		$(this).submit(function(){
+			var checkeds = $(this).find('input:checked').length;
+			if(checkeds == 0){
+				alert('请选择投票选项');
+				return false;
+			}
+			if(maxoptions){
+				if(checkeds > parseInt(maxoptions)){
+					alert('最多允许选'+maxoptions+'项');
+					return false;
+				}
+			}
+		})
+	})
+})
+function fulltext(){  //单页阅读
+		if(context =='')
+		$.getJSON('http://app.stcn.com/'+'?app=article&controller=article&action=fulltext&jsoncallback=?&contentid='+contentid,function(data){
+			context = data.content;
+			$('#ctrlfscont').html(data.content);
+			$('#show-all-cont').html('分页阅读').parent().siblings().hide();
+			$('.bor-ccc').hide();
+			isfulltext = true;
+			holdpic();
+		});
+		else{
+			$('#ctrlfscont').html(isfulltext?content:context);
+			$('#show-all-cont').html(isfulltext?'单页阅读':'分页阅读').parent().siblings().toggle(isfulltext === true);
+			isfulltext = (isfulltext === false);
+			$('.bor-ccc').show();
+			holdpic();
+		}
+}
+function holdpic(){//控制内容区域的的图片大小并为过大的图片添加查看原图
+	var options = {
+		imageLoading:IMG_URL+'js/lib/lightBox/lightbox-ico-loading.gif',
+		imageBtnPrev:IMG_URL+'js/lib/lightBox/lightbox-btn-prev.gif',
+		imageBtnNext:IMG_URL+'js/lib/lightBox/lightbox-btn-next.gif',
+		imageBtnClose:IMG_URL+'js/lib/lightBox/lightbox-btn-close.gif',
+		imageBlank:IMG_URL+'js/lib/lightBox/lightbox-blank.gif'
+	};
+	$('#ctrlfscont').find('img').each(function(){
+		var img = this;
+		if (img.width>608) {
+			img.style.width = '600px';
+			$(img).removeAttr('height');
+			var aTag = document.createElement('a');
+			aTag.href = img.src;
+			$(aTag).addClass('bPic')
+			.insertAfter(img).append(img)
+			.lightBox(options);
+		}
+	});
+}
+$(window).load(function(){
+	holdpic();
+        
+});
+function copyToClipboard(txt) {  //复制网址
+	if(window.clipboardData) {
+		window.clipboardData.clearData();
+		window.clipboardData.setData("Text", txt);
+		alert("复制链接成功！");
+	} else if(navigator.userAgent.indexOf("Opera") != -1) {
+		window.location = txt;
+	} else if (window.netscape) {
+		try {
+			netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+		} catch (e) {
+			alert(" 被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将 'signed.applets.codebase_principal_support'设置为'true'");
+		}
+		var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+		if (!clip)
+		return;
+		var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+		if (!trans)
+		return;
+		trans.addDataFlavor('text/unicode');
+		var str = new Object();
+		var len = new Object();
+		var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+		var copytext = txt;
+		str.data = copytext;
+		trans.setTransferData("text/unicode",str,copytext.length*2);
+		var clipid = Components.interfaces.nsIClipboard;
+		if (!clip)
+		return false;
+		clip.setData(trans,null,clipid.kGlobalClipboard);
+		alert("复制链接成功！");
+	}
+}
+
+</script>
+</html>

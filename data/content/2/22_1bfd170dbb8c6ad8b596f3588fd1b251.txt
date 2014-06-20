@@ -1,0 +1,516 @@
+http://bbs.hexun.com/u_18227788/_d.html
+1402802674.22
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	福元运通gz所有发帖_个人资料页_和讯论坛
+</title>
+
+<link href="/css/talk.css?3" rel="stylesheet" type="text/css" />
+<script src="/s/u/a.js" type="text/javascript"></script>
+
+
+<link href="/clientfiles/user/css/style.css?1" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<div id="roadlink">
+<div class="road"><a href="/u_18227788/_d.html" class="f06c0">福元运通gz</a>的和讯论坛个人中心</div>
+<div class="right" style="padding-top:10px;"></div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="325" valign="top" style="padding:0px 7px 0 0;">
+
+    
+<div class="sidemod" style=" border-top:0px;">
+<dl class="grzlcont">
+<dt><a href="/u_18227788/_d.html"><img src="http://logo0.tool.hexun.com/14c2216-150.jpg" /></a></dt>
+<dd>
+<h3>个人资料</h3>
+<p>用户名：福元运通gz</p>
+<p>性别：<span id="spSex">..</span></p>
+<p>年龄：<span id="spAge">..</span></p>
+<p><nobr>所在地区：<span id="spAddress">.</span></nobr></p>
+<p>目前状态：
+<img src="/clientfiles/post/img/unline.gif" alt="在线" align="absmiddle" id="imgIsOnline"/>
+</p>
+<p>注册时间：2011-11-03</p>
+</dd>
+</dl>
+<p></p>
+<div class="grzlbtn">
+
+<a href="/profile/" class="ico4"  target="_blank" id="aProfile" style="display:none">修改资料</a> 
+<a href="javascript:MessageBox.show('福元运通gz');" id="aSendMsg" class="ico1">发送纸条</a>
+
+<a href="http://18227788.blog.hexun.com/" class="ico2" target="_blank">去<span class="ta">TA</span>的博客</a>
+<a class="ico3" href="http://t.hexun.com/18227788/default.html" target="_blank">去<span class="ta">TA</span>的微博</a></div>
+</div>  
+<div class="sidemod">
+<h3 class="tit01"><strong><span class="ta">TA</span>的论坛经历</strong></h3>
+暂时没有
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong><span class="ta">TA</span>的论坛个性签名</strong></h3>
+<div class="writecont">
+TA很懒，什么都没写
+</div>
+</div>
+
+<script type="text/javascript">
+function loadInfo(){
+    new Ajax({url:'/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx',postBody:'a=getBaseInfo&uid=18227788',onComplete:function(trans){
+            var r ;eval('r='+trans.responseText);
+            
+            if(r){
+                $id('spSex').innerHTML = r.gender;
+                $id('spAge').innerHTML = r.age;
+                $id('spAddress').innerHTML = r.address;
+                
+                
+                $id('spSex').title = r.gender;
+                $id('spAge').title = r.age;
+                $id('spAddress').title = r.address;
+            }
+        }})
+}
+
+function onGotUser(u){ 
+    var spans = $tagsC('SPAN','ta');
+    if(u.id == 18227788){
+        $id('aProfile').style.display = 'inline';
+        $id('aSendMsg').style.display = 'none';
+        
+       
+        for(var i=0;i<spans.length;i++){
+            spans[i].innerHTML = '我';
+        }
+    }
+    for(var i=0;i<spans.length;i++){
+        spans[i].style.display = 'inline';
+    }
+}
+addLoadEvent(loadInfo);
+</script>
+
+</td>
+    <td valign="top" style="padding-top:25px;">
+
+
+<div class="attmod">
+<h3 class="tit01"><strong>福元运通gz的论坛属性</strong></h3>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="borb">论坛等级：<span id="dvGradeName">..</span>            </td>
+    <td class="borb">论坛积分：<span id="dvuserpoint">..</span>           </td>
+    <td class="borb">登陆论坛：<span id="spLTs">10</span>次</td>
+    <td class="borb"> 上次登陆：<span id="spLT">2011-11-24 10:56</span> <br /></td>
+    </tr>
+  <tr>
+    <td>发表主贴数：<span id="spPC">117</span>            </td>
+    <td>发表回复数：<span id="spRC">148</span>             </td>
+    <td>精华文章数：<span id="spEPC">0</span>           </td>
+    <td>推荐文章数：<span id="spRPC">0</span> </td>
+    </tr>
+</table>
+</div>
+<script src="http://point.tool.hexun.com/pointLicai.aspx?userid=18227788&show=1" type="text/javascript"></script>
+<script type="text/javascript">
+function onGetUserProperties(u){
+    if(!u)return;
+    if(u.isOnline)$id('imgIsOnline').src = '/clientfiles/post/img/online.gif';
+    $id('spLTs').innerHTML = u.LoginTimes;
+    $id('spLT').innerHTML = u.LoginTime;
+    $id('spPC').innerHTML = u.PostCount;
+    $id('spRC').innerHTML = u.ReplyCount;
+    $id('spEPC').innerHTML = u.EssentialCount;
+    $id('spRPC').innerHTML = u.RecommentCount;
+    var fc = $id('spFootCn');
+    if(fc)fc.innerHTML = u.footCount;
+}
+</script>
+<script src="BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getProperties&uid=18227788" type="text/javascript"></script>
+
+<div class="listtab">
+
+<span class="current">最新主贴</span> 
+
+<span><a href="/u_18227788/r_1_d.html">最新回贴</a></span> 
+
+<span><a href="/u_18227788/p_essence_1_d.html">精华文章</a></span>   
+
+<span><a href="/u_18227788/p_recomment_1_d.html">推荐文章</a></span>   
+
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth" style=" margin:0px;">
+      <tr>
+        <th>标题</th>
+        <th width="80"> 发表版面</th>
+        <th width="80">回复/点击</th>
+        <th width="111">发表时间</th>
+      </tr>
+  </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist">
+        
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_4023643_1_d.html" target="_blank" class="f234">·欧盟力推欧元债券德国承压</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv4023643">180</span></td>
+            <td width="111"><p><span class="f666">2011-11-24 10:56</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/stock/post_141_3959278_1_d.html" target="_blank" class="f234">·阿联酋航空订购50架波音777 总价值达180亿美元</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/stock/board_141_all_1_d.html">股市热点评论</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959278">180</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:27</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/stock/post_141_3959269_1_d.html" target="_blank" class="f234">·阿联酋航空购50架波音777 总价值达180亿美元</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/stock/board_141_all_1_d.html">股市热点评论</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959269">180</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:26</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_64_3959248_1_d.html" target="_blank" class="f234">·澳元对美元汇率亚市早盘大幅高开</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_64_all_1_d.html">外汇大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv3959248">539</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:25</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_75_3959239_1_d.html" target="_blank" class="f234">·白银依然保持震荡思维 注意止盈止损</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_75_all_1_d.html">黄金大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959239">180</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:24</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/futures/post_46_3959233_1_d.html" target="_blank" class="f234">·油价“百元”前面临考验</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/futures/board_46_all_1_d.html">期市大家谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959233">659</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:24</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3959226_1_d.html" target="_blank" class="f234">·美移民局数据显示：投资移美者超七成是中国人</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959226">426</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:24</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3959205_1_d.html" target="_blank" class="f234">·央企民企互指“油荒”祸首 地方炼油厂夹缝图存</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959205">659</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:22</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/stock/post_141_3959194_1_d.html" target="_blank" class="f234">·快讯：生物制药板块大涨 东宝生物涨8%</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/stock/board_141_all_1_d.html">股市热点评论</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959194">260</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:21</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/stock/post_141_3959191_1_d.html" target="_blank" class="f234">·快讯：电缆股午后发力 概念股一览</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/stock/board_141_all_1_d.html">股市热点评论</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959191">273</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:21</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3959171_1_d.html" target="_blank" class="f234">·央企前9月对外捐赠16.9亿 神华捐5.9亿总额第一</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3959171">659</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:20</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_48_3959151_1_d.html" target="_blank" class="f234">·电信联通反垄断背后：宽带接入利益链</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_48_all_1_d.html">业界动态</a></span></p></td>
+            <td width="80"><span class="f1b6">3</span>/<span class="pv" id="pv3959151">732</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:18</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_84_3959140_1_d.html" target="_blank" class="f234">·人民日报发表来论称反垄断调查不是“神仙战”</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_84_all_1_d.html">E起理财</a></span></p></td>
+            <td width="80"><span class="f1b6">2</span>/<span class="pv" id="pv3959140">559</span></td>
+            <td width="111"><p><span class="f666">2011-11-14 14:18</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3954278_1_d.html" target="_blank" class="f234">·胡锦涛：必须坚定不移保增长促稳定</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3954278">712</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:12</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3954277_1_d.html" target="_blank" class="f234">·胡锦涛出席APEC工商领导人峰会</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3954277">752</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:12</span></p></td>
+          </tr>
+          
+              <tr>
+              <td colspan="4" style="background:white">&nbsp;</td>
+              </tr>
+              
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_111_3954272_1_d.html" target="_blank" class="f234">·车企争相公布新能源汽车规划 网民仍停在概念阶段</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_111_all_1_d.html">水煮爱车</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv3954272">373</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:10</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/money/post_67_3954269_1_d.html" target="_blank" class="f234">·纽约市前市长：中国保障房切忌聚集性建设</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/money/board_67_all_1_d.html">房产投资</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv3954269">792</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:09</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3954266_1_d.html" target="_blank" class="f234">·世行前副行长：欧元区平衡利益才能达成解决方案</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv3954266">1191</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:09</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3954264_1_d.html" target="_blank" class="f234">·万科执行副总裁袁伯银辞职郁亮称要加强人才激励机制</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">0</span>/<span class="pv" id="pv3954264">712</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:08</span></p></td>
+          </tr>
+          
+          <tr>
+            <td class="f14"><a href="http://bbs.hexun.com/post_153_3954260_1_d.html" target="_blank" class="f234">·万科郁亮：房价降至合理水平是大势所趋 行业已经入冬</a></td>
+            <td width="80"><p><span class="f666"><a href="http://bbs.hexun.com/board_153_all_1_d.html">社会杂谈</a></span></p></td>
+            <td width="80"><span class="f1b6">1</span>/<span class="pv" id="pv3954260">1091</span></td>
+            <td width="111"><p><span class="f666">2011-11-13 17:08</span></p></td>
+          </tr>
+          
+        </table>
+    <div class="botmod"><div class="pagenum"><a class="previousNo">&nbsp;</a><a href="/u_18227788/p_all_1_d.aspx" target="_self" class="current">1</a> <a href="/u_18227788/p_all_2_d.aspx" target="_self">2</a> <a href="/u_18227788/p_all_3_d.aspx" target="_self">3</a> <a href="/u_18227788/p_all_4_d.aspx" target="_self">4</a> <a href="/u_18227788/p_all_5_d.aspx" target="_self">5</a> <a href="/u_18227788/p_all_6_d.aspx" target="_self">6</a> <a href="/u_18227788/p_all_2_d.aspx" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div></div>
+<script type="text/javascript">
+function postListMouseOver(e){
+    e = e || event;
+    var o = getSrcElement(e);
+    while(o && o.tagName != 'TR') o = o.parentNode;
+    var overColor = '#E4EBF8';
+    o.style.backgroundColor = overColor;
+    var cells = o.cells;
+    for(var i=0;i<cells.length;i++){
+        cells[i].style.backgroundColor = overColor;
+    }
+}
+
+function postListMouseOut(e){
+    e = e || event;
+    var o = e.fromElement;
+    while(o && o.tagName != 'TR') o = o.parentNode;
+    o.style.backgroundColor = o.srcBgColor;
+    var cells = o.cells;
+    for(var i=0;i<cells.length;i++){
+        cells[i].style.backgroundColor = o.srcBgColor;
+    }
+}
+
+function bindBgColorEvt(){
+    var otbls = $tags('TABLE');
+    var otbl = false;
+    for(var i=0;i<otbls.length;i++){
+        if(otbls[i].className == 'bbslist'){
+            otbl = otbls[i];
+            break;
+        }
+    }
+    if(otbl){
+        var trs = otbl.rows;
+        for(var i=0;i<trs.length;i++){
+            var tr = trs[i];
+            tr.srcBgColor = tr.style.backgroundColor;
+            addEvent(tr,'mouseover',postListMouseOver);
+            addEvent(tr,'mouseout',postListMouseOut);
+        }
+    }
+}
+addLoadEvent(bindBgColorEvt);
+
+function refreshPv(){
+    var pvSpans = $tagsC('span','pv');
+    var ids = '';
+    for(var i=0;i<pvSpans.length;i++){
+        if(i > 0) ids += ',';
+        ids += pvSpans[i].id.substr(2);
+    }
+    new Ajax({showLoading:false,url:'BBS.WebUI.Ajax.PostAjax,BBS.WebUI.ajax.asmx?a=getPVs',method:'post',
+        postBody:'ids=' + ids,onComplete:function(trans){
+        var r; eval('r=' + trans.responseText);
+        Debug.writeln('pv data length:' + r.length);
+        Debug.writeln('pv data:' + trans.responseText);
+        
+        if(r)
+        for(var i=0;i<r.length;i++){
+            var data = r[i];
+            var o = $id('pv' + data.id);
+            var old = parseInt(o.innerHTML.trim());
+            if(old < data.pv){
+                if(o)o.innerHTML = data.pv;
+                Debug.writeln('更新' + data.id + '值' + data.pv);
+                //加hot图标
+                if(data.pv >= hotPostMinPv){
+                    var titleTd = previousElement(previousElement(o.parentNode));
+                    var spans = $tags('SPAN',titleTd);
+                    var oIcons = spans[spans.length-1];
+                    if(oIcons){
+                        var hasHot = false;
+                        var imgs = $tags('IMG',oIcons);
+                        for(var j=0;j<imgs.length;j++){
+                            if(imgs[j].src.indexOf(ICON_HOT)>-1){
+                                hasHot = true;
+                                break;
+                            }
+                        }
+                        if(!hasHot){
+                            crt('IMG',{src:ICON_HOT,alt:'热帖',align:'absmiddle'},oIcons);
+                            Debug.writeln('添加热帖图标');
+                        }
+                    }
+                }
+            }
+        }
+        Debug.writeln('刷新Pv结束');
+        Debug.hide();
+    }});
+}
+addLoadEvent(refreshPv);
+</script>
+
+    </td>
+  </tr>
+</table>
+
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

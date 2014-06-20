@@ -1,0 +1,1525 @@
+http://bbs.hexun.com/board_415_all_3_d.html
+1402799831.73
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	蔡 炳 丁_股市大家谈_股市论坛_财经世界_和讯论坛
+</title>
+
+
+<script src="/s/b/h.js" type="text/javascript"></script>
+<link href="/s/b/a.css" type="text/css" rel="stylesheet"/>
+
+<link href="/profession/css/a1202.css" type="text/css" rel="stylesheet"/>
+<base target="_blank"/>
+<style type="text/css">
+.manage{display:none}
+#tblPosts A.f666:hover{color:#CC0000}
+#tblPosts A.f666:visited{color:#666}
+.bbslist .userName{width:103px;overflow:hidden}
+.bbslist div.hh{width:110px;word-wrap:break-word; overflow:hidden;}
+.gray{color:Gray}
+A.gray:visited{color:Gray}
+</style>
+<!--[if IE 8]>
+<style>
+#tblPosts SPAN IMG{position:relative;top:-3px;}
+</style>
+<![endif]-->
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<div class="topnav">
+<div class="bgrig">
+<div class="bgleft">
+<div class="bbslogo"><a target="_top" href="http://bbs.hexun.com/board_415_all_1_d.html"><img id="logoImg" src="/img/default_board_logo.gif" /></a></div>
+<div id="topsearch" >
+<div class="tab"><span id="taba1" class="current" onmouseover="tab('taba',1,2);">论坛搜索</span> </div>
+<div id="taba_cont1"><form name="fqA" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input id="qA" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/>  <input name="type" type="radio" value="1" checked="checked"  /> 标题 <input id="radioContent" name="type" type="radio" value="2" /> 正文 <input name="type" type="radio" value="16" /> 作者 <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> </form></div>
+<div id="taba_cont2" style="display: none;">
+<form name="fqB" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input name="type" type="hidden" value="4" /> <input id="qB" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/> <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> <strong class="hot">热门标签：</strong> <a href="http://bbs.hexun.com/search/?type=4&q=股票" target="_blank">股票</a> <a href="http://bbs.hexun.com/search/?type=4&q=期货" target="_blank">期货</a> <a href="http://bbs.hexun.com/search/?type=4&q=基金" target="_blank">基金</a> <a href="http://bbs.hexun.com/search/?type=4&q=理财" target="_blank">理财</a> <a href="http://bbs.hexun.com/search/?type=4&q=地震" target="_blank">地震</a> </form></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+function setQueryKey(){
+    if(typeof bid != 'undefined' && !isNaN(bid)){
+        document.fqA.bid .value = document.fqB.bid .value = bid;
+    }
+    
+    if(typeof qT == 'undefined')return;
+    if(qT == 4){
+        tab('taba',2,2);
+    }else{
+        if(qT == -1){
+            //document.fqA.target = document.fqB .target = '_blank';
+        }
+        else{
+            //document.fqA.target = document.fqB .target = '_top';
+            var radios = document.fqA.type;
+            for(var i=0;i<radios.length;i++){
+                if(qT == radios[i].value){
+                    radios[i].checked = true;
+                    break;
+                }
+            }
+        }
+    }
+
+    if(typeof qT == 'undefined' || typeof q == 'undefined'){}
+    else ((qT == 4 ? $id('qB') : $id('qA')).value = q);
+}
+
+addLoadEvent(function(){setTimeout(setQueryKey,600);});
+
+function checkSearchForm(f){
+    var q = f.q.value;
+    if(q.trim() == '' || q == '输入关键词'){
+        alert('请输入搜索关键词');
+        f.q.focus();
+        return false;
+    }
+    return true;
+}
+// ]]></script>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+var bid = 415;
+var navSelectedBID = 5;
+var boardName = '蔡 炳 丁';
+var refreshSeconds = 120;
+var hotPostMinPv = 1000;
+var ICON_HOT = '/icons/hot.gif';
+var needRefreshPv = true;
+var needRefresh = false;
+</script>
+<form name="fmain" method="get" onsubmit="return false">
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/profession/" target="_top">高手版区</a> &gt; <a href="http://bbs.hexun.com/board_415_all_1_d.html" target="_top">蔡 炳 丁</a></div>
+<span class="btn"> <span id="spMng">[<a href="javascript:void(0)" onclick="shiftManage()" id="aManage" target="_top" class="f666">管理</a>]</span> [<a href="javascript:void(0)" onclick="location.reload()" target="_top" class="f666">刷新版面</a>] [<a href="javascript:void(0)" target="_top" onclick="copy(location.href,'已复制版面地址')" class="f666">复制本版地址</a>] </span> 
+<div class="right">
+<select style="font-size:12px; color:#999" onchange="changeOrderType(this)">
+  <option value="0" selected>按回复时间排序</option>
+  <option value="1">按发帖时间排序</option>
+</select> 
+本版在线：<span id="spanOnlineUserCn">..</span>
+
+<a href="javascript:void(0)" onclick="addMyFavoriteBoard()" target="_top"><img src="/clientfiles/list/img/add.gif" align="absmiddle" /></a>
+
+</div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="130" valign="top">
+
+<div id="divBNv"><a href="http://bbs.hexun.com/stock/board_5_all_1_d.html" target="_blank">股市大家谈</a><a href="http://bbs.hexun.com/board_385_all_1_d.html" target="_blank">彬哥看盘</a><a href="http://bbs.hexun.com/board_388_all_1_d.html" target="_blank">倚天摘星</a><a href="http://bbs.hexun.com/board_391_all_1_d.html" target="_blank">文艺看盘</a><a href="http://bbs.hexun.com/board_394_all_1_d.html" target="_blank">春意萌生</a><a href="http://bbs.hexun.com/board_398_all_1_d.html" target="_blank">凤凰涅槃(股市)</a><a href="http://bbs.hexun.com/board_402_all_1_d.html" target="_blank">王牌实战</a><a href="http://bbs.hexun.com/board_404_all_1_d.html" target="_blank">绿水看盘</a><a href="http://bbs.hexun.com/board_406_all_1_d.html" target="_blank">一和家家</a><a href="http://bbs.hexun.com/board_408_all_1_d.html" target="_blank">牛 股 师</a><a href="http://bbs.hexun.com/board_410_all_1_d.html" target="_blank">乘风破浪</a><a href="http://bbs.hexun.com/board_412_all_1_d.html" target="_blank">承风金平</a><a href="http://bbs.hexun.com/board_414_all_1_d.html" target="_blank">伟哥传奇</a><a href="http://bbs.hexun.com/board_415_all_1_d.html" target="_blank">蔡 炳 丁</a><a href="http://bbs.hexun.com/board_418_all_1_d.html" target="_blank">开心论市</a><a href="http://bbs.hexun.com/board_420_all_1_d.html" target="_blank">湖湘股坛</a><a href="http://bbs.hexun.com/board_422_all_1_d.html" target="_blank">股海天涯</a><a href="http://bbs.hexun.com/board_424_all_1_d.html" target="_blank">心魔实盘</a><a href="http://bbs.hexun.com/board_426_all_1_d.html" target="_blank">小黎飞刀</a><a href="http://bbs.hexun.com/board_428_all_1_d.html" target="_blank">涨停之鹰</a><a href="http://bbs.hexun.com/board_441_all_1_d.html" target="_blank">老道论股</a><a href="http://bbs.hexun.com/board_443_all_1_d.html" target="_blank">老索神话</a><a href="http://bbs.hexun.com/board_450_all_1_d.html" target="_blank">分 时 线</a><a href="http://bbs.hexun.com/board_454_all_1_d.html" target="_blank">出奇制胜</a><a href="http://bbs.hexun.com/board_456_all_1_d.html" target="_blank">梦若神机</a><a href="http://bbs.hexun.com/board_458_all_1_d.html" target="_blank">一臂之力</a><a href="http://bbs.hexun.com/board_466_all_1_d.html" target="_blank">武汉老张</a><a href="http://bbs.hexun.com/board_470_all_1_d.html" target="_blank">超越赢家</a><a href="http://bbs.hexun.com/board_477_all_1_d.html" target="_blank">白马骑士</a><a href="http://bbs.hexun.com/board_482_all_1_d.html" target="_blank">严 勇 中</a><a href="http://bbs.hexun.com/board_484_all_1_d.html" target="_blank">林枫论势</a><a href="http://bbs.hexun.com/board_486_all_1_d.html" target="_blank">阿枫看盘</a><a href="http://bbs.hexun.com/board_488_all_1_d.html" target="_blank">金鼎实战</a><a href="http://bbs.hexun.com/board_490_all_1_d.html" target="_blank">涂 光 春</a><a href="http://bbs.hexun.com/board_496_all_1_d.html" target="_blank">童彬点股</a><a href="http://bbs.hexun.com/board_498_all_1_d.html" target="_blank">股道冷月</a><a href="http://bbs.hexun.com/board_500_all_1_d.html" target="_blank">淘气天尊</a><a href="http://bbs.hexun.com/board_502_all_1_d.html" target="_blank">老 滑 头</a><a href="http://bbs.hexun.com/board_504_all_1_d.html" target="_blank">一真价值</a><a href="http://bbs.hexun.com/board_506_all_1_d.html" target="_blank">三哥看盘</a><a href="http://bbs.hexun.com/board_510_all_1_d.html" target="_blank">梦竹投资</a><a href="http://bbs.hexun.com/board_512_all_1_d.html" target="_blank">十 一 少</a><a href="http://bbs.hexun.com/board_514_all_1_d.html" target="_blank">股海小鱼</a><a href="http://bbs.hexun.com/board_526_all_1_d.html" target="_blank">耀威兄弟</a><a href="http://bbs.hexun.com/board_529_all_1_d.html" target="_blank">主 控 盘</a><a href="http://bbs.hexun.com/board_531_all_1_d.html" target="_blank">醉解股语</a><a href="http://bbs.hexun.com/board_533_all_1_d.html" target="_blank">炒股家族</a><a href="http://bbs.hexun.com/board_538_all_1_d.html" target="_blank">七月投资</a><a href="http://bbs.hexun.com/board_540_all_1_d.html" target="_blank">余    克</a><a href="http://bbs.hexun.com/board_542_all_1_d.html" target="_blank">股 中 笑</a><a href="http://bbs.hexun.com/board_555_all_1_d.html" target="_blank">股海判官</a><a href="http://bbs.hexun.com/board_559_all_1_d.html" target="_blank">股海灯塔</a><a href="http://bbs.hexun.com/board_561_all_1_d.html" target="_blank">易  道</a><a href="http://bbs.hexun.com/board_563_all_1_d.html" target="_blank">光哥解盘</a><a href="http://bbs.hexun.com/board_565_all_1_d.html" target="_blank">徐怀谈股</a><a href="http://bbs.hexun.com/board_571_all_1_d.html" target="_blank">实战看盘</a><a href="http://bbs.hexun.com/board_582_all_1_d.html" target="_blank">金色足迹</a><a href="http://bbs.hexun.com/board_585_all_1_d.html" target="_blank">短线宗师</a><a href="http://bbs.hexun.com/board_586_all_1_d.html" target="_blank">骐灵看盘</a><a href="http://bbs.hexun.com/board_598_all_1_d.html" target="_blank">郭 施 亮</a><a href="http://bbs.hexun.com/board_604_all_1_d.html" target="_blank">疯牛说股</a><a href="http://bbs.hexun.com/board_606_all_1_d.html" target="_blank">股道飞阳</a><a href="http://bbs.hexun.com/board_613_all_1_d.html" target="_blank">同舟共济</a><a href="http://bbs.hexun.com/board_615_all_1_d.html" target="_blank">黄 斌 汉</a><a href="http://bbs.hexun.com/board_633_all_1_d.html" target="_blank">姑苏慕容复</a><a href="http://bbs.hexun.com/board_652_all_1_d.html" target="_blank">套牢女孩</a><a href="http://bbs.hexun.com/board_687_all_1_d.html" target="_blank">天道酬勤</a><a href="http://bbs.hexun.com/board_721_all_1_d.html" target="_blank">老者解盘</a><a href="http://bbs.hexun.com/board_724_all_1_d.html" target="_blank">慧鹰德</a><a href="http://bbs.hexun.com/board_726_all_1_d.html" target="_blank">钰言看盘</a><a href="http://bbs.hexun.com/board_734_all_1_d.html" target="_blank">金融纵横</a><a href="http://bbs.hexun.com/board_740_all_1_d.html" target="_blank">肖 文 瑞</a><a href="http://bbs.hexun.com/board_756_all_1_d.html" target="_blank">老 船 长</a><a href="http://bbs.hexun.com/board_763_all_1_d.html" target="_blank">王者投资</a><a href="http://bbs.hexun.com/board_771_all_1_d.html" target="_blank">短线龙头</a><a href="http://bbs.hexun.com/board_772_all_1_d.html" target="_blank">阿股达</a><a href="http://bbs.hexun.com/board_773_all_1_d.html" target="_blank">金牛说股</a><a href="http://bbs.hexun.com/board_798_all_1_d.html" target="_blank">赢在龍头</a><a href="http://bbs.hexun.com/board_815_all_1_d.html" target="_blank">黄文泽</a><a href="http://bbs.hexun.com/board_818_all_1_d.html" target="_blank">严焰茗</a><a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_blank">财经世界</a><a href="http://bbs.hexun.com/profession/" target="_blank">高手版区</a><a href="http://bbs.hexun.com/money/board_567_all_1_d.html" target="_blank">经济观澜</a><a href="http://bbs.hexun.com/stock/board_4_all_1_d.html" target="_blank">股市论坛</a><a href="http://bbs.hexun.com/futures/board_7_all_1_d.html" target="_blank">期市论坛</a><a href="http://bbs.hexun.com/money/board_28_all_1_d.html" target="_blank">基金论坛</a><a href="http://bbs.hexun.com/money/board_83_all_1_d.html" target="_blank">理财论坛</a><a href="http://bbs.hexun.com/money/board_74_all_1_d.html" target="_blank">黄金论坛</a><a href="http://bbs.hexun.com/money/board_63_all_1_d.html" target="_blank">汇市论坛</a><a href="http://bbs.hexun.com/money/board_66_all_1_d.html" target="_blank">房产论坛</a><a href="http://bbs.hexun.com/money/board_42_all_1_d.html" target="_blank">债券论坛</a><a href="http://bbs.hexun.com/money/board_78_all_1_d.html" target="_blank">银行论坛</a><a href="http://bbs.hexun.com/money/board_76_all_1_d.html" target="_blank">保险论坛</a><a href="http://bbs.hexun.com/money/board_247_all_1_d.html" target="_blank">券商论坛</a><a href="http://bbs.hexun.com/money/board_221_all_1_d.html" target="_blank">文交所专区</a><a href="http://bbs.hexun.com/money/board_232_all_1_d.html" target="_blank">津贵所论坛</a><a href="http://bbs.hexun.com/money/board_240_all_1_d.html" target="_blank">部委论坛</a><a href="http://bbs.hexun.com/money/board_617_all_1_d.html" target="_blank">地方论坛</a><a href="http://bbs.hexun.com/money/board_727_all_1_d.html" target="_blank">德州扑克</a><a href="http://bbs.hexun.com/money/board_743_all_1_d.html" target="_blank">国际财经</a><a href="http://bbs.hexun.com/money/board_801_all_1_d.html" target="_blank">现货论坛</a><a href="http://bbs.hexun.com/money/board_819_all_1_d.html" target="_blank">虚拟币之家</a><a href="http://bbs.hexun.com/board_3_all_1_d.html" target="_blank">品质生活</a><a href="http://bbs.hexun.com/board_152_all_1_d.html" target="_blank">社会生活</a><a href="http://bbs.hexun.com/board_552_all_1_d.html" target="_blank">图闻天下</a><a href="http://bbs.hexun.com/board_97_all_1_d.html" target="_blank">数码论坛</a><a href="http://bbs.hexun.com/board_95_all_1_d.html" target="_blank">摄影论坛</a><a href="http://bbs.hexun.com/board_101_all_1_d.html" target="_blank">软件论坛</a><a href="http://bbs.hexun.com/board_105_all_1_d.html" target="_blank">媒体前沿</a><a href="http://bbs.hexun.com/board_11_all_1_d.html" target="_blank">汽车时代</a><a href="http://bbs.hexun.com/board_47_all_1_d.html" target="_blank">IT业界</a><a href="http://bbs.hexun.com/board_805_all_1_d.html" target="_blank">旅行家</a><a href="http://bbs.hexun.com/board_828_all_1_d.html" target="_blank">首都网警</a><a href="http://bbs.hexun.com/board_10_all_1_d.html" target="_blank">论坛站务</a><a href="http://bbs.hexun.com/board_23_all_1_d.html" target="_blank">论坛公告</a><a href="http://bbs.hexun.com/board_25_all_1_d.html" target="_blank">论坛管理</a><a href="http://bbs.hexun.com/board_27_all_1_d.html" target="_blank">管理团队</a><a href="http://bbs.hexun.com/board_32_all_1_d.html" target="_blank">内部交流</a><a href="http://bbs.hexun.com/board_62_all_1_d.html" target="_blank">新手帮助</a><a href="http://bbs.hexun.com/board_61_all_1_d.html" target="_blank">BUG反馈</a><a href="http://bbs.hexun.com/board_131_all_1_d.html" target="_blank">版主申请</a><a href="http://bbs.hexun.com/board_764_all_1_d.html" target="_blank">活动专区</a><a href="http://bbs.hexun.com/board_125_all_1_d.html" target="_blank">和讯推荐</a><a href="http://bbs.hexun.com/board_150_all_1_d.html" target="_blank">和讯活动</a><a href="http://bbs.hexun.com/board_126_all_1_d.html" target="_blank">期天大胜</a><a href="http://bbs.hexun.com/board_164_all_1_d.html" target="_blank">收费产品服务</a><a href="http://bbs.hexun.com/board_242_all_1_d.html" target="_blank">股神争霸</a><a href="http://bbs.hexun.com/board_746_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_749_all_1_d.html" target="_blank">产品帮助</a><a href="http://bbs.hexun.com/board_750_all_1_d.html" target="_blank">投诉建议</a></div>
+<script src="/nav.aspx" type="text/javascript"></script>
+    </td>
+    <td valign="top"><div id="rigcontent" >
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="declare">
+  <tr>
+    <td>
+		<p class="ico01">版主：<a href="/u_3766782/_d.html" class="f1b6">蔡炳丁</a> <img align="absmiddle" src="/img/realname.gif" border='0'/> &nbsp; 版副：未设置</p>
+		<p class="ico02" id="boardNotice">版面公告：欢迎来到蔡 炳 丁</p></td>
+    <td id="banner01">&nbsp;</td>
+		<td width="98" id="myPRs"></td>    
+  </tr>
+
+  <tr>
+    <td colspan="3" style=" padding:0px 0px 5px 0px;"><table class="aColumn" width="100%">
+        <tr>
+          
+  
+    <td> <a href="http://bbs.hexun.com/board_415_all_1_d.html" class="a1" target="_self">全部栏目</a> 											
+										
+          <a href="http://bbs.hexun.com/board_415_child_1_d.html?child=417" 
+             
+            target="_self">版主专区</a>
+
+          <a href="http://bbs.hexun.com/board_415_child_1_d.html?child=473" 
+             
+            target="_self">花裁缝均线</a>
+
+          </td>
+        </tr>
+        
+      </table></td>
+  </tr>
+  
+</table>
+
+
+<div class="listtab">
+    <span class="current"><a target="_self" href="http://bbs.hexun.com/board_415_all_1_d.html">全部</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_415_essence_1_d.html">精华</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_415_recomment_1_d.html">推荐</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_415_hot_1_d.html">热门</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_415_image_1_d.html">图片</a></span>
+    <span ><a target="_self" href="http://bbs.hexun.com/board_415_news_1_d.html">新闻评论</a></span>
+    &nbsp;<a href="/newpost.aspx?bid=415" title="发新帖"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a>
+</div>
+<div class="pagenum"><a href="http://bbs.hexun.com/board_415_all_2_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/board_415_all_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/board_415_all_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/board_415_all_3_d.html" target="_self" class="current">3</a> <a href="http://bbs.hexun.com/board_415_all_4_d.html" target="_self">4</a> <a href="http://bbs.hexun.com/board_415_all_5_d.html" target="_self">5</a> <a href="http://bbs.hexun.com/board_415_all_6_d.html" target="_self">6</a> <a href="http://bbs.hexun.com/board_415_all_4_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="4" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist bbslistth clear" style=" margin:0px;">
+      <tr>
+        <th>主题</th>        
+        <th width="110"> 作者</th>
+        <th width="90">回复/点击</th>
+        <th width="110">最后回复人</th>
+      </tr>
+      </table><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist" id="tblPosts">
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_5309604_1_d.html" class="f234"><strong>网友发帖出现被封权问题的处理方法</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/">和讯财经论坛</a>
+        <p>13-03-01 18:27</p></td>
+        <td width='90'>---/---</td>
+        <td width='110'>---/---</td>
+      </tr>
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6607677_1_d.html" class="f234"><strong>和讯活期盈：三条锦囊计 财富滚滚来</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-02-25 07:09</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class="bg  bgbor">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6944796_1_d.html" class="f234"><strong>真假球迷不重要，世界杯福利才靠谱</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-06-10 14:11</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5007153" value="5007153"/> <a href="http://bbs.hexun.com/post_415_5007153_1_d.html" 
+            class="f234">【蔡炳丁观点】2012.11.02—12.17沪指波段趋势预测</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-02 16:30</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5007153">27997</span></td>
+        <td ><div class="hh"><a href="/u_22889529/_d.html"><font color="gray">娴雅老师</font></a>
+        <p>13-11-08 17:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5031797" value="5031797"/> <a href="http://bbs.hexun.com/post_415_5031797_1_d.html" 
+            class="f234">【蔡炳丁观点】未来神奇易数日量化研究（修订版）</a><span>
+            
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-11 16:58</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5031797">36316</span></td>
+        <td ><div class="hh"><a href="/u_20647412/_d.html"><font color="gray">mmmbbb168</font></a>
+        <p>12-12-17 10:53</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5064954" value="5064954"/> <a href="http://bbs.hexun.com/post_415_5064954_1_d.html" 
+            class="f234">【蔡炳丁观点】2012.11.19—2013.02.11沪指预测</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-20 16:47</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5064954">41370</span></td>
+        <td ><div class="hh"><a href="/u_13448299/_d.html"><font color="gray">lll2500</font></a>
+        <p>13-04-17 14:32</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5119632" value="5119632"/> <a href="http://bbs.hexun.com/post_415_5119632_1_d.html" 
+            class="f234">【蔡炳丁观点】12月3日之后神奇易数日的进一步研究</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-05 16:46</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5119632">29021</span></td>
+        <td ><div class="hh"><a href="/u_20627296/_d.html"><font color="gray">y1604118370</font></a>
+        <p>12-12-09 13:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5448858" value="5448858"/> <a href="http://bbs.hexun.com/post_415_5448858_1_d.html" 
+            class="f234">【蔡炳丁观点】澳元/美元09.02前神奇易数日研究</a><span>
+            <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-03-10 13:36</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5448858">10900</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_6160165" value="6160165"/> <a href="http://bbs.hexun.com/post_415_6160165_1_d.html" 
+            class="f234">【蔡炳丁观点】澳元/美元，一次经典的预测！</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-09-12 11:35</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6160165">2787</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5438388" id="pid_5438388"/> <a href="http://bbs.hexun.com/post_415_5438388_1_d.html" class="f234">【蔡炳丁观点】2013年3月8日周五沪指量化分时形态研究</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-03-07 17:15</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5438388">6511</span></td>
+        <td ><div class="hh"><a href="/u_18512909/_d.html"><font color="gray">银川雪山飞狐</font></a>
+        <p>13-03-07 19:04</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5427983" id="pid_5427983"/> <a href="http://bbs.hexun.com/post_415_5427983_1_d.html" class="f234">【蔡炳丁观点】2013年3月6日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-03-05 15:23</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5427983">13387</span></td>
+        <td ><div class="hh"><a href="/u_21330147/_d.html"><font color="gray">tyv2525</font></a>
+        <p>13-03-05 19:50</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5423830" id="pid_5423830"/> <a href="http://bbs.hexun.com/post_415_5423830_1_d.html" class="f234">【蔡炳丁观点】2013年3月5日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-03-04 18:06</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5423830">5008</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5407989" id="pid_5407989"/> <a href="http://bbs.hexun.com/post_415_5407989_1_d.html" class="f234">【蔡炳丁观点】2013年3月1日周五沪指量化分时形态研究</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-02-28 17:12</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5407989">6092</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5399585" id="pid_5399585"/> <a href="http://bbs.hexun.com/post_415_5399585_1_d.html" class="f234">【蔡炳丁观点】2013年2月27日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-02-26 15:50</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5399585">13500</span></td>
+        <td ><div class="hh"><a href="/u_21308489/_d.html"><font color="gray">fdhidfui</font></a>
+        <p>13-02-26 23:24</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5396313" id="pid_5396313"/> <a href="http://bbs.hexun.com/post_415_5396313_1_d.html" class="f234">【蔡炳丁观点】癸巳年甲寅月神奇易数日第一组</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-02-25 17:52</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5396313">8200</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5344749" id="pid_5344749"/> <a href="http://bbs.hexun.com/post_415_5344749_1_d.html" class="f234">【蔡炳丁观点】曲已过半</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-02-04 16:23</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5344749">13693</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5281767" id="pid_5281767"/> <a href="http://bbs.hexun.com/post_415_5281767_1_d.html" class="f234">【蔡炳丁观点】2013年1月17周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-01-16 16:43</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5281767">14737</span></td>
+        <td ><div class="hh"><a href="/u_16212778/_d.html"><font color="gray">割死套不死</font></a>
+        <p>13-01-17 15:39</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5279512" id="pid_5279512"/> <a href="http://bbs.hexun.com/post_415_5279512_1_d.html" class="f234">【蔡炳丁观点】2013年1月16日沪指量化二次计算</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-01-16 10:37</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5279512">6092</span></td>
+        <td ><div class="hh"><a href="/u_14473370/_d.html"><font color="gray">tgas</font></a>
+        <p>13-01-16 21:21</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5273336" id="pid_5273336"/> <a href="http://bbs.hexun.com/post_415_5273336_1_d.html" class="f234">【蔡炳丁观点】旱地拔葱</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-01-15 00:25</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5273336">40040</span></td>
+        <td ><div class="hh"><a href="/u_20687432/_d.html"><font color="gray">神奇预测</font></a>
+        <p>13-01-15 17:04</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5269147" id="pid_5269147"/> <a href="http://bbs.hexun.com/post_415_5269147_1_d.html" class="f234">【蔡炳丁观点】即将完成使命的图</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-01-13 23:00</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5269147">56173</span></td>
+        <td ><div class="hh"><a href="/u_14473370/_d.html"><font color="gray">tgas</font></a>
+        <p>13-01-15 13:06</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5228253" id="pid_5228253"/> <a href="http://bbs.hexun.com/post_415_5228253_1_d.html" class="f234">【蔡炳丁观点】2013年1月8日来了！！</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>13-01-06 11:41</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5228253">21008</span></td>
+        <td ><div class="hh"><a href="/u_20687432/_d.html"><font color="gray">神奇预测</font></a>
+        <p>13-01-08 17:04</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5200911" id="pid_5200911"/> <a href="http://bbs.hexun.com/post_415_5200911_1_d.html" class="f234">【蔡炳丁观点】无须杯弓蛇影之虑</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-27 17:35</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5200911">27352</span></td>
+        <td ><div class="hh"><a href="/u_20687432/_d.html"><font color="gray">神奇预测</font></a>
+        <p>12-12-30 19:51</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5200907" id="pid_5200907"/> <a href="http://bbs.hexun.com/post_415_5200907_1_d.html" class="f234">【蔡炳丁观点】无须杯弓蛇影之虑</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-27 17:34</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv5200907">5806</span></td>
+        <td ><div class="hh"><a href="/u_4101807/_d.html"><font color="gray">华夏统一</font></a>
+        <p>12-12-29 20:28</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5192598" id="pid_5192598"/> <a href="http://bbs.hexun.com/post_415_5192598_1_d.html" class="f234">【蔡炳丁观点】小荷才露尖尖角</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-25 16:52</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5192598">10195</span></td>
+        <td ><div class="hh"><a href="/u_1491775/_d.html"><font color="gray">雪松mjz</font></a>
+        <p>12-12-25 20:59</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/mark.gif" alt="标记" title="标记"/><input type="checkbox" class="manage" name="postId" value="5186090" id="pid_5186090"/> <a href="http://bbs.hexun.com/post_415_5186090_1_d.html" class="f234">【蔡炳丁观点】2012年12月24日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-23 11:19</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv5186090">63395</span></td>
+        <td ><div class="hh"><a href="/u_20642606/_d.html"><font color="gray">wwwkkee</font></a>
+        <p>12-12-24 00:33</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5171204" id="pid_5171204"/> <a href="http://bbs.hexun.com/post_415_5171204_1_d.html" class="f234">【蔡炳丁观点】2012年12月19日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-18 17:13</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5171204">15322</span></td>
+        <td ><div class="hh"><a href="/u_7502907/_d.html"><font color="gray">403120078</font></a>
+        <p>12-12-23 13:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5175831" id="pid_5175831"/> <a href="http://bbs.hexun.com/post_415_5175831_1_d.html" class="f234">【蔡炳丁观点】市场将迎来新的神奇易数日！</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-19 17:15</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5175831">16918</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5162181" id="pid_5162181"/> <a href="http://bbs.hexun.com/post_415_5162181_1_d.html" class="f234">【蔡炳丁观点】最大神奇易数日将出现在2013年1月8日！</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-15 18:04</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5162181">57789</span></td>
+        <td ><div class="hh"><a href="/u_20589689/_d.html"><font color="gray">君泰5</font></a>
+        <p>12-12-17 22:15</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5163500" id="pid_5163500"/> <a href="http://bbs.hexun.com/post_415_5163500_1_d.html" class="f234">【蔡炳丁观点】2012年12月17日周一沪指分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-16 18:23</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5163500">45094</span></td>
+        <td ><div class="hh"><a href="/u_20663017/_d.html"><font color="gray">uooorrr54</font></a>
+        <p>12-12-17 12:23</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5151283" id="pid_5151283"/> <a href="http://bbs.hexun.com/post_415_5151283_1_d.html" class="f234">【蔡炳丁观点】2012年12月13日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-12 18:43</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5151283">50228</span></td>
+        <td ><div class="hh"><a href="/u_4838989/_d.html"><font color="gray">飘然入世</font></a>
+        <p>12-12-13 10:40</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5146523" id="pid_5146523"/> <a href="http://bbs.hexun.com/post_415_5146523_1_d.html" class="f234">【蔡炳丁观点】2012年12月12日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-11 18:28</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5146523">8007</span></td>
+        <td ><div class="hh"><a href="/u_17564368/_d.html"><font color="gray">萨缪尔斯</font></a>
+        <p>12-12-12 10:42</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5134289" id="pid_5134289"/> <a href="http://bbs.hexun.com/post_415_5134289_1_d.html" class="f234">【蔡炳丁观点】2012年12月10日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-09 13:31</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5134289">38085</span></td>
+        <td ><div class="hh"><a href="/u_20623571/_d.html"><font color="gray">章某某</font></a>
+        <p>12-12-10 14:06</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5112081" id="pid_5112081"/> <a href="http://bbs.hexun.com/post_415_5112081_1_d.html" class="f234">【蔡炳丁观点】2012年12月4日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-12-03 16:52</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv5112081">26401</span></td>
+        <td ><div class="hh"><a href="/u_16494314/_d.html"><font color="gray">冬虫夏草果</font></a>
+        <p>12-12-06 00:22</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5093633" id="pid_5093633"/> <a href="http://bbs.hexun.com/post_415_5093633_1_d.html" class="f234">【蔡炳丁观点】神奇易数变盘日即将到来！</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-29 01:09</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5093633">18727</span></td>
+        <td ><div class="hh"><a href="/u_16758506/_d.html"><font color="gray">xiaoxiang251</font></a>
+        <p>12-12-05 22:03</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5097348" id="pid_5097348"/> <a href="http://bbs.hexun.com/post_415_5097348_1_d.html" class="f234">【蔡炳丁观点】2012年11月30日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-29 16:38</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5097348">14770</span></td>
+        <td ><div class="hh"><a href="/u_20484208/_d.html"><font color="gray">原始狩猎者</font></a>
+        <p>12-12-03 15:19</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5092172" id="pid_5092172"/> <a href="http://bbs.hexun.com/post_415_5092172_1_d.html" class="f234">【蔡炳丁观点】2012年11月29日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-28 16:30</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5092172">7422</span></td>
+        <td ><div class="hh"><a href="/u_20583738/_d.html"><font color="gray">oerti435</font></a>
+        <p>12-11-28 22:18</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5086855" id="pid_5086855"/> <a href="http://bbs.hexun.com/post_415_5086855_1_d.html" class="f234">【蔡炳丁观点】2012年11月28日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-27 16:31</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5086855">51066</span></td>
+        <td ><div class="hh"><a href="/u_20579651/_d.html"><font color="gray">oerti4</font></a>
+        <p>12-11-28 12:18</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5082018" id="pid_5082018"/> <a href="http://bbs.hexun.com/post_415_5082018_1_d.html" class="f234">【蔡炳丁观点】2012年11月27日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-26 16:27</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv5082018">45646</span></td>
+        <td ><div class="hh"><a href="/u_20576453/_d.html"><font color="gray">rowew4334</font></a>
+        <p>12-11-26 22:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5077748" id="pid_5077748"/> <a href="http://bbs.hexun.com/post_415_5077748_1_d.html" class="f234">【蔡炳丁观点】2012年11月26日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-25 00:01</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5077748">15987</span></td>
+        <td ><div class="hh"><a href="/u_20573542/_d.html"><font color="gray">功夫294</font></a>
+        <p>12-11-25 23:30</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5072439" id="pid_5072439"/> <a href="http://bbs.hexun.com/post_415_5072439_1_d.html" class="f234">【蔡炳丁观点】2012年11月23日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-22 17:07</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5072439">6717</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5071220" id="pid_5071220"/> <a href="http://bbs.hexun.com/post_415_5071220_1_d.html" class="f234">【蔡炳丁观点】2012年11月22日周四午后大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-22 12:08</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5071220">3146</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5064938" id="pid_5064938"/> <a href="http://bbs.hexun.com/post_415_5064938_1_d.html" class="f234">【蔡炳丁观点】2012年11月21日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-20 16:45</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5064938">4436</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5056059" id="pid_5056059"/> <a href="http://bbs.hexun.com/post_415_5056059_1_d.html" class="f234">【蔡炳丁观点】2012年11月19日、20日沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-16 17:09</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5056059">6943</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5051271" id="pid_5051271"/> <a href="http://bbs.hexun.com/post_415_5051271_1_d.html" class="f234">【蔡炳丁观点】2012年11月16日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-15 16:31</p></div></td>
+        <td ><span class="f1b6">7</span>/<span id="pv5051271">58095</span></td>
+        <td ><div class="hh"><a href="/u_20516958/_d.html"><font color="gray">owowoqaz</font></a>
+        <p>12-11-16 11:16</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5047167" id="pid_5047167"/> <a href="http://bbs.hexun.com/post_415_5047167_1_d.html" class="f234">【蔡炳丁观点】2012年11月15日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-14 17:41</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5047167">3585</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5047163" id="pid_5047163"/> <a href="http://bbs.hexun.com/post_415_5047163_1_d.html" class="f234">【蔡炳丁观点】2012年11月15日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-14 17:40</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5047163">2554</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5041469" id="pid_5041469"/> <a href="http://bbs.hexun.com/post_415_5041469_1_d.html" class="f234">【蔡炳丁观点】2012年11月15日为重要见底变盘日</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-13 12:14</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5041469">4250</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5017432" id="pid_5017432"/> <a href="http://bbs.hexun.com/post_415_5017432_1_d.html" class="f234">【蔡炳丁观点】2012年11月7日周三沪指预测进一步研究</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-07 00:48</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5017432">32426</span></td>
+        <td ><div class="hh"><a href="/u_20403346/_d.html"><font color="gray">祖振华</font></a>
+        <p>12-11-07 12:12</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5017437" id="pid_5017437"/> <a href="http://bbs.hexun.com/post_415_5017437_1_d.html" class="f234">【蔡炳丁观点】未来神奇易数日量化研究</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-07 00:50</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5017437">8120</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5014507" id="pid_5014507"/> <a href="http://bbs.hexun.com/post_415_5014507_1_d.html" class="f234">【蔡炳丁观点】2012年11月6日周二沪指大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-06 10:09</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv5014507">2973</span></td>
+        <td ><div class="hh"><a href="/u_20445528/_d.html"><font color="gray">daisy_mar517</font></a>
+        <p>12-11-06 19:33</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5016469" id="pid_5016469"/> <a href="http://bbs.hexun.com/post_415_5016469_1_d.html" class="f234">【蔡炳丁观点】2012年11月7日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-06 16:51</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5016469">4795</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5011435" id="pid_5011435"/> <a href="http://bbs.hexun.com/post_415_5011435_1_d.html" class="f234">【蔡炳丁观点】2012年11月5日周一午后沪市分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-05 11:07</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5011435">3944</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5003838" id="pid_5003838"/> <a href="http://bbs.hexun.com/post_415_5003838_1_d.html" class="f234">【蔡炳丁观点】2012年11月2日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-11-01 17:16</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5003838">11831</span></td>
+        <td ><div class="hh"><a href="/u_17219951/_d.html"><font color="gray">lgs137106363</font></a>
+        <p>12-11-02 10:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/lock.gif" alt="锁定" title="锁定"/><input type="checkbox" class="manage" name="postId" value="5000241" id="pid_5000241"/> <a href="http://bbs.hexun.com/post_415_5000241_1_d.html" class="f234">【蔡炳丁观点】2012年11月1日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-31 15:54</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5000241">19159</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4997298" id="pid_4997298"/> <a href="http://bbs.hexun.com/post_415_4997298_1_d.html" class="f234">【蔡炳丁观点】2012年10月31日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-30 20:40</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv4997298">10195</span></td>
+        <td ><div class="hh"><a href="/u_20403890/_d.html"><font color="gray">人小鬼大01</font></a>
+        <p>12-10-31 15:00</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4991965" id="pid_4991965"/> <a href="http://bbs.hexun.com/post_415_4991965_1_d.html" class="f234">【蔡炳丁观点】2012年10月30日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-29 16:28</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4991965">3485</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="4987358" id="pid_4987358"/> <a href="http://bbs.hexun.com/post_415_4987358_1_d.html" class="f234">【蔡炳丁观点】2012年10月29日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-28 13:42</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv4987358">11126</span></td>
+        <td ><div class="hh"><a href="/u_20392606/_d.html"><font color="gray">xdhgtht</font></a>
+        <p>12-10-29 11:31</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4987402" id="pid_4987402"/> <a href="http://bbs.hexun.com/post_415_4987402_1_d.html" class="f234">【蔡炳丁观点】2012年10月22日—11月15日沪指日线预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-28 13:57</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4987402">6278</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4987399" id="pid_4987399"/> <a href="http://bbs.hexun.com/post_415_4987399_1_d.html" class="f234">【蔡炳丁观点】2012年10月22日—11月15日沪指日线预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-28 13:56</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4987399">18820</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4977496" id="pid_4977496"/> <a href="http://bbs.hexun.com/post_415_4977496_1_d.html" class="f234">【蔡炳丁观点】2012年10月26日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-25 16:57</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv4977496">22770</span></td>
+        <td ><div class="hh"><a href="/u_20369339/_d.html"><font color="gray">erghju56</font></a>
+        <p>12-10-26 13:16</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4971541" id="pid_4971541"/> <a href="http://bbs.hexun.com/post_415_4971541_1_d.html" class="f234">【蔡炳丁观点】2012年10月25日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-24 17:14</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv4971541">8639</span></td>
+        <td ><div class="hh"><a href="/u_18704614/_d.html"><font color="gray">永不停歇的心</font></a>
+        <p>12-10-24 20:13</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4967599" id="pid_4967599"/> <a href="http://bbs.hexun.com/post_415_4967599_1_d.html" class="f234">【蔡炳丁观点】2012年10月24日周三沪指预测凌晨修正</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-24 01:18</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv4967599">6185</span></td>
+        <td ><div class="hh"><a href="/u_20366560/_d.html"><font color="gray">dfhybfgjnghj</font></a>
+        <p>12-10-24 09:20</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="4966497" id="pid_4966497"/> <a href="http://bbs.hexun.com/post_415_4966497_1_d.html" class="f234">【蔡炳丁观点】2012年10月24日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-23 16:32</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv4966497">52828</span></td>
+        <td ><div class="hh"><a href="/u_20365948/_d.html"><font color="gray">okmm3232</font></a>
+        <p>12-10-24 02:57</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4961760" id="pid_4961760"/> <a href="http://bbs.hexun.com/post_415_4961760_1_d.html" class="f234">【蔡炳丁观点】2012年10月23日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-22 15:14</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv4961760">18135</span></td>
+        <td ><div class="hh"><a href="/u_20361267/_d.html"><font color="gray">模块0</font></a>
+        <p>12-10-23 09:52</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4957975" id="pid_4957975"/> <a href="http://bbs.hexun.com/post_415_4957975_1_d.html" class="f234">【蔡炳丁观点】2012年10月22日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-20 14:00</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv4957975">16426</span></td>
+        <td ><div class="hh"><a href="/u_4887026/_d.html"><font color="gray">芊芊静听</font></a>
+        <p>12-10-20 16:10</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4955029" id="pid_4955029"/> <a href="http://bbs.hexun.com/post_415_4955029_1_d.html" class="f234">【蔡炳丁策略】2012年10月19日周五午后期指策略</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-19 12:06</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4955029">1643</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="4952733" id="pid_4952733"/> <a href="http://bbs.hexun.com/post_415_4952733_1_d.html" class="f234">【蔡炳丁观点】2012年10月19日周五沪指分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-18 16:06</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4952733">3585</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4949290" id="pid_4949290"/> <a href="http://bbs.hexun.com/post_415_4949290_1_d.html" class="f234">【蔡炳丁观点】2012年10月18日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-17 17:08</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4949290">4895</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4945531" id="pid_4945531"/> <a href="http://bbs.hexun.com/post_415_4945531_1_d.html" class="f234">【蔡炳丁观点】2012年10月17日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-16 16:16</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv4945531">3219</span></td>
+        <td ><div class="hh"><a href="/u_14871575/_d.html"><font color="gray">两吨</font></a>
+        <p>12-10-16 16:28</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4944722" id="pid_4944722"/> <a href="http://bbs.hexun.com/post_415_4944722_1_d.html" class="f234">【蔡炳丁观点】2012年10月16日周二大盘预测午盘修正</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-16 12:46</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4944722">1324</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4939864" id="pid_4939864"/> <a href="http://bbs.hexun.com/post_415_4939864_1_d.html" class="f234">【蔡炳丁观点】2012年10月15日周一沪指大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-14 17:26</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv4939864">24140</span></td>
+        <td ><div class="hh"><a href="/u_20309438/_d.html"><font color="gray">fff790622</font></a>
+        <p>12-10-15 20:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4941104" id="pid_4941104"/> <a href="http://bbs.hexun.com/post_415_4941104_1_d.html" class="f234">【蔡炳丁观点】2012年10月15日沪指预测10:48分修正</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-15 10:55</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv4941104">938</span></td>
+        <td ><div class="hh"><a href="/u_20309438/_d.html"><font color="gray">fff790622</font></a>
+        <p>12-10-15 18:45</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4942468" id="pid_4942468"/> <a href="http://bbs.hexun.com/post_415_4942468_1_d.html" class="f234">【蔡炳丁观点】2012年10月16日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-15 16:04</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4942468">3219</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4941558" id="pid_4941558"/> <a href="http://bbs.hexun.com/post_415_4941558_1_d.html" class="f234">【蔡炳丁观点】10月15日午后看高，波段不变！</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-15 12:59</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv4941558">1131</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4925336" id="pid_4925336"/> <a href="http://bbs.hexun.com/post_415_4925336_1_d.html" class="f234">【蔡炳丁观点】2012年10月10日周三沪指量化分时形态</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-09 16:59</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv4925336">35086</span></td>
+        <td ><div class="hh"><a href="/u_19489929/_d.html"><font color="gray">以下的帐号4</font></a>
+        <p>12-10-10 08:34</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4920059" id="pid_4920059"/> <a href="http://bbs.hexun.com/post_415_4920059_1_d.html" class="f234">【蔡炳丁观点】2012年10月9日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-08 16:33</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv4920059">53533</span></td>
+        <td ><div class="hh"><a href="/u_19489759/_d.html"><font color="gray">隐私策略4</font></a>
+        <p>12-10-09 09:59</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4919299" id="pid_4919299"/> <a href="http://bbs.hexun.com/post_415_4919299_1_d.html" class="f234">【蔡炳丁观点】2012年10月8日周一沪指预测午盘修正</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-08 13:01</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv4919299">905</span></td>
+        <td ><div class="hh"><a href="/u_1866280/_d.html"><font color="gray">远行者8</font></a>
+        <p>12-10-08 14:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4917520" id="pid_4917520"/> <a href="http://bbs.hexun.com/post_415_4917520_1_d.html" class="f234">【蔡炳丁观点】2012年10月8日周一沪指分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-10-07 12:06</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv4917520">28722</span></td>
+        <td ><div class="hh"><a href="/u_1866280/_d.html"><font color="gray">远行者8</font></a>
+        <p>12-10-08 14:15</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4804051" id="pid_4804051"/> <a href="http://bbs.hexun.com/post_415_4804051_1_d.html" class="f234">【蔡炳丁观点】2012年8月27日周一沪指大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-25 16:18</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv4804051">19106</span></td>
+        <td ><div class="hh"><a href="/u_19982258/_d.html"><font color="gray">方正之星</font></a>
+        <p>12-08-26 09:48</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4792835" id="pid_4792835"/> <a href="http://bbs.hexun.com/post_415_4792835_1_d.html" class="f234">【蔡炳丁观点】2012年8月22日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-21 15:55</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv4792835">22278</span></td>
+        <td ><div class="hh"><a href="/u_19587176/_d.html"><font color="gray">时空结构密码</font></a>
+        <p>12-08-24 12:01</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4789909" id="pid_4789909"/> <a href="http://bbs.hexun.com/post_415_4789909_1_d.html" class="f234">【蔡炳丁观点】2012年8月21日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-20 16:07</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv4789909">25563</span></td>
+        <td ><div class="hh"><a href="/u_18704614/_d.html"><font color="gray">永不停歇的心</font></a>
+        <p>12-08-21 11:48</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4787334" id="pid_4787334"/> <a href="http://bbs.hexun.com/post_415_4787334_1_d.html" class="f234">【蔡炳丁观点】2012年8月20日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-19 14:42</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv4787334">38105</span></td>
+        <td ><div class="hh"><a href="/u_19960209/_d.html"><font color="gray">HFGJNFGJK</font></a>
+        <p>12-08-20 10:40</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4782955" id="pid_4782955"/> <a href="http://bbs.hexun.com/post_415_4782955_1_d.html" class="f234">【蔡炳丁观点】2012年8月17日周五沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-16 22:13</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv4782955">32100</span></td>
+        <td ><div class="hh"><a href="/u_19740914/_d.html"><font color="gray">sunny8469</font></a>
+        <p>12-08-17 13:03</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4778723" id="pid_4778723"/> <a href="http://bbs.hexun.com/post_415_4778723_1_d.html" class="f234">【蔡炳丁观点】2012年8月16日周四沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-15 15:36</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv4778723">36835</span></td>
+        <td ><div class="hh"><a href="/u_4048956/_d.html"><font color="gray">fkuept</font></a>
+        <p>12-08-16 09:26</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4775777" id="pid_4775777"/> <a href="http://bbs.hexun.com/post_415_4775777_1_d.html" class="f234">【蔡炳丁观点】2012年8月15日周三沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-14 15:55</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv4775777">28642</span></td>
+        <td ><div class="hh"><a href="/u_19743600/_d.html"><font color="gray">c316084615</font></a>
+        <p>12-08-15 14:40</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4772840" id="pid_4772840"/> <a href="http://bbs.hexun.com/post_415_4772840_1_d.html" class="f234">【蔡炳丁观点】2012年8月14日周二沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-13 15:01</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv4772840">30750</span></td>
+        <td ><div class="hh"><a href="/u_4048956/_d.html"><font color="gray">fkuept</font></a>
+        <p>12-08-14 10:01</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4765352" id="pid_4765352"/> <a href="http://bbs.hexun.com/post_415_4765352_1_d.html" class="f234">【蔡炳丁观点】2012年8月13日周一沪市大盘分时预测</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_3766782/_d.html">蔡炳丁</a>
+          <p>12-08-11 16:23</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv4765352">34973</span></td>
+        <td ><div class="hh"><a href="/u_11664651/_d.html"><font color="gray">YGL1020</font></a>
+        <p>12-08-13 11:17</p></div>
+         </td>
+      </tr>
+    
+    </table>
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth manage" id="tblManage">
+      <tr>
+        <th  height="30" style="text-align:left; padding-left:12px">管理:
+        <input type="checkbox" name="" id="chkAll" onclick="selectAll(this)" />
+          <label for="chkAll" class="f234">全选</label>  
+          <a href="javascript:void(0)" target="_self" onclick="return doDelete()" class="f234">删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return deleteBatch()" class="f234">批量删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return movePost()" class="f234">转移</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return copyPostTo();" class="f234">转帖</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return updateNotice()" class="f234">发表版面公告</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return uploadLogo('/service/boardlogo.aspx?a=setLogo&bid=415')" class="f234">上传版面LOGO</a>  
+          <a class="f234" href="javascript:void(0)" onclick="setMaster()" target="_self">设置版主副</a>  
+          <a href="javascript:void(0)" target="_self" class="f234" onclick="forbidUser(this)">封权</a> 
+          <a href="/rubbish.aspx?bidselectedBoardId=415" class="f234" rel="nofollow">垃圾箱</a>  
+          
+          </th>
+        </tr>
+    </table>
+
+<div class="botmod">
+    <div class="botroad" style="width:383px"><table width="383" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="290"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/profession/" target="_top">高手版区</a> &gt; <a href="http://bbs.hexun.com/board_415_all_1_d.html" target="_top">蔡 炳 丁</a></td>
+    <td><a href="/newpost.aspx?bid=415"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a></td>
+    </tr>
+    </table>
+    </div>
+<div class="pagenum"><a href="http://bbs.hexun.com/board_415_all_2_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/board_415_all_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/board_415_all_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/board_415_all_3_d.html" target="_self" class="current">3</a> <a href="http://bbs.hexun.com/board_415_all_4_d.html" target="_self">4</a> <a href="http://bbs.hexun.com/board_415_all_5_d.html" target="_self">5</a> <a href="http://bbs.hexun.com/board_415_all_6_d.html" target="_self">6</a> <a href="http://bbs.hexun.com/board_415_all_4_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="4" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>    
+
+</div>
+</div></td>
+  </tr>
+</table>
+</form>
+<script type="text/javascript">
+addLoadEvent(function(){refreshPv(); if(needRefresh)window.intervalHandler = setInterval(reloadBoard,refreshSeconds*1000);});
+</script>
+
+<script src="/s/b/b.js" type="text/javascript"></script>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

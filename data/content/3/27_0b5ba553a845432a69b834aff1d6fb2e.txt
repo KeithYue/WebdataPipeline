@@ -1,0 +1,398 @@
+http://epaper.stcn.com/paper/zqsb/html/2012-01/06/node_549.htm
+1402802451.62
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>证券时报电子报2010版</title>
+<link rel="stylesheet" href="../../../tplimg/style_2010.css" />
+<link href="../../../tplimg/calendar_2010.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+
+<SCRIPT language=Javascript src="../../../tplimg/prototype_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/mp_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/calendar2_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/range_2010.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/menu_display_2010.js"></SCRIPT>
+
+
+<script language="javascript">
+
+function MM_swapImgRestore() { //v3.0
+ var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+ var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+ if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+ var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+ d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+ if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+ for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+ if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+
+ var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+jQuery(function(){
+	var $a = jQuery('#listWrap li a');
+	var $a1 = jQuery('#btdh a');
+	var $close = jQuery('#close');
+	var $close1 = jQuery('#close1');
+	var $area = jQuery('map area');
+	$a.click(function(){
+		showDiv(this);
+		return false;
+	})
+	$a1.click(function(){
+		showDiv(this);
+		return false;
+	})
+	$area.click(function(){
+		showDiv(this);
+		return false;
+	});
+	$close.click(function(){
+		hideDiv();
+	})
+	$close1.click(function(){
+		hideDiv();
+	})
+	
+	var $tr = jQuery('#bmdh tr,#btdh tr');
+	$tr.hover(function(){
+		jQuery(this).addClass('hover');
+	},function(){
+		jQuery(this).removeClass('hover');
+	})
+	
+	var _url = location.href;
+	var aUrls=_url.split("/");
+	var nurl = aUrls[aUrls.length - 1];
+	var _listWrap = document.getElementById('listWrap');
+	var $a = jQuery('#listWrap h2 a');
+	var $area = jQuery('#listWrap .area');
+	var _height = 0;
+	$a.each(function(){
+		if(jQuery(this).attr('href') == nurl){
+			var n = $a.index(jQuery(this))/2;
+			for(var i = 0; i < n; i++){
+				var $height = jQuery('#listWrap .area').eq(i).height();
+				_height = _height + $height + 12;
+			}
+		}
+	})
+	_listWrap.scrollTop = _height;	
+})
+
+function hideDiv(){
+	var $html = jQuery('html');
+	var $body = jQuery('body');
+	var $z9999 = jQuery('#z9999');
+	var $z10000 = jQuery('#z10000');
+	$html.removeClass('ovh');
+	$body.removeClass('ovh');
+	$z9999.hide();
+	$z10000.hide().find('#mainTxt').remove();
+}
+
+function showDiv(obj){
+	var $html = jQuery('html');
+	$html.addClass('ovh');
+	var _body = document.body;
+	_body.className += 'ovh';
+	var _width = _body.scrollWidth;
+	var _height = _body.scrollHeight;
+	var _scrollTop = _body.scrollTop;
+	var $scrollTop = document.documentElement.scrollTop + document.body.scrollTop;
+	var $nTop = -270 + $scrollTop;
+	var $z9999 = jQuery('#z9999');
+	var $z10000 = jQuery('#z10000');
+	var $z10001 = jQuery('#z10001');
+	
+	$z9999.css({width:_width, height:_height, opacity:0.3});
+	$z9999.show();
+	$z10000.css('margin-top',$nTop).show();
+	$z10001.load(obj + ' #mainTxt',function(){
+		var $fenxiangA = jQuery('.tuijian a');
+		var $fenxiangA_4 = jQuery('.tuijian a:eq(3)');
+		$fenxiangA_4.hide();
+		$fenxiangA.attr('href',obj);
+	});
+	return false;
+}
+
+ function copy(obj){
+	var clipBoardContent = obj.href;
+ if(window.clipboardData){
+ window.clipboardData.clearData();
+ window.clipboardData.setData("Text", clipBoardContent);
+ }else if(navigator.userAgent.indexOf("Opera") != -1){
+ window.location = clipBoardContent;
+ }else if (window.netscape){
+ try{
+ netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+ }catch (e){
+ alert("您的当前浏览器设置已关闭此功能！请按以下步骤开启此功能!新开一个浏览器，在浏览器地址栏输入'about:config'并回车.然后找到'signed.applets.codebase_principal_support'项，双击后设置为'true'。声明：本功能不会危极您计算机或数据的安全！");
+ }
+ var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+ if (!clip) return;
+ var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+ if (!trans) return;
+ trans.addDataFlavor('text/unicode');
+ var str = new Object();
+ var len = new Object();
+ var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+ var copytext = clipBoardContent;
+ str.data = copytext;
+ trans.setTransferData("text/unicode",str,copytext.length*2);
+ var clipid = Components.interfaces.nsIClipboard;
+ if (!clip) return false;
+ clip.setData(trans,null,clipid.kGlobalClipboard);
+ }
+ alert("地址已经复制到您的剪贴板，您可以发送给您的朋友啦！");
+ return true;
+}
+function addFavorite(obj){ 
+	var _url = obj.href;
+	//var aUrls=_url.split("/"); 
+	var vDomainName=_url;//"http://"+aUrls[2]+"/"; 
+	var description=jQuery('#mainTiile h2').html(); 
+	if(document.all){//IE 
+		window.external.AddFavorite(vDomainName,description); 
+	}else if (window.sidebar){//FF 
+		window.sidebar.addPanel(description,vDomainName,""); 
+	} 
+} 
+//打印
+function doPrint(obj) { 
+	var _url = obj.href;
+	window.location.href="http://epaper.stcn.com/paper/newZQSB/html/print/print/print.html?"+_url;
+ } 
+ //阻止冒泡
+function stopBubble(){
+ 	if(document.all){
+		getEvent().cancelBubble = true;
+	}else{
+		getEvent().stopPropagation();
+	} 
+ }
+</script>
+</head>
+<body onload="initMPPage();initialize();">
+<SPAN id=leveldiv title=点击查看内容 
+style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; Z-INDEX: 100; LEFT: 170px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 210px; CURSOR: hand; POSITION: absolute; TOP: 123px; HEIGHT: 34px; BORDER-RIGHT-WIDTH: 0px" onmouseout="MouseOutMap()"></SPAN>
+<div class="header" onclick="document.getElementById('daydh').style.display='none';" >
+	<h1><a href="#">证券时报多媒体数字报</a></h1>
+	<div class="navWrap"> <a class="logo" href="http://www.stcn.com/" target="_blank"><img src="../../../tplimg/stcn_2010.jpg" /></a>
+			<ul class="nav">
+				<li><a class="a1" href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">时报快讯</a></li>
+				<li><a class="a2" href="http://stock.stcn.com/" target="_blank">股票市场</a></li>
+				<li><a class="a3" href="http://company.stcn.com/" target="_blank">上市公司</a></li>
+			</ul>
+		<div><a href="#" onclick="if(document.all){javascript: window.external.AddFavorite('http://epaper.stcn.com/','证券时报多媒体数字报刊平台');}else if (window.sidebar){window.sidebar.addPanel('证券时报多媒体数字报刊平台','http://epaper.stcn.com/',''); }">收藏</a><span>/</span> <a href="http://www.stcn.com/" target="_blank">返回主页</a></div>
+	</div>
+	<div class="searchWrap">
+		<div class="date"> <span class="today" >
+			2012年1月6日
+		</span>按日期查找:<img title="鼠标点击，显示日历牌" onclick="autoShowDate();stopBubble();" src="../../../tplimg/datelog_2010.jpg" /><span id="upqi"> <span onClick="goPrePeriod()" style="cursor:pointer">&lt; 上一期</span> <span onClick="goNextPeriod()" style="cursor:pointer">下一期 &gt;</span></span> </div>
+		<div class="search" >
+			<form target="_blank" method="post" action="/PaperQueryAction.do" name="myform" id="myform">
+				<label for="key">稿件搜索：</label>
+				<input class="inpTxt" name="keyword" id="keyword" type="text" />
+				<select class="type" name="queryType" id="queryType">
+					<option value="0">全部</option>
+					<option value="1">标题 </option>
+					<option value="2">正文</option>
+				</select>
+				<input class="inpBtn" type="submit" value="搜索" />
+			</form>
+		</div>
+	</div>
+	<!-- -------------------------日期导航 -------------->
+	<script language=JavaScript>
+<!--
+document.write("<div id=detail style=position:absolute;width:300px; onclick=stopBubble();></div>");
+//-->
+</script>
+	<div id=daydh style="display:none; position:absolute; left:185px; top:125px; z-index:10000" onclick="stopBubble();">
+		<form name=CLD id="CLD" style="padding:0px;margin:0px;">
+			<table width="210" border="0" cellpadding="0" cellspacing="1" >
+				<tr>
+					<td style="padding: 3px;"><table cellspacing=0 cellpadding=0 width="100%" align=center border=0>
+						<tr>
+							<td style="background:#fff;"><table width="100%" align=center border="0" cellpadding="1" cellspacing="1">
+								<tr class="default" align=center>
+									<td height=15 colspan=7 style="background:#d2d2d2;"><table width="100%" border="0" cellpadding="2" cellspacing="0">
+										<tr align="center">
+											<td align="left" nowrap><img src="../../../tplimg/d1_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SY,0)" /></td>
+											<td><select class=jumpmenu onChange=changeMPCld() name=SY id="SY">
+												<script language=JavaScript>
+					for(i=2006;i<2051;i++)
+					document.write('<option>'+i+'</option>')
+ 			</script>
+											</select>
+											</td>
+											<td><img src="../../../tplimg/d_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SY,1)" /></td>
+											<td align="center" nowrap><img src="../../../tplimg/d1_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SM,0)" /></td>
+											<td><select class=jumpmenu onChange=changeMPCld() name=SM id="SM">
+												<script language=JavaScript>
+				<!-- 
+					for(i=1;i<13;i++) document.write('<option>'+i+'</option>')
+				//-->
+ 			</script>
+											</select>
+											</td>
+											<td><img src="../../../tplimg/d_2010.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SM,1)" /></td>
+											<td align="right" nowrap><strong><font id=GZ fface="Arial, Helvetica, sans-serif"></font></strong></td>
+										</tr>
+									</table></td>
+								</tr>
+								<tr align=middle style="background:#e8e8e8;" class="default">
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">日</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">一</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">二</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">三</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">四</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">五</font></b></td>
+									<td style="color:#fff;" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">六</font></b> </td>
+								</tr>
+								<script language=JavaScript>
+		<!--
+			var gNum;
+			for(i=0;i<6;i++) 
+			{
+				document.write('<tr align=center>');
+				for(j=0;j<7;j++) 
+				{
+					gNum = i*7+j;
+					document.write('<td class="default" align=center id="GD' + gNum +'" style="cursor: default;" width="14%"><a href="" id="CD' + gNum + '"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onMouseOver="mOvr(' + gNum +')" onMouseOut="mOut()" id="SD' + gNum +'"');
+					document.write('></font></span></a><br><font id="LD' + gNum + '" size=2 class=pt9 style=display:none></font></td>');
+				}
+				document.write('</tr>');
+			}
+		//-->
+ 	</script>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	<!-------日期导航END------>
+</div>
+<div class="content" onclick="document.getElementById('daydh').style.display='none';">
+	<div class="main">
+		<ul class="subNav">
+			<li><a href="http://epaper.stcn.com/">首页</a><span>|</span></li>
+			<li><a href="#nogo" onMouseOver="setNavigationDIV('block','btdhLinkId','bmdh');" onMouseOut="setNavigationDIV('none','btdhLinkId','bmdh');">版面导航</a><span>|</span></li>
+			<li><a href="#nogo" id="btdhLinkId" onMouseOver="setNavigationDIV('block','btdhLinkId','btdh');" onMouseOut="setNavigationDIV('none','btdhLinkId','btdh');">标题导航</a></li>
+		</ul>
+		<div class="listWrap" id="listWrap">
+			<!-- =================== 版面目录start ================================-->
+			<div class="area"> <h2 id=A001><a href=node_2.htm>第A001版  头 版（今日68版）</a><a class="more" href=../../../page/1/2012-01-06/A001/55001325824052881.pdf>PDF版</a></h2> <ul> <li><a href=content_333001.htm>商务部：研究制定促消费替代接续政策</a></li> <li><a href=content_333002.htm>沪港共推港股组合ETF在沪上市</a></li> <li><a href=content_333003.htm>保护消费者权益 夯实保险业生存发展根基</a></li> <li><a href=content_333004.htm>“东吴证券杯”证券界优秀摄影作品在京颁奖</a></li> <li><a href=content_333005.htm>今日导读</a></li> <li><a href=content_333006.htm>[报眼]嘉捷申购</a></li> <li><a href=content_333007.htm>[报眼]加加食品</a></li> <li><a href=content_333008.htm>[报眼]飞利信</a></li> <li><a href=content_333009.htm>[报眼]贵州朗玛信息技术股份有限公司</a></li> <li><a href=content_333010.htm>[AD]节目预告</a></li> </ul> </div> <div class="area"> <h2 id=A002><a href=node_3.htm>第A002版  要 闻</a> <a class="more" href=../../../page/1/2012-01-06/A002/54561325786555615.pdf>PDF版</a></h2> <ul> <li><a href=content_332727.htm>推动国企业务板块重组 压缩管理层级</a></li> <li><a href=content_332728.htm>黄淑和：央企今年首要任务是保增长</a></li> <li><a href=content_332729.htm>四川证监局召开辖区上市公司监管工作会议</a></li> <li><a href=content_332730.htm>未过会公司负面舆情比例远超过会公司</a></li> <li><a href=content_332731.htm>保护消费者权益  夯实保险业生存发展根基</a></li> <li><a href=content_332732.htm>深证及巨潮指数系列</a></li> <li><a href=content_332733.htm>“东吴证券杯”证券界优秀摄影作品在京颁奖 </a></li> <li><a href=content_332734.htm>要闻短波</a></li> <li><a href=content_332735.htm>专家预测去年12月份CPI回落态势放缓</a></li> </ul> </div> <div class="area"> <h2 id=A003><a href=node_4.htm>第A003版  评 论</a><a class="more" href=../../../page/1/2012-01-06/A003/44641325786556600.pdf>PDF版</a></h2> <ul> <li><a href=content_332736.htm>全球主权债务危机将深化</a></li> <li><a href=content_332737.htm>大股东增持：要姿态更要有实质</a></li> <li><a href=content_332738.htm>从政经文化互动看欧债危机</a></li> <li><a href=content_332739.htm>以房养老缓解社会养老难题</a></li> <li><a href=content_332740.htm>勿将利率与股价关系绝对化</a></li> </ul> </div> <div class="area"> <h2 id=A004><a href=node_5.htm>第A004版  环 球</a> <a class="more" href=../../../page/1/2012-01-06/A004/10351325786302818.pdf>PDF版</a></h2> <ul> <li><a href=content_332667.htm>奥巴马任内难交满意经济答卷</a></li> <li><a href=content_332668.htm>武汉人福医药集团股份有限公司董事会关于2011年度第二期短期融资券发行公告</a></li> <li><a href=content_332669.htm>意西希麻烦不断 匈牙利或成欧盟首个违约国</a></li> <li><a href=content_332670.htm>中小盘估值风险释放，市场加速探底</a></li> <li><a href=content_332671.htm>公司新闻</a></li> <li><a href=content_332672.htm>法国顺利发债 评级风险依然不减</a></li> <li><a href=content_332673.htm>香港三发钞行人民币同业拆息差距较大 </a></li> </ul> </div> <div class="area"> <h2 id=A005><a href=node_6.htm>第A005版  视 觉</a><a class="more" href=../../../page/1/2012-01-06/A005/31481325786303818.pdf>PDF版</a></h2> <ul> <li><a href=content_332674.htm>优秀作品选登</a></li> <li><a href=content_332675.htm>收藏精品、收藏佳作、优秀作品列表</a></li> </ul> </div> <div class="area"> <h2 id=A006><a href=node_7.htm>第A006版  机 构</a> <a class="more" href=../../../page/1/2012-01-06/A006/42871325786557600.pdf>PDF版</a></h2> <ul> <li><a href=content_332741.htm>外汇局第二批放行券商82亿RQFII额度</a></li> <li><a href=content_332742.htm>“鞍债事件”余波未散隐性收益成谜</a></li> <li><a href=content_332743.htm>券商自营腾挪资金让位创新业务</a></li> <li><a href=content_332744.htm>力谋突围自营不应成为买方业务主角</a></li> <li><a href=content_332745.htm>解码“最牛信托”37%高收益</a></li> <li><a href=content_332746.htm>机构新闻</a></li> </ul> </div> <div class="area"> <h2 id=A007><a href=node_8.htm>第A007版  创业·资本</a><a class="more" href=../../../page/1/2012-01-06/A007/8891325786304834.pdf>PDF版</a></h2> <ul> <li><a href=content_332676.htm>经济阴霾不散 并购市场将好戏连连</a></li> <li><a href=content_332677.htm>中山大洋电机股份有限公司公告（系列）</a></li> <li><a href=content_332678.htm>去年新设235只PE基金创纪录</a></li> <li><a href=content_332679.htm>“创投是个很有意思的行业”</a></li> </ul> </div> <div class="area"> <h2 id=A008><a href=node_9.htm>第A008版  视 觉</a> <a class="more" href=../../../page/1/2012-01-06/A008/66531325786305834.pdf>PDF版</a></h2> <ul> <li><a href=content_332680.htm>“东吴证券杯”第三届中国证券界摄影征集</a></li> <li><a href=content_332681.htm>得奖作品</a></li> </ul> </div> <div class="area"> <h2 id=A009><a href=node_10.htm>第A009版  舆 情</a><a class="more" href=../../../page/1/2012-01-06/A009/76771325786558600.pdf>PDF版</a></h2> <ul> <li><a href=content_332747.htm>2011年A股市场IPO舆情研究</a></li> <li><a href=content_332748.htm>世说微语</a></li> <li><a href=content_332749.htm>中国上市公司舆情热度排行榜</a></li> <li><a href=content_332750.htm>61个100元激起舆论回响</a></li> </ul> </div> <div class="area"> <h2 id=A010><a href=node_11.htm>第A010版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/A010/33431325786559631.pdf>PDF版</a></h2> <ul> <li><a href=content_332751.htm>国联安优选行业股票型证券投资基金招募说明书（更新）摘要</a></li> </ul> </div> <div class="area"> <h2 id=A011><a href=node_12.htm>第A011版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/A011/49731325786306834.pdf>PDF版</a></h2> <ul> <li><a href=content_332682.htm>国联安优选行业股票型证券投资基金招募说明书（更新）摘要</a></li> <li><a href=content_332683.htm>南京栖霞建设股份有限公司公告（系列）</a></li> <li><a href=content_332684.htm>芜湖亚夏汽车股份有限公司关于召开公司2012年第一次临时股东大会提示性公告的更正公告</a></li> <li><a href=content_332685.htm>新疆赛里木现代农业股份有限公司公告（系列）</a></li> <li><a href=content_332686.htm>关于增加中信万通证券有限责任公司及东吴证券股份有限公司为财通价值动量混合型证券投资基金代销机构的公告</a></li> <li><a href=content_332687.htm>拍卖公告</a></li> </ul> </div> <div class="area"> <h2 id=A012><a href=node_13.htm>第A012版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/A012/85331325786560615.pdf>PDF版</a></h2> <ul> <li><a href=content_332752.htm>北京飞利信科技股份有限公司首次公开发行股票并在创业板上市初步询价及推介公告</a></li> <li><a href=content_332753.htm>山东国瓷功能材料股份有限公司首次公开发行股票并在创业板上市网上定价发行申购情况及中签率公告</a></li> <li><a href=content_332754.htm>山东国瓷功能材料股份有限公司首次公开发行股票并在创业板上市网下摇号中签及配售结果公告</a></li> <li><a href=content_332755.htm>贵阳朗玛信息技术股份有限公司首次公开发行股票并在创业板上市提示公告</a></li> <li><a href=content_332756.htm>贵阳朗玛信息技术股份有限公司首次公开发行股票并在创业板上市初步询价及推介公告</a></li> <li><a href=content_332757.htm>北京飞利信科技股份有限公司首次公开发行股票并在创业板上市提示公告</a></li> </ul> </div> <div class="area"> <h2 id=B001><a href=node_42.htm>第B001版  B叠头版：公 司</a><a class="more" href=../../../page/1/2012-01-06/B001/35081325786561615.pdf>PDF版</a></h2> <ul> <li><a href=content_332758.htm>重庆啤酒称变更实验指标合规</a></li> <li><a href=content_332759.htm>石油特别收益金起征点提至55美元/桶 </a></li> <li><a href=content_332760.htm>新闻短波</a></li> <li><a href=content_332761.htm>上市公司频频弃矿 搭车赶热点行为应规范</a></li> <li><a href=content_332762.htm>公司新闻</a></li> <li><a href=content_332763.htm>超三成电气设备公司2011年业绩预降</a></li> </ul> </div> <div class="area"> <h2 id=B002><a href=node_43.htm>第B002版  公 司</a> <a class="more" href=../../../page/1/2012-01-06/B002/83721325786816506.pdf>PDF版</a></h2> <ul> <li><a href=content_332978.htm>抬高校车标准一家独大？宇通称安全第一</a></li> <li><a href=content_332979.htm>三泰电子推980万股股权激励计划</a></li> <li><a href=content_332980.htm>生意宝发布国内首个大宗商品供需指数</a></li> <li><a href=content_332981.htm>1.1亿元涉足锰矿 金飞达转型迈步</a></li> <li><a href=content_332982.htm>出售米粉公司 南方食品专注芝麻糊主业</a></li> <li><a href=content_332983.htm>TCL集团预计2011年净利15.5亿元～18亿元</a></li> <li><a href=content_332984.htm>公司新闻</a></li> <li><a href=content_332985.htm>两创业板公司今日招股</a></li> </ul> </div> <div class="area"> <h2 id=B003><a href=node_44.htm>第B003版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/B003/17581325786307881.pdf>PDF版</a></h2> <ul> <li><a href=content_332688.htm>建信核心精选股票型证券投资基金招募说明书（更新）摘要</a></li> <li><a href=content_332689.htm>建信基金管理有限责任公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=B004><a href=node_45.htm>第B004版  产 经</a> <a class="more" href=../../../page/1/2012-01-06/B004/60721325786562600.pdf>PDF版</a></h2> <ul> <li><a href=content_332764.htm>品牌服装企业雪中送炭 加码资助经销商</a></li> <li><a href=content_332765.htm>工信部：今年纺织业运行压力继续增大</a></li> <li><a href=content_332766.htm>新能源汽车规划仍待修改 电池产业尚需规范引导</a></li> <li><a href=content_332767.htm>中钢协：钢企应加强自律 严格控制产量</a></li> <li><a href=content_332768.htm>产经新闻</a></li> <li><a href=content_332769.htm>卫生部部长陈竺：争取“十二五”期间革除以药补医弊端</a></li> <li><a href=content_332770.htm>环渤海动力煤价格跌破限价令</a></li> </ul> </div> <div class="area"> <h2 id=C001><a href=node_78.htm>第C001版  C叠头版：市 场</a><a class="more" href=../../../page/1/2012-01-06/C001/22491325786563600.pdf>PDF版</a></h2> <ul> <li><a href=content_332771.htm>资金旺季来临 准备金率或连续下调</a></li> <li><a href=content_332772.htm>新股发行提示</a></li> <li><a href=content_332773.htm>悲观情绪未止创新低无悬念</a></li> <li><a href=content_332774.htm>小盘股集体杀跌 结构性风险持续释放</a></li> <li><a href=content_332775.htm>微博看市</a></li> <li><a href=content_332776.htm>7成创业板公司跌破发行价</a></li> <li><a href=content_332777.htm>重挫之后谨慎为宜</a></li> <li><a href=content_332778.htm>今年创业板限售股解禁压力不轻</a></li> </ul> </div> <div class="area"> <h2 id=C002><a href=node_79.htm>第C002版  动 向</a> <a class="more" href=../../../page/1/2012-01-06/C002/67551325786564600.pdf>PDF版</a></h2> <ul> <li><a href=content_332779.htm>A股启动“春耕” 率先播种绩优股</a></li> <li><a href=content_332780.htm>1月5日大宗交易</a></li> <li><a href=content_332781.htm>年报“三高”股值得关注</a></li> <li><a href=content_332782.htm>限售股解禁</a></li> <li><a href=content_332783.htm>机构护盘蓝筹 游资加速逃离</a></li> <li><a href=content_332784.htm>理性看市是比赚钱更重要的事情</a></li> <li><a href=content_332785.htm>万般皆下行 唯有银行涨</a></li> <li><a href=content_332786.htm>业绩驱动白马 择股择时驾驭良机</a></li> </ul> </div> <div class="area"> <h2 id=C003><a href=node_80.htm>第C003版  期 货</a><a class="more" href=../../../page/1/2012-01-06/C003/71325786565600.pdf>PDF版</a></h2> <ul> <li><a href=content_332787.htm>成本上升下游补库 PTA借力突破8600元</a></li> <li><a href=content_332788.htm>伊朗石油禁运渐成现实 国际油价持续飙升</a></li> <li><a href=content_332789.htm>今年大宗商品或复制2009年走势</a></li> <li><a href=content_332790.htm>行情点评</a></li> <li><a href=content_332791.htm>政策效应引发郑糖价值回归</a></li> <li><a href=content_332792.htm>股市将继续去泡沫之旅</a></li> <li><a href=content_332793.htm>新闻短波</a></li> </ul> </div> <div class="area"> <h2 id=C004><a href=node_81.htm>第C004版  个 股</a> <a class="more" href=../../../page/1/2012-01-06/C004/6371325786566600.pdf>PDF版</a></h2> <ul> <li><a href=content_332794.htm>券商评级</a></li> <li><a href=content_332795.htm>专家在线精彩回顾</a></li> <li><a href=content_332796.htm>三中小板公司今日上市</a></li> <li><a href=content_332797.htm>子公司勘探储量大增 路翔股份“一”字涨停</a></li> <li><a href=content_332798.htm>跨年倒腾 徐工2450万股去又回</a></li> <li><a href=content_332799.htm>利好、利空双重夹击金飞达选择跌停</a></li> <li><a href=content_332800.htm>短期风险陡然加大隆平高科长阴破局</a></li> <li><a href=content_332801.htm>专家在线</a></li> </ul> </div> <div class="area"> <h2 id=C005><a href=node_82.htm>第C005版  数 据</a><a class="more" href=../../../page/1/2012-01-06/C005/84211325783196412.pdf>PDF版</a></h2> <ul> <li><a href=content_332661.htm>去年131亿新股承销费 57家券商共享</a></li> </ul> </div> <div class="area"> <h2 id=C006><a href=node_83.htm>第C006版  行 情</a> <a class="more" href=../../../page/1/2012-01-06/C006/54821325783197443.pdf>PDF版</a></h2> <ul> <li><a href=content_332662.htm>深沪证券市场总貌</a></li> </ul> </div> <div class="area"> <h2 id=C007><a href=node_84.htm>第C007版  行 情</a><a class="more" href=../../../page/1/2012-01-06/C007/40651325783198615.pdf>PDF版</a></h2> <ul> <li><a href=content_332663.htm>深沪证券市场每日行情</a></li> </ul> </div> <div class="area"> <h2 id=C008><a href=node_85.htm>第C008版  数 据</a> <a class="more" href=../../../page/1/2012-01-06/C008/68541325783199459.pdf>PDF版</a></h2> <ul> <li><a href=content_332664.htm>A股大宗交易平台去年全年成交1380亿元</a></li> </ul> </div> <div class="area"> <h2 id=C009><a href=node_86.htm>第C009版  数 据</a><a class="more" href=../../../page/1/2012-01-06/C009/72211325783200443.pdf>PDF版</a></h2> <ul> <li><a href=content_332665.htm>基金持有金融债情况一览(1)</a></li> <li><a href=content_332666.htm>关于大成中证内地消费主题指数证券投资基金在部分代销机构开办定期定额申购业务并参与相关优惠活动的公告</a></li> </ul> </div> <div class="area"> <h2 id=C010><a href=node_87.htm>第C010版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/C010/31561325786567678.pdf>PDF版</a></h2> <ul> <li><a href=content_332802.htm>易方达黄金主题证券投资基金（ＬＯＦ）更新的招募说明书摘要</a></li> </ul> </div> <div class="area"> <h2 id=C011><a href=node_88.htm>第C011版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/C011/81641325786308850.pdf>PDF版</a></h2> <ul> <li><a href=content_332690.htm>海富通稳固收益债券型证券投资基金更新招募说明书摘要</a></li> </ul> </div> <div class="area"> <h2 id=C012><a href=node_89.htm>第C012版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/C012/42441325786309881.pdf>PDF版</a></h2> <ul> <li><a href=content_332691.htm> 鹏华行业成长证券投资基金更新的招募说明书摘要</a></li> </ul> </div> <div class="area"> <h2 id=D001><a href=node_521.htm>第D001版  D叠头版：信息披露</a><a class="more" href=../../../page/1/2012-01-06/D001/12691325786568615.pdf>PDF版</a></h2> <ul> <li><a href=content_332803.htm>最新公告速递</a></li> <li><a href=content_332804.htm>今日公告导读</a></li> <li><a href=content_332805.htm>特别提示</a></li> </ul> </div> <div class="area"> <h2 id=D002><a href=node_522.htm>第D002版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D002/48011325786569615.pdf>PDF版</a></h2> <ul> <li><a href=content_332806.htm>最新公告速递</a></li> <li><a href=content_332807.htm>合肥百货大楼集团股份有限公司关于召开２０１２年第一次临时股东大会提示性公告</a></li> <li><a href=content_332808.htm>景顺长城基金管理有限公司公告（系列）</a></li> <li><a href=content_332809.htm>关于纽银梅隆西部基金管理有限公司旗下基金持有的长期停牌股票采用指数收益法进行估值的提示性公告</a></li> <li><a href=content_332810.htm>光大保德信基金管理有限公司关于调整旗下部分基金持有的停牌股票估值方法的提示性公告</a></li> <li><a href=content_332811.htm>山东兴民钢圈股份有限公司股票交易异常波动公告</a></li> <li><a href=content_332812.htm>银华基金管理有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D003><a href=node_523.htm>第D003版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D003/57771325786570631.pdf>PDF版</a></h2> <ul> <li><a href=content_332813.htm>上海联合产权交易所交易信息</a></li> <li><a href=content_332814.htm>北京产权交易所挂牌项目信息</a></li> <li><a href=content_332815.htm>牡丹江恒丰纸业股份有限公司公告（系列）</a></li> <li><a href=content_332816.htm>咸阳偏转股份有限公司关于重大资产置换及发行股份购买资产暨关联交易报告书修订说明</a></li> <li><a href=content_332817.htm>国泰基金管理有限公司公告（系列）</a></li> <li><a href=content_332818.htm>关于全资子公司浙江震元制药有限公司通过高新技术企业复审的公告</a></li> <li><a href=content_332819.htm>宁夏中银绒业股份有限公司董事会关于收到中国证监会行政许可申请受理通知书的公告</a></li> <li><a href=content_332820.htm>泰达宏利基金管理有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D004><a href=node_524.htm>第D004版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D004/2971325786571631.pdf>PDF版</a></h2> <ul> <li><a href=content_332821.htm>西藏海思科药业集团股份有限公司首次公开发行Ａ股投资风险特别公告</a></li> <li><a href=content_332822.htm>西藏海思科药业集团股份有限公司首次公开发行Ａ股发行公告</a></li> <li><a href=content_332823.htm>上海安科瑞电气股份有限公司首次公开发行股票并在创业板上市网下摇号中签及配售结果公告</a></li> <li><a href=content_332824.htm>上海安科瑞电气股份有限公司首次公开发行股票并在创业板上市网上定价发行申购情况及中签率公告</a></li> </ul> </div> <div class="area"> <h2 id=D005><a href=node_525.htm>第D005版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D005/49631325786311178.pdf>PDF版</a></h2> <ul> <li><a href=content_332692.htm>西北永新化工股份有限公司收购报告书</a></li> <li><a href=content_332693.htm>西北永新化工股份有限公司关于控股股东国有股权无偿划转获得中国证监会豁免要约收购批复的公告</a></li> </ul> </div> <div class="area"> <h2 id=D006><a href=node_526.htm>第D006版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D006/94981325786572740.pdf>PDF版</a></h2> <ul> <li><a href=content_332825.htm>西北永新化工股份有限公司收购报告书</a></li> </ul> </div> <div class="area"> <h2 id=D007><a href=node_527.htm>第D007版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D007/91431325786573678.pdf>PDF版</a></h2> <ul> <li><a href=content_332826.htm>振兴生化股份有限公司公告（系列）</a></li> <li><a href=content_332827.htm>山东蓝帆塑胶股份有限公司股票交易异常波动公告</a></li> <li><a href=content_332828.htm>江苏常宝钢管股份有限公司第二届董事会第十次会议决议的公告</a></li> <li><a href=content_332829.htm>深圳丹邦科技股份有限公司２０１２年第一次临时股东大会决议公告</a></li> <li><a href=content_332830.htm>广东宝利来投资股份有限公司董事会关于公司股东股权质押的公告</a></li> <li><a href=content_332831.htm>贵州百灵企业集团制药股份有限公司关于第二届董事会第十一次会议决议的公告</a></li> <li><a href=content_332832.htm>博时基金管理有限公司旗下部分开放式基金参加中国邮政储蓄银行有限责任公司网上银行申购费率优惠活动的公告</a></li> <li><a href=content_332833.htm>承德大路股份有限公司关于获得政府补贴的公告</a></li> <li><a href=content_332834.htm>东吴基金管理有限公司关于旗下证券投资基金估值调整情况的公告</a></li> <li><a href=content_332835.htm>西北永新化工股份有限公司收购报告书</a></li> </ul> </div> <div class="area"> <h2 id=D008><a href=node_528.htm>第D008版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D008/81981325786312209.pdf>PDF版</a></h2> <ul> <li><a href=content_332694.htm>工银瑞信全球精选股票型证券投资基金更新的招募说明书摘要</a></li> </ul> </div> <div class="area"> <h2 id=D009><a href=node_529.htm>第D009版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D009/57681325786574631.pdf>PDF版</a></h2> <ul> <li><a href=content_332836.htm>国联安信心增长定期开放债券型证券投资基金招募说明书</a></li> <li><a href=content_332837.htm>国联安信心增长定期开放债券型证券投资基金份额发售公告</a></li> <li><a href=content_332838.htm>国联安信心增长定期开放债券型证券投资基金基金合同摘要</a></li> </ul> </div> <div class="area"> <h2 id=D010><a href=node_530.htm>第D010版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D010/75881325786575647.pdf>PDF版</a></h2> <ul> <li><a href=content_332839.htm>国联安信心增长定期开放债券型证券投资基金招募说明书</a></li> </ul> </div> <div class="area"> <h2 id=D011><a href=node_531.htm>第D011版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D011/41811325786576787.pdf>PDF版</a></h2> <ul> <li><a href=content_332840.htm>国联安信心增长定期开放债券型证券投资基金招募说明书</a></li> </ul> </div> <div class="area"> <h2 id=D012><a href=node_532.htm>第D012版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D012/55261325786577615.pdf>PDF版</a></h2> <ul> <li><a href=content_332841.htm>国联安信心增长定期开放债券型证券投资基金招募说明书</a></li> <li><a href=content_332842.htm>国联安信心增长定期开放债券型证券投资基金份额发售公告</a></li> <li><a href=content_332843.htm>国联安信心增长定期开放债券型证券投资基金基金合同摘要</a></li> </ul> </div> <div class="area"> <h2 id=D013><a href=node_533.htm>第D013版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D013/67041325786578631.pdf>PDF版</a></h2> <ul> <li><a href=content_332844.htm>泰信保本混合型证券投资基金发售公告</a></li> <li><a href=content_332845.htm>泰信保本混合型证券投资基金基金合同摘要</a></li> <li><a href=content_332846.htm>泰信保本混合型证券投资基金招募说明书</a></li> </ul> </div> <div class="area"> <h2 id=D014><a href=node_534.htm>第D014版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D014/5601325786313193.pdf>PDF版</a></h2> <ul> <li><a href=content_332695.htm>泰信保本混合型证券投资基金招募说明书</a></li> </ul> </div> <div class="area"> <h2 id=D015><a href=node_535.htm>第D015版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D015/9931325786579647.pdf>PDF版</a></h2> <ul> <li><a href=content_332847.htm>泰信保本混合型证券投资基金招募说明书</a></li> </ul> </div> <div class="area"> <h2 id=D016><a href=node_536.htm>第D016版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D016/55511325786314334.pdf>PDF版</a></h2> <ul> <li><a href=content_332696.htm>泰信保本混合型证券投资基金招募说明书</a></li> <li><a href=content_332697.htm>泰信保本混合型证券投资基金发售公告</a></li> <li><a href=content_332698.htm>泰信保本混合型证券投资基金基金合同摘要</a></li> </ul> </div> <div class="area"> <h2 id=D017><a href=node_537.htm>第D017版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D017/48641325786315178.pdf>PDF版</a></h2> <ul> <li><a href=content_332699.htm>北京科锐配电自动化股份有限公司公告（系列）</a></li> <li><a href=content_332700.htm>深圳高速公路股份有限公司公告（系列）</a></li> <li><a href=content_332701.htm>江西特种电机股份有限公司公告（系列）</a></li> <li><a href=content_332702.htm>山东海龙股份有限公司公告（系列）</a></li> <li><a href=content_332703.htm>中国银行股份有限公司关于股份变动情况的公告</a></li> <li><a href=content_332704.htm>东吴证券股份有限公司关于南京分公司获准开业的公告</a></li> <li><a href=content_332705.htm>广州恒运企业集团股份有限公司临时报告</a></li> <li><a href=content_332706.htm>浙江富春江水电设备股份有限公司关于公司通过高新技术企业复审的公告</a></li> <li><a href=content_332707.htm>三维通信股份有限公司关于公司及子公司通过高新技术企业复审的公告</a></li> </ul> </div> <div class="area"> <h2 id=D018><a href=node_538.htm>第D018版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D018/73151325786580615.pdf>PDF版</a></h2> <ul> <li><a href=content_332848.htm>北京荣之联科技股份有限公司公告（系列）</a></li> <li><a href=content_332849.htm>华映科技（集团）股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332850.htm>青岛东方铁塔股份有限公司公告（系列）</a></li> <li><a href=content_332851.htm>金发科技股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332852.htm>深圳科士达科技股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332853.htm>海南椰岛（集团）股份有限公司股东股权质押公告</a></li> <li><a href=content_332854.htm>成都高新发展股份有限公司诉讼进展公告</a></li> <li><a href=content_332855.htm>中国医药保健品股份有限公司重大事项进展公告</a></li> <li><a href=content_332856.htm>沈阳商业城股份有限公司关于获得沈阳市服务业引导资金的公告</a></li> <li><a href=content_332857.htm>启明信息技术股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D019><a href=node_539.htm>第D019版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D019/93491325786817506.pdf>PDF版</a></h2> <ul> <li><a href=content_332986.htm>安徽江淮汽车股份有限公司公告（系列）</a></li> <li><a href=content_332987.htm>重庆啤酒股份有限公司公告（系列）</a></li> <li><a href=content_332988.htm>哈尔滨东安汽车动力股份有限公司公告（系列）</a></li> <li><a href=content_332989.htm>安徽鸿路钢结构（集团）股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332990.htm>四川富临运业集团股份有限公司关于２０１２年第一次临时股东大会决议的公告</a></li> <li><a href=content_332991.htm>深圳市长盈精密技术股份有限公司关于２０１１年年度业绩预增的公告</a></li> <li><a href=content_332992.htm>国海证券股份有限公司关于获准变更公司章程重要条款的公告</a></li> <li><a href=content_332993.htm>普洛股份有限公司董事会关于重大资产重组停牌公告</a></li> <li><a href=content_332994.htm>深圳中华自行车（集团）股份有限公司关于指定公司董事会秘书职责代行人的公告</a></li> </ul> </div> <div class="area"> <h2 id=D020><a href=node_540.htm>第D020版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D020/62061325786316193.pdf>PDF版</a></h2> <ul> <li><a href=content_332708.htm>深圳能源集团股份有限公司收购报告书</a></li> <li><a href=content_332709.htm>深圳市齐心文具股份有限公司公告（系列）</a></li> <li><a href=content_332710.htm>天津国恒铁路控股股份有限公司募集资金补充流动资金归还进展公告</a></li> <li><a href=content_332711.htm>上海大众公用事业（集团）股份有限公司2011年公司债券票面利率公告</a></li> <li><a href=content_332712.htm>信达地产股份有限公司股权被司法冻结的公告</a></li> <li><a href=content_332713.htm>浙江杭州鑫富药业股份有限公司关于公司通过高新技术企业复审的公告</a></li> <li><a href=content_332714.htm>浙江万丰奥威汽轮股份有限公司关于通过高新技术企业复审的公告</a></li> <li><a href=content_332715.htm>中国民生银行股份有限公司关于获得香港金管局银行牌照的公告</a></li> <li><a href=content_332716.htm>浙江久立特材科技股份有限公司募投项目投产公告</a></li> <li><a href=content_332717.htm>深圳能源集团股份有限公司关于深圳市深能能源管理有限公司获得中国证监会豁免要约收购义务批复的公告</a></li> </ul> </div> <div class="area"> <h2 id=D021><a href=node_541.htm>第D021版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D021/74091325786581647.pdf>PDF版</a></h2> <ul> <li><a href=content_332858.htm>浙江道明光学股份有限公司签订募集资金监管协议之补充协议的公告</a></li> <li><a href=content_332859.htm>渤海租赁股份有限公司公告（系列）</a></li> <li><a href=content_332860.htm>广州发展实业控股集团股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332861.htm>中国人寿保险股份有限公司公告（系列）</a></li> <li><a href=content_332862.htm>福建南纺股份有限公司关于财产保险续保情况的公告</a></li> <li><a href=content_332863.htm>武汉三特索道集团股份有限公司关于聘请的年审会计师事务所变更名称的公告</a></li> <li><a href=content_332864.htm>三江购物俱乐部股份有限公司关于审计机构名称变更的公告</a></li> <li><a href=content_332865.htm>上海海欣集团股份有限公司关于江西赣南海欣药业股份有限公司完成增资的工商变更的公告</a></li> <li><a href=content_332866.htm>内蒙古平庄能源股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D022><a href=node_542.htm>第D022版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D022/64711325786582631.pdf>PDF版</a></h2> <ul> <li><a href=content_332867.htm>威海华东数控股份有限公司公告（系列）</a></li> <li><a href=content_332868.htm>招商基金管理有限公司公告（系列）</a></li> <li><a href=content_332869.htm>广西桂冠电力股份有限公司公告（系列）</a></li> <li><a href=content_332870.htm>株洲旗滨集团股份有限公司公告（系列）</a></li> <li><a href=content_332871.htm>山东济宁如意毛纺织股份有限公司关于公司聘请的会计师事务所更名的公告</a></li> <li><a href=content_332872.htm>香溢融通控股集团股份有限公司关于委托贷款业务展期事项的公告</a></li> <li><a href=content_332873.htm>山西百圆裤业连锁经营股份有限公司关于２０１１年度业绩预告的公告</a></li> <li><a href=content_332874.htm>金城造纸股份有限公司关于公司股票恢复上市的进展公告</a></li> <li><a href=content_332875.htm>海润光伏科技股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D023><a href=node_543.htm>第D023版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D023/31181325786583772.pdf>PDF版</a></h2> <ul> <li><a href=content_332876.htm>成都三泰电子实业股份有限公司公告（系列）</a></li> <li><a href=content_332877.htm>深圳劲嘉彩印集团股份有限公司第三届董事会2012年第一次会议决议公告</a></li> <li><a href=content_332878.htm>安徽新华传媒股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332879.htm>金鹰基金管理有限公司关于提醒投资者及时更新已过期身份证件的公告</a></li> <li><a href=content_332880.htm>关于浙江海亮股份有限公司及其控股子公司通过高新技术企业复审的公告</a></li> <li><a href=content_332881.htm>中国科健股份有限公司关于受聘会计师事务所名称变更的公告</a></li> <li><a href=content_332882.htm>华润锦华股份有限公司关于重大资产重组事项的进展公告</a></li> <li><a href=content_332883.htm>成都三泰电子实业股份有限公司２０１２年限制性股票激励计划（草案）</a></li> </ul> </div> <div class="area"> <h2 id=D024><a href=node_544.htm>第D024版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D024/80611325786584678.pdf>PDF版</a></h2> <ul> <li><a href=content_332884.htm>梅花伞业股份有限公司公告（系列）</a></li> <li><a href=content_332885.htm>中利科技集团股份有限公司关于实际控制人增持公司股份的公告</a></li> <li><a href=content_332886.htm>中国宝安集团股份有限公司关于石墨烯相关专利申请情况说明公告</a></li> <li><a href=content_332887.htm>中国北车股份有限公司2011年度业绩预增公告</a></li> <li><a href=content_332888.htm>湖南辰州矿业股份有限公司关于陕西辰州股权转让完成工商变更登记的公告</a></li> <li><a href=content_332889.htm>浙江艾迪西流体控制股份有限公司关于通过高新技术企业复审的公告</a></li> <li><a href=content_332890.htm>联化科技股份有限公司关于通过高新技术企业复审的公告</a></li> </ul> </div> <div class="area"> <h2 id=D025><a href=node_545.htm>第D025版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D025/5821325786585631.pdf>PDF版</a></h2> <ul> <li><a href=content_332891.htm>中工国际工程股份有限公司公告（系列）</a></li> <li><a href=content_332892.htm>远光软件股份有限公司股权激励计划行权情况公告</a></li> <li><a href=content_332893.htm>秦皇岛天业通联重工股份有限公司公告（系列）</a></li> <li><a href=content_332894.htm>浙江传化股份有限公司公告（系列）</a></li> <li><a href=content_332895.htm>新疆中基实业股份有限公司公告（系列）</a></li> <li><a href=content_332896.htm>许继电气股份有限公司六届六次董事会决议公告</a></li> <li><a href=content_332897.htm>中国农业银行股份有限公司董事会决议公告</a></li> <li><a href=content_332898.htm>浙江三花股份股份有限公司关于通过高新技术企业复审的公告</a></li> <li><a href=content_332899.htm>湖北国创高新材料股份有限公司第三届董事会第十七次会议决议公告</a></li> </ul> </div> <div class="area"> <h2 id=D026><a href=node_546.htm>第D026版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D026/38151325786317256.pdf>PDF版</a></h2> <ul> <li><a href=content_332718.htm>广发行业领先股票型证券投资基金招募说明书【更新】摘要</a></li> </ul> </div> <div class="area"> <h2 id=D027><a href=node_547.htm>第D027版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D027/38431325786318240.pdf>PDF版</a></h2> <ul> <li><a href=content_332719.htm>广发中证５００指数证券投资基金（ＬＯＦ）招募说明书【更新】摘要</a></li> </ul> </div> <div class="area"> <h2 id=D028><a href=node_548.htm>第D028版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D028/63761325786586615.pdf>PDF版</a></h2> <ul> <li><a href=content_332900.htm>湖南南岭民用爆破器材股份有限公司第四届董事会第十一次会议决议公告</a></li> <li><a href=content_332901.htm>现代投资股份有限公司关于召开２０１２年第一次临时股东大会的提示性公告</a></li> <li><a href=content_332902.htm>广州海鸥卫浴用品股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332903.htm>广东雷伊（集团）股份有限公司公告（系列）</a></li> <li><a href=content_332904.htm>漳州片仔癀药业股份有限公司公告（系列）</a></li> <li><a href=content_332905.htm>永辉超市股份有限公司公告（系列）</a></li> <li><a href=content_332906.htm>张家界旅游集团股份有限公司关于湖南省物价局核定武陵源核心景区门票价格的公告</a></li> </ul> </div> <div class="area"> <h2 id=D029><a href=node_549.htm>第D029版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D029/62451325786587631.pdf>PDF版</a></h2> <ul> <li><a href=content_332907.htm>中航三鑫股份有限公司公告（系列）</a></li> <li><a href=content_332908.htm>林州重机集团股份有限公司关于限售股份上市流通的提示性公告</a></li> <li><a href=content_332909.htm>飞亚达（集团）股份有限公司非公开发行股票限售股份上市流通的提示性公告</a></li> <li><a href=content_332910.htm>东莞发展控股股份有限公司第五届董事会第七次会议决议公告</a></li> <li><a href=content_332911.htm>浙江康盛股份有限公司关于子公司完成工商变更登记的公告</a></li> <li><a href=content_332912.htm>丽珠医药集团股份有限公司关于控股股东及其一致行动人增持公司股份获中国证监会核准豁免要约收购义务的公告</a></li> <li><a href=content_332913.htm>江门甘蔗化工厂（集团）股份有限公司重大事项进展公告</a></li> <li><a href=content_332914.htm>北京赛迪传媒投资股份有限公司股票交易异常波动公告</a></li> </ul> </div> <div class="area"> <h2 id=D030><a href=node_550.htm>第D030版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D030/64181325786319225.pdf>PDF版</a></h2> <ul> <li><a href=content_332720.htm>东方龙混合型开放式证券投资基金招募说明书（更新）摘要</a></li> </ul> </div> <div class="area"> <h2 id=D031><a href=node_722.htm>第D031版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D031/51325786320256.pdf>PDF版</a></h2> <ul> <li><a href=content_332721.htm>工银瑞信稳健成长股票型证券投资基金更新的招募说明书摘要</a></li> </ul> </div> <div class="area"> <h2 id=D032><a href=node_552.htm>第D032版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D032/12491325786588615.pdf>PDF版</a></h2> <ul> <li><a href=content_332915.htm>中国石油天然气股份有限公司公告</a></li> <li><a href=content_332916.htm>安徽皖通科技股份有限公司股东追加承诺限售股上市流通的提示性公告</a></li> <li><a href=content_332917.htm>深圳市格林美高新技术股份有限公司关于签订报废汽车与废钢铁综合利用项目投资框架协议书的公告</a></li> <li><a href=content_332918.htm>长盛基金管理有限公司公告（系列）</a></li> <li><a href=content_332919.htm>中国石油化工股份有限公司关于特别收益金起征点调整的公告</a></li> <li><a href=content_332920.htm>四川川大智胜软件股份有限公司重大合同公告</a></li> <li><a href=content_332921.htm>重庆渝开发股份有限公司第六届董事会第四十六次会议决议公告</a></li> <li><a href=content_332922.htm>国投瑞银基金管理有限公司关于国投瑞银双债增利债券型证券投资基金对持有的11诸暨债进行估值调整的公告</a></li> <li><a href=content_332923.htm>南京华东电子信息科技股份有限公司获得政府补助的公告</a></li> <li><a href=content_332924.htm>河南通达电缆股份有限公司关于南方电网中标的提示性公告</a></li> <li><a href=content_332925.htm>华润三九医药股份有限公司关于购买本溪三药、合肥神鹿、双鹤高科、北京北贸四家公司100%股权进展情况的公告</a></li> <li><a href=content_332926.htm>长信基金管理有限责任公司关于长信美国标准普尔１００等权重指数增强型证券投资基金２０１１年１２月３１日资产净值的公告</a></li> <li><a href=content_332927.htm>国投华靖电力控股股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D033><a href=node_553.htm>第D033版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D033/18121325786589787.pdf>PDF版</a></h2> <ul> <li><a href=content_332928.htm>深圳市远望谷信息技术股份有限公司公告（系列）</a></li> <li><a href=content_332929.htm>广宇集团股份有限公司对外担保进展公告</a></li> <li><a href=content_332930.htm>绿景控股股份有限公司２０１２年第一次临时股东大会决议公告</a></li> <li><a href=content_332931.htm>杭州杭氧股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332932.htm>金地（集团）股份有限公司2011年12月销售情况及2012年1-2月推盘安排</a></li> <li><a href=content_332933.htm>湖北沙隆达股份有限公司关于２０１１年度业绩预告的公告</a></li> <li><a href=content_332934.htm>山东三维石化工程股份有限公司重大合同履行情况公告</a></li> <li><a href=content_332935.htm>浙江帝龙新材料股份有限公司关于通过高新技术企业复审的公告</a></li> <li><a href=content_332936.htm>深圳瑞和建筑装饰股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D034><a href=node_554.htm>第D034版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D034/21901325786590631.pdf>PDF版</a></h2> <ul> <li><a href=content_332937.htm>湖南郴电国际发展股份有限公司公告（系列）</a></li> <li><a href=content_332938.htm>河南佰利联化学股份有限公司公告（系列）</a></li> <li><a href=content_332939.htm>重庆钢铁股份有限公司公告（系列）</a></li> <li><a href=content_332940.htm>安徽金禾实业股份有限公司公告（系列）</a></li> <li><a href=content_332941.htm>青岛海立美达股份有限公司关于日本美达王株式会社股份上市流通的提示性公告</a></li> <li><a href=content_332942.htm>天津中环半导体股份有限公司关于公司控股子公司获得科技扶持基金的公告</a></li> <li><a href=content_332943.htm>广夏（银川）实业股份有限公司管理人重整计划执行进展情况公告</a></li> <li><a href=content_332944.htm>南通江海电容器股份有限公司公告（系列）</a></li> <li><a href=content_332945.htm>新疆国统管道股份有限公司关于聘请的会计师事务所更名的公告</a></li> <li><a href=content_332946.htm>深圳市芭田生态工程股份有限公司关于非公开发行股票申请获发审委审核通过的公告</a></li> <li><a href=content_332947.htm>广西南方食品集团股份有限公司关于转让下属控股子公司股权的公告</a></li> </ul> </div> <div class="area"> <h2 id=D035><a href=node_555.htm>第D035版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D035/15031325786591647.pdf>PDF版</a></h2> <ul> <li><a href=content_332948.htm>深圳和光现代商务股份有限公司２０１２年第一次临时股东大会决议</a></li> <li><a href=content_332949.htm>莱茵达置业股份有限公司公告（系列）</a></li> <li><a href=content_332950.htm>贵州国创能源控股（集团）股份有限公司公告（系列）</a></li> <li><a href=content_332951.htm>浙江凯恩特种材料股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332952.htm>大连港股份有限公司２０１２年第一次临时股东大会及２０１２年第一次Ａ股类别股东会及２０１２年第一次Ｈ股类别股东会决议公告</a></li> <li><a href=content_332953.htm>江苏润邦重工股份有限公司关于《海洋风电安装作业平台建造合同》相关事项进展的公告</a></li> <li><a href=content_332954.htm>上海摩恩电气股份有限公司2012年第一次临时股东大会决议公告</a></li> <li><a href=content_332955.htm>大连獐子岛渔业集团股份有限公司关于股票期权授予登记完成的公告</a></li> <li><a href=content_332956.htm>长安信息产业（集团）股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D036><a href=node_556.htm>第D036版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D036/76051325786592647.pdf>PDF版</a></h2> <ul> <li><a href=content_332957.htm>宝山钢铁股份有限公司关联交易公告</a></li> <li><a href=content_332958.htm>中国工商银行股份有限公司公告（系列）</a></li> <li><a href=content_332959.htm>福建星网锐捷通讯股份有限公司关于子公司对外投资的公告</a></li> <li><a href=content_332960.htm>三普药业股份有限公司公告（系列）</a></li> <li><a href=content_332961.htm>浙江日发数码精密机械股份有限公司关于通过高新技术企业复审的公告</a></li> <li><a href=content_332962.htm>关于控股子公司上海新朋联众汽车零部件有限公司收到政府补助的公告</a></li> <li><a href=content_332963.htm>浙江大东南股份有限公司关于公司通过高新技术企业复审的公告</a></li> <li><a href=content_332964.htm>内蒙古西水创业股份有限公司第四届董事会2012年第一次临时会议决议公告</a></li> <li><a href=content_332965.htm>泰亚鞋业股份有限公司公告（系列）</a></li> </ul> </div> <div class="area"> <h2 id=D037><a href=node_557.htm>第D037版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D037/67201325786321209.pdf>PDF版</a></h2> <ul> <li><a href=content_332722.htm>华夏行业精选股票型证券投资基金（ＬＯＦ）招募说明书（更新）摘要</a></li> </ul> </div> <div class="area"> <h2 id=D038><a href=node_558.htm>第D038版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D038/50481325786322225.pdf>PDF版</a></h2> <ul> <li><a href=content_332723.htm>富国可转换债券证券投资基金招募说明书（更新）（摘要）</a></li> <li><a href=content_332724.htm>华夏行业精选股票型证券投资基金（ＬＯＦ）招募说明书（更新）摘要</a></li> </ul> </div> <div class="area"> <h2 id=D039><a href=node_559.htm>第D039版  信息披露</a><a class="more" href=../../../page/1/2012-01-06/D039/52141325786593647.pdf>PDF版</a></h2> <ul> <li><a href=content_332966.htm>富国基金管理有限公司公告（系列）</a></li> <li><a href=content_332967.htm>富国可转换债券证券投资基金招募说明书（更新）（摘要）</a></li> </ul> </div> <div class="area"> <h2 id=D040><a href=node_560.htm>第D040版  信息披露</a> <a class="more" href=../../../page/1/2012-01-06/D040/31581325786323240.pdf>PDF版</a></h2> <ul> <li><a href=content_332725.htm>华商动态阿尔法灵活配置混合型证券投资基金招募说明书（更新）摘要</a></li> <li><a href=content_332726.htm>华商基金管理有限公司关于华商价值精选基金参加中信银行股份有限公司网银申购费率优惠活动的公告</a></li> </ul> </div> </tbody></table> <!-- =================== 版面目录end ================================-->
+		</div>
+		<div class="newsWrap">
+			<iframe src="http://stock.stcn.com/node_11001.htm" width="300px" height="92px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+			<iframe src="http://stock.stcn.com/common/gethtml/get_kuaixun.html" width="300px" height="227px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+			<iframe src="http://stock.stcn.com/common/gethtml/get_tuwen.html" width="300px" height="218px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+			<iframe src="http://stock.stcn.com/common/gethtml/get_xinwen.html" width="300px" height="263px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+			<iframe src="http://stock.stcn.com/common/gethtml/get_boke.html" width="300px" height="233px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+		</div>
+	</div>
+	<div class="side">
+		<div width="381" height="550" bgcolor=#ffffff style="BORDER: #111111 1px solid" align="center">
+			<MAP NAME="pagepicmap"><Area coords="8,40,373,40,373,238,8,238" shape="polygon" href="content_332907.htm"><Area coords="8,242,187,242,187,421,8,421,8,242,8,242,187,242,187,242,8,242,8,242" shape="polygon" href="content_332908.htm"><Area coords="190,242,373,242,373,409,190,409,190,242,190,242,373,242,373,242,190,242,190,242" shape="polygon" href="content_332909.htm"><Area coords="190,413,373,413,373,488,190,488,190,413,190,413,373,413,373,413,190,413,190,413" shape="polygon" href="content_332910.htm"><Area coords="8,424,187,424,187,492,8,492,8,424,8,424,187,424,187,424,8,424,8,424" shape="polygon" href="content_332911.htm"><Area coords="190,492,280,492,280,535,190,535" shape="polygon" href="content_332912.htm"><Area coords="284,492,373,492,373,536,284,536" shape="polygon" href="content_332913.htm"><Area coords="8,496,187,496,187,536,8,536,8,496,8,496,8,496,8,508,8,508,8,496" shape="polygon" href="content_332914.htm"></MAP><img src=../../../page/1/2012-01-06/D029/63161325786587631.jpg border=0 USEMAP=#PagePicMap>
+		</div>
+		<iframe src="http://stock.stcn.com/common/gethtml/get_tuijian.html" width="381px" height="61px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+		<iframe class="zhuantiIframt" src="http://stock.stcn.com/common/gethtml/get_zhuanti.html" width="381px" height="298px" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+		<div class="statement">
+			<h2>证券时报网络版郑重声明</h2>
+			<p>经证券时报社授权，证券时报网独家全权代理《证券时报》信息登载业务。本页内容未经书面授权许可，不得转载、复制或在非证券时报网所属服务器建立镜像。欲咨询授权事宜请与证券时报网联系 (0755-83501827
+) 。</p>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<iframe width="1150" height="150" frameborder="0" scrolling="no" src="http://www.stcn.com/common/include/indexFooter.html"></iframe>
+</div>
+<!-------bmdh版面导航------>
+<div id=bmdh onMouseOver="document.getElementById('bmdh').style.display = 'block';" onMouseOut="document.getElementById('bmdh').style.display = 'none';">
+	<div class="in">
+		<TABLE border=0 cellPadding=2 cellSpacing=0 bgcolor="#FFFFFF"> <TBODY> <TR id=row_black2> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_2.htm class="black" id=pageLink>第A001版：头 版（今日68版）</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A001/55001325824052881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black3> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_3.htm class="black" id=pageLink>第A002版：要 闻</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A002/54561325786555615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black4> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_4.htm class="black" id=pageLink>第A003版：评 论</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A003/44641325786556600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black5> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_5.htm class="black" id=pageLink>第A004版：环 球</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A004/10351325786302818.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black6> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_6.htm class="black" id=pageLink>第A005版：视 觉</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A005/31481325786303818.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black7> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_7.htm class="black" id=pageLink>第A006版：机 构</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A006/42871325786557600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black8> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_8.htm class="black" id=pageLink>第A007版：创业·资本</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A007/8891325786304834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black9> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_9.htm class="black" id=pageLink>第A008版：视 觉</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A008/66531325786305834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black10> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_10.htm class="black" id=pageLink>第A009版：舆 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A009/76771325786558600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black11> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_11.htm class="black" id=pageLink>第A010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A010/33431325786559631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black12> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_12.htm class="black" id=pageLink>第A011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A011/49731325786306834.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black13> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_13.htm class="black" id=pageLink>第A012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/A012/85331325786560615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black42> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_42.htm class="black" id=pageLink>第B001版：B叠头版：公 司</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B001/35081325786561615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black43> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_43.htm class="black" id=pageLink>第B002版：公 司</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B002/83721325786816506.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black44> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_44.htm class="black" id=pageLink>第B003版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B003/17581325786307881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black45> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_45.htm class="black" id=pageLink>第B004版：产 经</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/B004/60721325786562600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black78> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_78.htm class="black" id=pageLink>第C001版：C叠头版：市 场</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C001/22491325786563600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black79> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_79.htm class="black" id=pageLink>第C002版：动 向</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C002/67551325786564600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black80> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_80.htm class="black" id=pageLink>第C003版：期 货</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C003/71325786565600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black81> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_81.htm class="black" id=pageLink>第C004版：个 股</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C004/6371325786566600.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black82> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_82.htm class="black" id=pageLink>第C005版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C005/84211325783196412.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black83> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_83.htm class="black" id=pageLink>第C006版：行 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C006/54821325783197443.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black84> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_84.htm class="black" id=pageLink>第C007版：行 情</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C007/40651325783198615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black85> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_85.htm class="black" id=pageLink>第C008版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C008/68541325783199459.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black86> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_86.htm class="black" id=pageLink>第C009版：数 据</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C009/72211325783200443.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black87> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_87.htm class="black" id=pageLink>第C010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C010/31561325786567678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black88> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_88.htm class="black" id=pageLink>第C011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C011/81641325786308850.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black89> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_89.htm class="black" id=pageLink>第C012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/C012/42441325786309881.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black521> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_521.htm class="black" id=pageLink>第D001版：D叠头版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D001/12691325786568615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black522> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_522.htm class="black" id=pageLink>第D002版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D002/48011325786569615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black523> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_523.htm class="black" id=pageLink>第D003版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D003/57771325786570631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black524> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_524.htm class="black" id=pageLink>第D004版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D004/2971325786571631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black525> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_525.htm class="black" id=pageLink>第D005版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D005/49631325786311178.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black526> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_526.htm class="black" id=pageLink>第D006版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D006/94981325786572740.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black527> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_527.htm class="black" id=pageLink>第D007版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D007/91431325786573678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black528> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_528.htm class="black" id=pageLink>第D008版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D008/81981325786312209.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black529> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_529.htm class="black" id=pageLink>第D009版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D009/57681325786574631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black530> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_530.htm class="black" id=pageLink>第D010版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D010/75881325786575647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black531> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_531.htm class="black" id=pageLink>第D011版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D011/41811325786576787.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black532> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_532.htm class="black" id=pageLink>第D012版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D012/55261325786577615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black533> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_533.htm class="black" id=pageLink>第D013版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D013/67041325786578631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black534> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_534.htm class="black" id=pageLink>第D014版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D014/5601325786313193.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black535> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_535.htm class="black" id=pageLink>第D015版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D015/9931325786579647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black536> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_536.htm class="black" id=pageLink>第D016版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D016/55511325786314334.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black537> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_537.htm class="black" id=pageLink>第D017版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D017/48641325786315178.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black538> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_538.htm class="black" id=pageLink>第D018版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D018/73151325786580615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black539> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_539.htm class="black" id=pageLink>第D019版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D019/93491325786817506.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black540> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_540.htm class="black" id=pageLink>第D020版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D020/62061325786316193.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black541> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_541.htm class="black" id=pageLink>第D021版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D021/74091325786581647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black542> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_542.htm class="black" id=pageLink>第D022版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D022/64711325786582631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black543> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_543.htm class="black" id=pageLink>第D023版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D023/31181325786583772.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black544> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_544.htm class="black" id=pageLink>第D024版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D024/80611325786584678.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black545> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_545.htm class="black" id=pageLink>第D025版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D025/5821325786585631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black546> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_546.htm class="black" id=pageLink>第D026版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D026/38151325786317256.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black547> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_547.htm class="black" id=pageLink>第D027版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D027/38431325786318240.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black548> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_548.htm class="black" id=pageLink>第D028版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D028/63761325786586615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black549> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_549.htm class="black" id=pageLink>第D029版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D029/62451325786587631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black550> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_550.htm class="black" id=pageLink>第D030版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D030/64181325786319225.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black722> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_722.htm class="black" id=pageLink>第D031版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D031/51325786320256.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black552> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_552.htm class="black" id=pageLink>第D032版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D032/12491325786588615.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black553> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_553.htm class="black" id=pageLink>第D033版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D033/18121325786589787.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black554> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_554.htm class="black" id=pageLink>第D034版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D034/21901325786590631.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black555> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_555.htm class="black" id=pageLink>第D035版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D035/15031325786591647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black556> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_556.htm class="black" id=pageLink>第D036版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D036/76051325786592647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black557> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_557.htm class="black" id=pageLink>第D037版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D037/67201325786321209.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black558> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_558.htm class="black" id=pageLink>第D038版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D038/50481325786322225.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black559> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_559.htm class="black" id=pageLink>第D039版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D039/52141325786593647.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> <TR id=row_black560> <TD align=left>&nbsp;</TD> <TD align=left height=24 class="black" >&nbsp;<a href=node_560.htm class="black" id=pageLink>第D040版：信息披露</a></TD> <TD width=40 align=left noWrap> <a href=../../../page/1/2012-01-06/D040/31581325786323240.pdf><IMG height=16 src="../../../tplimg/pdf_2010.gif" width=16 border=0></a> </TD> </TR> </TBODY> </TABLE>
+	</div>
+</div>
+<!-------bmdh版面导航END------>
+<!-- -------------------------标题导航-------------->
+<DIV id=btdh onMouseOver="document.getElementById('btdh').style.display = 'block';" onMouseOut="document.getElementById('btdh').style.display = 'none';">
+	<div class="in">
+		<TABLE border=0 cellPadding=2 cellSpacing=0 bgcolor="#FFFFFF" width=277> <tbody> <tr height=27px id=mp332907> <td width=10px></td> <td class="black"> <a href=content_332907.htm>中航三鑫股份有限公司公告（系列）</a> </td></TR> <tr height=27px id=mp332908> <td width=10px></td> <td class="black"> <a href=content_332908.htm>林州重机集团股份有限公司关于限售股份上市流通的提示性公告</a> </td></TR> <tr height=27px id=mp332909> <td width=10px></td> <td class="black"> <a href=content_332909.htm>飞亚达（集团）股份有限公司非公开发行股票限售股份上市流通的提示性公告</a> </td></TR> <tr height=27px id=mp332910> <td width=10px></td> <td class="black"> <a href=content_332910.htm>东莞发展控股股份有限公司第五届董事会第七次会议决议公告</a> </td></TR> <tr height=27px id=mp332911> <td width=10px></td> <td class="black"> <a href=content_332911.htm>浙江康盛股份有限公司关于子公司完成工商变更登记的公告</a> </td></TR> <tr height=27px id=mp332912> <td width=10px></td> <td class="black"> <a href=content_332912.htm>丽珠医药集团股份有限公司关于控股股东及其一致行动人增持公司股份获中国证监会核准豁免要约收购义务的公告</a> </td></TR> <tr height=27px id=mp332913> <td width=10px></td> <td class="black"> <a href=content_332913.htm>江门甘蔗化工厂（集团）股份有限公司重大事项进展公告</a> </td></TR> <tr height=27px id=mp332914> <td width=10px></td> <td class="black"> <a href=content_332914.htm>北京赛迪传媒投资股份有限公司股票交易异常波动公告</a> </td></TR> </tbody></TABLE> 
+	</div>
+</DIV>
+<!-- -------------------------标题导航 END -------------->
+<script type="text/javascript">
+(function(){
+	var _h2 = jQuery('#listWrap h2');
+	_h2.bind({
+		click : function(){
+			jQuery(this).toggleClass('up').next().toggle();
+		},
+		mouseover : function(){
+			jQuery(this).css('backgroundColor','#f0f0f0');
+			jQuery(this).find('.more').css('color','#8D0200');
+		},
+		mouseout : function(){
+			jQuery(this).css('backgroundColor','');
+			jQuery(this).find('.more').css('color','#999')
+		}
+	})
+})(jQuery)
+</script>
+<!-- tongji文件star -->
+<div style="display:none;">
+	<script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+	<script src='http://w.cnzz.com/c.php?id=30023490' language='JavaScript' charset='gb2312'></script>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-10571449-2");
+	pageTracker._setDomainName(".secutimes.com");
+	pageTracker._trackPageview();
+	} catch(err) {}
+ </script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-18256358-1']);
+	_gaq.push(['_setDomainName', '.stcn.com']);
+	_gaq.push(['_trackPageview']);
+ (function(){
+	 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+ </script>
+</div>
+<!-- tongji文件end -->
+<!--startprint-->
+<div id="z9999"><iframe scrolling="no" frameborder="0"></iframe></div>
+<div id="z10000">
+	<div id="z10001"></div>
+	<span id="close">关闭</span>
+	<div><span id="close1">【关闭】</span></div>
+</div>
+<!--endprint-->
+</body>
+</html>
+<!--enpproperty <founder-date>2012-01-06 23:48:27</founder-date><founder-pagenum>D029</founder-pagenum><founder-papername>北京欢迎你－abc1-证券时报</founder-papername><founder-type>2</founder-type><founder-pagepicurl>zqsb/page/1/2012-01-06/D029/34871325786587631.jpg</founder-pagepicurl><founder-content>证券时报</founder-content> /enpproperty-->

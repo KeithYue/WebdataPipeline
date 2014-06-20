@@ -1,0 +1,197 @@
+http://fund.stcn.com/final/184699
+1402799939.89
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="keywords" content="公司新闻,财经要闻,境外财经,股票,基金,财经,理财,期货,外汇,私募,债券,权证,美股,港股,产经,证券,时报,证券时报社"/>
+<meta http-equiv="description" content="证券时报网是证券时报唯一官方网站，7*24小时不间断发布全球最新、权威、原创财经新闻。"/>
+<title>基金最终页_证券时报网</title>
+<link type="text/css" href="../style/style.css" rel="stylesheet" />
+<script type="text/javascript" src="http://stock.stcn.com/common/static/final/stock/script/jquery.min.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/static/final/stock/script/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/static/final/stock/script/jquery.easywidgets.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/static/final/stock/script/fundFinalgg.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/listandfinalpagecommon_finalpage.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/suggestfinance.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/fundsuggest.js"></script>
+<script type="text/javascript" src="http://stock.stcn.com/common/js/stocksuggest.js"></script>
+<script type="text/javascript">
+function setifr(){
+var NavBtn = document.getElementById('hq_url');NavBtn.src = encodeURI('http://58.68.130.211/tab.swf?tabwidth=60&flashdzh_theme=White&font=0&stk_list=基金同盛,2,184699,1,1;日线,2,184699,2,0;周线,2,184699,2,1;月线,2,184699,2,2;1分钟,2,184699,2,3;5分钟,2,184699,2,4;15分钟,2,184699,2,5;30分钟,2,184699,2,6');
+}
+/*function searchKeyword(){
+	var keywordUrl='http://www2.stcn.com/searchaction.do?method=getNewsSearchInfo&keyword=基金同盛';
+	var ie=(document.all)? true:false;
+	if(!ie){
+		keywordUrl=encodeURI(keywordUrl);
+	}
+	window.open(keywordUrl);
+}
+function blogSearch(){
+	var keywordUrl='http://www2.stcn.com/searchaction.do?method=getBlogSearchInfo&keyword=基金同盛';
+	var ie=(document.all)? true:false;
+	if(!ie){
+		keywordUrl=encodeURI(keywordUrl);
+	}
+	window.open(keywordUrl);
+}
+function forumSearch(){
+	var keywordUrl='http://www2.stcn.com/searchaction.do?method=getForumSearchInfo&keyword=基金同盛';
+	var ie=(document.all)? true:false;
+	if(!ie){
+		keywordUrl=encodeURI(keywordUrl);
+	}
+	window.open(keywordUrl);
+}*/
+
+</script>
+</head>
+
+<body onload="setifr(),setRedio('2');">
+<div class="gg_container">
+<script type="text/javascript">
+	getListAndFinalPageTop();
+</script>
+	<div class="gg_content">
+		<div class="gg_wrap">
+			<div class="box left">
+				<ul class="tab_nav">
+					<li class="onlyone">热门基金</li>
+				</ul>
+				<div class="tab_div"><table><tr><th>名称</th><th>涨幅（%）</th></tr><tr><td align='center'><a href='../184728/index.shtml' target='_blank'>基金鸿阳</a></td><td align='center'><span class='red'>1.11%</span></td></tr><tr><td align='center'><a href='../163302/index.shtml' target='_blank'>大摩资源</a></td><td align='center'><span class='green'>-0.27%</span></td></tr><tr><td align='center'><a href='../163001/index.shtml' target='_blank'>长信100</a></td><td align='center'><span class='green'>-2.98%</span></td></tr><tr><td align='center'><a href='../500001/index.shtml' target='_blank'>基金金泰</a></td><td align='center'><span class='black'>0.00%</span></td></tr><tr><td align='center'><a href='../500009/index.shtml' target='_blank'>基金安顺</a></td><td align='center'><span class='black'>0.00%</span></td></tr><tr><td align='center'><a href='../500015/index.shtml' target='_blank'>基金汉兴</a></td><td align='center'><span class='red'>0.77%</span></td></tr><tr><td align='center'><a href='../150012/index.shtml' target='_blank'>双禧A</a></td><td align='center'><span class='green'>-0.30%</span></td></tr><tr><td align='center'><a href='../162711/index.shtml' target='_blank'>广发500</a></td><td align='center'><span class='red'>0.95%</span></td></tr><tr><td align='center'><a href='../150011/index.shtml' target='_blank'>估值进取</a></td><td align='center'><span class='black'>0.00%</span></td></tr><tr><td align='center'><a href='../150013/index.shtml' target='_blank'>双禧B</a></td><td align='center'><span class='red'>2.53%</span></td></tr><tr><td align='center'><a href='../500006/index.shtml' target='_blank'>基金裕阳</a></td><td align='center'><span class='black'>0.00%</span></td></tr><tr><td align='center'><a href='../162207/index.shtml' target='_blank'>泰达效率</a></td><td align='center'><span class='red'>0.52%</span></td></tr><tr><td align='center'><a href='../500008/index.shtml' target='_blank'>基金兴华</a></td><td align='center'><span class='black'>0.00%</span></td></tr></table></div>
+
+			</div>
+			<div class="box center">
+			<table>
+	<tr><td rowspan='2' class='name'>基金同盛<span>0.958</span></td><td rowspan='2' class='red'>0.966<span>0.008</span><span>(0.84%)</span></td><td>昨收盘：0.958</td><td>今开盘：<span class='red'>0.961</span></td><td>最高价：<span class='red'>0.967</span></td><td>最低价：<span class='red'>0.958</span></td><td><input id='btn1' style='font-size:12px;' type='button' value='走势图' /></td></tr><tr><td>委比：-34.155</td><td>折价率：-3.80%</td><td>净值：1.00</td><td>总量：64128</td><td><input id='btn2' style='font-size:12px;' type='button' value='折线图' /></td></tr>
+</table>
+
+
+				<div class="chart">
+				<div id="odiv1" style="width:568px; height:300px; overflow:hidden;">
+					<iframe name='hq_url' id='hq_url' src='' width='568' height='300' frameborder='0' scrolling='no'></iframe>
+				</div>
+				<div id="odiv2" style="display:none; width:568px; height:300px; overflow:hidden;">
+					<img style='display:block; width:550px; height:300px;' src='184699.png' alt='' />
+				</div>
+					<ul class="zuixjz">
+					<li><strong class='red'>最近净值</strong><span>06月13日:1.024</span><span>06月06日:1.004</span><span>05月30日:1.001</span><span>05月23日:0.995</span><span>05月16日:0.985</span><span>05月09日:0.991</span><span>04月30日:0.998</span></li>
+					</ul>
+				</div>
+				<script type="text/javascript">
+				var btn1  = document.getElementById('btn1');
+				var btn2  = document.getElementById('btn2');
+				var odiv1  = document.getElementById('odiv1');
+				var odiv2  = document.getElementById('odiv2');
+				btn1.onclick = function(){
+					odiv1.style.display = 'block';
+					odiv2.style.display = 'none';
+				}
+				btn2.onclick = function(){
+					odiv1.style.display = 'none';
+					odiv2.style.display = 'block';
+				}
+				</script>
+			</div>
+			<div class="box right">
+				<div class="box A">
+	<h2>最新净值排名</h2>
+	<ul class="tab_nav2">
+		<li class="thisli">开放式</li>
+		<li>封闭式</li>
+	</ul>
+	<div class='tab_div2'><table><tr><th>名称</th><th>净值（元）</th></tr><tr><td align='center'><a href='../511210/index.shtml'  target='_blank'>博时上证企债ETF</td><td align='center'>102.699</td></tr><tr><td align='center'><a href='../511880/index.shtml'  target='_blank'>银华日利ETF</td><td align='center'>102.151</td></tr><tr><td align='center'><a href='../511010/index.shtml'  target='_blank'>国泰国债ETF</td><td align='center'>100.634</td></tr><tr><td align='center'><a href='../159926/index.shtml'  target='_blank'>嘉实中证ETF</td><td align='center'>100.593</td></tr><tr><td align='center'><a href='../511990/index.shtml'  target='_blank'>华宝添益ETF</td><td align='center'>100.000</td></tr><tr><td align='center'><a href='../000011/index.shtml'  target='_blank'>华夏大盘</td><td align='center'>7.309</td></tr><tr><td align='center'><a href='../070002/index.shtml'  target='_blank'>嘉实增长</td><td align='center'>5.098</td></tr><tr><td align='center'><a href='../260104/index.shtml'  target='_blank'>景顺增长</td><td align='center'>4.205</td></tr><tr><td align='center'><a href='../240008/index.shtml'  target='_blank'>华宝收益</td><td align='center'>3.989</td></tr><tr><td align='center'><a href='../159922/index.shtml'  target='_blank'>嘉实中证500ETF</td><td align='center'>3.901</td></tr><tr><td align='center'><a href='../070006/index.shtml'  target='_blank'>嘉实服务</td><td align='center'>3.870</td></tr></table></div><div class='tab_div2'><table><tr><th>名称</th><th>净值（元）</th></tr><tr><td align='center'><a href='../150072/index.shtml' target='_blank'>中欧盛世B</td><td align='center'>1.818</td></tr><tr><td align='center'><a href='../150045/index.shtml' target='_blank'>海富通增利B</td><td align='center'>1.584</td></tr><tr><td align='center'><a href='../150081/index.shtml' target='_blank'>信诚双盈B</td><td align='center'>1.492</td></tr><tr><td align='center'><a href='../150035/index.shtml' target='_blank'>泰达聚利B</td><td align='center'>1.470</td></tr><tr><td align='center'><a href='../150046/index.shtml' target='_blank'>天弘丰利B</td><td align='center'>1.391</td></tr><tr><td align='center'><a href='../150017/index.shtml' target='_blank'>兴全合润B</td><td align='center'>1.385</td></tr><tr><td align='center'><a href='../150061/index.shtml' target='_blank'>鹏华丰泽B</td><td align='center'>1.304</td></tr><tr><td align='center'><a href='../150067/index.shtml' target='_blank'>国泰互利B</td><td align='center'>1.287</td></tr><tr><td align='center'><a href='../150063/index.shtml' target='_blank'>浦银增利B</td><td align='center'>1.277</td></tr><tr><td align='center'><a href='../150042/index.shtml' target='_blank'>长信利鑫B</td><td align='center'>1.276</td></tr><tr><td align='center'><a href='../150078/index.shtml' target='_blank'>金鹰回报B</td><td align='center'>1.271</td></tr></table></div>
+</div>
+
+
+			</div>
+		</div>
+		<div class="gg_wrap2">
+			<div class="gg_sidebar">
+				<div class="box datum">
+					<h2>基金资料</h2>
+					<ul>
+						<li><a href="fundGK.html" target="_blank">基金概况</a></li>
+						<li><a href="http://dty.stcn.com/newfundnav/otherfund.jsp" target="_blank">基金净值</a></li>
+						<li><a href="fenhpx.html" target="_blank">分红派现</a></li>
+						<li><a href="touzzh.html" target="_blank">投资组合</a></li>
+					</ul>
+				</div>
+				<div class="aa1" style=" height:60px; margin-top:10px; background:url(images/bm250x60_090813.jpg) -50px 0 no-repeat;">
+				</div>
+			</div>
+			<input type="hidden" name="secuCode" value="184699"/>
+			<input type="hidden" id="secuAbbr" name="secuAbbr" value="基金同盛" />
+			<div class="gg_main" id="main">
+				<div class="gg_column widget-place" id="widget-place-1">
+					<div class="box box3 widget movable collapsable" id="identifierwidget-3">
+						<h2 class="widget-header"><a class="more" href="starRankList.html" target="_blank">&gt;&gt;更多</a>基金评级</h2>
+						<div class="subbox widget-content">
+						<table><tr><th>代码</th><th>基金名称</th><th>基金评级(三年)</th><th>日期</th></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-06-06</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-05-30</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-05-23</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-05-16</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-05-09</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-04-30</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-04-25</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-04-18</td></tr><tr><td>184699</td><td>基金同盛</td><td>—</td><td>2014-04-11</td></tr></table>
+						</div>
+					</div>
+				</div>
+				<div class="gg_column right widget-place" id="widget-place-2">
+					<div class="box box5 widget movable collapsable" id="identifierwidget-5">
+						<h2 class="widget-header"><a class="more"   href="mfNewsList.shtml" target="_blank">&gt;&gt;更多</a><span></span>最新基金新闻</h2>
+						<div class="subbox widget-content">
+						<ul class="news">
+	<li><span class="time">2007-03-30</span><a href="/common/finalpage/mfNews/2007/20070330/228555926377.shtml" target="_blank">长盛三只封基分红逾16亿</a></li><li><span class="time">2006-11-06</span><a href="/common/finalpage/mfNews/2006/20061106/216116753093.shtml" target="_blank">基金同盛一周上涨17.71%</a></li><li><span class="time">2005-04-20</span><a href="/common/finalpage/mfNews/2005/20050420/174063197671.shtml" target="_blank">长盛旗下两基金分红</a></li><li><span class="time">2003-01-21</span><a href="/common/finalpage/mfNews/2003/20030121/174063190672.shtml" target="_blank">基金同盛增加基金经理</a></li>
+</ul>
+
+						<!--<iframe name="gszx_ifr" id="gszx_ifr" frameborder="0" scrolling="no" width="384px" height="255px" src="http://www2.stcn.com/search/IframNewsSearch.jsp?keyword=基金同盛"></iframe>-->
+						</div>
+					</div>
+					<!--<div class="box box8 widget movable collapsable" id="identifierwidget-8">
+						<h2 class="widget-header"><a class="more" href="http://bbs.stcn.com/" target="_blank">&gt;&gt;更多</a><span></span>最新论坛资讯</h2>
+						<div class="subbox widget-content">
+						<iframe name="ltzx_ifr" id="ltzx_ifr" frameborder="0" scrolling="no" width="384px" height="255px" src="http://www2.stcn.com/search/iframForumSearch.jsp?keyword=基金同盛"></iframe>
+						</div>
+					</div>-->
+				</div>
+			</div>
+        	<div class="box box4 widget movable collapsable" id="identifierwidget-4">
+				<h2 class="widget-header"><a class="more"  href="http://blog.stcn.com/" target="_blank">&gt;&gt;更多</a>最新博客资讯</h2>
+				<div class="subbox widget-content">
+					<ul class='news'><li><span class='time'>2010-11-26</span><a href='http://blog.stcn.com/go_77026.html' target='_blank' title='转：基金遭遇用工荒：娃娃经理赤膊上阵挑战基民神经'>转：基金遭遇用工荒：娃娃经理赤膊上阵挑战基民神经</a></li></ul>
+
+				</div>
+			</div>
+        </div>
+	</div>
+	<div class="gg_footer">
+		<iframe class="if_head" frameborder="0" scrolling="no" width="980px" height="160px" src="http://www.stcn.com/common28/include/footer.html"></iframe>
+	</div>
+</div>
+  <!-- tongji文件star -->
+  <div style="display:none;">
+    <script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+    <script src='http://w.cnzz.com/c.php?id=30023490' language='JavaScript' charset='gb2312'></script>
+    <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-10571449-2");
+	pageTracker._setDomainName(".secutimes.com");
+	pageTracker._trackPageview();
+	} catch(err) {}
+    </script>
+    <script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-18256358-1']);
+	_gaq.push(['_setDomainName', '.stcn.com']);
+	_gaq.push(['_trackPageview']);
+        (function(){
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+  </div>
+  <!-- tongji文件end -->  
+</body>
+</html>
+

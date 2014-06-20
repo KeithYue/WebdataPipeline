@@ -1,0 +1,1469 @@
+http://bbs.hexun.com/board_600_all_1_d.html
+1402798205.03
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	悟空悟多_期市大家谈_期市论坛_财经世界_和讯论坛
+</title>
+<meta name="description" content="鼓励在本班发帖" />
+
+<script src="/s/b/h.js" type="text/javascript"></script>
+<link href="/s/b/a.css" type="text/css" rel="stylesheet"/>
+
+<link href="/profession/css/a1202.css" type="text/css" rel="stylesheet"/>
+<base target="_blank"/>
+<style type="text/css">
+.manage{display:none}
+#tblPosts A.f666:hover{color:#CC0000}
+#tblPosts A.f666:visited{color:#666}
+.bbslist .userName{width:103px;overflow:hidden}
+.bbslist div.hh{width:110px;word-wrap:break-word; overflow:hidden;}
+.gray{color:Gray}
+A.gray:visited{color:Gray}
+</style>
+<!--[if IE 8]>
+<style>
+#tblPosts SPAN IMG{position:relative;top:-3px;}
+</style>
+<![endif]-->
+
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+
+<div class="topnav">
+<div class="bgrig">
+<div class="bgleft">
+<div class="bbslogo"><a target="_top" href="http://bbs.hexun.com/board_600_all_1_d.html"><img id="logoImg" src="/img/default_board_logo.gif" /></a></div>
+<div id="topsearch" >
+<div class="tab"><span id="taba1" class="current" onmouseover="tab('taba',1,2);">论坛搜索</span> </div>
+<div id="taba_cont1"><form name="fqA" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input id="qA" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/>  <input name="type" type="radio" value="1" checked="checked"  /> 标题 <input id="radioContent" name="type" type="radio" value="2" /> 正文 <input name="type" type="radio" value="16" /> 作者 <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> </form></div>
+<div id="taba_cont2" style="display: none;">
+<form name="fqB" action="/search" enctype="application/x-www-form-urlencoded" method="get"><input name="bid" type="hidden" /> <input name="type" type="hidden" value="4" /> <input id="qB" class="w348" style="color: #8b8b8b;" name="q" type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';"/> <input src="http://money.bbs.hexun.com/clientfiles/list/img/btnser.gif" type="image" /> <strong class="hot">热门标签：</strong> <a href="http://bbs.hexun.com/search/?type=4&q=股票" target="_blank">股票</a> <a href="http://bbs.hexun.com/search/?type=4&q=期货" target="_blank">期货</a> <a href="http://bbs.hexun.com/search/?type=4&q=基金" target="_blank">基金</a> <a href="http://bbs.hexun.com/search/?type=4&q=理财" target="_blank">理财</a> <a href="http://bbs.hexun.com/search/?type=4&q=地震" target="_blank">地震</a> </form></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+function setQueryKey(){
+    if(typeof bid != 'undefined' && !isNaN(bid)){
+        document.fqA.bid .value = document.fqB.bid .value = bid;
+    }
+    
+    if(typeof qT == 'undefined')return;
+    if(qT == 4){
+        tab('taba',2,2);
+    }else{
+        if(qT == -1){
+            //document.fqA.target = document.fqB .target = '_blank';
+        }
+        else{
+            //document.fqA.target = document.fqB .target = '_top';
+            var radios = document.fqA.type;
+            for(var i=0;i<radios.length;i++){
+                if(qT == radios[i].value){
+                    radios[i].checked = true;
+                    break;
+                }
+            }
+        }
+    }
+
+    if(typeof qT == 'undefined' || typeof q == 'undefined'){}
+    else ((qT == 4 ? $id('qB') : $id('qA')).value = q);
+}
+
+addLoadEvent(function(){setTimeout(setQueryKey,600);});
+
+function checkSearchForm(f){
+    var q = f.q.value;
+    if(q.trim() == '' || q == '输入关键词'){
+        alert('请输入搜索关键词');
+        f.q.focus();
+        return false;
+    }
+    return true;
+}
+// ]]></script>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+var bid = 600;
+var navSelectedBID = 46;
+var boardName = '悟空悟多';
+var refreshSeconds = 120;
+var hotPostMinPv = 1000;
+var ICON_HOT = '/icons/hot.gif';
+var needRefreshPv = true;
+var needRefresh = false;
+</script>
+<form name="fmain" method="get" onsubmit="return false">
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/profession/" target="_top">高手版区</a> &gt; <a href="http://bbs.hexun.com/board_600_all_1_d.html" target="_top">悟空悟多</a></div>
+<span class="btn"> <span id="spMng">[<a href="javascript:void(0)" onclick="shiftManage()" id="aManage" target="_top" class="f666">管理</a>]</span> [<a href="javascript:void(0)" onclick="location.reload()" target="_top" class="f666">刷新版面</a>] [<a href="javascript:void(0)" target="_top" onclick="copy(location.href,'已复制版面地址')" class="f666">复制本版地址</a>] </span> 
+<div class="right">
+<select style="font-size:12px; color:#999" onchange="changeOrderType(this)">
+  <option value="0" selected>按回复时间排序</option>
+  <option value="1">按发帖时间排序</option>
+</select> 
+本版在线：<span id="spanOnlineUserCn">..</span>
+
+<a href="javascript:void(0)" onclick="addMyFavoriteBoard()" target="_top"><img src="/clientfiles/list/img/add.gif" align="absmiddle" /></a>
+
+</div>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="130" valign="top">
+
+<div id="divBNv"><a href="http://bbs.hexun.com/futures/board_46_all_1_d.html" target="_blank">期市大家谈</a><a href="http://bbs.hexun.com/board_399_all_1_d.html" target="_blank">凤凰涅槃</a><a href="http://bbs.hexun.com/board_448_all_1_d.html" target="_blank">主力控盘</a><a href="http://bbs.hexun.com/board_464_all_1_d.html" target="_blank">短线常胜</a><a href="http://bbs.hexun.com/board_479_all_1_d.html" target="_blank">期闻天下</a><a href="http://bbs.hexun.com/board_494_all_1_d.html" target="_blank">厦门乘风</a><a href="http://bbs.hexun.com/board_517_all_1_d.html" target="_blank">易天期货</a><a href="http://bbs.hexun.com/board_519_all_1_d.html" target="_blank">郭昊论期</a><a href="http://bbs.hexun.com/board_521_all_1_d.html" target="_blank">梵天期货</a><a href="http://bbs.hexun.com/board_524_all_1_d.html" target="_blank">超级短线</a><a href="http://bbs.hexun.com/board_547_all_1_d.html" target="_blank">乡村牛童</a><a href="http://bbs.hexun.com/board_554_all_1_d.html" target="_blank">实盘博弈</a><a href="http://bbs.hexun.com/board_573_all_1_d.html" target="_blank">马德里七月</a><a href="http://bbs.hexun.com/board_583_all_1_d.html" target="_blank">舍得看期</a><a href="http://bbs.hexun.com/board_584_all_1_d.html" target="_blank">投资感悟</a><a href="http://bbs.hexun.com/board_590_all_1_d.html" target="_blank">观滔程序</a><a href="http://bbs.hexun.com/board_596_all_1_d.html" target="_blank">西楚一枚</a><a href="http://bbs.hexun.com/board_600_all_1_d.html" target="_blank">悟空悟多</a><a href="http://bbs.hexun.com/board_611_all_1_d.html" target="_blank">龙章凤姿</a><a href="http://bbs.hexun.com/board_616_all_1_d.html" target="_blank">甲乙丙丁说</a><a href="http://bbs.hexun.com/board_620_all_1_d.html" target="_blank">大明看盘</a><a href="http://bbs.hexun.com/board_630_all_1_d.html" target="_blank">史 瑞</a><a href="http://bbs.hexun.com/board_677_all_1_d.html" target="_blank">一手空铜</a><a href="http://bbs.hexun.com/board_678_all_1_d.html" target="_blank">血色鬼眼</a><a href="http://bbs.hexun.com/board_680_all_1_d.html" target="_blank">李 东 勇</a><a href="http://bbs.hexun.com/board_683_all_1_d.html" target="_blank">白马糖王子</a><a href="http://bbs.hexun.com/board_705_all_1_d.html" target="_blank">超然居士</a><a href="http://bbs.hexun.com/board_710_all_1_d.html" target="_blank">法 利</a><a href="http://bbs.hexun.com/board_711_all_1_d.html" target="_blank">鲁 期 公</a><a href="http://bbs.hexun.com/board_738_all_1_d.html" target="_blank">期海风云</a><a href="http://bbs.hexun.com/board_741_all_1_d.html" target="_blank">顺势而为</a><a href="http://bbs.hexun.com/board_742_all_1_d.html" target="_blank">倪 伟 东</a><a href="http://bbs.hexun.com/board_758_all_1_d.html" target="_blank">神秘隐士</a><a href="http://bbs.hexun.com/board_761_all_1_d.html" target="_blank">渔 岵</a><a href="http://bbs.hexun.com/board_770_all_1_d.html" target="_blank">携手铜锌</a><a href="http://bbs.hexun.com/board_788_all_1_d.html" target="_blank">葫 芦 娃</a><a href="http://bbs.hexun.com/board_800_all_1_d.html" target="_blank">期市踏浪</a><a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_blank">财经世界</a><a href="http://bbs.hexun.com/profession/" target="_blank">高手版区</a><a href="http://bbs.hexun.com/money/board_567_all_1_d.html" target="_blank">经济观澜</a><a href="http://bbs.hexun.com/stock/board_4_all_1_d.html" target="_blank">股市论坛</a><a href="http://bbs.hexun.com/futures/board_7_all_1_d.html" target="_blank">期市论坛</a><a href="http://bbs.hexun.com/money/board_28_all_1_d.html" target="_blank">基金论坛</a><a href="http://bbs.hexun.com/money/board_83_all_1_d.html" target="_blank">理财论坛</a><a href="http://bbs.hexun.com/money/board_74_all_1_d.html" target="_blank">黄金论坛</a><a href="http://bbs.hexun.com/money/board_63_all_1_d.html" target="_blank">汇市论坛</a><a href="http://bbs.hexun.com/money/board_66_all_1_d.html" target="_blank">房产论坛</a><a href="http://bbs.hexun.com/money/board_42_all_1_d.html" target="_blank">债券论坛</a><a href="http://bbs.hexun.com/money/board_78_all_1_d.html" target="_blank">银行论坛</a><a href="http://bbs.hexun.com/money/board_76_all_1_d.html" target="_blank">保险论坛</a><a href="http://bbs.hexun.com/money/board_247_all_1_d.html" target="_blank">券商论坛</a><a href="http://bbs.hexun.com/money/board_221_all_1_d.html" target="_blank">文交所专区</a><a href="http://bbs.hexun.com/money/board_232_all_1_d.html" target="_blank">津贵所论坛</a><a href="http://bbs.hexun.com/money/board_240_all_1_d.html" target="_blank">部委论坛</a><a href="http://bbs.hexun.com/money/board_617_all_1_d.html" target="_blank">地方论坛</a><a href="http://bbs.hexun.com/money/board_727_all_1_d.html" target="_blank">德州扑克</a><a href="http://bbs.hexun.com/money/board_743_all_1_d.html" target="_blank">国际财经</a><a href="http://bbs.hexun.com/money/board_801_all_1_d.html" target="_blank">现货论坛</a><a href="http://bbs.hexun.com/money/board_819_all_1_d.html" target="_blank">虚拟币之家</a><a href="http://bbs.hexun.com/board_3_all_1_d.html" target="_blank">品质生活</a><a href="http://bbs.hexun.com/board_152_all_1_d.html" target="_blank">社会生活</a><a href="http://bbs.hexun.com/board_552_all_1_d.html" target="_blank">图闻天下</a><a href="http://bbs.hexun.com/board_97_all_1_d.html" target="_blank">数码论坛</a><a href="http://bbs.hexun.com/board_95_all_1_d.html" target="_blank">摄影论坛</a><a href="http://bbs.hexun.com/board_101_all_1_d.html" target="_blank">软件论坛</a><a href="http://bbs.hexun.com/board_105_all_1_d.html" target="_blank">媒体前沿</a><a href="http://bbs.hexun.com/board_11_all_1_d.html" target="_blank">汽车时代</a><a href="http://bbs.hexun.com/board_47_all_1_d.html" target="_blank">IT业界</a><a href="http://bbs.hexun.com/board_805_all_1_d.html" target="_blank">旅行家</a><a href="http://bbs.hexun.com/board_828_all_1_d.html" target="_blank">首都网警</a><a href="http://bbs.hexun.com/board_10_all_1_d.html" target="_blank">论坛站务</a><a href="http://bbs.hexun.com/board_23_all_1_d.html" target="_blank">论坛公告</a><a href="http://bbs.hexun.com/board_25_all_1_d.html" target="_blank">论坛管理</a><a href="http://bbs.hexun.com/board_27_all_1_d.html" target="_blank">管理团队</a><a href="http://bbs.hexun.com/board_32_all_1_d.html" target="_blank">内部交流</a><a href="http://bbs.hexun.com/board_62_all_1_d.html" target="_blank">新手帮助</a><a href="http://bbs.hexun.com/board_61_all_1_d.html" target="_blank">BUG反馈</a><a href="http://bbs.hexun.com/board_131_all_1_d.html" target="_blank">版主申请</a><a href="http://bbs.hexun.com/board_764_all_1_d.html" target="_blank">活动专区</a><a href="http://bbs.hexun.com/board_125_all_1_d.html" target="_blank">和讯推荐</a><a href="http://bbs.hexun.com/board_150_all_1_d.html" target="_blank">和讯活动</a><a href="http://bbs.hexun.com/board_126_all_1_d.html" target="_blank">期天大胜</a><a href="http://bbs.hexun.com/board_164_all_1_d.html" target="_blank">收费产品服务</a><a href="http://bbs.hexun.com/board_242_all_1_d.html" target="_blank">股神争霸</a><a href="http://bbs.hexun.com/board_746_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_747_all_1_d.html" target="_blank">投资培训</a><a href="http://bbs.hexun.com/board_749_all_1_d.html" target="_blank">产品帮助</a><a href="http://bbs.hexun.com/board_750_all_1_d.html" target="_blank">投诉建议</a></div>
+<script src="/nav.aspx" type="text/javascript"></script>
+    </td>
+    <td valign="top"><div id="rigcontent" >
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="declare">
+  <tr>
+    <td>
+		<p class="ico01">版主：<a href="/u_18880614/_d.html" class="f1b6">悟空_悟多</a> <img align="absmiddle" src="/img/realname.gif" border='0'/> &nbsp; 版副：未设置</p>
+		<p class="ico02" id="boardNotice">版面公告：鼓励在本班发帖</p></td>
+    <td id="banner01">&nbsp;</td>
+		<td width="98" id="myPRs"></td>    
+  </tr>
+
+  <tr>
+    <td colspan="3" style=" padding:0px 0px 5px 0px;"><table class="aColumn" width="100%">
+        <tr>
+          
+  
+    <td> <a href="http://bbs.hexun.com/board_600_all_1_d.html" class="a1" target="_self">全部栏目</a> 											
+										
+          <a href="http://bbs.hexun.com/board_600_child_1_d.html?child=601" 
+             
+            target="_self">版主专区</a>
+
+          <a href="http://bbs.hexun.com/board_600_child_1_d.html?child=610" 
+             
+            target="_self">木白草堂</a>
+
+          </td>
+        </tr>
+        
+      </table></td>
+  </tr>
+  
+</table>
+
+
+<div class="listtab">
+    <span class="current"><a target="_self" href="http://bbs.hexun.com/board_600_all_1_d.html">全部</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_600_essence_1_d.html">精华</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_600_recomment_1_d.html">推荐</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_600_hot_1_d.html">热门</a></span> 
+    <span ><a target="_self" href="http://bbs.hexun.com/board_600_image_1_d.html">图片</a></span>
+    <span ><a target="_self" href="http://bbs.hexun.com/board_600_news_1_d.html">新闻评论</a></span>
+    &nbsp;<a href="/newpost.aspx?bid=600" title="发新帖"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a>
+</div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/board_600_all_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/board_600_all_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/board_600_all_3_d.html" target="_self">3</a> <a href="http://bbs.hexun.com/board_600_all_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist bbslistth clear" style=" margin:0px;">
+      <tr>
+        <th>主题</th>        
+        <th width="110"> 作者</th>
+        <th width="90">回复/点击</th>
+        <th width="110">最后回复人</th>
+      </tr>
+      </table><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslist" id="tblPosts">
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_5309604_1_d.html" class="f234"><strong>网友发帖出现被封权问题的处理方法</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/">和讯财经论坛</a>
+        <p>13-03-01 18:27</p></td>
+        <td width='90'>---/---</td>
+        <td width='110'>---/---</td>
+      </tr>
+
+      <tr class="bg ">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6607677_1_d.html" class="f234"><strong>和讯活期盈：三条锦囊计 财富滚滚来</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-02-25 07:09</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class="bg  bgbor">
+        <td class="f14">
+        <img src="/clientfiles/list/img/images/icon_02.gif" alt="公告" />
+        <a href="http://bbs.hexun.com/stock/post_5_6944796_1_d.html" class="f234"><strong>真假球迷不重要，世界杯福利才靠谱</strong></a></td>
+        <td width='110'><a href="http://bbs.hexun.com/u_17461913/_d.html">simonsai</a>
+        <p>14-06-10 14:11</p></td>
+        <td >---/---</td>
+        <td >---/---</td>
+      </tr>
+
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_4456230" value="4456230"/> <a href="http://bbs.hexun.com/post_600_4456230_1_d.html" 
+            class="f234">想以交易为生的朋友，请看一看</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_4456230_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4456230_2_d.html">2</a>..<a class="gray" href="http://bbs.hexun.com/post_600_4456230_7_d.html">7</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4456230_8_d.html">8</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/hot.gif"align="absmiddle" alt='热帖' title='热帖' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-04-03 14:56</p></div></td>
+        <td ><span class="f1b6">375</span>/<span id="pv4456230">207742</span></td>
+        <td ><div class="hh"><a href="/u_14055678/_d.html"><font color="gray">回收站2294</font></a>
+        <p>14-06-11 21:07</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_4531652" value="4531652"/> <a href="http://bbs.hexun.com/post_600_4531652_1_d.html" 
+            class="f234">坑杀交易者的鸿沟</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_4531652_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4531652_2_d.html">2</a>]
+            <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-05-08 23:22</p></div></td>
+        <td ><span class="f1b6">75</span>/<span id="pv4531652">136452</span></td>
+        <td ><div class="hh"><a href="/u_21259263/_d.html"><font color="gray">默默的求索</font></a>
+        <p>13-09-01 11:48</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_4572809" value="4572809"/> <a href="http://bbs.hexun.com/post_600_4572809_1_d.html" 
+            class="f234">改革开放三十年之弊病（经济篇）</a><span>
+            <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-05-28 14:34</p></div></td>
+        <td ><span class="f1b6">46</span>/<span id="pv4572809">35784</span></td>
+        <td ><div class="hh"><a href="/u_21205461/_d.html"><font color="gray">星雪海_qq</font></a>
+        <p>14-03-21 16:57</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_4725039" value="4725039"/> <a href="http://bbs.hexun.com/post_600_4725039_1_d.html" 
+            class="f234">与交易者说（三）交易的真相</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_4725039_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4725039_2_d.html">2</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4725039_3_d.html">3</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-07-27 06:59</p></div></td>
+        <td ><span class="f1b6">117</span>/<span id="pv4725039">190697</span></td>
+        <td ><div class="hh"><a href="/u_8582652/_d.html"><font color="gray">wckui</font></a>
+        <p>14-04-01 14:02</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_4890232" value="4890232"/> <a href="http://bbs.hexun.com/post_600_4890232_1_d.html" 
+            class="f234">与交易者说之答新手问一</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_4890232_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4890232_2_d.html">2</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4890232_3_d.html">3</a>]
+            <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-09-24 12:06</p></div></td>
+        <td ><span class="f1b6">113</span>/<span id="pv4890232">126344</span></td>
+        <td ><div class="hh"><a href="/u_21259263/_d.html"><font color="gray">默默的求索</font></a>
+        <p>13-09-01 10:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5054909" value="5054909"/> <a href="http://bbs.hexun.com/post_600_5054909_1_d.html" 
+            class="f234">与交易者说之答交易者问二---- 如何止损</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_5054909_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5054909_2_d.html">2</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5054909_3_d.html">3</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5054909_4_d.html">4</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-11-16 14:01</p></div></td>
+        <td ><span class="f1b6">152</span>/<span id="pv5054909">171065</span></td>
+        <td ><div class="hh"><a href="/u_8582652/_d.html"><font color="gray">wckui</font></a>
+        <p>14-04-01 13:52</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5163400" value="5163400"/> <a href="http://bbs.hexun.com/post_600_5163400_1_d.html" 
+            class="f234">悟空：盘点2012年度战略预测之案例</a><span>
+            <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-12-16 17:03</p></div></td>
+        <td ><span class="f1b6">45</span>/<span id="pv5163400">56120</span></td>
+        <td ><div class="hh"><a href="/u_22615476/_d.html"><font color="gray">vincent19854</font></a>
+        <p>13-10-07 11:59</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5240278" value="5240278"/> <a href="http://bbs.hexun.com/post_600_5240278_1_d.html" 
+            class="f234">与交易者说（四）明道 取势 优术</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_5240278_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5240278_2_d.html">2</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-01-07 22:57</p></div></td>
+        <td ><span class="f1b6">100</span>/<span id="pv5240278">126417</span></td>
+        <td ><div class="hh"><a href="/u_21268036/_d.html"><font color="gray">一笑2013</font></a>
+        <p>14-06-11 12:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5341555" value="5341555"/> <a href="http://bbs.hexun.com/post_600_5341555_1_d.html" 
+            class="f234">与交易者说之答交易者问三--如何看盘</a><span>[<a class="gray" href="http://bbs.hexun.com/post_600_5341555_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5341555_2_d.html">2</a>]
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-02-03 20:36</p></div></td>
+        <td ><span class="f1b6">93</span>/<span id="pv5341555">122314</span></td>
+        <td ><div class="hh"><a href="/u_23886381/_d.html"><font color="gray">一诺投资2009</font></a>
+        <p>14-02-05 22:36</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5626189" value="5626189"/> <a href="http://bbs.hexun.com/post_600_5626189_1_d.html" 
+            class="f234">悟空悟多：量化程序化风险控制论</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-04-19 11:12</p></div></td>
+        <td ><span class="f1b6">38</span>/<span id="pv5626189">48213</span></td>
+        <td ><div class="hh"><a href="/u_22444650/_d.html"><font color="gray">黎三七</font></a>
+        <p>14-05-16 18:15</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+        <img src="/icons/top.gif" alt="置顶" title="置顶"/><input type="checkbox" name="postId"  class="manage" id="pid_5843222" value="5843222"/> <a href="http://bbs.hexun.com/post_600_5843222_1_d.html" 
+            class="f234">与交易者说之（五）交易逻辑</a><span>
+            <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' />
+        </span></td>
+        <td  width='110'><div class="hh"><a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-23 11:15</p></div></td>
+        <td ><span class="f1b6">9</span>/<span id="pv5843222">18840</span></td>
+        <td ><div class="hh"><a href="/u_21268036/_d.html"><font color="gray">一笑2013</font></a>
+        <p>14-06-11 12:13</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6957679" id="pid_6957679"/> <a href="http://bbs.hexun.com/post_600_6957679_1_d.html" class="f234">零食店抢市场同质化竞争加剧</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25072687/_d.html">a5257492</a>
+          <p>14-06-14 01:22</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6957679">579</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6938191" id="pid_6938191"/> <a href="http://bbs.hexun.com/post_600_6938191_1_d.html" class="f234">悟空悟多：与交易者说（六）外行不懂交易之难</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>14-06-07 22:20</p></div></td>
+        <td ><span class="f1b6">22</span>/<span id="pv6938191">72971</span></td>
+        <td ><div class="hh"><a href="/u_25068796/_d.html"><font color="gray">abc602645040</font></a>
+        <p>14-06-12 23:03</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6317600" id="pid_6317600"/> <a href="http://bbs.hexun.com/post_600_6317600_1_d.html" class="f234">齐鲁画报专访，80后草根经济学家---悟空悟多</a>
+        <span>[<a class="gray" href="http://bbs.hexun.com/post_600_6317600_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_6317600_2_d.html">2</a>]
+        <img src="/icons/essence.gif"align="absmiddle" alt='精华' title='精华' /><img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-11-14 11:09</p></div></td>
+        <td ><span class="f1b6">65</span>/<span id="pv6317600">58434</span></td>
+        <td ><div class="hh"><a href="/u_21268036/_d.html"><font color="gray">一笑2013</font></a>
+        <p>14-06-11 12:15</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6857002" id="pid_6857002"/> <a href="http://bbs.hexun.com/post_600_6857002_1_d.html" class="f234">怎样在不知道期货合约价格图纸的情况下买卖获利</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_25003001/_d.html">有思想物体学</a>
+          <p>14-05-12 16:08</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6857002">293</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6598595" id="pid_6598595"/> <a href="http://bbs.hexun.com/post_600_6598595_1_d.html" class="f234">余额宝----扒下凤凰的光环他就是一只鸡</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>14-02-21 15:03</p></div></td>
+        <td ><span class="f1b6">15</span>/<span id="pv6598595">13806</span></td>
+        <td ><div class="hh"><a href="/u_20469156/_d.html"><font color="gray">学习期公</font></a>
+        <p>14-05-02 11:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6172492" id="pid_6172492"/> <a href="http://bbs.hexun.com/post_600_6172492_1_d.html" class="f234">金融民工的一天</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-17 13:39</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv6172492">8639</span></td>
+        <td ><div class="hh"><a href="/u_9713342/_d.html"><font color="gray">自动交易开通</font></a>
+        <p>14-04-23 22:25</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6635199" id="pid_6635199"/> <a href="http://bbs.hexun.com/post_600_6635199_1_d.html" class="f234">乌克兰局势动荡下，如何配置我们的投资？</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>14-03-04 13:26</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6635199">2594</span></td>
+        <td ><div class="hh"><a href="/u_21205461/_d.html"><font color="gray">星雪海_qq</font></a>
+        <p>14-03-21 17:02</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5801559" id="pid_5801559"/> <a href="http://bbs.hexun.com/post_600_5801559_1_d.html" class="f234">转载一位已故恩师的文章：终极感悟--（三）</a>
+        <span>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-12 12:39</p></div></td>
+        <td ><span class="f1b6">29</span>/<span id="pv5801559">70484</span></td>
+        <td ><div class="hh"><a href="/u_18635428/_d.html"><font color="gray">xihuhk</font></a>
+        <p>14-02-18 11:09</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6479729" id="pid_6479729"/> <a href="http://bbs.hexun.com/post_600_6479729_1_d.html" class="f234">转：“我是流氓我怕谁” 某中心高官粗口惹40万网友围观</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22883133/_d.html">下雨天56</a>
+          <p>14-01-08 14:32</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6479729">958</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6467276" id="pid_6467276"/> <a href="http://bbs.hexun.com/post_600_6467276_1_d.html" class="f234">转：“我是流氓我怕谁” 某中心高官粗口惹40万网友围观</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22883133/_d.html">下雨天56</a>
+          <p>14-01-04 09:10</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6467276">1357</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6462330" id="pid_6462330"/> <a href="http://bbs.hexun.com/post_600_6462330_1_d.html" class="f234">中国股民为什么赚不到钱？</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>14-01-02 16:10</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6462330">2687</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6452072" id="pid_6452072"/> <a href="http://bbs.hexun.com/post_600_6452072_1_d.html" class="f234">委托持股令人眼花缭乱 亿帆生物借壳鑫富药业疑点重重</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22883133/_d.html">下雨天56</a>
+          <p>13-12-30 09:33</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6452072">200</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6428180" id="pid_6428180"/> <a href="http://bbs.hexun.com/post_600_6428180_1_d.html" class="f234">冬天如何快速瘦身？</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22884503/_d.html">kdcvscw</a>
+          <p>13-12-20 18:15</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6428180">559</span></td>
+        <td ><div class="hh"><a href="/u_20569838/_d.html"><font color="gray">爱星接达</font></a>
+        <p>13-12-24 09:44</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6405839" id="pid_6405839"/> <a href="http://bbs.hexun.com/post_600_6405839_1_d.html" class="f234">委托持股令人眼花缭乱 亿帆生物借壳鑫富药业疑点重重</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22883133/_d.html">下雨天56</a>
+          <p>13-12-13 14:03</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6405839">180</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6403488" id="pid_6403488"/> <a href="http://bbs.hexun.com/post_600_6403488_1_d.html" class="f234">惩罚孩子的十大智慧</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22038710/_d.html">育天下</a>
+          <p>13-12-12 16:51</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6403488">1490</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6393301" id="pid_6393301"/> <a href="http://bbs.hexun.com/post_600_6393301_1_d.html" class="f234">除雾器设计选型及维护方法介绍</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22623544/_d.html">soul99</a>
+          <p>13-12-10 10:37</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6393301">220</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5130036" id="pid_5130036"/> <a href="http://bbs.hexun.com/post_600_5130036_1_d.html" class="f234">劝退表</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_10783415/_d.html">彭亣书</a>
+          <p>12-12-07 20:16</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv5130036">5500</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-12-09 15:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6379923" id="pid_6379923"/> <a href="http://bbs.hexun.com/post_600_6379923_1_d.html" class="f234">短信平台让供电更加便捷</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22930679/_d.html">蚕宝宝螳螂</a>
+          <p>13-12-05 09:09</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6379923">240</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6379805" id="pid_6379805"/> <a href="http://bbs.hexun.com/post_600_6379805_1_d.html" class="f234">上海一中院再现“眼花法官”</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22883133/_d.html">下雨天56</a>
+          <p>13-12-05 08:28</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6379805">1171</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6376374" id="pid_6376374"/> <a href="http://bbs.hexun.com/post_600_6376374_1_d.html" class="f234">群发短信在每个行业的运用范围</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22930048/_d.html">天上的睡熊11</a>
+          <p>13-12-04 09:14</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6376374">160</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6376229" id="pid_6376229"/> <a href="http://bbs.hexun.com/post_600_6376229_1_d.html" class="f234">毛发众恒如何改善</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22804344/_d.html">df时_qq</a>
+          <p>13-12-04 08:17</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6376229">273</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6375492" id="pid_6375492"/> <a href="http://bbs.hexun.com/post_600_6375492_1_d.html" class="f234">罗言长 做生活的主角</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21747557/_d.html">yaoyan_01</a>
+          <p>13-12-03 17:40</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6375492">466</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="6375485" id="pid_6375485"/> <a href="http://bbs.hexun.com/post_600_6375485_1_d.html" class="f234">罗言长 做生活的主角</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21747557/_d.html">yaoyan_01</a>
+          <p>13-12-03 17:39</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6375485">200</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6373283" id="pid_6373283"/> <a href="http://bbs.hexun.com/post_600_6373283_1_d.html" class="f234">网络自动发帖系统让您的信息发遍整个互联网，瞬间见效</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22929898/_d.html">瞌睡龙瞌睡龙</a>
+          <p>13-12-03 11:13</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6373283">200</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6370922" id="pid_6370922"/> <a href="http://bbs.hexun.com/post_600_6370922_1_d.html" class="f234">网络自动发帖系统让您的信息发遍整个互联网。瞬间见效</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22930060/_d.html">牧羊4567</a>
+          <p>13-12-02 14:48</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6370922">220</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6339483" id="pid_6339483"/> <a href="http://bbs.hexun.com/post_600_6339483_1_d.html" class="f234">说说我坚守飞信的N个理由</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_9212801/_d.html">鸡蛋狗</a>
+          <p>13-11-21 15:26</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6339483">772</span></td>
+        <td ><div class="hh"><a href="/u_9212801/_d.html"><font color="gray">鸡蛋狗</font></a>
+        <p>13-11-21 15:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6304851" id="pid_6304851"/> <a href="http://bbs.hexun.com/post_600_6304851_1_d.html" class="f234">悟空：2013年11月10日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-11-10 09:37</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6304851">4057</span></td>
+        <td ><div class="hh"><a href="/u_21310910/_d.html"><font color="gray">正法传四方</font></a>
+        <p>13-11-10 09:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6229448" id="pid_6229448"/> <a href="http://bbs.hexun.com/post_600_6229448_1_d.html" class="f234">悟空：2013年10月13日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-10-13 09:25</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6229448">3299</span></td>
+        <td ><div class="hh"><a href="/u_22101967/_d.html"><font color="gray">黑水闻镝</font></a>
+        <p>13-10-13 19:52</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6208928" id="pid_6208928"/> <a href="http://bbs.hexun.com/post_600_6208928_1_d.html" class="f234">悟空：2013年10月6日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-10-06 00:51</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6208928">2328</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6200841" id="pid_6200841"/> <a href="http://bbs.hexun.com/post_600_6200841_1_d.html" class="f234">悟空：2013年9月29日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-29 11:44</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6200841">1869</span></td>
+        <td ><div class="hh"><a href="/u_20716082/_d.html"><font color="gray">玩命的炒期货</font></a>
+        <p>13-09-29 12:13</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6182120" id="pid_6182120"/> <a href="http://bbs.hexun.com/post_600_6182120_1_d.html" class="f234">悟空：2013年9月22日后一周分析，美元黄金原油股指</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-22 21:49</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6182120">2554</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-09-22 21:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6166663" id="pid_6166663"/> <a href="http://bbs.hexun.com/post_600_6166663_1_d.html" class="f234">悟空：2013年9月15日后一周分析，美元黄金原油股指铜</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-15 09:15</p></div></td>
+        <td ><span class="f1b6">1</span>/<span id="pv6166663">3299</span></td>
+        <td ><div class="hh"><a href="/u_22266510/_d.html"><font color="gray">大道至简e</font></a>
+        <p>13-09-16 16:25</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="5355651" id="pid_5355651"/> <a href="http://bbs.hexun.com/post_600_5355651_1_d.html" class="f234">多救生灵增添寿命</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18234627/_d.html">jxyjxytz</a>
+          <p>13-02-08 21:23</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5355651">3698</span></td>
+        <td ><div class="hh"><a href="/u_21268331/_d.html"><font color="gray">向前走12</font></a>
+        <p>13-09-15 20:19</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6147077" id="pid_6147077"/> <a href="http://bbs.hexun.com/post_600_6147077_1_d.html" class="f234">悟空：2013年9月8日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-08 11:07</p></div></td>
+        <td ><span class="f1b6">2</span>/<span id="pv6147077">4077</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-09-13 11:12</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6126545" id="pid_6126545"/> <a href="http://bbs.hexun.com/post_600_6126545_1_d.html" class="f234">悟空：2013年9月1日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-09-01 07:59</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv6126545">5161</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-09-05 14:13</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6106533" id="pid_6106533"/> <a href="http://bbs.hexun.com/post_600_6106533_1_d.html" class="f234">悟空悟多2013年8月25日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-08-24 22:32</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv6106533">4250</span></td>
+        <td ><div class="hh"><a href="/u_22266510/_d.html"><font color="gray">大道至简e</font></a>
+        <p>13-08-30 22:35</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5953821" id="pid_5953821"/> <a href="http://bbs.hexun.com/post_600_5953821_1_d.html" class="f234">悟空悟多：对原油的看法（2013年7月中）</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-07-19 15:22</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5953821">4210</span></td>
+        <td ><div class="hh"><a href="/u_21718192/_d.html"><font color="gray">libraljx</font></a>
+        <p>13-08-25 22:16</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="6025662" id="pid_6025662"/> <a href="http://bbs.hexun.com/post_600_6025662_1_d.html" class="f234">悟空：2013年8月4日后一周分析，美元黄金原油股指铜钢</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-08-04 08:00</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv6025662">8353</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-08-20 13:00</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5295776" id="pid_5295776"/> <a href="http://bbs.hexun.com/post_600_5295776_1_d.html" class="f234">悟空：2013年1月20日后一周分析--期货</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-01-20 18:17</p></div></td>
+        <td ><span class="f1b6">19</span>/<span id="pv5295776">16426</span></td>
+        <td ><div class="hh"><a href="/u_20620210/_d.html"><font color="gray">千王股指</font></a>
+        <p>13-08-13 11:29</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5267777" id="pid_5267777"/> <a href="http://bbs.hexun.com/post_600_5267777_1_d.html" class="f234">悟空：2013年1月13日后一周分析 期货</a>
+        <span>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-01-12 22:47</p></div></td>
+        <td ><span class="f1b6">19</span>/<span id="pv5267777">13327</span></td>
+        <td ><div class="hh"><a href="/u_20620210/_d.html"><font color="gray">千王股指</font></a>
+        <p>13-08-13 11:28</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5230447" id="pid_5230447"/> <a href="http://bbs.hexun.com/post_600_5230447_1_d.html" class="f234">悟空：2013年1月6日后一周分析 期货</a>
+        <span>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-01-06 17:27</p></div></td>
+        <td ><span class="f1b6">21</span>/<span id="pv5230447">15588</span></td>
+        <td ><div class="hh"><a href="/u_20620210/_d.html"><font color="gray">千王股指</font></a>
+        <p>13-08-13 11:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5207406" id="pid_5207406"/> <a href="http://bbs.hexun.com/post_600_5207406_1_d.html" class="f234">悟空：2012年12月30日后一周分析 期货</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-12-29 23:45</p></div></td>
+        <td ><span class="f1b6">12</span>/<span id="pv5207406">13500</span></td>
+        <td ><div class="hh"><a href="/u_20620210/_d.html"><font color="gray">千王股指</font></a>
+        <p>13-08-13 11:27</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5697922" id="pid_5697922"/> <a href="http://bbs.hexun.com/post_600_5697922_1_d.html" class="f234">明天干死多头 爆死多头</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21836974/_d.html">佣金全加3毛</a>
+          <p>13-05-14 00:15</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5697922">7422</span></td>
+        <td ><div class="hh"><a href="/u_20620210/_d.html"><font color="gray">千王股指</font></a>
+        <p>13-08-13 11:18</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="6045385" id="pid_6045385"/> <a href="http://bbs.hexun.com/post_600_6045385_1_d.html" class="f234">金锣用优质的品质打动每一个消费者的心</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_13529649/_d.html">刘清苦</a>
+          <p>13-08-08 13:10</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv6045385">260</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5994579" id="pid_5994579"/> <a href="http://bbs.hexun.com/post_600_5994579_1_d.html" class="f234">悟空悟多2013年7月28日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-07-28 10:52</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5994579">4097</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-08-02 17:06</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/transfer.gif" alt="转帖" title="转帖"/><input type="checkbox" class="manage" name="postId" value="4596033" id="pid_4596033"/> <a href="http://bbs.hexun.com/post_600_4596033_1_d.html" class="f234">一北京爷们写给已经跟网友私奔的老婆的一封信</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-06-07 06:54</p></div></td>
+        <td ><span class="f1b6">21</span>/<span id="pv4596033">40765</span></td>
+        <td ><div class="hh"><a href="/u_21220611/_d.html"><font color="gray">猫重生</font></a>
+        <p>13-07-30 08:21</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5960912" id="pid_5960912"/> <a href="http://bbs.hexun.com/post_600_5960912_1_d.html" class="f234">悟空悟多2013年7月21日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-07-21 10:31</p></div></td>
+        <td ><span class="f1b6">4</span>/<span id="pv5960912">3618</span></td>
+        <td ><div class="hh"><a href="/u_22065213/_d.html"><font color="gray">财大大</font></a>
+        <p>13-07-24 14:49</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5971547" id="pid_5971547"/> <a href="http://bbs.hexun.com/post_600_5971547_1_d.html" class="f234">她的幸福，从凯旋珠宝开始</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_22064025/_d.html">芥末v</a>
+          <p>13-07-23 10:48</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5971547">526</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4578763" id="pid_4578763"/> <a href="http://bbs.hexun.com/post_600_4578763_1_d.html" class="f234">原油猛于虎（连载评论）</a>
+        <span>[<a class="gray" href="http://bbs.hexun.com/post_600_4578763_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4578763_2_d.html">2</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4578763_3_d.html">3</a>,<a class="gray" href="http://bbs.hexun.com/post_600_4578763_4_d.html">4</a>]
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-05-30 16:54</p></div></td>
+        <td ><span class="f1b6">158</span>/<span id="pv4578763">66966</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-07-19 15:21</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5920254" id="pid_5920254"/> <a href="http://bbs.hexun.com/post_600_5920254_1_d.html" class="f234">悟空悟多2013年7月14日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-07-14 08:41</p></div></td>
+        <td ><span class="f1b6">14</span>/<span id="pv5920254">21573</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-07-19 15:19</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5609149" id="pid_5609149"/> <a href="http://bbs.hexun.com/post_600_5609149_1_d.html" class="f234">90后做期货交易操盘手的或者有意向的请进来交个朋友~</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21705345/_d.html">任意而至</a>
+          <p>13-04-15 15:53</p></div></td>
+        <td ><span class="f1b6">26</span>/<span id="pv5609149">7056</span></td>
+        <td ><div class="hh"><a href="/u_14055678/_d.html"><font color="gray">回收站2294</font></a>
+        <p>13-07-14 10:25</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5880844" id="pid_5880844"/> <a href="http://bbs.hexun.com/post_600_5880844_1_d.html" class="f234">悟空悟多：原油 建立中长线多单</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-07-03 09:57</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5880844">6923</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-07-03 20:50</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5869376" id="pid_5869376"/> <a href="http://bbs.hexun.com/post_600_5869376_1_d.html" class="f234">悟空悟多2013年6月30日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-30 08:38</p></div></td>
+        <td ><span class="f1b6">6</span>/<span id="pv5869376">5580</span></td>
+        <td ><div class="hh"><a href="/u_19027289/_d.html"><font color="gray">louis7890</font></a>
+        <p>13-07-02 17:55</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5801547" id="pid_5801547"/> <a href="http://bbs.hexun.com/post_600_5801547_1_d.html" class="f234">转载一位已故恩师的文章：终极感悟--（二）</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-12 12:15</p></div></td>
+        <td ><span class="f1b6">11</span>/<span id="pv5801547">19412</span></td>
+        <td ><div class="hh"><a href="/u_18426461/_d.html"><font color="gray">仙人球2011</font></a>
+        <p>13-07-01 18:21</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5842568" id="pid_5842568"/> <a href="http://bbs.hexun.com/post_600_5842568_1_d.html" class="f234">趋势和进场点</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21991827/_d.html">魔魔z</a>
+          <p>13-06-22 17:34</p></div></td>
+        <td ><span class="f1b6">12</span>/<span id="pv5842568">10707</span></td>
+        <td ><div class="hh"><a href="/u_20309987/_d.html"><font color="gray">matthew888</font></a>
+        <p>13-06-30 09:17</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5816828" id="pid_5816828"/> <a href="http://bbs.hexun.com/post_600_5816828_1_d.html" class="f234">悟空悟多2013年6月16日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-16 11:12</p></div></td>
+        <td ><span class="f1b6">13</span>/<span id="pv5816828">7269</span></td>
+        <td ><div class="hh"><a href="/u_19661800/_d.html"><font color="gray">chaifushudi</font></a>
+        <p>13-06-24 20:50</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5843215" id="pid_5843215"/> <a href="http://bbs.hexun.com/post_600_5843215_1_d.html" class="f234">悟空悟多：2013年6月23日后一周分析，美元黄金原油股</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-23 11:08</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5843215">3053</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5824509" id="pid_5824509"/> <a href="http://bbs.hexun.com/post_600_5824509_1_d.html" class="f234">悟空悟多：2013年年中对美元和黄金的看法</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-18 11:42</p></div></td>
+        <td ><span class="f1b6">8</span>/<span id="pv5824509">8958</span></td>
+        <td ><div class="hh"><a href="/u_21649536/_d.html"><font color="gray">aaa148</font></a>
+        <p>13-06-21 08:45</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5130147" id="pid_5130147"/> <a href="http://bbs.hexun.com/post_600_5130147_1_d.html" class="f234">悟空：金银连载评论</a>
+        <span>[<a class="gray" href="http://bbs.hexun.com/post_600_5130147_1_d.html">1</a>,<a class="gray" href="http://bbs.hexun.com/post_600_5130147_2_d.html">2</a>]
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-12-07 21:21</p></div></td>
+        <td ><span class="f1b6">65</span>/<span id="pv5130147">32539</span></td>
+        <td ><div class="hh"><a href="/u_19661800/_d.html"><font color="gray">chaifushudi</font></a>
+        <p>13-06-19 10:39</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5794749" id="pid_5794749"/> <a href="http://bbs.hexun.com/post_600_5794749_1_d.html" class="f234">悟空悟多2013年6月9日后一周分析，美元黄金原油股指铜</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-09 11:16</p></div></td>
+        <td ><span class="f1b6">5</span>/<span id="pv5794749">7455</span></td>
+        <td ><div class="hh"><a href="/u_20309987/_d.html"><font color="gray">matthew888</font></a>
+        <p>13-06-14 16:04</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5805652" id="pid_5805652"/> <a href="http://bbs.hexun.com/post_600_5805652_1_d.html" class="f234">实拍首届裸体女足开踢 输球就脱衣</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21837456/_d.html">weiyuanhengh</a>
+          <p>13-06-13 14:11</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5805652">3432</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5805645" id="pid_5805645"/> <a href="http://bbs.hexun.com/post_600_5805645_1_d.html" class="f234">男子淘到72年前老股票 原持股人仍可领17年股息</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21837456/_d.html">weiyuanhengh</a>
+          <p>13-06-13 14:10</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5805645">1304</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="4807593" id="pid_4807593"/> <a href="http://bbs.hexun.com/post_610_4807593_1_d.html" class="f234">悟空悟多：我家噜咪的小猫</a>
+        <span><font color="#234e93">[<a target="_top" href="http://bbs.hexun.com/board_600_child_1_d.html?child=610"><font color="#234e93">木白草堂</font></a>]</font>
+        <img src="/icons/recomment.gif"align="absmiddle" alt='推荐' title='推荐' /><img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>12-08-27 16:02</p></div></td>
+        <td ><span class="f1b6">19</span>/<span id="pv4807593">9337</span></td>
+        <td ><div class="hh"><a href="/u_8511872/_d.html"><font color="gray">语北</font></a>
+        <p>13-06-10 11:56</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5786274" id="pid_5786274"/> <a href="http://bbs.hexun.com/post_600_5786274_1_d.html" class="f234">山东汶上：培育良好社会心态 营造良好社会氛围</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21859258/_d.html">至少有他</a>
+          <p>13-06-06 17:04</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5786274">446</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5785115" id="pid_5785115"/> <a href="http://bbs.hexun.com/post_600_5785115_1_d.html" class="f234">创意是影视广告的灵魂</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21943664/_d.html">wxna555</a>
+          <p>13-06-06 13:34</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5785115">486</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5776760" id="pid_5776760"/> <a href="http://bbs.hexun.com/post_600_5776760_1_d.html" class="f234">股票与期货的关联性！</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_8495969/_d.html">东方不挂</a>
+          <p>13-06-04 11:47</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5776760">1171</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/original.gif" alt="原创" title="原创"/><input type="checkbox" class="manage" name="postId" value="5769767" id="pid_5769767"/> <a href="http://bbs.hexun.com/post_600_5769767_1_d.html" class="f234">悟空悟多：2013年6月2日后一周分析，美元黄金原油股指</a>
+        <span>
+        <img src="/icons/pics.gif"align="absmiddle" alt='图片' title='图片' /></span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_18880614/_d.html">悟空_悟多</a>
+          <p>13-06-02 10:15</p></div></td>
+        <td ><span class="f1b6">3</span>/<span id="pv5769767">4649</span></td>
+        <td ><div class="hh"><a href="/u_18880614/_d.html"><font color="gray">悟空_悟多</font></a>
+        <p>13-06-03 10:37</p></div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5769763" id="pid_5769763"/> <a href="http://bbs.hexun.com/post_600_5769763_1_d.html" class="f234">海原马彦虎,人生要学会包容</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21747557/_d.html">yaoyan_01</a>
+          <p>13-06-02 10:13</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5769763">559</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+      <tr class='bg'>
+        <td class="f14">
+         <img src="/icons/default.gif" alt="默认" title="默认"/><input type="checkbox" class="manage" name="postId" value="5764085" id="pid_5764085"/> <a href="http://bbs.hexun.com/post_600_5764085_1_d.html" class="f234">期货公司股指期货免费开户</a>
+        <span>
+        </span></td>
+        <td width='110'><div class="hh">
+            <a href="/u_21870110/_d.html">wq157100676</a>
+          <p>13-05-31 11:22</p></div></td>
+        <td ><span class="f1b6">0</span>/<span id="pv5764085">752</span></td>
+        <td ><div class="hh">---/---
+        </div>
+         </td>
+      </tr>
+    
+    </table>
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bbslistth manage" id="tblManage">
+      <tr>
+        <th  height="30" style="text-align:left; padding-left:12px">管理:
+        <input type="checkbox" name="" id="chkAll" onclick="selectAll(this)" />
+          <label for="chkAll" class="f234">全选</label>  
+          <a href="javascript:void(0)" target="_self" onclick="return doDelete()" class="f234">删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return deleteBatch()" class="f234">批量删除</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return movePost()" class="f234">转移</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return copyPostTo();" class="f234">转帖</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return updateNotice()" class="f234">发表版面公告</a>  
+          <a href="javascript:void(0)" target="_self" onclick="return uploadLogo('/service/boardlogo.aspx?a=setLogo&bid=600')" class="f234">上传版面LOGO</a>  
+          <a class="f234" href="javascript:void(0)" onclick="setMaster()" target="_self">设置版主副</a>  
+          <a href="javascript:void(0)" target="_self" class="f234" onclick="forbidUser(this)">封权</a> 
+          <a href="/rubbish.aspx?bidselectedBoardId=600" class="f234" rel="nofollow">垃圾箱</a>  
+          
+          </th>
+        </tr>
+    </table>
+
+<div class="botmod">
+    <div class="botroad" style="width:383px"><table width="383" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="290"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/profession/" target="_top">高手版区</a> &gt; <a href="http://bbs.hexun.com/board_600_all_1_d.html" target="_top">悟空悟多</a></td>
+    <td><a href="/newpost.aspx?bid=600"><img src="/clientfiles/list/img/fbbtn.gif" align="absmiddle" /></a></td>
+    </tr>
+    </table>
+    </div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/board_600_all_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/board_600_all_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/board_600_all_3_d.html" target="_self">3</a> <a href="http://bbs.hexun.com/board_600_all_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>    
+
+</div>
+</div></td>
+  </tr>
+</table>
+</form>
+<script type="text/javascript">
+addLoadEvent(function(){refreshPv(); if(needRefresh)window.intervalHandler = setInterval(reloadBoard,refreshSeconds*1000);});
+</script>
+
+<script src="/s/b/b.js" type="text/javascript"></script>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

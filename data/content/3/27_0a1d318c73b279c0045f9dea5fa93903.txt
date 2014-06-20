@@ -1,0 +1,572 @@
+http://research.stcn.com/sccl
+1402825090.66
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<meta name="keywords" content="策略、研报" />
+<meta name="description" content="券商和机构对A股市场所做的投资策略分析" />
+<meta name="author" content="证券时报网" />
+<title>市场策略_证券时报网</title>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/MD5.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stocksuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/suggestfinance.js" charset="gb2312"></script>
+<link type="text/css" href="http://img.stcn.com/templates/stcn/css/system/stocklist/style.css" rel="stylesheet" >
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/plugin1.js"></script>
+<script>
+var _hmt = _hmt || [];
+</script>
+<style>
+center { display:block; padding-bottom:10px;}
+.change { font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bolder; color: #143A78; }
+.num { font-family: "Times New Roman", Times, serif; font-style: normal; font-weight: bold; color: #143A78; }
+span.num { color:#f00;}
+.ten { margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #ccc;}
+</style>
+
+<script type="text/javascript">
+//右边爱股者搜索
+function toonclick(){
+	 var suggestStock_1;
+	 suggestStock_1 = new Suggest("secucode", "代码/简称", stock_suggest, null, StockSuggestConfiguration, toSearch1);
+	 suggestStock_1.options[12] = false; 
+}
+
+//document.write(parseInt(10*Math.random())); 　    //输出0～10之间的随机整数 
+
+//document.write(Math.floor(Math.random()*10+1)); 　//输出1～10之间的随机整数 
+
+function RndNum(n){ 
+var rnd=""; 
+for(var i=0;i<n;i++) 
+rnd+=Math.floor(Math.random()*10); 
+return rnd; 
+} 
+
+function toSearch1(){
+	var stringUrl ="http://www.stcn.com/common/iframedata/zjlx.htm?yingc_userid=@rnd@&yingc_key=@key@&yingc_seccode=@secucode@"; 
+	var myyear, mymonth, myday;
+	mydate=new Date();
+	myyear = mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	mymonth=parseInt(mydate.getMonth()+1)<10?"0"+(mydate.getMonth()+1):mydate.getMonth()+1;
+	myday=parseInt(mydate.getDate())<10?"0"+(mydate.getDate()):mydate.getDate();
+	var rnd = RndNum(4);
+	var pw = rnd + ":"+year+"-"+ mymonth+"-"+myday;
+	var key="";var secucode="";
+	key = MD5(pw);
+	secucode = document.getElementById('secucode').value;
+	var jspUrl =  " http://task.dynamic.stcn.com/news/usernameLoginCheck.jsp?yingc_userid=@rnd@&yingc_key=@key@&yingc_seccode=@secucode@";
+	if(key !="" && secucode !=""){
+		window.open(stringUrl.replace("@rnd@",rnd).replace("@key@",key).replace("@secucode@",secucode));
+	}
+}
+window.onload = function(){
+        toonclick();
+	var olist = document.getElementById('mainlist');
+	var oli = olist.getElementsByTagName('li');
+	for(var i = 9; i < oli.length; i+=10){
+		oli[i].className = 'ten';
+	}
+}
+</script>
+<script type="text/javascript">
+
+$(function(){
+	$('.QSslide').QSslide();
+        $('.tab1').QStab();
+        	/* 新闻排行 */
+	var $a = $('.ph-wrap ol a');
+	var $ul = $('.ph-wrap ul');
+	$a.each(function(){
+		var $n = $a.index($(this));
+		$(this).click(function(){
+			$(this).addClass('actiev').parent().siblings().find('a').removeClass('actiev');
+			$ul.eq($n).removeClass('hide').siblings('ul').addClass('hide');
+		});
+	});	
+ });
+	
+</script>
+
+</head>
+
+<body>
+<style type="text/css">
+.top_zz_head { position:relative; width:1000px; height:90px; margin:0 auto; background:url(http://www.stcn.com/common/images/head_bg.png) no-repeat;}
+.top_zz_head .top_innerwrap { width:980px; margin:0 auto;}
+.top_topnav { height:27px; background:url(http://www.stcn.com/common/images/nav_bg.png) repeat-x;}
+.top_topnav li { float:left; margin-left:18px; padding-top:6px; display:inline;}
+.top_topnav li.top_first { margin-left:10px;}
+.top_topnav li a { color:#fff;}
+.top_zz_logo { float:left; width:130px; height:37px; margin:10px; text-indent:-9999px; background:url(http://www.stcn.com/common/images/logo.png) no-repeat;}
+.top_zz_sublogo { float:left; width:104px; height:37px; margin-top:16px; text-indent:-9999px; background:url(http://www.stcn.com/common/images/stocklogo.png) no-repeat;}
+.top_zz_search { position:absolute; left:150px; bottom:10px; margin:23px 0 0 90px;}
+.top_zz_search .top_search_btn { position:relative; top:-3px; left:3px; vertical-align:middle;}
+.top_innerwrap iframe { float:left; margin:28px 10px 0 50px;}
+</style>
+<div class="top_zz_head">
+<div class="top_innerwrap">
+<ul class="top_topnav">
+    <li class="top_first"><a href="http://www.stcn.com" target="_blank">首页</a></li>
+    <li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
+    <li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
+    <li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
+    <li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
+    <li><a href="http://xinpi.stcn.com/" target="_blank">信披平台</a></li>
+    <li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
+    <li><a href="http://wq.stcn.com/" target="_blank">维权</a></li>
+    <li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
+    <li><a href="http://rs.stcn.com/" target="_blank">路演</a></li>
+    <li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
+    <li><a href="http://news.stcn.com/" target="_blank">新闻</a></li>
+    <li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
+    <li><a href="http://cy.stcn.com/" target="_blank">财苑</a></li>
+    <li><a href="http://m.stcn.com/" target="_blank">移动终端</a></li>
+    <li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
+</ul>
+<a class="top_zz_logo" href="http://www.stcn.com/">证券时报网</a>
+<iframe width="520px" scrolling="no" height="26px" frameborder="0" src="http://news.stcn.com/section/448.html"></iframe>
+</div>
+</div><!--列表页头部管理区块_stcn列表页-->
+<div class="zz_wrap">
+
+			
+  <div class="zz_content">
+    <div class="crumb">您所在的位置：<span><a href="http://www.stcn.com/">首页</a>  			  &gt; <a href="http://research.stcn.com/" target="_blank">研报</a>
+			  			  &gt; <a href="http://research.stcn.com/sccl/" target="_blank">市场策略</a>
+			   </span>
+    </div>
+        <ul class="mainlist" id="mainlist">
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487945.shtml">招商证券：中期市场整体依旧平淡</a></span>
+        <span>2014-06-13 10:02</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487908.shtml">行业比较周报:微刺激继续加码,市场信心重拾依需时间</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487907.shtml">东北证券每日投资指南</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487906.shtml">联讯证券金宝模拟投资股票池2号2期操作</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487905.shtml">泓福证券每日市场评论</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487904.shtml">A股市场大势研判:等待新股</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487903.shtml">申银万国动态组合双融版</a></span>
+        <span>2014-06-13 09:48</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487902.shtml">申银万国动态组合配置版</a></span>
+        <span>2014-06-13 09:47</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487901.shtml">东吴证券研究内参</a></span>
+        <span>2014-06-13 09:47</span></li>
+ 
+ <li class="ten">
+    <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487899.shtml">申银万国动态组合精选版</a></span>
+        <span>2014-06-13 09:47</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487898.shtml">申银万国动态组合主题版</a></span>
+        <span>2014-06-13 09:47</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487897.shtml">华林证券海选新闻</a></span>
+        <span>2014-06-13 09:47</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487891.shtml">A股2014年中期投资策略:整体平淡,局部机会</a></span>
+        <span>2014-06-13 09:46</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0613/11487889.shtml">广证恒生顶级策略</a></span>
+        <span>2014-06-13 09:46</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485984.shtml">南华证券每日评论</a></span>
+        <span>2014-06-12 17:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485983.shtml">申银万国动态组合主题版</a></span>
+        <span>2014-06-12 17:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485785.shtml">欧洲策略焦点:受益于欧洲央行举措的企业</a></span>
+        <span>2014-06-12 15:59</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485784.shtml">大盛证券:促淘汰旧车吉利逆市涨</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485783.shtml">方正证券融资融券内参</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+ <li class="ten">
+    <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485782.shtml">策略汇:跟随热点和政策把握短期机会</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485781.shtml">华福证券盘后速递</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485780.shtml">东兴证券策略日报</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485779.shtml">量化产品定期报告第16期:建议配置择时类、事件类产品</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485777.shtml">申银万国动态组合配置版</a></span>
+        <span>2014-06-12 15:58</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485485.shtml">金利丰证券每日市场评论</a></span>
+        <span>2014-06-12 13:49</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485303.shtml">泓福证券每日市场评论</a></span>
+        <span>2014-06-12 12:05</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485302.shtml">华福证券盘后速递</a></span>
+        <span>2014-06-12 12:05</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485301.shtml">主题配置策略周报:行业趋势明确,新能源汽车产业链有望再次表现</a></span>
+        <span>2014-06-12 12:05</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485300.shtml">融资融券周报第三十三期</a></span>
+        <span>2014-06-12 12:05</span></li>
+ 
+ <li class="ten">
+    <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485291.shtml">世纪证券金彩领航激扬组合</a></span>
+        <span>2014-06-12 12:04</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485289.shtml">钢坯月报:6月份国内钢坯走势压力大</a></span>
+        <span>2014-06-12 12:04</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485287.shtml">世纪证券金彩领航月盈组合</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485285.shtml">券商称濠赌股现价可吸纳,留意银河Bull63676/金沙Bull61284</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485282.shtml">投资策略定期报告:关于“抗周期”防御策略的讨论</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485280.shtml">今日视点:热点分化多空僵持不下,中小市值个股独领风骚</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485298.shtml">华林证券海选新闻</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485294.shtml">东北证券每日投资指南</a></span>
+        <span>2014-06-12 12:03</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485293.shtml">沪港通策略周报:耐心等待靴子落地</a></span>
+        <span>2014-06-12 12:02</span></li>
+ 
+    <li>
+     <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485278.shtml">南华金融每日评论</a></span>
+        <span>2014-06-12 12:02</span></li>
+ 
+ <li class="ten">
+    <span class="tit"><a target="_blank" href="http://research.stcn.com/2014/0612/11485276.shtml">华林证券海选新闻</a></span>
+        <span>2014-06-12 12:02</span></li>
+ 
+</ul><div id="displaypagenum"><ul>
+  <li><a href="http://research.stcn.com/sccl/1.shtml">首页</a></li><li><a href="javascript:void(0);" class="prev disable">上一页</a></li><li><a href="javascript:void(0);" class="now">1</a></li><li><a href="http://research.stcn.com/sccl/2.shtml">2</a></li><li><a href="http://research.stcn.com/sccl/3.shtml">3</a></li><li><a href="http://research.stcn.com/sccl/4.shtml">4</a></li><li><a href="http://research.stcn.com/sccl/5.shtml">5</a></li><li><a href="http://research.stcn.com/sccl/6.shtml">6</a></li><li><a href="http://research.stcn.com/sccl/20.shtml">... 20</a></li><li><a href="http://research.stcn.com/sccl/2.shtml" class="next">下一页</a></li><li><a href="http://research.stcn.com/sccl/20.shtml">尾页</a></li> 
+</ul>
+</div></div>
+   <div class="zz_sidebar">
+	              <div class="QSslide bc">
+<ul class="picList">
+  <li>    <a href="http://news.stcn.com/2013/0507/10463482.shtml" target="_blank" title="能源项目审批有望大放权 10股有望爆发"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367889092486.jpg" /></a>
+    <span>能源项目审批有望大放权 10股有望爆发</span>
+      </li>
+  <li>    <a href="http://news.stcn.com/2013/0507/10463673.shtml" target="_blank" title="农田水利3000亿投资落地 8概念股价值解析"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367890700478.jpg" /></a>
+    <span>农田水利3000亿投资落地 8概念股价值解析</span>
+      </li>
+  <li>    <a href="http://stock.stcn.com/2013/0507/10463697.shtml" target="_blank" title="3000亿舟山新区蓝图出炉 10股风云再起"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367891933243.jpg" /></a>
+    <span>3000亿舟山新区蓝图出炉 10股风云再起</span>
+      </li>
+  <li>    <a href="http://news.stcn.com/2013/0507/10463773.shtml" target="_blank" title="农夫山泉标准门升级 关闭北京厂"><img src="http://upload.stcn.com/2013/0507/thumb_290_250_1367894109175.jpg" /></a>
+    <span>农夫山泉标准门升级 关闭北京厂</span>
+      </li>
+</ul>
+</div><!--图片新闻循环区块-->
+                      <div class="x_tabW tab1 bb10">
+        <div class="x_tabNavW">
+          <ol class="x_tabNav">
+            <li><a href="#nolink" class="active"><span>操盘必读</span></a></li>
+            <li><a href="#nolink" class=""><span>数据大全</span></a></li>
+          </ol>
+        </div>
+        <div class="x_tabBoxW">
+          <div class="x_tabBox">
+            <dl class="clearfix">
+              <dt class="dt1">必读</dt>
+              <dd><a target="_blank" href="http://news.stcn.com/cjtt/1.shtml">财经头条</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/notice.jsp">今日提示</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/issueNewStocke.jsp">新股提示</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金发行</a></dd>
+              <dd><a target="_blank" href="http://research.stcn.com/chbg/1.shtml">券商晨报</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=1">业绩预报</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/macroData.shtml">宏观数据</a></dd>
+              <dt class="dt2">公告</dt>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/allabstract/abstractlist_1.shtml">公告摘要</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/">紧急公告</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/jjzx/otherbulletin1.shtml">基金</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxshbulletin/bulletinlist_1_1.shtml">沪市</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxszbulletin/bulletinlist_1_1.shtml">深主板</a></dd>
+              <dd><a target="_blank" href="http://xinpi.stcn.com/zxzxbulletin/bulletinlist_1_1.shtml">中小板</a></dd>
+              <dd><a target="_blank" href="http://chinext.stcn.com/">创 业 板</a></dd>
+              <dt class="dt3">数据</dt>
+              <dd><a target="_blank" href="http://data.stcn.com/fivedataInfo.shtml">每笔成交</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/statics/dataBlockTrade.htm">大宗交易</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/guGaiLiftTheBan.jsp">解禁一览</a></dd>
+              <dd><a target="_blank" href="http://zt.stcn.com/rongzrq2010.shtml">融资融券</a></dd>
+              <dd><a target="_blank" href="http://dty.stcn.com/newfundnav/otherfund.jsp">基金净值</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/fundDataSearch.jsp?typeName=1">基金进出</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/overseas/moreAHStock.jsp">A-H 比价</a></dd>
+            </dl>
+          </div>
+          <div class="x_tabBox hide">
+            <dl class="read clearfix lh24 pt5 pb5">
+              <dt class="dt4">公司</dt>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?PageSize=20&isyugao=0">年报业绩</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/securityInvestment.jsp">交叉持股</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/gsssSubject/payoffForcast_more.html">盈利预测</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/planRefinanceDataSearch.jsp">再融资</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=1">业绩预告</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=2">业绩快报</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/employeeEmolument.jsp">高管薪酬</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/datasearch/regularProfitSharing.jsp">分红送股</a></dd>
+              <dt class="dt5">股票</dt>
+              <dd><a target="_blank" href="http://dty.stcn.com/tradinginformation/shanghaiexchange.jsp">公开信息</a></dd>
+              <dd><a target="_blank" href="http://zt.stcn.com/rongzrq2010.shtml">融资融券</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/partnerOutperform.jsp">增减持</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/guGaiLiftTheBan.jsp">限售解禁</a></dd>
+              <dd><a target="_blank" href="http://info.stcn.com/companydata/capitalStructureChange.jsp">股本变动</a></dd>
+              <dd><a onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');" href="javascript:void(0);">低市盈率</a></dd>
+              <dd><a onclick="javascript:alert('此栏目数据正在建设中，稍后推出！');" href="javascript:void(0);">低市净率</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/marketData/zdfRankingMore.html">板块动向</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/statics/dataBlockTrade.htm">大宗交易</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/common/data/marketData/marketCenterMoreTop.html">异动股</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fivedataInfo.shtml">每笔成交</a></dd>
+              <dd><a onclick="http://info.stcn.com/companydata/sHnum.jsp" href="javascript:void(0);">股东户数</a></dd>
+              <dt class="dt6">基金</dt>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金分红</a></dd>
+              <dd><a target="_blank" href="http://fund.stcn.com/common/fund/fundRatingFinalPage.html">基金评级</a></dd>
+              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金发行</a></dd>
+              <dd><a href="http://fund.stcn.com/fundnav.shtml">基金净值</a></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+<!--页面右侧数据链接区块-->
+                      <div class="tg-wrap">
+<h2 class="hide">推广</h2>
+<ul>
+  <li>    <a href="http://kuaixun.stcn.com/2014/0224/11193440.shtml" target="_blank">新股助手四大功能助股民打新</a>
+      </li>
+  <li>    <a href="http://m.stcn.com/" target="_blank">移动互联新时代，不一样的精彩</a>
+      </li>
+</ul>
+</div>
+
+<!--页面右侧推广内容区块-->
+                      <div class="kx-wrap">
+                            <h2><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank"> 快讯</a></h2>
+<div class="wrap_bd">
+<ul>
+
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490375.shtml" >6月15日晚间两市公司利好公告（更新中）</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490364.shtml" >曙光股份合资设融资租赁公司 促进新能源客车销售</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490338.shtml" >中路股份参股公司移动互联网入口产品“联连”APP上线</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490288.shtml" >周末可能影响股价重要财经资讯速递（更新中）</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490318.shtml" >信贷资产支持证券首次登陆上交所</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490317.shtml" >国务院发文将用十年完善地下管线 概念股迎升机</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490227.shtml" >周六可能影响股价重要财经资讯速递</a></li>
+  <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490276.shtml" >上海发布产业结构调整负面清单及能效指南</a></li>
+</ul>
+</div>
+ 
+<!--快讯首页内容区块-->
+                      </div>
+                      <div class="yd-wrap">
+<h2>推荐阅读</h2>
+<div class="wrap_bd">
+<h3>
+<a href="http://www.stcn.com/2014/0614/11490127.shtml" target="_blank" title='QFII资金大腾挪 “左手倒右手”背后三大猜想待解'>QFII资金大腾挪 “左手倒右手”背后三大猜想待解</a>
+</h3>
+<ul>
+  <li>    <a href="http://kuaixun.stcn.com/2014/0614/11490099.shtml" target="_blank" title='五省区率先发行516亿元地方债 地方政府将被评级'>五省区率先发行516亿元地方债 地方政府将被评级</a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0614/11490097.shtml" target="_blank" title='多地悄然放松贷款限购 房企销售现回暖'>多地悄然放松贷款限购 房企销售现回暖</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489437.shtml" target="_blank" title='习近平：积极推动我国能源生产和消费革命 '>习近平：积极推动我国能源生产和消费革命 </a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0613/11489511.shtml" target="_blank" title='证监会发布创业板首发和再融资信息披露准则'>证监会发布创业板首发和再融资信息披露准则</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489500.shtml" target="_blank" title='国企改革方案有望9月后公布 明年开始试点'>国企改革方案有望9月后公布 明年开始试点</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489423.shtml" target="_blank" title='余额宝上线一周年:从“理财神器”到金融变革先声'>余额宝上线一周年:从“理财神器”到金融变革先声</a>
+      </li>
+     <li>    <a href="http://kuaixun.stcn.com/2014/0613/11489392.shtml" target="_blank" title='李大霄：新股首日交易新规则提高了效率有进步'>李大霄：新股首日交易新规则提高了效率有进步</a>
+      </li>
+     <li>    <a href="http://www.stcn.com/2014/0613/11489495.shtml" target="_blank" title='多地开发商放宽首付比例 担忧美国次贷危机重演'>多地开发商放宽首付比例 担忧美国次贷危机重演</a>
+      </li>
+   </ul>
+</div>
+</div><!--页面右侧推荐阅读区块-->
+                      <iframe width="300px" scrolling="no" height="244px" frameborder="0" allowtransparency="true" src="http://stock.stcn.com/node_19269.htm"></iframe>
+                     <div class="bb10">
+                        <div class="agz clearfix"> <a target="_blank" href="http://aigu.stcn.com/">爱股者</a>
+                            <input type="text" onkeydown="javascript:if(event.keyCode==13){ toSearch1(); }" name="secucode" id="secucode" class="inpTxt" autocomplete="off" style="color: rgb(153, 153, 153);" />
+                            <input type="button" onclick="toSearch1();" id="selButton" value="查询" class="inpBtn" />
+                        </div>
+                    </div>
+                    <div class="ph-wrap">
+	<h2>新闻排行</h2>
+	<div class="wrap_bd">
+	<ol class="clearfix">
+			<li><a class="actiev" href="javascript:"><span>日排行</span></a></li>
+			<li><a href="javascript:"><span>周排行</span></a></li>
+			<li><a href="javascript:"><span>月排行</span></a></li>
+	</ol>
+         	<ul>
+        
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490227.shtml" >周六可能影响股价重要财经资讯速递</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490288.shtml" >周末可能影响股价重要财经资讯速递（更新中）</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490274.shtml" >京津冀一体化方案初步形成 或6月底出台</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490276.shtml" >上海发布产业结构调整负面清单及能效指南</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0614/11490275.shtml" >全国政协副主席苏荣涉嫌严重违纪违法正接受调查</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490317.shtml" >国务院发文将用十年完善地下管线 概念股迎升机</a></li>
+
+            
+
+         <li><a target="_blank" href="http://stock.stcn.com/2014/0615/11490325.shtml" >周一机构一致看好10大金股</a></li>
+
+            
+
+         <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0615/11490318.shtml" >信贷资产支持证券首次登陆上交所</a></li>
+
+            
+
+         <li><a target="_blank" href="http://company.stcn.com/2014/0614/11490273.shtml" >中恒血栓通中标价悬疑 医院被暴利驱使成开药机器</a></li>
+
+            
+
+         <li><a target="_blank" href="http://company.stcn.com/2014/0615/11490321.shtml" >葛文耀抖出上海家化家底：还藏十几亿利润</a></li>
+
+					</ul>
+	<ul class="hide">
+	             
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0613/11488111.shtml" >解放军今日15时在渤海北部进行导弹打靶 船只禁入</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0612/11485735.shtml" >12日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0609/11475934.shtml" >9日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0610/11479495.shtml" >10日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0608/11473325.shtml" >周末可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0612/11485765.shtml" >12日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0610/11479499.shtml" >10日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0611/11482600.shtml" >11日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0611/11482635.shtml" >11日晚可能影响股价的重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0609/11476017.shtml" >6月9日晚间两市公司利好公告</a></li>
+         				
+	</ul>
+	<ul class="hide">
+                      
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0613/11488111.shtml" >解放军今日15时在渤海北部进行导弹打靶 船只禁入</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0602/11459874.shtml" >端午假期可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0605/11468739.shtml" >5日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0519/11428220.shtml" >19日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0604/11465513.shtml" >4日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0527/11448817.shtml" >5月27日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0528/11451728.shtml" >5月28日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0518/11425236.shtml" >周日可能影响股价重要财经资讯速递</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0529/11455199.shtml" >5月29日晚间利好消息汇总</a></li>
+                     
+               <li><a target="_blank" href="http://kuaixun.stcn.com/2014/0606/11471947.shtml" >6日晚间利好消息汇总</a></li>
+         		
+	</ul>
+	</div>
+</div>
+<!--页面右侧新闻排行区块-->
+               
+   </div>
+<div class="zz_footer">
+  <iframe src="http://www.stcn.com/common28/include/footer.html" width="980" height="150" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<!-- tongji文件star -->
+<div style="display:none;">
+	<script src="http://s116.cnzz.com/stat.php?id=1738450&web_id=1738450&show=pic1" language="JavaScript" charset="gb2312"></script>
+	<script type="text/javascript">
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F71eadf6763c330208eb6c988d9474ed5' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+</div>
+<!-- tongji文件end -->
+</body>
+</html>
+

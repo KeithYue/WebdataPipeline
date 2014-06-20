@@ -1,0 +1,1962 @@
+http://bbs.hexun.com/funds/post_30_5857069_1_d.html
+1402752190.87
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	一直在想钱荒是怎么造成的-基金大家谈-基金论坛-财经世界-和讯论坛
+</title>
+	<link href="/s/p/a.css?0915" type="text/css" rel="stylesheet"/>
+<link href="/css/bbs2013.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/s/p/h.js?a"></script>
+<style type="text/css">
+.admA,.ipedit{display:none;}
+</style>
+<script type="text/javascript" language="javascript">
+var boardUrl = 'http://bbs.hexun.com/funds/board_30_all_1_d.html';
+var post = {id:5857069,boardId:30,title:'一直在想钱荒是怎么造成的',isTop:false,
+    isEssence:false,
+    isValid:true,isRecomment:false,isLock:false,
+    isMark:false,av:5};
+
+
+function $(id) { return document.getElementById(id); }
+
+var hasCopyMsg = '已复制帖子信息，请按Ctrl+V粘贴到MSN,QQ或Email分享给朋友吧！';
+function getShareText(){
+    var t = post.title;
+    var url = location.href;
+    var txt = (t + '\r\n' + url);
+    return txt;
+}
+
+function fixImg(oimg){
+    if(oimg.processError)return;   
+    var src = oimg.src;
+    oimg.processError = true;                
+    oimg.src = 'http://f200-9.bbs.hexun.com/service/externalImg.aspx?t='+new Date().getTime()+'&src=' + src.encodeURI();
+}
+</script>
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+	<table class="banner" style="width: 100%;display:none" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="adTopLeft" width="784"><a href="http://bbs.hexun.com/" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/100318/150926.jpg" alt="好风光"/></a></td><td id="adTopRight"><ul><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯解和论坛吗</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li></ul></td></tr></tbody></table>
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/money/board_28_all_1_d.html" target="_top">基金论坛</a> &gt; <a href="http://bbs.hexun.com/funds/board_30_all_1_d.html" target="_top">基金大家谈</a></div>
+<div class="rigser"><form method="get" action="/search" style="display:inline" target="_blank">
+<p><input name="q" style="padding-bottom: 0px; line-height: 16px; padding-left: 2px; width: 150px; padding-right: 2px; height: 16px; color: #8b8b8b; padding-top: 0px;"  type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" /> 
+<label><select style="color: #8b8b8b;" name="type">
+<option value="1">标题</option>
+<option value="16">作者</option>
+<option value="2">正文</option>
+</select>
+</label>  
+<input type="image" src="/clientfiles/post/img/btn_ser.gif" alt="搜索" align="absMiddle" />
+</p>
+</form></div>
+</div>
+<div id="content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding-right:10px;" id="tdContent"><a name="top"></a>
+<div style="height:28px;clear:both">
+<div style="float:left;width:200px;">
+<a href="/newpost.aspx?bid=30" target="_blank"><img src="/clientfiles/post/img/btn_fb.gif" /></a>
+<a href="/newreply.aspx?bid=30&postId=5857069" target="_top"><img src="/clientfiles/post/img/btn_hf2.gif" /></a>
+</div>
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/funds/post_30_5857069_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/funds/post_30_5857069_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/funds/post_30_5857069_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+</div>
+<div class="artcont" style="overflow-x:hidden;width:766px" id="divPosts">
+<div class="arttitle" id="divTitle"> <b>点击：<span id="pv" class="fc00">...</span>   回复：<span class="fc00">66</span></b>
+主题：<strong>一直在想钱荒是怎么造成的</strong> 
+<img src="/icons/default.gif"align="absmiddle" alt='默认' title='默认' /></div>
+<!--发帖人信息-->
+
+<dl class="ftrmod">
+<dt style="width:65px;"><a href="/u_4670275/_d.html" target="_blank"><img width="46" height="46" src="http://logo3.tool.hexun.com/434347-40.jpg" /></a></dt>
+<dd>
+<h3><span> 发表于： [2013-06-27 11:18:49]</span>
+<strong class="f06c0">楼主：<a target="_blank" href="/u_4670275/_d.html" class="f06c0">红色太阳花</a></strong> [<a target="_blank" href="/u_4670275/_d.html"  class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('红色太阳花');"  class="f666">发送纸条</a>] [<a href="http://blog.hexun.com/4670275/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/4670275/" class="f666" target="_blank">微博</a>]</h3>
+<p>等级：<span id="dvGradeName">...</span>&nbsp;&nbsp;积分：<span id="dvuserpoint">...</span></p>
+</dd>
+</dl>
+
+<div class="clear"></div>
+
+<div class="txtmain">
+　　估计融资融券做股票是罪魁之一：钱压在券商那儿，随时会用自然不会进银行了。<br/>　　想想钱荒的好处是钱贷出去了，有利有弊吧。<br/>　　所以不等了买入银行股。
+<p>　　<img src="/editor/emts/01.gif" alt="微笑"/></p>
+<div style=" width:100%; text-align:center;"><a style="font-size:large; color:Red; font-weight:bold;" href="http://bbs.hexun.com/" target="_blank">查看更多精彩内容请进论坛首页</a></div>
+</div>
+
+<div class="bqdiv">
+
+</div>
+
+<style type="text/css">
+ .fl{ float:left; display:inline;}
+ .fr{ float:right; display:inline;}
+ .clearfix:after{
+     content:'.';
+     display:block;
+     width:0;
+     height:0;
+     overflow:hidden;
+     visibility:hidden;
+     clear:both;
+ }
+ .mb15{ margin-bottom:15px; *margin-bottom:10px;}
+ .clearfix{ zoom:100% }
+.shareBox{ width:354px; float:left; display:inline; margin-left:35px; overflow:visible;height:20px; padding-top:0px; line-height:18px;font-size:12px; text-align:right; color:#d9d9d9}
+.shareBox span{color:#666; vertical-align:middle}
+.shareBox span.word_desc{color:#666; display:inline-block; padding-top:1px;}
+.ssina_btn,.sqq_btn,.skx_btn,.srr_btn,.sdb_btn,.shxwb_btn,.ssohu_btn,.sqqz_btn{display:inline-block; margin:0px 8px; width:0px; height:20px; padding-left:16px;background:url(http://img.hexun.com/home/icons-share.gif) no-repeat 0 2px; vertical-align:middle; position:relative;}
+.ssina_btn{background-position:0px -198px;}
+.sqq_btn{background-position:0px -162px;}
+.skx_btn{background-position:0px -37px;}
+.srr_btn{background-position:0px -77px;}
+.sdb_btn{background-position:0px -117px;}
+.ssohu_btn{background-position:0px -234px;}
+.sqqz_btn{ background-position:0px -269px;}
+.shareBox a div{ position:absolute; overflow:hidden; width:0px;background:url(http://img.hexun.com/home/sharetip.gif) no-repeat 0 0px;height:20px; padding-top:2px; color:#666; text-align:center;text-decoration:none; line-height:18px; }
+.shareBox a:hover{ text-decoration:none}
+.shareBox a:hover div,.shareBox a .on{ top:-20px; width:91px; left:-38px}
+#douban div{ background-position:0px -22px;}
+#douban a:hover div,#douban .on{ top:-20px; width:91px; left:-64px}
+    /*cwb*/
+    .shareBox_longweibo{ margin-right:105px;}
+    .shareBox_longweibo span{ height:26px; line-height:26px; color:#666666;}
+    .pt5{ padding-top:5px;}
+</style>
+<div class="cwbShare clearfix pt5 mb15">
+    <div class="shareBox" id="share"><span class="word_desc">将本文分享至：</span><a name="和讯微博" href="javascript:void((function(s,d,e,t,z){var f='http://t.hexun.com/channel/shareweb.aspx?',u=z||d.location,p=['title=',e(t||d.title),'&amp;url=',e(u)].join('');function a(){if(!window.open([f,p].join(''),'wb'))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a();})(screen,document,encodeURIComponent,'',''));" class="shxwb_btn"><div class="">分享到和讯微博</div></a>|<a class="ssina_btn" href="#" target=_blank id=sina><div>分享到新浪微博</div></a>|<a href="#" target=_blank id=sohu name="分享到搜狐微博" class="ssohu_btn"><div>分享到搜狐微博</div></a>|<a href="#" target=_blank id=qq class="sqq_btn"><div>分享到腾讯微博</div></a>|<a class="skx_btn" id=kaixin target=_blank href="#"><div>分享到开心网</div></a>|<a href="#" target=_blank id=renren class="srr_btn"><div>分享到人人网</div></a>|<a href="#" id=douban class="sdb_btn"  target=_blank><div>分享到豆瓣网</div></a></div>
+
+        <div class="fr">
+					<div class="shareBox_longweibo">
+						<span class="fl">将文本：</span>
+						<a class="fl" id="CreateCWB" href="javascript:void(0);" onclick="goCwb();"><img alt="生成长微博" src="/img/cwb_btn.png" /></a>
+						<a class="fl" id="createCWB2" href="http://hexuncom.blog.hexun.com/81128788_d.html" target="_blank"><img alt="" src="/img/cwb_help.png" /></a>
+					</div>
+    </div>
+</div>
+<script type="text/javascript">
+function shareHexunAll(){
+	var db=document.getElementById("douban");
+	if(db!=null){
+		db.href='http://www.douban.com/recommend/?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var qq=document.getElementById("qq");
+	if(qq!=null){
+		qq.href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var rr=document.getElementById("renren");
+	if(rr!=null){
+		rr.href='http://share.renren.com/share/buttonshare.do?link='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var kx=document.getElementById("kaixin");
+	if(kx!=null){
+		kx.href='http://www.kaixin001.com/repaste/share.php?rtitle='+escape(document.title)+'&rurl='+encodeURIComponent(document.location.href)+'&rcontent=';
+	}
+	
+	var sohu=document.getElementById("sohu");
+	if(sohu!=null){
+		sohu.href='http://t.sohu.com/third/post.jsp?&url='+escape(window.location.href)+'&title='+escape(document.title);
+	}
+	
+	var sina=document.getElementById("sina");
+	if(sina!=null){
+		sina.href='http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark';
+	}
+
+//	var cwb = document.getElementById("CreateCWB");
+//	if (cwb != null) {
+//		cwb.href = 'http://cwb.tool.hexun.com/?tcode='+ 5857069 +'&mt=2&title=' + encodeURIComponent('一直在想钱荒是怎么造成的') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime();
+//	}
+}
+shareHexunAll();
+
+function goCwb() {
+	//alert('ok');
+  window.open('http://cwb.tool.hexun.com/?tcode='+ 5857069 +'&mt=2&title=' + encodeURIComponent('一直在想钱荒是怎么造成的') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime());
+}
+
+var btnList = document.getElementById('share').getElementsByTagName("a")
+var btndiv = document.getElementById('share').getElementsByTagName("div")
+for(var i=0;i<btnList.length;i++){
+   (function(i){
+btnList[i].onmouseover = function(){
+btndiv[i].className='on'
+}
+btnList[i].onmouseout = function(){
+btndiv[i].className=''
+}
+})(i)
+}
+</script>
+   
+ <div class="ipedit" id="divIPEdit">
+    <span class="right">用户IP:<span id="ip"></span>  来自：<span id="address"></span></span>
+    <a href="javascript:void(0)" target="_self" onclick="setTop(event)" id="cmdTop">置顶</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setEssence(event)" id="cmdEssence">精华</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setRecomment(event)" id="cmdRecommend">推荐</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setMark(event)" id="cmdMark">标记</a>  
+    <a href="javascript:void(0)" target="_self" onclick="movePost()" id="cmdMove">转移</a>  
+    <a href="javascript:void(0)" target="_self" onclick="copyPost()" id="cmdCopy">转帖</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setLock(event)" id="cmdLock">锁定</a>
+    <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)" id="cmdDelete">删除</a>  
+    调整A值： <label>
+ <select name="AValue" id="avalue" onchange="setAValue(this)">
+ <option value="-5" >-5</option><option value="-4" >-4</option><option value="-3" >-3</option><option value="-2" >-2</option><option value="-1" >-1</option><option value="0" >&nbsp;0</option><option value="1" >&nbsp;1</option><option value="2" >&nbsp;2</option><option value="3" >&nbsp;3</option><option value="4" >&nbsp;4</option><option value="5"  selected>&nbsp;5</option>
+ </select>
+ </label>
+ </div>
+ 
+
+   <div class=" btnli"> 
+   
+   <a href="/newreply.aspx?bid=30&postId=5857069">回复</a>  | 
+    <a href="/newreply.aspx?bid=30&postId=5857069&quote=true">引用</a>  | 
+
+<a href="javascript:void(0)" onclick="addBookmark(location.href,document.title)" target="_self">收藏</a> | 
+
+    <span class="admA"> <a href="/editpost.aspx?postId=5857069">编辑</a>  | </span>
+      <a href="javascript:copy(top.location.href)" target="_self">复制链接</a>  |
+        <a href="javascript:;" target="_self" onclick="informPost()">举报</a> <span class="admA">| 
+         <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)">删除</a> 
+         </span>
+         <a href="#top"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a>
+         
+</div>
+   
+   <div class="lymod"><a name="#27516544" id='A_27516544'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_2140473/_d.html"><img src="http://logo1.tool.hexun.com/39a920-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">1楼：<a href="/u_2140473/_d.html" class="f06c0">polyman</a></span> 发表于：[2013-06-27 12:02:18]</p>
+   <p>[<a href="/u_2140473/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('polyman');" class="f666">发送纸条</a>]<a name="27516544"></a> [<a href="http://blog.hexun.com/2140473/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/2140473/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　钱荒对大银行是利好。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27516544">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27516544&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27516544&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27516544)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27516544)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27542383" id='A_27542383'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18411570/_d.html"><img src="http://logo2.tool.hexun.com/132f018-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">2楼：<a href="/u_18411570/_d.html" class="f06c0">fap5</a></span> 发表于：[2013-06-28 21:01:56]</p>
+   <p>[<a href="/u_18411570/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('fap5');" class="f666">发送纸条</a>]<a name="27542383"></a> [<a href="http://blog.hexun.com/18411570/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18411570/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　各级贪官污吏手中不敢存银行的现金{赃款}，至少有10万亿！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27542383">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27542383&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27542383&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27542383)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27542383)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27547014" id='A_27547014'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_21988434/_d.html"><img src="http://logo2.tool.hexun.com/152844f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">3楼：<a href="/u_21988434/_d.html" class="f06c0">望州医院</a></span> 发表于：[2013-06-29 11:29:21]</p>
+   <p>[<a href="/u_21988434/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('望州医院');" class="f666">发送纸条</a>]<a name="27547014"></a> [<a href="http://blog.hexun.com/21988434/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/21988434/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27547014">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27547014&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27547014&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27547014)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27547014)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27568464" id='A_27568464'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14981576/_d.html"><img src="http://logo0.tool.hexun.com/c899e4-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">4楼：<a href="/u_14981576/_d.html" class="f06c0">lanny3918</a></span> 发表于：[2013-07-01 11:04:12]</p>
+   <p>[<a href="/u_14981576/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('lanny3918');" class="f666">发送纸条</a>]<a name="27568464"></a> [<a href="http://blog.hexun.com/14981576/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14981576/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　钱荒个屁，就是滞胀，非要换个说法。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27568464">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27568464&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27568464&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27568464)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27568464)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27608032" id='A_27608032'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14259029/_d.html"><img src="http://logo1.tool.hexun.com/5593d9-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">5楼：<a href="/u_14259029/_d.html" class="f06c0">minghao563</a></span> 发表于：[2013-07-03 13:23:31]</p>
+   <p>[<a href="/u_14259029/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao563');" class="f666">发送纸条</a>]<a name="27608032"></a> [<a href="http://blog.hexun.com/14259029/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14259029/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/09.gif" alt="发怒"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27608032">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27608032&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27608032&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27608032)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27608032)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27679853" id='A_27679853'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22027435/_d.html"><img src="http://logo3.tool.hexun.com/1ab1c50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">6楼：<a href="/u_22027435/_d.html" class="f06c0">shjcsdm</a></span> 发表于：[2013-07-09 14:07:48]</p>
+   <p>[<a href="/u_22027435/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('shjcsdm');" class="f666">发送纸条</a>]<a name="27679853"></a> [<a href="http://blog.hexun.com/22027435/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22027435/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/09.gif" alt="发怒"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27679853">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27679853&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27679853&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27679853)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27679853)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27804076" id='A_27804076'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22033675/_d.html"><img src="http://logo3.tool.hexun.com/10b3550-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">7楼：<a href="/u_22033675/_d.html" class="f06c0">五彩世界2013</a></span> 发表于：[2013-07-16 13:01:39]</p>
+   <p>[<a href="/u_22033675/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('五彩世界2013');" class="f666">发送纸条</a>]<a name="27804076"></a> [<a href="http://blog.hexun.com/22033675/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22033675/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/24.gif" alt="汗"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27804076">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27804076&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27804076&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27804076)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27804076)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#27829053" id='A_27829053'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14295823/_d.html"><img src="http://logo3.tool.hexun.com/f23da-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">8楼：<a href="/u_14295823/_d.html" class="f06c0">minghao963</a></span> 发表于：[2013-07-17 15:18:47]</p>
+   <p>[<a href="/u_14295823/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao963');" class="f666">发送纸条</a>]<a name="27829053"></a> [<a href="http://blog.hexun.com/14295823/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14295823/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Simsun">　钱荒对大银行是利好。</font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27829053">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=27829053&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=27829053&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(27829053)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(27829053)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28031088" id='A_28031088'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_5285162/_d.html"><img src="http://logo2.tool.hexun.com/2aa550-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">9楼：<a href="/u_5285162/_d.html" class="f06c0">zhougs1968</a></span> 发表于：[2013-07-29 14:28:30]</p>
+   <p>[<a href="/u_5285162/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('zhougs1968');" class="f666">发送纸条</a>]<a name="28031088"></a> [<a href="http://blog.hexun.com/5285162/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/5285162/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<div class="yycont"><div class="bg"><h4>weiyuanhengh 在 2013-07-26 22:58 写道：</h4><font face="Simsun">贪官污吏手中不敢存银行的现金还是很多的</font><p>　　<font face="Simsun">nwztd.cn</font></p></div></div>不存银行，放在哪里？悄悄告诉我<img src="/editor/emts/13.gif" alt="不说"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28031088">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28031088&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28031088&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28031088)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28031088)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28151921" id='A_28151921'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14295823/_d.html"><img src="http://logo3.tool.hexun.com/f23da-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">10楼：<a href="/u_14295823/_d.html" class="f06c0">minghao963</a></span> 发表于：[2013-08-03 16:03:16]</p>
+   <p>[<a href="/u_14295823/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao963');" class="f666">发送纸条</a>]<a name="28151921"></a> [<a href="http://blog.hexun.com/14295823/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14295823/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　是真的吗</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28151921">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28151921&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28151921&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28151921)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28151921)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28321752" id='A_28321752'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22121858/_d.html"><img src="http://logo2.tool.hexun.com/1828d51-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">11楼：<a href="/u_22121858/_d.html" class="f06c0">xunkaka</a></span> 发表于：[2013-08-11 00:07:24]</p>
+   <p>[<a href="/u_22121858/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('xunkaka');" class="f666">发送纸条</a>]<a name="28321752"></a> [<a href="http://blog.hexun.com/22121858/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22121858/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　钱荒，只是民企的钱荒。只是没有微小企业的钱荒。国企从来都是不差钱。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28321752">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28321752&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28321752&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28321752)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28321752)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28484919" id='A_28484919'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14295823/_d.html"><img src="http://logo3.tool.hexun.com/f23da-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">12楼：<a href="/u_14295823/_d.html" class="f06c0">minghao963</a></span> 发表于：[2013-08-17 15:53:07]</p>
+   <p>[<a href="/u_14295823/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao963');" class="f666">发送纸条</a>]<a name="28484919"></a> [<a href="http://blog.hexun.com/14295823/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14295823/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Simsun">钱荒对大银行是利好。</font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28484919">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28484919&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28484919&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28484919)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28484919)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28553651" id='A_28553651'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">13楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-20 17:20:41]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28553651"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Arial"><font style="font-size:16px"><font color="rgb(51, 51, 51)">圣才教育很不错</font></font></font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28553651">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28553651&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28553651&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28553651)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28553651)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28581645" id='A_28581645'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">14楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-21 16:09:35]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28581645"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Tahoma, Simsun"><font style="font-size:16px"><font color="rgb(68, 68, 68)">打酱油的路过！</font></font></font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28581645">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28581645&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28581645&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28581645)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28581645)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28611506" id='A_28611506'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">15楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-22 16:42:01]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28611506"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28611506">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28611506&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28611506&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28611506)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28611506)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28620485" id='A_28620485'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_5235199/_d.html"><img src="http://logo3.tool.hexun.com/ffe14f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">16楼：<a href="/u_5235199/_d.html" class="f06c0">y1g3</a></span> 发表于：[2013-08-23 09:21:50]</p>
+   <p>[<a href="/u_5235199/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('y1g3');" class="f666">发送纸条</a>]<a name="28620485"></a> [<a href="http://blog.hexun.com/5235199/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/5235199/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<div class="yycont"><div class="bg"><h4>楼主：红色太阳花 在 2013-06-27 11:18 写道：</h4>估计融资融券做股票是罪魁之一：钱压在券商那儿，随时会用自然不会进银行了。<br/>　　想想钱荒的好处是钱贷出去了，有利有弊吧。<br/>　　所以不等了买入银行股。
+<p>　　<img src="/editor/emts/01.gif" alt="微笑"/></p></div></div><font style="font-size:12px">和融资融券有关吗？不管是融资，还是融券，买进还是卖出，无非是你账上的钱到了别人账上，难道别人收了你的钱都是放床底下不进银行的？券商收了钱都是放床底下不进银行的？</font><p>　　<font style="font-size:12px">钱荒是钱都贷出去了？那么请问，得到贷款的企业把贷来的款都放在<a href="http://bbs.hexun.com/search/?q=%B1%A3%CF%D5&type=1" target="_blank">保险</a>柜</font><font style="font-size:12px">不存银行的？要存银行，那么不在A银行，就在B银行C银行，整个银行体系看怎么会因为贷款增加而钱荒？</font></p><p>　　<font style="font-size:12px">去看看货币银行学吧</font></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28620485">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28620485&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28620485&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28620485)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28620485)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28635048" id='A_28635048'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_4670275/_d.html"><img src="http://logo3.tool.hexun.com/434347-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">17楼：<a href="/u_4670275/_d.html" class="f06c0">红色太阳花</a></span> 发表于：[2013-08-23 16:02:56]</p>
+   <p>[<a href="/u_4670275/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('红色太阳花');" class="f666">发送纸条</a>]<a name="28635048"></a> [<a href="http://blog.hexun.com/4670275/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/4670275/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<div class="yycont"><div class="bg"><h4>y1g3 在 2013-08-23 09:21 写道：</h4><font style="font-size:12px">和融资融券有关吗？不管是融资，还是融券，买进还是卖出，无非是你账上的钱到了别人账上，难道别人收了你的钱都是放床底下不进银行的？券商收了钱都是放床底下不进银行的？</font><p>　　<font style="font-size:12px">钱荒是钱都贷出去了？那么请问，得到贷款的企业把贷来的款都放在<a href="http://bbs.hexun.com/search/?q=%B1%A3%CF%D5&type=1" target="_blank">保险</a>柜</font><font style="font-size:12px">不存银行的？要存银行，那么不在A银行，就在B银行C银行，整个银行体系看怎么会因为贷款增加而钱荒？</font></p><p>　　<font style="font-size:12px">去看看货币银行学吧</font></p></div></div><p>　　华泰证券开通日日赢晚上客户账上的钱都不会回银行<img src="/editor/emts/01.gif" alt="微笑"/></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28635048">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28635048&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28635048&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28635048)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28635048)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28675764" id='A_28675764'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">18楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-25 16:31:42]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28675764"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　楼主加油</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28675764">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28675764&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28675764&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28675764)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28675764)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28702895" id='A_28702895'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">19楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-26 16:48:21]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28702895"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　不懂，都来创业吧</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28702895">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28702895&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28702895&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28702895)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28702895)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28727703" id='A_28727703'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22230177/_d.html"><img src="http://logo1.tool.hexun.com/1a13453-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">20楼：<a href="/u_22230177/_d.html" class="f06c0">信德菲菲</a></span> 发表于：[2013-08-27 15:08:11]</p>
+   <p>[<a href="/u_22230177/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('信德菲菲');" class="f666">发送纸条</a>]<a name="28727703"></a> [<a href="http://blog.hexun.com/22230177/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22230177/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><p>　　<img src="/editor/emts/01.gif" alt="微笑"/>都是存银行</p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28727703">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28727703&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28727703&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28727703)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28727703)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28732768" id='A_28732768'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">21楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-27 17:48:11]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28732768"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　我们一起加油啊</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28732768">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28732768&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28732768&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28732768)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28732768)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28780690" id='A_28780690'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22048107/_d.html"><img src="http://logo3.tool.hexun.com/16b6d50-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">22楼：<a href="/u_22048107/_d.html" class="f06c0">dyq804</a></span> 发表于：[2013-08-29 17:35:01]</p>
+   <p>[<a href="/u_22048107/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('dyq804');" class="f666">发送纸条</a>]<a name="28780690"></a> [<a href="http://blog.hexun.com/22048107/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22048107/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　圣才教育开始招商了</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28780690">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28780690&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28780690&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28780690)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28780690)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28806227" id='A_28806227'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22153299/_d.html"><img src="http://logo3.tool.hexun.com/1530852-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">23楼：<a href="/u_22153299/_d.html" class="f06c0">长发大侠</a></span> 发表于：[2013-08-30 15:52:49]</p>
+   <p>[<a href="/u_22153299/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('长发大侠');" class="f666">发送纸条</a>]<a name="28806227"></a> [<a href="http://blog.hexun.com/22153299/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22153299/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　趋势，一流商人做趋势。<a href="http://bbs.hexun.com/search/?q=%CF%D6%BB%F5&type=1" target="_blank">现货</a><a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=18&y=13" target="_blank">白银</a>刚刚起步2-3年，绝对是<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CD%B6%D7%CA&x=26&y=8" target="_blank">投资</a>绝佳时机，把握住机会就能创造<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B2%C6%B8%BB&x=31&y=10" target="_blank">财富</a>。看---梁秉旗---博客，跟着名人赚大钱。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28806227">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28806227&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28806227&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28806227)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28806227)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#28820968" id='A_28820968'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14295716/_d.html"><img src="http://logo0.tool.hexun.com/a422da-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">24楼：<a href="/u_14295716/_d.html" class="f06c0">minghao363</a></span> 发表于：[2013-08-31 15:27:17]</p>
+   <p>[<a href="/u_14295716/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao363');" class="f666">发送纸条</a>]<a name="28820968"></a> [<a href="http://blog.hexun.com/14295716/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14295716/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　真的钱荒了吗</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28820968">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=28820968&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=28820968&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(28820968)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(28820968)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29076820" id='A_29076820'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22088910/_d.html"><img src="http://logo2.tool.hexun.com/1ce0c51-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">25楼：<a href="/u_22088910/_d.html" class="f06c0">乐乐金融</a></span> 发表于：[2013-09-09 11:01:27]</p>
+   <p>[<a href="/u_22088910/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('乐乐金融');" class="f666">发送纸条</a>]<a name="29076820"></a> [<a href="http://blog.hexun.com/22088910/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22088910/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/33.gif" alt="咖啡"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29076820">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29076820&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29076820&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29076820)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29076820)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29231279" id='A_29231279'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22152181/_d.html"><img src="http://logo1.tool.hexun.com/1f50352-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">26楼：<a href="/u_22152181/_d.html" class="f06c0">ˇジ告孑</a></span> 发表于：[2013-09-16 10:22:22]</p>
+   <p>[<a href="/u_22152181/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ˇジ告孑');" class="f666">发送纸条</a>]<a name="29231279"></a> [<a href="http://blog.hexun.com/22152181/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22152181/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　还是P2P理财网站好，如迅贷</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29231279">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29231279&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29231279&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29231279)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29231279)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29305898" id='A_29305898'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22589008/_d.html"><img src="http://logo0.tool.hexun.com/150ae58-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">27楼：<a href="/u_22589008/_d.html" class="f06c0">nai_man</a></span> 发表于：[2013-09-18 22:11:36]</p>
+   <p>[<a href="/u_22589008/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('nai_man');" class="f666">发送纸条</a>]<a name="29305898"></a> [<a href="http://blog.hexun.com/22589008/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22589008/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　看完了</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29305898">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29305898&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29305898&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29305898)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29305898)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29316324" id='A_29316324'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_21972323/_d.html"><img src="http://logo3.tool.hexun.com/163454f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">28楼：<a href="/u_21972323/_d.html" class="f06c0">冯绎人</a></span> 发表于：[2013-09-19 13:58:53]</p>
+   <p>[<a href="/u_21972323/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('冯绎人');" class="f666">发送纸条</a>]<a name="29316324"></a> [<a href="http://blog.hexun.com/21972323/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/21972323/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　我认为简单说就是 银行以能无休止的再融资、扩大<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>占比等原因，不断加大放贷规模。适逢外资稍有撤离，使得银行间头寸短缺。脆弱的银行，简单的原因<img src="/editor/emts/24.gif" alt="汗"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29316324">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29316324&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29316324&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29316324)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29316324)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29576798" id='A_29576798'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22686430/_d.html"><img src="http://logo2.tool.hexun.com/1de2a5a-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">29楼：<a href="/u_22686430/_d.html" class="f06c0">股票配资全国</a></span> 发表于：[2013-09-30 23:20:13]</p>
+   <p>[<a href="/u_22686430/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('股票配资全国');" class="f666">发送纸条</a>]<a name="29576798"></a> [<a href="http://blog.hexun.com/22686430/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22686430/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　都跑到银行去了</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29576798">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29576798&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29576798&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29576798)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29576798)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29864378" id='A_29864378'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22765171/_d.html"><img src="http://logo3.tool.hexun.com/1735e5b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">30楼：<a href="/u_22765171/_d.html" class="f06c0">拾得一元</a></span> 发表于：[2013-10-14 15:36:56]</p>
+   <p>[<a href="/u_22765171/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('拾得一元');" class="f666">发送纸条</a>]<a name="29864378"></a> [<a href="http://blog.hexun.com/22765171/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22765171/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29864378">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29864378&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29864378&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29864378)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29864378)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29864388" id='A_29864388'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22765171/_d.html"><img src="http://logo3.tool.hexun.com/1735e5b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">31楼：<a href="/u_22765171/_d.html" class="f06c0">拾得一元</a></span> 发表于：[2013-10-14 15:37:28]</p>
+   <p>[<a href="/u_22765171/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('拾得一元');" class="f666">发送纸条</a>]<a name="29864388"></a> [<a href="http://blog.hexun.com/22765171/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22765171/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="'Lucida Grande', 'Lucida Sans Unicode', Arial, Verdana, sans-serif"><font style="font-size:12px"><font color="rgb(137, 137, 137)">       优顾理财：优顾网倾力出品的一款手机财经理财软件，聚焦实用理财信息，包括股票、银行等百姓理财的各个方面，教会您钱生钱，月光也能生金蛋！抵御通胀，就从优顾开始吧！</font></font></font><p>　　<font face="Lucida Grande, Lucida Sans Unicode, Arial, Verdana, sans-serif"><font color="#007000"><font style="font-size:12px">安卓、苹果都能完美适用，快下载吧，亲！</font></font></font></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29864388">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29864388&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29864388&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29864388)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29864388)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29916894" id='A_29916894'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14295716/_d.html"><img src="http://logo0.tool.hexun.com/a422da-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">32楼：<a href="/u_14295716/_d.html" class="f06c0">minghao363</a></span> 发表于：[2013-10-16 10:32:27]</p>
+   <p>[<a href="/u_14295716/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('minghao363');" class="f666">发送纸条</a>]<a name="29916894"></a> [<a href="http://blog.hexun.com/14295716/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14295716/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Simsun">钱荒，就是滞胀，非要换个说法。</font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29916894">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29916894&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29916894&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29916894)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29916894)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#29932738" id='A_29932738'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_4489363/_d.html"><img src="http://logo3.tool.hexun.com/938044-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">33楼：<a href="/u_4489363/_d.html" class="f06c0">我爱疯鸡</a></span> 发表于：[2013-10-16 17:00:21]</p>
+   <p>[<a href="/u_4489363/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('我爱疯鸡');" class="f666">发送纸条</a>]<a name="29932738"></a> [<a href="http://blog.hexun.com/4489363/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/4489363/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/31.gif" alt="足球"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29932738">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=29932738&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=29932738&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(29932738)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(29932738)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#30170184" id='A_30170184'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_2140473/_d.html"><img src="http://logo1.tool.hexun.com/39a920-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">34楼：<a href="/u_2140473/_d.html" class="f06c0">polyman</a></span> 发表于：[2013-10-25 11:23:32]</p>
+   <p>[<a href="/u_2140473/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('polyman');" class="f666">发送纸条</a>]<a name="30170184"></a> [<a href="http://blog.hexun.com/2140473/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/2140473/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　那是因为20%的<a href="http://bbs.hexun.com/post_153_4091595_1_d.html" target="_blank">存准率</a></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30170184">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30170184&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=30170184&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(30170184)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(30170184)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#30786073" id='A_30786073'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22780971/_d.html"><img src="http://logo3.tool.hexun.com/12b9c5b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">35楼：<a href="/u_22780971/_d.html" class="f06c0">泰瑞汇</a></span> 发表于：[2013-11-27 10:09:13]</p>
+   <p>[<a href="/u_22780971/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('泰瑞汇');" class="f666">发送纸条</a>]<a name="30786073"></a> [<a href="http://blog.hexun.com/22780971/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22780971/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　被银行拿出去送给别人了啊</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30786073">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30786073&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=30786073&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(30786073)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(30786073)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#30836292" id='A_30836292'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22177815/_d.html"><img src="http://logo3.tool.hexun.com/1176852-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">36楼：<a href="/u_22177815/_d.html" class="f06c0">行云流水55</a></span> 发表于：[2013-11-29 16:29:07]</p>
+   <p>[<a href="/u_22177815/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('行云流水55');" class="f666">发送纸条</a>]<a name="30836292"></a> [<a href="http://blog.hexun.com/22177815/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22177815/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　看完了</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30836292">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=30836292&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=30836292&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(30836292)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(30836292)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31063917" id='A_31063917'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22926444/_d.html"><img src="http://logo0.tool.hexun.com/16cd45d-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">37楼：<a href="/u_22926444/_d.html" class="f06c0">查字典HH</a></span> 发表于：[2013-12-09 18:39:41]</p>
+   <p>[<a href="/u_22926444/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('查字典HH');" class="f666">发送纸条</a>]<a name="31063917"></a> [<a href="http://blog.hexun.com/22926444/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22926444/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　只要买卖点把握得好，什么样的大盘都能赚钱。没技术的朋友要谨慎操作</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31063917">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31063917&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31063917&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31063917)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31063917)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31240000" id='A_31240000'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_4489363/_d.html"><img src="http://logo3.tool.hexun.com/938044-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">38楼：<a href="/u_4489363/_d.html" class="f06c0">我爱疯鸡</a></span> 发表于：[2013-12-18 17:41:57]</p>
+   <p>[<a href="/u_4489363/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('我爱疯鸡');" class="f666">发送纸条</a>]<a name="31240000"></a> [<a href="http://blog.hexun.com/4489363/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/4489363/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<div class="yycont"><div class="bg"><h4>红色太阳花 在 2013-08-23 16:02 写道：</h4><p>　　华泰证券开通日日赢晚上客户账上的钱都不会回银行<img src="/editor/emts/01.gif" alt="微笑"/></p></div></div>所有的钱都是托管在银行的<img src="/editor/emts/01.gif" alt="微笑"/></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31240000">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31240000&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31240000&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31240000)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31240000)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31301844" id='A_31301844'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14305963/_d.html"><img src="http://logo3.tool.hexun.com/ab4ada-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">39楼：<a href="/u_14305963/_d.html" class="f06c0">三面翻制作</a></span> 发表于：[2013-12-21 16:16:03]</p>
+   <p>[<a href="/u_14305963/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('三面翻制作');" class="f666">发送纸条</a>]<a name="31301844"></a> [<a href="http://blog.hexun.com/14305963/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14305963/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<img src="/editor/emts/01.gif" alt="微笑"/><img src="/editor/emts/01.gif" alt="微笑"/><p>　　<img src="/editor/emts/01.gif" alt="微笑"/></p></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31301844">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31301844&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31301844&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31301844)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31301844)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31306486" id='A_31306486'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22686430/_d.html"><img src="http://logo2.tool.hexun.com/1de2a5a-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">40楼：<a href="/u_22686430/_d.html" class="f06c0">股票配资全国</a></span> 发表于：[2013-12-22 12:27:38]</p>
+   <p>[<a href="/u_22686430/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('股票配资全国');" class="f666">发送纸条</a>]<a name="31306486"></a> [<a href="http://blog.hexun.com/22686430/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22686430/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B9%C9%D6%B8&x=20&y=13" target="_blank">股指</a>目前走势和今年6月份行情极其神似！！！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31306486">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31306486&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31306486&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31306486)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31306486)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31321500" id='A_31321500'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23797013/_d.html"><img src="http://logo1.tool.hexun.com/1151d6b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">41楼：<a href="/u_23797013/_d.html" class="f06c0">四月月</a></span> 发表于：[2013-12-23 15:54:42]</p>
+   <p>[<a href="/u_23797013/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('四月月');" class="f666">发送纸条</a>]<a name="31321500"></a> [<a href="http://blog.hexun.com/23797013/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23797013/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<div class="yycont"><div class="bg"><h4>抄1505614725 在 2013-08-04 13:54 写道：</h4><p>　　不经一番痛彻骨，哪得梅花扑鼻香!</p><p>　　如果你是一个新股民，没有任何经验；</p><p>　　如果你是一个上班族，没有时间和精力看盘；</p><p>　　如果你是一个老股民，自己做股票总是不得意，也要承担很大的风险；</p><p>　　如果你在股海的搏击中迷失了方向；</p><p>　　如果你选择跟着我们操作,或许会是个很不错的选择!昵称号就是你想去的地方</p><p>　　<img src="/editor/emts/28.gif" alt="月亮"/><img src="/editor/emts/28.gif" alt="月亮"/><img src="/editor/emts/28.gif" alt="月亮"/>
+</p></div></div>钱荒，钱全部砸在<a href="http://bbs.hexun.com/search/?bid=&q=%B7%BF%B5%D8%B2%FA&type=1&x=23&y=11" target="_blank">房地产</a>上面去了，老百姓买不起房装修，地产商还不起银行，流动在<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>上的人民币也就少了。不知道究竟是要搞哪样。钱全部压在房地产上面，降低了流动性，没有体现出资金的价值，创造的价值也更少了。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31321500">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31321500&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31321500&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31321500)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31321500)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31338280" id='A_31338280'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23804169/_d.html"><img src="http://logo1.tool.hexun.com/109396b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">42楼：<a href="/u_23804169/_d.html" class="f06c0">huayutf1234</a></span> 发表于：[2013-12-24 16:14:13]</p>
+   <p>[<a href="/u_23804169/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('huayutf1234');" class="f666">发送纸条</a>]<a name="31338280"></a> [<a href="http://blog.hexun.com/23804169/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23804169/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　我也想知道</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31338280">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31338280&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31338280&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31338280)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31338280)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31463895" id='A_31463895'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_14965408/_d.html"><img src="http://logo0.tool.hexun.com/a05ae4-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">43楼：<a href="/u_14965408/_d.html" class="f06c0">元瀚霆</a></span> 发表于：[2014-01-02 17:32:27]</p>
+   <p>[<a href="/u_14965408/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('元瀚霆');" class="f666">发送纸条</a>]<a name="31463895"></a> [<a href="http://blog.hexun.com/14965408/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/14965408/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　任志强不是不承认钱荒吗？？民众的钱都用到了房子上面，房企收的钱哪去了？？任志强又透露了，大部分拿去买地了。。。。。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31463895">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31463895&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31463895&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31463895)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31463895)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#31993160" id='A_31993160'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23947451/_d.html"><img src="http://logo3.tool.hexun.com/1bb686d-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">44楼：<a href="/u_23947451/_d.html" class="f06c0">附近艾尔</a></span> 发表于：[2014-02-17 19:58:27]</p>
+   <p>[<a href="/u_23947451/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('附近艾尔');" class="f666">发送纸条</a>]<a name="31993160"></a> [<a href="http://blog.hexun.com/23947451/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23947451/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<font face="Simsun">贪官污吏手中不敢存银行的现金还是很多的</font></div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31993160">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=31993160&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=31993160&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(31993160)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(31993160)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32206508" id='A_32206508'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23778793/_d.html"><img src="http://logo1.tool.hexun.com/1e9d56a-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">45楼：<a href="/u_23778793/_d.html" class="f06c0">huidaiwang</a></span> 发表于：[2014-02-28 16:27:18]</p>
+   <p>[<a href="/u_23778793/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('huidaiwang');" class="f666">发送纸条</a>]<a name="32206508"></a> [<a href="http://blog.hexun.com/23778793/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23778793/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　钱不知道哪里去了...</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32206508">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32206508&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32206508&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32206508)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32206508)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32292975" id='A_32292975'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23986142/_d.html"><img src="http://logo2.tool.hexun.com/1deff6d-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">46楼：<a href="/u_23986142/_d.html" class="f06c0">利君通_qq</a></span> 发表于：[2014-03-06 14:43:51]</p>
+   <p>[<a href="/u_23986142/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('利君通_qq');" class="f666">发送纸条</a>]<a name="32292975"></a> [<a href="http://blog.hexun.com/23986142/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23986142/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　去买股票的话 风险会很大啊，能够考股票赚钱的 都是对<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%CA%D0%B3%A1&x=15&y=10" target="_blank">市场</a>有着准确的分析 判断力的 河南利君通 视频搜索网  家具 建材  汽车  酒店 装修 基于站内搜索，精准搜索</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32292975">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32292975&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32292975&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32292975)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32292975)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32574729" id='A_32574729'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_23957930/_d.html"><img src="http://logo2.tool.hexun.com/1aa916d-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">47楼：<a href="/u_23957930/_d.html" class="f06c0">enjoytone</a></span> 发表于：[2014-03-19 13:31:48]</p>
+   <p>[<a href="/u_23957930/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('enjoytone');" class="f666">发送纸条</a>]<a name="32574729"></a> [<a href="http://blog.hexun.com/23957930/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/23957930/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　呵呵，还有钱荒的时候哈。满意通安防关注您身边的安防</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32574729">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32574729&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32574729&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32574729)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32574729)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32639099" id='A_32639099'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_4513058/_d.html"><img src="http://logo2.tool.hexun.com/22dd44-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">48楼：<a href="/u_4513058/_d.html" class="f06c0">yuguo02615</a></span> 发表于：[2014-03-21 15:03:35]</p>
+   <p>[<a href="/u_4513058/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('yuguo02615');" class="f666">发送纸条</a>]<a name="32639099"></a> [<a href="http://blog.hexun.com/4513058/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/4513058/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　伤脑筋，．．．．．</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32639099">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32639099&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32639099&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32639099)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32639099)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32657666" id='A_32657666'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24031869/_d.html"><img src="http://logo1.tool.hexun.com/17db26e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">49楼：<a href="/u_24031869/_d.html" class="f06c0">拉拉手就好</a></span> 发表于：[2014-03-23 19:17:28]</p>
+   <p>[<a href="/u_24031869/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('拉拉手就好');" class="f666">发送纸条</a>]<a name="32657666"></a> [<a href="http://blog.hexun.com/24031869/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24031869/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　钱荒个屁，就是滞胀</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32657666">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32657666&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32657666&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32657666)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32657666)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#32778921" id='A_32778921'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24027523/_d.html"><img src="http://logo3.tool.hexun.com/183a16e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">50楼：<a href="/u_24027523/_d.html" class="f06c0">e2365920627</a></span> 发表于：[2014-03-28 09:48:20]</p>
+   <p>[<a href="/u_24027523/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('e2365920627');" class="f666">发送纸条</a>]<a name="32778921"></a> [<a href="http://blog.hexun.com/24027523/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24027523/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　亲。建仓你找到人了吗？</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32778921">回复</a>  | 
+   <a href="/newreply.aspx?bid=30&postId=5857069&parentId=32778921&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=30&replyId=32778921&postId=5857069">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(32778921)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(32778921)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="botpage">
+<div class="pagenum"><a class="previousNo">&nbsp;</a><a href="http://bbs.hexun.com/funds/post_30_5857069_1_d.html" target="_self" class="current">1</a> <a href="http://bbs.hexun.com/funds/post_30_5857069_2_d.html" target="_self">2</a> <a href="http://bbs.hexun.com/funds/post_30_5857069_2_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="2" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>
+</div>
+
+
+<script type="text/javascript" src="/s/p/b.js?a"></script>
+
+
+
+<script type="text/javascript">
+var editor = new punymce.Editor({
+	id : 'txtContent',
+	toolbar:'insertimage,insertlink,inserttable,insertchar,removeformat',
+    plugins : 'Protect,TextColor,EditSource,Entities,Hexun,BBCode',
+	min_width : 500,
+	max_width:500,
+	customSetup:replySetupMce,
+    styles : [
+	    { title : 'Code', cls : 'pre', cmd : 'FormatBlock', val : '<pre>' },
+	    { title : 'Quote', cls : 'quote', cmd : 'mceSetClass', val : 'quote'},
+	    { title : 'Unquote', cls : 'quote', cmd : 'mceSetClass', val : ''}
+    ],
+    image:{skip_css:true},
+    link:{skip_css:true},
+    textcolor:{skip_css:true},
+    fonts:['Arial','宋体','新宋体','黑体','幼圆','隶书','华文彩云','华文琥珀','微软雅黑'],
+    fontsizes:['8pt','10pt','12pt','14pt','18pt','24pt','36pt'],
+    resize:false,
+    enableCustomSetup:true
+});
+//被禁用的工具栏
+function updateDisableTools(disabledTools){
+    editor.disabled = disabledTools;
+}
+</script>
+<script src="/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getPostPageDisabledTools&bid=30" type="text/javascript"></script>
+
+<!--快速回复 b-->
+<div class="kshfmod"><a name="reply"></a>
+<h3>快速回复</h3>
+<div class="cont">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="520">
+<form method="post" name="formLogin" action="https://reg.hexun.com/login.aspx"><input name="gourl" value="http://bbs.hexun.com/post.aspx?bid=30&postId=5857069&pageNumber=1" type="hidden">
+<p class="yhxx"><span id="spnLoginStatus">未登录用户请在此登录：</span>
+    <input value="用户名" type="text" name="username" id="txtUserName" class="btn01"  style=" width:95px" onfocus="if(this.value=='用户名') this.value='';this.style.color='000000'" />　 
+    <input value="密码" type="password" name="password" id="txtPassword" class="btn01"  style=" width:95px" onfocus="if(this.value=='密码') {this.value='';this.style.color='000000';}" />
+    <input type="image" src="/s/p/img/login.jpg" class="lg"/>
+    <a href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS" class="f06c0" id="aReg"><u>新用户注册</u></a>
+</p>
+</form>
+<form name="aspnetForm" method="post" action="../post.aspx?bid=30&amp;postId=5857069&amp;pageNumber=1" id="aspnetForm" target="_self">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjIyNTU1OTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRRjdGwwMCRjJGJ1dHRvblN1Ym1pdA==" />
+</div>
+
+<textarea name="content" id="txtContent" rows="12" cols="60"></textarea>
+<!--[if IE]>
+<br/><font color="gray">Ctrl + 回车可以快速提交</font>
+<![endif]-->
+<div style="display:none" id="plVc"></div>
+
+
+<div class="post_reply"><span id="ctl00_c_labelMsg" style="color:Red;"></span> 
+<p><input type="image" name="ctl00$c$buttonSubmit" id="ctl00_c_buttonSubmit" src="/clientfiles/post/img/btn_fb.gif" onclick="return checkForm(this);" style="border-width:0px;" /></p>
+</div>
+
+<script src="/js/md5.js" type="text/javascript"></script><script>var police={address:'f6fd508039a6a84eac3c8f5ea98559f1',ip:'bc63d3289d86e2039421852c3df5e0e5'};addLoadEvent(function(){setPoliceCode(document.aspnetForm||theForm);});</script></form></td>
+    <td valign="top" class="contrig">   
+    <p><button  class="editbtn" type="button"  style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入股票行情图',src:'/service/quotechart.aspx?type=stock',width:'500px',height:'240px'});">插入股票行情图</button></p>
+     <p><button  class="editbtn" type="button" style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入基金行情图',src:'/service/quotechart.aspx?type=funds',width:'500px',height:'240px'});">插入基金行情图</button></p>
+<div style="font-size:1px;height:1px">&nbsp;</div>
+     <div>表情：<a class="emtSelected" id="aEmNew" href="javascript:Emotion.turn(0)" target="_self">新版</a>
+      | <a class="emtUnselected" id="aEmOld" href="javascript:Emotion.turn(1)" target="_self">老版</a>
+      </div>
+     <div id="divEmotions"></div></td>
+  </tr>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+<!--快速回复 e-->
+
+</td>
+    <td width="215" valign="top">
+<?xml version="1.0" encoding="gb2312"?>
+
+
+<!--include virtual="/inc/ads/180x150.inc"-->
+
+<div id="sidebar">
+
+<div class="sidemod">
+<ul class=li02>
+<li><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank><img alt=短期理财就选它 src="http://i4.hexunimg.cn/2014-05-13/164743323.jpg"></a><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank>短期理财就选它</a></li>
+
+<li><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank><img alt=来就送2000元 src="http://i9.hexunimg.cn/2014-06-09/165513774.jpg"></a><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank>来就送2000元</a></li>
+</ul>
+
+</div>
+
+<div class="sidemod">
+	<h3 class="tit01">
+		<strong>热点</strong>
+	</h3>
+	<ul class="li01" id="R_listAD_1"></ul>
+</div>
+	
+<div class="sidemod"><h3 class="tit01"><strong>精彩内容推荐</strong></h3><ul class="li02"><li><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank"><img src="http://i0.hexunimg.cn/2014-04-24/164238019.jpg" alt="货币明智操作"/></a><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank">货币明智操作</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank"><img src="http://i3.hexunimg.cn/2014-04-24/164238026.jpg" alt="信托100违规"/></a><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank">信托100违规</a></li></ul><ul class="li01"><li><a href="http://bbs.hexun.com/post_385_6819779_1_d.html" target="_blank">大盘或重返1时代</a></li><li><a href="http://bbs.hexun.com/post_412_6819563_1_d.html" target="_blank">5月将迎来井喷行情</a></li><li><a href="http://bbs.hexun.com/post_488_6819748_1_d.html" target="_blank">多一分谨慎少一分悲观</a></li><li><a href="http://bbs.hexun.com/post_598_6819710_1_d.html" target="_blank">郭施亮：证监会要毁掉股市吗</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6819554_1_d.html" target="_blank">只有创业板止跌调整才会结束</a></li><li><a href="http://bbs.hexun.com/post_466_6819669_1_d.html" target="_blank">武汉老张：一周股市热点解读</a></li><li><a href="http://bbs.hexun.com/post_823_6605989_1_d.html" target="_blank">美元的走向左右金银后市方向</a></li><li><a href="http://bbs.hexun.com/post_769_6605968_1_d.html" target="_blank">金银可能出现超跌反弹的走势</a></li><li><a href="http://bbs.hexun.com/money/post_75_6606044_1_d.html" target="_blank">金银回调看涨 高空后继续低多</a></li><li><a href="http://bbs.hexun.com/money/post_75_6605977_1_d.html" target="_blank">继续等待更完美的空头信号</a></li></ul></div>
+<!--include virtual="/inc/fragments/post_right_search.inc"-->
+<!--include virtual="/inc/fragments/post_right_hotbars.inc"-->
+ 
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新精华</strong></h3>
+<ul class="li01" id="ulEssence">
+</ul>
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新推荐</strong></h3>
+<ul class="li01" id="ulRecomment">
+</ul>
+</div>
+
+<!--20120419取消组图/inc/pics.inc-->
+
+<style>
+#bbs_6room li{margin-bottom:0px}
+#bbs_6room img{width:86px; height:64px; background:none; border:1px solid #ccc;padding:1px}
+</style>
+<div class=sidemod id="bbs_6room">
+<h3 class=tit01><strong>音乐互动女主播</strong></h3>
+<ul class=li02>
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F8058%3Fcoop%3D1022" target=_blank><img alt=?╮樂樂こ src="http://vi2.6rooms.com/live/26/22/e593f2eda2ac0da7c61564e0cadaf170_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>?╮樂樂こ</a></li>
+
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F3130%3Fcoop%3D1022" target=_blank><img alt=★じ☆ve糖小糖 src="http://vi2.6rooms.com/live/95/68/0dc38b75e0dd514ce7d2591271eef782_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>★じ☆ve糖小糖</a></li>
+</ul>
+</div>
+
+</div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+needVc = true;
+getAttachmentDownloadTimes();
+addLoadEvent(loadFooterHtml);
+var bid = 30;
+resizeTooWide();
+
+//判断是否可以回复该帖子
+
+(new Image()).src = '/img/processing.gif';
+function checkForm(o){
+    if(typeof theForm == 'undefined') {
+			//alert("=t=!");
+			theForm = o.form;
+		}
+    //if(typeof theForm.hasSetPoliceCode != 'undefined' && theForm.hasSetPoliceCode === true){
+        var ou = $id('txtUserName');
+        var opwd = $id('txtPassword');
+        if(ou.value == '用户名')ou.value = '';
+        var c = editor.getContent().replace('<html/>','');
+        
+        if(c .isEmpty()){
+            dialog.alert('提示','请输入回复内容');
+            return false;
+        }
+        processing(o);
+        return true;
+    //}else{
+    //    alert('请等待页面载入完毕后提交表单!');
+    //    return false;
+    //}
+}
+
+addLoadEvent(Emotion.init);
+
+function doSubmit(){
+    var btn = $id('ctl00_c_buttonSubmit');
+    if(checkForm(btn)){
+        btn.click();
+    }
+}
+addLoadEvent(function(){
+    setTimeout(function(){setQuickSubmit([editor.getWin().document.body],doSubmit);},2000);    
+});
+
+//脚印
+function initialFootprint(data){
+    var oc = $id('ulVisitors');
+    
+    if(data && data.length){
+        for(var i=0;i<data.length;i++){
+            var u = data[i];
+            var li = crt('LI',{},oc);
+            crt('IMG',{src:u.logo},crt('A',{href:u.url},li));
+            crt('A',{href:u.url,innerHTML:u.name},li);
+        }
+    }
+}
+function onGotUser(u){
+    if(!post.isLock && typeof theForm != 'undefined')setPoliceCode(theForm);
+    
+    if(u.id > 0){
+        var oS = $id('spnLoginStatus');
+        if(oS){
+            oS.innerHTML = '已登录用户可在此更换帐号：';
+        }
+        if($id('aReg'))$id('aReg').style.display = 'none';
+    }
+    
+    if(typeof u.needVerifyCode != 'undefined' && u.needVerifyCode === true){
+        //显示验证码
+        $id('plVc').style.display = 'block';
+        if(!$id('ctl00_c_vc'))
+        $id('plVc').innerHTML = '<style>.verifyCodeInput{width:60px;height:16px;line-height:16px;margin-right:4px;}</style>'
+        + '<p style="margin:10px 0 5px 0;line-height:20px;">'
+        + '请输入验证码：<span id="ctl00_c_vc"><input onfocus="onVcInputFocus(this,\'vc__img\',\'/vc.asmx?\');" maxlength="4" type="text" name="vc_code" id="vc_code" class="verifyCodeInput"/><img src="/vc.asmx" align="absmiddle" id="vc__img" class="verifyCodeImg"/><a class="verifyCodeAnchor" href="javascript:void(0);" target="_self" onclick="replaceCode(\'vc_code\',\'vc__img\',\'/vc.asmx?\')"/>看不清?</a></span>'
+        +'</p>';
+    }
+    
+    if(u.isAdmin){
+        
+        var as = $tags('SPAN',$id('content'));
+        for(var i=0;i<as.length;i++){
+            var a = as[i];
+            if(a.className.indexOf('admA')>-1)a.style.display = 'inline';
+        }
+        var oc = $id('divAbc');
+        var d1 = oc.firstChild.innerHTML;
+        var d2 = oc.lastChild.innerHTML;
+        new Ajax({url:'BBS.WebUI.Ajax.IPParser,BBS.WebUI.ajax.asmx?bid=30&k=5857069',postBody:'i=' + d1+'&l='+d2,onComplete:function(trans){
+            setIL(eval(trans.responseText));
+        }});
+        
+        var odivs = $tags('div');
+        for(var i=0;i<odivs.length;i++){
+            if(odivs[i].className.indexOf('ipedit')>-1){
+                odivs[i].style.display =  'block';
+            }
+        }
+    }
+}
+function setIL(d){
+    if(!d)return;
+    var id = d[0];
+    var ld = d[1];
+    var odivs = $tags('div');
+    var rI = 0;
+    for(var i=0;i<odivs.length;i++){
+        if(odivs[i].className.indexOf('ipedit')>-1){
+            var od = odivs[i];
+            var spn = $tag('SPAN',od);
+            if(spn){
+                var oi = $tag('SPAN',spn,0);
+                var ol = $tag('SPAN',spn,1);
+                if(oi && ol){
+                    oi.innerHTML = id[rI];
+                    ol.innerHTML = ld[rI];
+                }
+            }
+            rI ++;
+        }
+    }
+}
+
+
+function getPostCn(){
+    var oposts = $id('ulCreatorPosts');
+    var getPosts = oposts?1:0;
+    new Ajax({showLoading:false,method:'get',
+        url:'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getUserIsOnlineAndPostCn&uid=4670275&getPosts='+getPosts+'&t=' + new Date().getTime(),
+        onComplete:function(trans){
+            var r ;eval('r=' + trans.responseText);
+            if(r){
+                //$id('postCount').innerHTML = r.postCount;
+                //$id('essentialCount').innerHTML = r.essentialCount;
+                
+                var oOnline=$id('imgIsOnline');
+                if(oOnline){
+                    oOnline.src = '/clientfiles/post/img/' + (r.joidOnline?'online.gif':'unline.gif');
+                    oOnline.title = oOnline.alt = (r.joidOnline?'在线':'未在线');
+                }
+                if(getPosts == 1){
+                    if(r.posts && r.posts.length > 0){
+                        while(oposts.firstChild)remove(oposts.firstChild);
+                        
+                        for(var i=0;i<r.posts.length;i++){
+                            var iP = r.posts[i];
+                            crt('A',{href:iP.url,innerHTML:iP.title,title:iP.title},crt('LI',{},oposts));
+                        }
+                    }
+                }
+            }
+        }});
+}
+addLoadEvent(getPostCn);
+
+function updatePostPv(pv){var o = $id('pv');if(o){o.innerHTML = pv;}}
+addLoadEvent(function(){loadPosts(30,'Essence');loadPosts(30,'Recomment');});
+
+var judgeOnline = 4670275;
+
+
+</script>
+
+<style type="text/css">
+.hilite0,.hilite1,.hilite2{color:red!important;background:#ee0!important}
+</style>
+<script language="vbscript">
+Function URLDecode(input) 
+    Dim str,code,a(3),b(1) 
+    str="" 
+    code=input 
+    code=Replace(code,"+"," ") 
+    Const hexstr = "0123456789ABCDEF" 
+    While len(code)>0 
+        If InStr(code,"%")>0 Then 
+            str = str & Mid(code,1,InStr(code,"%")-1) 
+            code = Mid(code,InStr(code,"%")) 
+            a(0) = UCase(Mid(code,2,1)) 
+            a(1) = UCase(Mid(code,3,1)) 
+            If a(1)<>"" And InStr(hexstr,a(0))>0 And InStr(hexstr,a(1))>0 Then 
+                b(0) = Eval("&H" & a(0) & a(1)) 
+                If b(0)>127 And Mid(code,4,1)="%" And len(code)>=6 Then 
+                    a(2) = UCase(Mid(code,5,1)) 
+                    a(3) = UCase(Mid(code,6,1)) 
+                    If a(3)<>"" And InStr(hexstr,a(2))>0 And InStr(hexstr,a(3))>0 Then 
+                        b(1) = Eval("&H" & a(2) & a(3)) 
+                        str = str & chr(b(0)*256+b(1)) 
+                        code = Mid(code,7) 
+                    Else 
+                        str = str & "%" 
+                        code = Mid(code,2) 
+                    End If 
+                Else 
+                    str = str & chr(b(0)) 
+                    code = Mid(code,4) 
+                End If 
+            Else 
+                str = str & "%" 
+                code = Mid(code,2) 
+            End If 
+        Else 
+            str = str & code 
+            code = "" 
+        End If 
+    Wend 
+    URLDecode = str 
+End Function 
+</script> 
+<script src="http://img.hexun.com/hx_bbs/hx_bbs_finalpage.js"></script>
+
+<script type="text/javascript">
+Hilite.autoForSeachEngine($id('tdContent'));
+
+</script>
+
+<script src="/service/visitlog.aspx?pid=5857069&bid=30" type="text/javascript">
+</script>
+<noscript>
+<img src="/service/visitlog.aspx?pid=5857069&bid=30" 
+    width="1" height="1" border="0"/>
+</noscript>
+<script src="http://point.tool.hexun.com/pointLicai.aspx?userid=4670275&show=1"></script>
+<div id="divAbc" style="display:none"><span>FCF34BCAE921FE031E22D396D16D43B6A645C9AB6259F209DC50FC2138FCB7335FE33F39203B008AEF65B0B73BE5E5757284FC99953B9EA7B221EBBC0A0AD896F803D9CCE224675830284588E622A89993422A49BC05458DCC14921A7C235580BFA0B7802EAB6CEFBAD04B950DB5258AC9428CAC886E46D8D39228A68C55AF22E1B393DA92A2FCBC7A4C511D0C709FAE424D4523E6B56BC77CFB189F701327D5CF12147B1DF5C630F7F3FACDA0B780B6942B878D61AE1331D968F4255BF732D9D842E9C52BC8CADC6D7EF194E0724E55D1AEF054CD74E7F8594127D55D60B2C19887B43056F77B688875E5EEAFFD67763B6F475C5C5FA478F8ACEFEB7B7319A2D84331A9515B2BE3EA4707ECCF20FBCA38256E7B7F519FCE397D4056EAF07B89C106E8A10C8947418BAA5DD7C3F5C2B4C0631EA4E21D36EF9E4EEA89D96406D644FCB9561B6F235E6932F6BD4AFCFA1130F861975DE663038BD86508B334E74DDBBC362D0D1E6DF9699A5A97E87CB18AA328B744C111102631293F9424C6E813B75F904DFD44AA2BD315C24EE466077B216870A65C9998A65515527025177823D5FAC56276F16B628D7FE513B1A0FEAF530C8D9AAD9E5A4EFA9387D1701DA2F4ABD4FE2360E11816AC7731015B63225EAC4A0CC072A8DBEFFA23F561FFC2E4E76D6E52702B018CAFC04F40838303B248A04E8215846D7D0541333071324402881C6BF314D29BDA8E366D0F3E721713C79DE2AED54CD7E267D017EEF571847BB9F789BAFE95D29C469AEB28EEE517E4C0E1493D6D96CC5A5F3CD092652AFBAFA1B74827E30328D09F3060E4C6EE279151D6C1D846C3345B96AB90479224886D01A4FA0211E48432416BEEE8EDD500CC79F6951CC1C3793462ED9EE60D55788B01AF6265D84062A4FC07C4BFF1EA6DEEB441C891007CE697A39B19D17FB9718FBA50964BCF582CB6DDC66771D6F76CD4A5A502F1B48EACBD727B266EAD05C5AE270C24C0823D7621F9FBB9AF034AEC163AEF751E67B3CF2AF8DCC1050F9CF7CFFDCE3F851BAA6F3AE6</span><span>461213EE3B8C3E48885EA7B4D5CA4319F3F6704E67F4AA305431F849583755A7736334EFDC17780ADD66B1ED5E026069A12D4DF72D297F8320A60A2CCD198B5816A6008587F68CC87902E701F9F3DE722803C152FAF375DE5C6ADB6DD88E22136A5BE3739D97706CEE762A6DE8ED82FDCE33211DC2C8E91B91CD8C74EF16334D222C6EF16D772EFE075B5A17532F5502E9D2323A65F5C202D6B4B8AA5B15EC0B11A6D16D0A62906B5E6421007AB442417D67C4598E64C9544A93387EDBFBAC6922D2B9940D68881D16126D8AAAFC22CD12FA2F58310DAC2D63BC8E5E1DD0DC24DBD660576DDA769E7770247E187A8B4D9BDCB971C7870C4D2C3E3E41DD3865E22B03A6415D9F7F45260975DD6B111C0D5DBFEB4BC45E2D72337618750C33A35D2E12B95C5B323AD2E60404B40FC1C5BC95633C3B8E872A44CCA0EC20EAF9B6868B5D55D7C0BA93A10E71F71CA18ECB4959D2B2C592C8C2BAF257CD120AF9E813EBAACCD9E1F87A6EA9084B287D3EBB31693B52352E732B7A10AC869CDF754B6043B1AF2B1715E7D7C7308EEBE509394D9D20E4459CBB33FD147949CF5F940DC3E2D17A1ACE9CA55A8CB235E26F0D89F9C81D2FB14D20AD4953D0A68A9D10905D3BB192E72DC8C717B80A56E260BDCD00EBCB864C4B8A61CDD7E02E6D56CF56C9BCDE0D37A6CE7E8FF33B4059BE35A3FA7F812CA756AB24E3653A4681F2C2ED379258240481714D99A95C3FABBDE76A6C00BFAAC33BC7A6C53DF26A9CDA31B73B376771CB1C9FBB7E59280C3F955E07D103FF2C9A6C85CBAA93F4D33B08853F2878FCBFC69EA1D4B1AC1DB965379FCC09446E41F814C45BA7051A44F6CDFCB7DB4F97C49EDEC68BDA1073DD12423B91412CD0BB143E9201C9C43CA2EA80E2534A94842CF097340C4120F77C6EDCC71931566711F4C0F8A906B0FE18C13043670B2E039AF38CC649C17B878F5BC14E4E72273A4DA7713ACB542F8BF48F8E5F1CAEFD3E5BA69398F63B5C6A6E9013CCDDD6D23B031FB72A8B642947BDCAC676D37798AB7AD7E7CF2201AD076F506DD04A457486FB0124A866A11093AB78DF8C8D79B5C095F0E8A4CE077D5C13D5292A7D0225C195F6E3FA00503F71B67E32D2AD79FDECF1229798C56B510B88D78573346F8AA6545DCF7C5DF9</span></div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

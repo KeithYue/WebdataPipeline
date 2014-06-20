@@ -1,0 +1,1763 @@
+http://bbs.hexun.com/post_810_6908251_8_d.html
+1402805817.21
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	5.28实仓喊单，短线获利8个点，1292中长线空获利35-金玉良策-黄金大家谈-黄金论坛-财经世界-和讯论坛
+</title>
+	<link href="/s/p/a.css?0915" type="text/css" rel="stylesheet"/>
+<link href="/css/bbs2013.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/s/p/h.js?a"></script>
+<style type="text/css">
+.admA,.ipedit{display:none;}
+</style>
+<script type="text/javascript" language="javascript">
+var boardUrl = 'http://bbs.hexun.com/board_810_all_1_d.html';
+var post = {id:6908251,boardId:810,title:'5.28实仓喊单，短线获利8个点，1292中长线空获利35',isTop:false,
+    isEssence:true,
+    isValid:true,isRecomment:true,isLock:false,
+    isMark:false,av:0};
+
+
+function $(id) { return document.getElementById(id); }
+
+var hasCopyMsg = '已复制帖子信息，请按Ctrl+V粘贴到MSN,QQ或Email分享给朋友吧！';
+function getShareText(){
+    var t = post.title;
+    var url = location.href;
+    var txt = (t + '\r\n' + url);
+    return txt;
+}
+
+function fixImg(oimg){
+    if(oimg.processError)return;   
+    var src = oimg.src;
+    oimg.processError = true;                
+    oimg.src = 'http://f200-9.bbs.hexun.com/service/externalImg.aspx?t='+new Date().getTime()+'&src=' + src.encodeURI();
+}
+</script>
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+	<table class="banner" style="width: 100%;display:none" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="adTopLeft" width="784"><a href="http://bbs.hexun.com/" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/100318/150926.jpg" alt="好风光"/></a></td><td id="adTopRight"><ul><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯解和论坛吗</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li></ul></td></tr></tbody></table>
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_2_all_1_d.html" target="_top">财经世界</a> &gt; <a href="http://bbs.hexun.com/money/board_74_all_1_d.html" target="_top">黄金论坛</a> &gt; <a href="http://bbs.hexun.com/money/board_75_all_1_d.html" target="_top">黄金大家谈</a> &gt; <a href="http://bbs.hexun.com/board_810_all_1_d.html" target="_top">金玉良策</a></div>
+<div class="rigser"><form method="get" action="/search" style="display:inline" target="_blank">
+<p><input name="q" style="padding-bottom: 0px; line-height: 16px; padding-left: 2px; width: 150px; padding-right: 2px; height: 16px; color: #8b8b8b; padding-top: 0px;"  type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" /> 
+<label><select style="color: #8b8b8b;" name="type">
+<option value="1">标题</option>
+<option value="16">作者</option>
+<option value="2">正文</option>
+</select>
+</label>  
+<input type="image" src="/clientfiles/post/img/btn_ser.gif" alt="搜索" align="absMiddle" />
+</p>
+</form></div>
+</div>
+<div id="content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding-right:10px;" id="tdContent"><a name="top"></a>
+<div style="height:28px;clear:both">
+<div style="float:left;width:200px;">
+<a href="/newpost.aspx?bid=810" target="_blank"><img src="/clientfiles/post/img/btn_fb.gif" /></a>
+<a href="/newreply.aspx?bid=810&postId=6908251" target="_top"><img src="/clientfiles/post/img/btn_hf2.gif" /></a>
+</div>
+<div class="pagenum"><a href="http://bbs.hexun.com/post_810_6908251_7_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/post_810_6908251_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/post_810_6908251_2_d.html" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="http://bbs.hexun.com/post_810_6908251_4_d.html" target="_self">…</a> <a href="http://bbs.hexun.com/post_810_6908251_7_d.html" target="_self">7</a> <a href="http://bbs.hexun.com/post_810_6908251_8_d.html" target="_self" class="current">8</a> <a href="http://bbs.hexun.com/post_810_6908251_9_d.html" target="_self">9</a> <a href="http://bbs.hexun.com/post_810_6908251_9_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page1" value="9" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page1')">确定</a></div>
+
+</div>
+<div class="artcont" style="overflow-x:hidden;width:766px" id="divPosts">
+   <div class="lymod"><a name="#34303246" id='A_34303246'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22040922/_d.html"><img src="http://logo2.tool.hexun.com/15a5150-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">351楼：<a href="/u_22040922/_d.html" class="f06c0">天添理财1</a></span> 发表于：[2014-06-12 22:07:52]</p>
+   <p>[<a href="/u_22040922/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添理财1');" class="f666">发送纸条</a>]<a name="34303246"></a> [<a href="http://blog.hexun.com/22040922/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22040922/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日日线报收带稍长上影线的十字阴柱，MACD空头能量柱有一定的萎缩，整体操作上短线继续看震荡。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303246">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303246&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303246&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303246)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303246)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303323" id='A_34303323'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24008731/_d.html"><img src="http://logo3.tool.hexun.com/11b586e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">352楼：<a href="/u_24008731/_d.html" class="f06c0">东哥解盘2</a></span> 发表于：[2014-06-12 22:14:32]</p>
+   <p>[<a href="/u_24008731/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('东哥解盘2');" class="f666">发送纸条</a>]<a name="34303323"></a> [<a href="http://blog.hexun.com/24008731/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24008731/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　由于4小时MACD多头能量柱不断萎缩，整体有圆弧顶的迹象，所以短线预计会有一定的回调。今日操作上依然是区间为主，谨慎追单！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303323">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303323&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303323&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303323)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303323)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303398" id='A_34303398'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_20670723/_d.html"><img src="http://logo3.tool.hexun.com/103693b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">353楼：<a href="/u_20670723/_d.html" class="f06c0">喻小宝</a></span> 发表于：[2014-06-12 22:20:31]</p>
+   <p>[<a href="/u_20670723/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('喻小宝');" class="f666">发送纸条</a>]<a name="34303398"></a> [<a href="http://blog.hexun.com/20670723/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/20670723/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=18&y=13" target="_blank">白银</a>昨日最高上探3797一线，之后震荡下探。昨日给出3800附近跟空的建议也成功获利。白银昨日日线报收长上影线的十字阳星，上方在日线布林带中轨受阻回落。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303398">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303398&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303398&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303398)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303398)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303476" id='A_34303476'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22040922/_d.html"><img src="http://logo2.tool.hexun.com/15a5150-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">354楼：<a href="/u_22040922/_d.html" class="f06c0">天添理财1</a></span> 发表于：[2014-06-12 22:26:43]</p>
+   <p>[<a href="/u_22040922/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添理财1');" class="f666">发送纸条</a>]<a name="34303476"></a> [<a href="http://blog.hexun.com/22040922/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22040922/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日日线报收带稍长上影线的十字阴柱，MACD空头能量柱有一定的萎缩，整体操作上短线继续看震荡。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303476">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303476&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303476&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303476)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303476)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303560" id='A_34303560'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24008731/_d.html"><img src="http://logo3.tool.hexun.com/11b586e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">355楼：<a href="/u_24008731/_d.html" class="f06c0">东哥解盘2</a></span> 发表于：[2014-06-12 22:32:12]</p>
+   <p>[<a href="/u_24008731/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('东哥解盘2');" class="f666">发送纸条</a>]<a name="34303560"></a> [<a href="http://blog.hexun.com/24008731/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24008731/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　由于4小时MACD多头能量柱不断萎缩，整体有圆弧顶的迹象，所以短线预计会有一定的回调。今日操作上依然是区间为主，谨慎追单！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303560">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303560&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303560&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303560)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303560)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303676" id='A_34303676'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_20670723/_d.html"><img src="http://logo3.tool.hexun.com/103693b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">356楼：<a href="/u_20670723/_d.html" class="f06c0">喻小宝</a></span> 发表于：[2014-06-12 22:39:16]</p>
+   <p>[<a href="/u_20670723/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('喻小宝');" class="f666">发送纸条</a>]<a name="34303676"></a> [<a href="http://blog.hexun.com/20670723/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/20670723/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=18&y=13" target="_blank">白银</a>昨日最高上探3797一线，之后震荡下探。昨日给出3800附近跟空的建议也成功获利。白银昨日日线报收长上影线的十字阳星，上方在日线布林带中轨受阻回落。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303676">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303676&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303676&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303676)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303676)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303773" id='A_34303773'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22040922/_d.html"><img src="http://logo2.tool.hexun.com/15a5150-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">357楼：<a href="/u_22040922/_d.html" class="f06c0">天添理财1</a></span> 发表于：[2014-06-12 22:45:57]</p>
+   <p>[<a href="/u_22040922/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添理财1');" class="f666">发送纸条</a>]<a name="34303773"></a> [<a href="http://blog.hexun.com/22040922/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22040922/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日日线报收带稍长上影线的十字阴柱，MACD空头能量柱有一定的萎缩，整体操作上短线继续看震荡。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303773">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303773&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303773&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303773)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303773)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303846" id='A_34303846'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24008731/_d.html"><img src="http://logo3.tool.hexun.com/11b586e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">358楼：<a href="/u_24008731/_d.html" class="f06c0">东哥解盘2</a></span> 发表于：[2014-06-12 22:51:42]</p>
+   <p>[<a href="/u_24008731/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('东哥解盘2');" class="f666">发送纸条</a>]<a name="34303846"></a> [<a href="http://blog.hexun.com/24008731/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24008731/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　由于4小时MACD多头能量柱不断萎缩，整体有圆弧顶的迹象，所以短线预计会有一定的回调。今日操作上依然是区间为主，谨慎追单！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303846">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303846&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303846&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303846)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303846)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303913" id='A_34303913'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_20670723/_d.html"><img src="http://logo3.tool.hexun.com/103693b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">359楼：<a href="/u_20670723/_d.html" class="f06c0">喻小宝</a></span> 发表于：[2014-06-12 22:57:09]</p>
+   <p>[<a href="/u_20670723/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('喻小宝');" class="f666">发送纸条</a>]<a name="34303913"></a> [<a href="http://blog.hexun.com/20670723/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/20670723/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=18&y=13" target="_blank">白银</a>昨日最高上探3797一线，之后震荡下探。昨日给出3800附近跟空的建议也成功获利。白银昨日日线报收长上影线的十字阳星，上方在日线布林带中轨受阻回落。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303913">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303913&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303913&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303913)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303913)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34303983" id='A_34303983'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22040922/_d.html"><img src="http://logo2.tool.hexun.com/15a5150-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">360楼：<a href="/u_22040922/_d.html" class="f06c0">天添理财1</a></span> 发表于：[2014-06-12 23:03:55]</p>
+   <p>[<a href="/u_22040922/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添理财1');" class="f666">发送纸条</a>]<a name="34303983"></a> [<a href="http://blog.hexun.com/22040922/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22040922/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日日线报收带稍长上影线的十字阴柱，MACD空头能量柱有一定的萎缩，整体操作上短线继续看震荡。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303983">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34303983&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34303983&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34303983)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34303983)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34304045" id='A_34304045'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24008731/_d.html"><img src="http://logo3.tool.hexun.com/11b586e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">361楼：<a href="/u_24008731/_d.html" class="f06c0">东哥解盘2</a></span> 发表于：[2014-06-12 23:09:45]</p>
+   <p>[<a href="/u_24008731/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('东哥解盘2');" class="f666">发送纸条</a>]<a name="34304045"></a> [<a href="http://blog.hexun.com/24008731/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24008731/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　由于4小时MACD多头能量柱不断萎缩，整体有圆弧顶的迹象，所以短线预计会有一定的回调。今日操作上依然是区间为主，谨慎追单！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304045">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304045&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34304045&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34304045)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34304045)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34304104" id='A_34304104'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_20670723/_d.html"><img src="http://logo3.tool.hexun.com/103693b-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">362楼：<a href="/u_20670723/_d.html" class="f06c0">喻小宝</a></span> 发表于：[2014-06-12 23:14:55]</p>
+   <p>[<a href="/u_20670723/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('喻小宝');" class="f666">发送纸条</a>]<a name="34304104"></a> [<a href="http://blog.hexun.com/20670723/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/20670723/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B0%CD%B7%C6%CC%D8&x=18&y=13" target="_blank">白银</a>昨日最高上探3797一线，之后震荡下探。昨日给出3800附近跟空的建议也成功获利。白银昨日日线报收长上影线的十字阳星，上方在日线布林带中轨受阻回落。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304104">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304104&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34304104&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34304104)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34304104)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34304167" id='A_34304167'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22040922/_d.html"><img src="http://logo2.tool.hexun.com/15a5150-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">363楼：<a href="/u_22040922/_d.html" class="f06c0">天添理财1</a></span> 发表于：[2014-06-12 23:20:57]</p>
+   <p>[<a href="/u_22040922/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添理财1');" class="f666">发送纸条</a>]<a name="34304167"></a> [<a href="http://blog.hexun.com/22040922/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22040922/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日日线报收带稍长上影线的十字阴柱，MACD空头能量柱有一定的萎缩，整体操作上短线继续看震荡。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304167">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304167&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34304167&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34304167)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34304167)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34304240" id='A_34304240'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_24008731/_d.html"><img src="http://logo3.tool.hexun.com/11b586e-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">364楼：<a href="/u_24008731/_d.html" class="f06c0">东哥解盘2</a></span> 发表于：[2014-06-12 23:27:33]</p>
+   <p>[<a href="/u_24008731/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('东哥解盘2');" class="f666">发送纸条</a>]<a name="34304240"></a> [<a href="http://blog.hexun.com/24008731/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/24008731/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　由于4小时MACD多头能量柱不断萎缩，整体有圆弧顶的迹象，所以短线预计会有一定的回调。今日操作上依然是区间为主，谨慎追单！</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304240">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34304240&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34304240&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34304240)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34304240)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306007" id='A_34306007'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">365楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 09:01:26]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34306007"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306007">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306007&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306007&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306007)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306007)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306133" id='A_34306133'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">366楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 09:13:32]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34306133"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306133">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306133&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306133&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306133)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306133)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306200" id='A_34306200'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">367楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 09:19:56]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34306200"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306200">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306200&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306200&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306200)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306200)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306321" id='A_34306321'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">368楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 09:31:59]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34306321"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306321">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306321&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306321&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306321)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306321)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306411" id='A_34306411'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">369楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 09:38:28]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34306411"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306411">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306411&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306411&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306411)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306411)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306615" id='A_34306615'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">370楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 09:51:49]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34306615"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306615">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306615&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306615&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306615)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306615)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306760" id='A_34306760'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">371楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 09:58:36]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34306760"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306760">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306760&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306760&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306760)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306760)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306895" id='A_34306895'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">372楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 10:09:06]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34306895"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306895">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306895&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306895&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306895)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306895)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34306964" id='A_34306964'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">373楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 10:15:00]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34306964"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306964">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34306964&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34306964&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34306964)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34306964)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307227" id='A_34307227'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">374楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 10:36:45]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34307227"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307227">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307227&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307227&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307227)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307227)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307372" id='A_34307372'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">375楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 10:47:42]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34307372"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307372">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307372&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307372&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307372)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307372)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307479" id='A_34307479'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">376楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 10:53:58]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34307479"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307479">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307479&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307479&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307479)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307479)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307633" id='A_34307633'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">377楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 11:04:49]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34307633"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307633">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307633&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307633&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307633)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307633)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307724" id='A_34307724'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">378楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 11:11:21]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34307724"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307724">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307724&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307724&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307724)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307724)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307888" id='A_34307888'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">379楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 11:22:12]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34307888"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307888">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307888&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307888&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307888)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307888)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34307980" id='A_34307980'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">380楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 11:28:42]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34307980"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307980">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34307980&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34307980&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34307980)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34307980)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308184" id='A_34308184'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">381楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 11:40:12]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34308184"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308184">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308184&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308184&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308184)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308184)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308256" id='A_34308256'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">382楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 11:46:40]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34308256"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308256">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308256&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308256&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308256)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308256)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308395" id='A_34308395'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">383楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 11:58:25]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34308395"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308395">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308395&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308395&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308395)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308395)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308455" id='A_34308455'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">384楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 12:04:02]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34308455"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308455">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308455&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308455&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308455)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308455)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308567" id='A_34308567'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">385楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 12:16:42]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34308567"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308567">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308567&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308567&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308567)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308567)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308628" id='A_34308628'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">386楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 12:23:02]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34308628"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308628">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308628&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308628&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308628)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308628)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308763" id='A_34308763'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">387楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 12:34:46]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34308763"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308763">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308763&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308763&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308763)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308763)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308814" id='A_34308814'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">388楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 12:40:37]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34308814"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308814">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308814&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308814&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308814)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308814)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308936" id='A_34308936'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">389楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 12:53:52]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34308936"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308936">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308936&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308936&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308936)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308936)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34308988" id='A_34308988'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">390楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 12:59:47]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34308988"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308988">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34308988&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34308988&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34308988)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34308988)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309095" id='A_34309095'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">391楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 13:10:51]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34309095"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309095">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309095&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309095&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309095)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309095)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309148" id='A_34309148'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">392楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 13:16:39]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34309148"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309148">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309148&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309148&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309148)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309148)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309323" id='A_34309323'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">393楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 13:32:04]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34309323"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309323">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309323&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309323&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309323)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309323)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309452" id='A_34309452'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">394楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 13:40:20]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34309452"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309452">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309452&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309452&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309452)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309452)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309639" id='A_34309639'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">395楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 13:52:28]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34309639"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309639">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309639&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309639&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309639)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309639)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309757" id='A_34309757'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">396楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 13:58:58]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34309757"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309757">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309757&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309757&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309757)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309757)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34309980" id='A_34309980'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">397楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 14:14:02]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34309980"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309980">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34309980&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34309980&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34309980)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34309980)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34310093" id='A_34310093'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">398楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 14:20:10]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34310093"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310093">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310093&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34310093&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34310093)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34310093)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34310322" id='A_34310322'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_18829122/_d.html"><img src="http://logo2.tool.hexun.com/1424f1f-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">399楼：<a href="/u_18829122/_d.html" class="f06c0">ytzxs520</a></span> 发表于：[2014-06-13 14:33:38]</p>
+   <p>[<a href="/u_18829122/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('ytzxs520');" class="f666">发送纸条</a>]<a name="34310322"></a> [<a href="http://blog.hexun.com/18829122/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/18829122/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　日线MACD目前已经是金叉运行，下方支撑需要关注3745一线，上方短线阻力关注3800.</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310322">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310322&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34310322&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34310322)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34310322)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="lymod"><a name="#34310442" id='A_34310442'></a>
+   <dl class="hfrcont" >
+   <dt><a href="/u_22025253/_d.html"><img src="http://logo1.tool.hexun.com/1251450-75.jpg" /></a></dt>
+   <dd><p><span class="f06c0">400楼：<a href="/u_22025253/_d.html" class="f06c0">天添小帅</a></span> 发表于：[2014-06-13 14:43:11]</p>
+   <p>[<a href="/u_22025253/_d.html" class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('天添小帅');" class="f666">发送纸条</a>]<a name="34310442"></a> [<a href="http://blog.hexun.com/22025253/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/22025253/" class="f666" target="_blank">微博</a>]</p>
+   </dd>
+    </dl>
+   <div>
+   <div class="txtmain">　　昨日4小时冲高之后，布林带稍后开口，受阻回落之后，目前MACD多头能量柱不断萎缩，虽然整体在MA15得到支撑，但是短线继续上破新高基本不可能。所以今日关注关键<a href="http://bbs.hexun.com/search/?q=%B5%E3%CE%BB&type=1&Submit=" target="_blank">点位</a>，区间操作为主。</div>
+   
+
+    <div class="ipedit">
+    <span class="right">用户IP:<span></span>  来自：<span></span></span>
+    </div>
+   <div class=" btnli"> 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310442">回复</a>  | 
+   <a href="/newreply.aspx?bid=810&postId=6908251&parentId=34310442&quote=true">引用</a>  | 
+   
+   <span class="admA"><a href="/editreply.aspx?bid=810&replyId=34310442&postId=6908251">编辑</a>  | </span>
+   <a href="javascript:;" target="_self" onclick="informReply(34310442)">举报</a>
+   <span  class="admA"> | <a href="javascript:void(0)" onclick="deleteReply(34310442)" target="_self">删除</a></span>
+   <a href="#top" target="_self"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a></div>
+   </div>
+   </div>
+
+   <div class="botpage">
+<div class="pagenum"><a href="http://bbs.hexun.com/post_810_6908251_7_d.html" class="back" target="_self" style="padding-left:8px;">上一页</a> <a href="http://bbs.hexun.com/post_810_6908251_1_d.html" target="_self">1</a> <a href="http://bbs.hexun.com/post_810_6908251_2_d.html" target="_self">2</a>  <a style="border-width:0;padding:0;margin:0" href="http://bbs.hexun.com/post_810_6908251_4_d.html" target="_self">…</a> <a href="http://bbs.hexun.com/post_810_6908251_7_d.html" target="_self">7</a> <a href="http://bbs.hexun.com/post_810_6908251_8_d.html" target="_self" class="current">8</a> <a href="http://bbs.hexun.com/post_810_6908251_9_d.html" target="_self">9</a> <a href="http://bbs.hexun.com/post_810_6908251_9_d.html" target="_self" class="next">下一页</a> &nbsp;转到第 <input id="_page2" value="9" type="text" style="width:25px; border:1px solid #ccc;" onkeyup="quickGotoPage(event,this)" /> 页 <a target='_self' href="javascript:void(0)" onclick="gotoPage('_page2')">确定</a></div>
+</div>
+
+
+<script type="text/javascript" src="/s/p/b.js?a"></script>
+
+
+
+<script type="text/javascript">
+var editor = new punymce.Editor({
+	id : 'txtContent',
+	toolbar:'insertimage,insertlink,inserttable,insertchar,removeformat',
+    plugins : 'Protect,TextColor,EditSource,Entities,Hexun,BBCode',
+	min_width : 500,
+	max_width:500,
+	customSetup:replySetupMce,
+    styles : [
+	    { title : 'Code', cls : 'pre', cmd : 'FormatBlock', val : '<pre>' },
+	    { title : 'Quote', cls : 'quote', cmd : 'mceSetClass', val : 'quote'},
+	    { title : 'Unquote', cls : 'quote', cmd : 'mceSetClass', val : ''}
+    ],
+    image:{skip_css:true},
+    link:{skip_css:true},
+    textcolor:{skip_css:true},
+    fonts:['Arial','宋体','新宋体','黑体','幼圆','隶书','华文彩云','华文琥珀','微软雅黑'],
+    fontsizes:['8pt','10pt','12pt','14pt','18pt','24pt','36pt'],
+    resize:false,
+    enableCustomSetup:true
+});
+//被禁用的工具栏
+function updateDisableTools(disabledTools){
+    editor.disabled = disabledTools;
+}
+</script>
+<script src="/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getPostPageDisabledTools&bid=810" type="text/javascript"></script>
+
+<!--快速回复 b-->
+<div class="kshfmod"><a name="reply"></a>
+<h3>快速回复</h3>
+<div class="cont">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="520">
+<form method="post" name="formLogin" action="https://reg.hexun.com/login.aspx"><input name="gourl" value="http://bbs.hexun.com/post.aspx?bid=810&postId=6908251&pageNumber=8" type="hidden">
+<p class="yhxx"><span id="spnLoginStatus">未登录用户请在此登录：</span>
+    <input value="用户名" type="text" name="username" id="txtUserName" class="btn01"  style=" width:95px" onfocus="if(this.value=='用户名') this.value='';this.style.color='000000'" />　 
+    <input value="密码" type="password" name="password" id="txtPassword" class="btn01"  style=" width:95px" onfocus="if(this.value=='密码') {this.value='';this.style.color='000000';}" />
+    <input type="image" src="/s/p/img/login.jpg" class="lg"/>
+    <a href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS" class="f06c0" id="aReg"><u>新用户注册</u></a>
+</p>
+</form>
+<form name="aspnetForm" method="post" action="post.aspx?bid=810&amp;postId=6908251&amp;pageNumber=8" id="aspnetForm" target="_self">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjIyNTU1OTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRRjdGwwMCRjJGJ1dHRvblN1Ym1pdA==" />
+</div>
+
+<textarea name="content" id="txtContent" rows="12" cols="60"></textarea>
+<!--[if IE]>
+<br/><font color="gray">Ctrl + 回车可以快速提交</font>
+<![endif]-->
+<div style="display:none" id="plVc"></div>
+
+
+<div class="post_reply"><span id="ctl00_c_labelMsg" style="color:Red;"></span> 
+<p><input type="image" name="ctl00$c$buttonSubmit" id="ctl00_c_buttonSubmit" src="/clientfiles/post/img/btn_fb.gif" onclick="return checkForm(this);" style="border-width:0px;" /></p>
+</div>
+
+<script src="/js/md5.js" type="text/javascript"></script><script>var police={address:'7172680f6782e5ebc92285940372f6dc',ip:'f438369ee986f0851df4b64e384bfbac'};addLoadEvent(function(){setPoliceCode(document.aspnetForm||theForm);});</script></form></td>
+    <td valign="top" class="contrig">   
+    <p><button  class="editbtn" type="button"  style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入股票行情图',src:'/service/quotechart.aspx?type=stock',width:'500px',height:'240px'});">插入股票行情图</button></p>
+     <p><button  class="editbtn" type="button" style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入基金行情图',src:'/service/quotechart.aspx?type=funds',width:'500px',height:'240px'});">插入基金行情图</button></p>
+<div style="font-size:1px;height:1px">&nbsp;</div>
+     <div>表情：<a class="emtSelected" id="aEmNew" href="javascript:Emotion.turn(0)" target="_self">新版</a>
+      | <a class="emtUnselected" id="aEmOld" href="javascript:Emotion.turn(1)" target="_self">老版</a>
+      </div>
+     <div id="divEmotions"></div></td>
+  </tr>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+<!--快速回复 e-->
+
+</td>
+    <td width="215" valign="top">
+<?xml version="1.0" encoding="gb2312"?>
+
+
+<!--include virtual="/inc/ads/180x150.inc"-->
+
+<div id="sidebar">
+
+<div class="sidemod">
+<ul class=li02>
+<li><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank><img alt=短期理财就选它 src="http://i4.hexunimg.cn/2014-05-13/164743323.jpg"></a><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank>短期理财就选它</a></li>
+
+<li><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank><img alt=来就送2000元 src="http://i9.hexunimg.cn/2014-06-09/165513774.jpg"></a><a href="http://sjb.licaike.hexun.com/worldcup/public/homepage?knownChannel=sjb_lt " target=_blank>来就送2000元</a></li>
+</ul>
+
+</div>
+
+<div class="sidemod">
+	<h3 class="tit01">
+		<strong>热点</strong>
+	</h3>
+	<ul class="li01" id="R_listAD_1"></ul>
+</div>
+	
+<div class="sidemod"><h3 class="tit01"><strong>精彩内容推荐</strong></h3><ul class="li02"><li><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank"><img src="http://i0.hexunimg.cn/2014-04-24/164238019.jpg" alt="货币明智操作"/></a><a href="http://bbs.hexun.com/stock/post_5_6808526_1_d.html" target="_blank">货币明智操作</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank"><img src="http://i3.hexunimg.cn/2014-04-24/164238026.jpg" alt="信托100违规"/></a><a href="http://bbs.hexun.com/stock/post_5_6811265_1_d.html" target="_blank">信托100违规</a></li></ul><ul class="li01"><li><a href="http://bbs.hexun.com/post_385_6819779_1_d.html" target="_blank">大盘或重返1时代</a></li><li><a href="http://bbs.hexun.com/post_412_6819563_1_d.html" target="_blank">5月将迎来井喷行情</a></li><li><a href="http://bbs.hexun.com/post_488_6819748_1_d.html" target="_blank">多一分谨慎少一分悲观</a></li><li><a href="http://bbs.hexun.com/post_598_6819710_1_d.html" target="_blank">郭施亮：证监会要毁掉股市吗</a></li><li><a href="http://bbs.hexun.com/stock/post_5_6819554_1_d.html" target="_blank">只有创业板止跌调整才会结束</a></li><li><a href="http://bbs.hexun.com/post_466_6819669_1_d.html" target="_blank">武汉老张：一周股市热点解读</a></li><li><a href="http://bbs.hexun.com/post_823_6605989_1_d.html" target="_blank">美元的走向左右金银后市方向</a></li><li><a href="http://bbs.hexun.com/post_769_6605968_1_d.html" target="_blank">金银可能出现超跌反弹的走势</a></li><li><a href="http://bbs.hexun.com/money/post_75_6606044_1_d.html" target="_blank">金银回调看涨 高空后继续低多</a></li><li><a href="http://bbs.hexun.com/money/post_75_6605977_1_d.html" target="_blank">继续等待更完美的空头信号</a></li></ul></div>
+<!--include virtual="/inc/fragments/post_right_search.inc"-->
+<!--include virtual="/inc/fragments/post_right_hotbars.inc"-->
+ 
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新精华</strong></h3>
+<ul class="li01" id="ulEssence">
+</ul>
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新推荐</strong></h3>
+<ul class="li01" id="ulRecomment">
+</ul>
+</div>
+
+<!--20120419取消组图/inc/pics.inc-->
+
+<style>
+#bbs_6room li{margin-bottom:0px}
+#bbs_6room img{width:86px; height:64px; background:none; border:1px solid #ccc;padding:1px}
+</style>
+<div class=sidemod id="bbs_6room">
+<h3 class=tit01><strong>音乐互动女主播</strong></h3>
+<ul class=li02>
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F8058%3Fcoop%3D1022" target=_blank><img alt=?╮樂樂こ src="http://vi2.6rooms.com/live/26/22/e593f2eda2ac0da7c61564e0cadaf170_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>?╮樂樂こ</a></li>
+
+<li><a href="http://tv.hexun.com/6jf/?bgurl=http%3A%2F%2Fv.6.cn%2F3130%3Fcoop%3D1022" target=_blank><img alt=★じ☆ve糖小糖 src="http://vi2.6rooms.com/live/95/68/0dc38b75e0dd514ce7d2591271eef782_s.jpg" width=100 height=75></a><a href="http://tv.hexun.com/6jf/" target=_blank>★じ☆ve糖小糖</a></li>
+</ul>
+</div>
+
+</div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+needVc = true;
+getAttachmentDownloadTimes();
+addLoadEvent(loadFooterHtml);
+var bid = 810;
+resizeTooWide();
+
+//判断是否可以回复该帖子
+
+(new Image()).src = '/img/processing.gif';
+function checkForm(o){
+    if(typeof theForm == 'undefined') {
+			//alert("=t=!");
+			theForm = o.form;
+		}
+    //if(typeof theForm.hasSetPoliceCode != 'undefined' && theForm.hasSetPoliceCode === true){
+        var ou = $id('txtUserName');
+        var opwd = $id('txtPassword');
+        if(ou.value == '用户名')ou.value = '';
+        var c = editor.getContent().replace('<html/>','');
+        
+        if(c .isEmpty()){
+            dialog.alert('提示','请输入回复内容');
+            return false;
+        }
+        processing(o);
+        return true;
+    //}else{
+    //    alert('请等待页面载入完毕后提交表单!');
+    //    return false;
+    //}
+}
+
+addLoadEvent(Emotion.init);
+
+function doSubmit(){
+    var btn = $id('ctl00_c_buttonSubmit');
+    if(checkForm(btn)){
+        btn.click();
+    }
+}
+addLoadEvent(function(){
+    setTimeout(function(){setQuickSubmit([editor.getWin().document.body],doSubmit);},2000);    
+});
+
+//脚印
+function initialFootprint(data){
+    var oc = $id('ulVisitors');
+    
+    if(data && data.length){
+        for(var i=0;i<data.length;i++){
+            var u = data[i];
+            var li = crt('LI',{},oc);
+            crt('IMG',{src:u.logo},crt('A',{href:u.url},li));
+            crt('A',{href:u.url,innerHTML:u.name},li);
+        }
+    }
+}
+function onGotUser(u){
+    if(!post.isLock && typeof theForm != 'undefined')setPoliceCode(theForm);
+    
+    if(u.id > 0){
+        var oS = $id('spnLoginStatus');
+        if(oS){
+            oS.innerHTML = '已登录用户可在此更换帐号：';
+        }
+        if($id('aReg'))$id('aReg').style.display = 'none';
+    }
+    
+    if(typeof u.needVerifyCode != 'undefined' && u.needVerifyCode === true){
+        //显示验证码
+        $id('plVc').style.display = 'block';
+        if(!$id('ctl00_c_vc'))
+        $id('plVc').innerHTML = '<style>.verifyCodeInput{width:60px;height:16px;line-height:16px;margin-right:4px;}</style>'
+        + '<p style="margin:10px 0 5px 0;line-height:20px;">'
+        + '请输入验证码：<span id="ctl00_c_vc"><input onfocus="onVcInputFocus(this,\'vc__img\',\'/vc.asmx?\');" maxlength="4" type="text" name="vc_code" id="vc_code" class="verifyCodeInput"/><img src="/vc.asmx" align="absmiddle" id="vc__img" class="verifyCodeImg"/><a class="verifyCodeAnchor" href="javascript:void(0);" target="_self" onclick="replaceCode(\'vc_code\',\'vc__img\',\'/vc.asmx?\')"/>看不清?</a></span>'
+        +'</p>';
+    }
+    
+    if(u.isAdmin){
+        
+        var as = $tags('SPAN',$id('content'));
+        for(var i=0;i<as.length;i++){
+            var a = as[i];
+            if(a.className.indexOf('admA')>-1)a.style.display = 'inline';
+        }
+        var oc = $id('divAbc');
+        var d1 = oc.firstChild.innerHTML;
+        var d2 = oc.lastChild.innerHTML;
+        new Ajax({url:'BBS.WebUI.Ajax.IPParser,BBS.WebUI.ajax.asmx?bid=810&k=6908251',postBody:'i=' + d1+'&l='+d2,onComplete:function(trans){
+            setIL(eval(trans.responseText));
+        }});
+        
+        var odivs = $tags('div');
+        for(var i=0;i<odivs.length;i++){
+            if(odivs[i].className.indexOf('ipedit')>-1){
+                odivs[i].style.display =  'block';
+            }
+        }
+    }
+}
+function setIL(d){
+    if(!d)return;
+    var id = d[0];
+    var ld = d[1];
+    var odivs = $tags('div');
+    var rI = 0;
+    for(var i=0;i<odivs.length;i++){
+        if(odivs[i].className.indexOf('ipedit')>-1){
+            var od = odivs[i];
+            var spn = $tag('SPAN',od);
+            if(spn){
+                var oi = $tag('SPAN',spn,0);
+                var ol = $tag('SPAN',spn,1);
+                if(oi && ol){
+                    oi.innerHTML = id[rI];
+                    ol.innerHTML = ld[rI];
+                }
+            }
+            rI ++;
+        }
+    }
+}
+
+
+function updatePostPv(pv){var o = $id('pv');if(o){o.innerHTML = pv;}}
+addLoadEvent(function(){loadPosts(810,'Essence');loadPosts(810,'Recomment');});
+
+
+</script>
+
+<style type="text/css">
+.hilite0,.hilite1,.hilite2{color:red!important;background:#ee0!important}
+</style>
+<script language="vbscript">
+Function URLDecode(input) 
+    Dim str,code,a(3),b(1) 
+    str="" 
+    code=input 
+    code=Replace(code,"+"," ") 
+    Const hexstr = "0123456789ABCDEF" 
+    While len(code)>0 
+        If InStr(code,"%")>0 Then 
+            str = str & Mid(code,1,InStr(code,"%")-1) 
+            code = Mid(code,InStr(code,"%")) 
+            a(0) = UCase(Mid(code,2,1)) 
+            a(1) = UCase(Mid(code,3,1)) 
+            If a(1)<>"" And InStr(hexstr,a(0))>0 And InStr(hexstr,a(1))>0 Then 
+                b(0) = Eval("&H" & a(0) & a(1)) 
+                If b(0)>127 And Mid(code,4,1)="%" And len(code)>=6 Then 
+                    a(2) = UCase(Mid(code,5,1)) 
+                    a(3) = UCase(Mid(code,6,1)) 
+                    If a(3)<>"" And InStr(hexstr,a(2))>0 And InStr(hexstr,a(3))>0 Then 
+                        b(1) = Eval("&H" & a(2) & a(3)) 
+                        str = str & chr(b(0)*256+b(1)) 
+                        code = Mid(code,7) 
+                    Else 
+                        str = str & "%" 
+                        code = Mid(code,2) 
+                    End If 
+                Else 
+                    str = str & chr(b(0)) 
+                    code = Mid(code,4) 
+                End If 
+            Else 
+                str = str & "%" 
+                code = Mid(code,2) 
+            End If 
+        Else 
+            str = str & code 
+            code = "" 
+        End If 
+    Wend 
+    URLDecode = str 
+End Function 
+</script> 
+<script src="http://img.hexun.com/hx_bbs/hx_bbs_finalpage.js"></script>
+
+<script type="text/javascript">
+Hilite.autoForSeachEngine($id('tdContent'));
+
+</script>
+
+<script src="/service/visitlog.aspx?pid=6908251&bid=810" type="text/javascript">
+</script>
+<noscript>
+<img src="/service/visitlog.aspx?pid=6908251&bid=810" 
+    width="1" height="1" border="0"/>
+</noscript>
+
+<div id="divAbc" style="display:none"><span>62D37E336130482951CAEA7A6198D940A4D6C3FB47CB2A8CEB73F91F5A131C81D0F931105D0B3DA8F63378314DA39481A512395E0296A241D4EF139D303881362AA091DB215F20E06FEB28541973A249A5D992249A98E125AE371D492F66CB1DA560EE0CB5F8E8F5E72FABF2808E776AD6A5DAF3BD319287302DA26F981BDAC24BEFE24A3C7E01C8034BF98672F1CED10D5F83FE6D33F7CE9340D9C596C1B0F81B3EFAF0A47CF1FF9B89D64D2EAF36A74DAAF476821EF7DA4E0E8D4993361842A2430F04762CAC0A36E9E37A47983A6DACDC9AB656E8F29FB8C214413C3EDC1089076744B8D8D1579E7DBBF5D7F496DBEC2E511399762E7798AEDD3494FB85E50F9A63F4DD72C30953198D1EAB33648AFFC21015F8CA179CE186D74B419CCD49F5BA4CA87F91A053DDE7204FDBB5EF9F6AF5D6C115DC76A6E79B25D00495E10BEF45322D4AEA05860F0612CC318E009BCA93BBEFED07AB2F77721AD5D62AAFFEB9298BB2DC0951AA27FE04CAC6A07ED2FB3E58A019A1FB11E1C4A6B99C48A9B7698FFAFA1D7154553D8F8952A8C7AEAB5F9D2713035529F532DBF3D6986B622725F88AEEA71A04234EE7896BFB197722AEAE96476860DB3FFE05FDACE259A0552BA90A2EBCBD7687EEF991F9086576A74D27D908211FC7E033D719BB1B632685433AF860765EEFBB57A62B0385132699B834A638523F102543915229F146580A19E205B27EC262C177F6DA8DA371A93D26E299F45DE7CAE2439D06907CD8422459BFCC75D758204573EAAB62881C0F2F1F39CD821C3D96B37CAE00241D159AFDFD4436B64571F30BC1720E5BD5C585B31F39F39B2D0D798B03F2AE317F9D19B0446DAD9DB225139CEDD88428C08E4FB4B8FF517EA4066B9E5633AB246796C45FE476614DAF524F56748E3BA44200CF3A342A6A92A10CAC96657FF926DC4EFA6A803D2EDD0F361A0B17E5B7A654F3C0F5F5C2E8C1E03E6C46134A3A1F17A0D56D</span><span>F58F8AC928BAC9FEEC7B861455A8B7600ED7225805D1905042AFFAD1AE9D7BFBF8E9EE51BDCEA3E50FDF54C9CC1CF9012D984F9A2BFF185D1E8E9A0EBD8A49BF43705DD4BDAC3A3E5B543C192DCDE7ECEBD04CA706216736DBD2A15BF73F7FF7BA8ACD7A01F681AA20DADF87A948153670547F955F6232E8399A79210FFD10F3E6F3D16F40FA1AA9F5AB97A5E469E9EC4C50EEC0F5EE6CBB117BFD3FC6DBA58D5842EEBB193396ACD43C7602DDAEC2370B636374BC231CF2ABF2A4E4A69F2CE9F4C951CC2BFF8C8288A9D45C1863E6E23B32CF63AD6AD65FD9335A87A39693EFCE969A249B930E09D7400FE122277F5372648D39841F1C4BFA387972F45D10ADB59759F64334DD13F89A5C431164EADCE92A138D1F7FFC10E02C5D1DBA735577C1B2E22667873369D73D19CCF85190C97216F4B0F5EBF793928D50C4242C75CAC03659589B404B51DFBA52292C58C53C9F828852835FE2FA13AE0876097D8638E30AD939C76B4C040F6DF8D94655A4D2A99F6C3A271A1612663FBDCE1EF499C9504770173BFE5662380ECF44835C1C1F592F71A9E2BF48F78D953CC2FF43239F698D1991E0EA1A7F56BD46BF424886B013005B184546663ECBF7F3781673B994B813EF2A72E1D9EDBE8FE67329FA53A9FFB656CB844558EB8FA374045AE3B82C767921325406E0E699E6A11427766C7BD38A27813B584B1EE8002ABA6A8D41552147263E19A0BB7EC7091759C05DA4E12A989E27FCA636889983ABD0BF0FBFD18234CA65C5788771FE0D01FE5DC3D0A4F3FE0F9811CFAFCBCDFF6CC9C74687FF3EFD89CBC11215B81EE85439EDC5DCCD5AE6A8322D1BCB642C89ECC97520F64E4722DAE2073C671F28D992B38BF8693B8C064F7DE1292166558B095746AE4CFFA6AC733D8E9DF624F09F7DE5B461A8B3AC04D38FC098762235BBFC2CB60EF39A3EF7A950C6E5C514DC58F89DE18B2A63CE7E2D62A1E55887803A6D54B5471AA7EA4928E769AD7279D95C8F76188DEE015E1D0FDE46A31C71B3A1024DB3854E94A2EB13A76F0EFED247A57D2E0E848AADA8A2A87CBB241D4E6D4F1FBE5F246E3A72F034BC27DEC1AAC8F2175D7C1EDF4F8FBF3262683A3169182A7738FEE506A47C2A60B3F27CC3CB2A99C95483071DE1322783AAE0853C95591DAFB4159B57B691DBCCC8B9531365D0113A497000442C4475355C453AA801557C8CCD0E4F23A917D66A478422158922AC5E49FC7B2C9BFCDE1E9061FF11BE7C97CCC32DCDA1F0C627A2EF6C87F020</span></div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

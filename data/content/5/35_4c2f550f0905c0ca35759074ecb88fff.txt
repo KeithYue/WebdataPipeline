@@ -1,0 +1,873 @@
+http://blog.jrj.com.cn/5885031112,1352263a.html
+1402803359.8
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta name="keywords" content="轩世
+,金融界,精彩博文,博文阅览,博文汇总,金融界博客"/>
+<meta name="description" content="轩世
+,金融界博客平台,最好的精彩博文,最优质的股评分析."/>
+<meta name="author" content="zhenyu.yang"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="baidu-site-verification" content="v0Wjdh0Swkx8dgjW" /> 
+<title>12.6直播-轩世
+-轩世-金融界博客</title>
+<link href="http://js.jrjimg.cn/js.do?f=/common/common2013.css,/text2013/textpages/style/dialog.css,/text2013/textpages/style/MiniEditor.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="http://js.jrjimg.cn/blog2013-v2/common.1.3.css" />
+<link rel="stylesheet" type="text/css" href="http://js.jrjimg.cn/blog2013-v2/nav.css" />
+<link rel="stylesheet" type="text/css" href="http://js.jrjimg.cn/blog2013-v2/dialogbase.css" />
+<link id="skinstyle" rel="stylesheet" type="text/css" href="http://js.jrjimg.cn/blog2013-v2/skin/skin61/s.css" />
+<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/ui/Mask-min.1.0.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/jquery.ba-hashchange.min.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/blog2013-v2/nav.js" ></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/blog2013/js/login.js" ></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/live/ImageScroll-min.js" ></script>
+<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js" ></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/blog2013/js/portalNew-v1.2.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/blog2013/js/blogbase-v1.0.js"></script>
+<script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+<script src="http://js.jrjimg.cn/js.do?f=/lib/ui/LoginDialog-min.js,/text2013/textpages/js/dialogs-min.js,/text2013/textpages/js/CharNum-min.js,/lib/sso/sso-min.2.1.js,/lib/ui/jquery.pagefoot-min.js"></script>
+<script type="text/javascript" src="http://sso.jrj.com.cn/sso/js/userInfo.jsp"></script>
+<!--[if IE 6]> <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/ie-png-fix-src.js"></script>
+<![endif]--> 
+<script type="text/javascript">  
+	$(function(){
+		 if ($.browser.msie) {
+	         if (parseInt($.browser.version, 10) <= 6) {
+	             DD_belatedPNG.fix('.pngfixer,.check,.link li,.blog-attention a em');
+	         }
+	     } 
+	})
+</script>
+<style>.sina_blog{display:none;}</style> 
+	</head>
+	<body>
+		
+<div class="top-bar">
+	<div class="top">
+		<div class="top-nav">
+			<div class="fl">
+					<a href="http://www.jrj.com.cn/" target="_blank"><img width="62" height="28" src="http://i0.jrjimg.cn/blog/skin2013/icon-jrj.png" class="logo pngfixer" style="margin-right:0;" alt="金融界首页" /></a><a href="http://blog.jrj.com.cn/" target="_blank"><img width="46" height="28" src="http://i0.jrjimg.cn/blog/skin2013/icon-blog.png" class="logo pngfixer" alt="博客首页" /></a>
+				<h2>
+                	<a href="http://zhibo.jrj.com.cn/" target="_blank"><span>实盘直播</span></a>
+                	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>
+                	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>
+                	<a href="http://v.jrj.com.cn/" class="lst" target="_blank">微视频</a>
+				</h2>
+			</div>
+			<div class="fr">
+				
+				<div class="top-login">
+                    <a id="loginTop">登录</a> 
+                    <a target="_blank" id="reg">注册</a> 
+                    <a href="http://i.jrj.com.cn/retrievePWD.faces" target="_blank">忘记密码</a>
+                    <script language="javascript">
+					$("#loginTop").attr("href","http://sso.jrj.com.cn/sso/ssologin?ReturnURL=" + encodeURIComponent(window.location.href));
+					$("#reg").attr("href","http://i.jrj.com.cn/register.faces?ReturnURL=" + encodeURIComponent(window.location.href));
+					</script>
+				</div>
+                
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="setTemplate" style="display:none" id="setTemplate">
+	<div class="setArea">
+		   <div class="setTab">
+			  <ul>
+			  	<li class="cur" id="menu_1">风格设置</li>
+			  	<li id="menu_2">模块设置</li>
+			  </ul>
+			  <script type="text/javascript">
+                 $('#menu_1').on({
+                       mouseover:function()
+                       {
+                               $("#menu_1").addClass('cur');
+                               $("#con_1").show();
+                               $("#con_2").hide();
+                               $("#menu_2").removeClass('cur');
+                       }  
+                   });
+                   $('#menu_2').on({
+                       mouseover:function()
+                       {
+                               $("#menu_2").addClass('cur');
+                               $("#con_2").show();
+                               $("#con_1").hide();
+                               $("#menu_1").removeClass('cur');
+                       } 
+                   });
+              </script>
+			  <p class="option">
+			  	<!--  
+			  	<a href="" class="jrj-dlg-btn"><span>修复</span></a>
+			  	-->
+			  	<a href="javascript:void(0)" onclick="saveTemplateAndStyle(815268);return false;" class="jrj-dlg-btn"><span>保存</span></a>
+			  	<a href="javascript:void(0)" onclick="cancelChangeTemplateAndStyleNew();return false;" class="jrj-dlg-btn"><span>取消</span></a>
+			  </p>
+		   </div>
+		   <div class="setContent">
+             <!--风格模板-->
+             <div class="setStyle"  id="con_1"></div>
+              <!--设置模板-->
+              <div class="setMode"  id="con_2" style="display:none"></div>             
+		   </div>
+	</div>
+</div>  
+
+
+		<div class="w">
+		    
+<div class="header">
+	<div class="head">
+		<div class="blog-summary">
+			<div class="blogttl" id="blogtt1">
+				<strong><a id="a_blogname" href="http://blog.jrj.com.cn/5885031112" target="_blank">轩世
+</a>
+				
+				</strong>
+				<p class="about" id="blog-about">
+				
+					---挖掘热点 数据分析精准点滴! ---
+
+				</p>
+			</div>
+			<div class="blog-name-set" style="display: none" id="blog-name-set">
+				博客名称：轩世
+
+				<input disabled="disabled"  type="hidden" length="10" value="轩世
+" name="" id="set-name" class="blog-set-txt"/>
+				<p>
+				个人简介：<textarea cols="10" rows="3" id="set-about" name="" class="blog-set-txt2">---挖掘热点 数据分析精准点滴! ---
+</textarea>
+					<input type="button" class="btn btn-blog-set" value="保存" onclick="saveEditInfo('101026010080446608',815268,'5885031112')"/>
+					<input type="button" class="btn btn-blog-set" value="取消" onclick="cancelEditInfo()"/>
+				</p>
+			</div>
+		</div>
+		<div class="nav">
+			<ul>
+				<li>
+					<a href="http://blog.jrj.com.cn/5885031112" id="iblog">首页</a>
+				</li>
+				<li>
+					<a href="http://blog.jrj.com.cn/i,5885031112.html" id="icatalog">博文目录</a>
+				</li>
+				<li>
+					<a href="#albums" id="ialbum">相册</a>
+				</li>
+			</ul>
+			
+		</div>
+	</div>
+</div>
+			
+<div class="wrap">
+	<div class="main">
+		<div class="bx" id="div_articleAndClass">
+			<p class="tit">
+				<strong>博文</strong> 
+				<span id='fontSpan' class="setFont">字体：
+					<a id='bigSizeFont' href="javascript:changeFontSize(2)">大</a> 
+					<a id='midSizeFont' href="#"><b>中</b></a> 
+					<a id='smaSizeFont' href="javascript:changeFontSize(3)">小</a>
+				</span>
+			</p>
+			<div class="cont">
+                   <div class="btit">
+                   		<h1>12.6直播</h1>&nbsp;
+                   		<span class="eps">[2010-12-06 09:10:01]</span>&nbsp;
+                   		
+                   	</div>
+                   <div class="article-edit-tools">
+                   		<div class="tags" id="div_tags" style="display:none;"><!----></div>
+                   		<div class="classify" id="div_articleclass"><!----></div>
+                   	</div>
+					<div class="artcl" id="contentDIV">
+	                   <p><span id="eb_title_nameT"><span id="eb_title_nameT"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span id="eb_title_nameT"><span id="eb_title_nameT"><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'">－－－</span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; TEXT-DECORATION: underline; mso-spacerun: 'yes'">行情决定操作方式&nbsp;盘面决定操作细节<font face="Arial">!</font></span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'">－－－</span></span></span></font></span></span></span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><strong><u>大盘预测</u></strong></font></span></span></span></span></span></font></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体">&nbsp;&nbsp;&nbsp;
+目前上证指数在2800点附近的缩量整理正是在为年底前后的新一轮上涨积蓄能量。而从指数所处位置看，权重股和小盘股年底前后都有轮番上涨机会（要想成功突破2950或者3050重要短期压力带必须依靠金融地产股的强力上攻。而明年初的业绩浪里小盘新股的送转高潮也是少不了的）。当然从中长期看，今年新上市的尚未被过度炒作过的<span
+ id="stock_1599022" class="EmblogStockTip">中小板</span><span id=
+"quote_1599022"></span>创业板新股（最好是符合经济结构调整、新兴产业的细分行业龙头企业）仍然是最具爆发力的。</font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><font size="3"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+关注题材：精细化工五大细分板块氟化工、医药行业、碳纤维行业、电子化学品、环保节能等形成几个重要的细分板块</font><font color=
+"#F000F0"><u>。（参考文章：《此讯号透露这类股**在即！<span class="time"><font color="#666666">(2010-12-03 )）</font></span></u></font></font></span></p>
+<p><font color="#F000F0"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><strong><font color=
+"#F00000"><u>开盘信息</u></font></strong></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></p>
+<p>&nbsp;</p>
+<p><span><font color="#000000" face="宋体"><font color="#ff0000"><font color="#ff00ff"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style=
+"FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span
+style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style=
+"FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">1、国家发.改.委价格司副司.长周望军5日接受央视采访时指出，12月CPI不会“破五”，而且会低于11月份。目前有国际投行将明年中国物价控制目标提高至4%有一定道理。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></font></font></font></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">2、未来五年拟投资的10万亿规模里，政府出资也就是5%-15%，每年约2000亿元。由发.改.委牵头制定的《战略性新兴产业发展规划》，将在明年“两会”前公布。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">3、在12月4日举行的“中国有色金属峰会暨上海有色网年会”上，中国有色金属工业协会副会长尚.福.山表示，有色金属“十二五”规划建议已经提交。“十二五”期间，将对铜、铝、铅、锌等在内的十种有色金属进行总量控制，总产能控制在4100万吨以内。小金属的发展则将特别受到关注，在控制总量的同时，将大力提升产品附加值，发展下游深加工产业。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">4、《节能与新能源汽车产业规划(2011—2020)》(以下简称《规划》)已经进入部.委会签阶段，会签完毕后将上报国.务.院。据了解，在产业路线图的设计方面，《规划》明确界定了纯电动汽车和插电式混合动力汽车为新能源车范畴，并将纯电动汽车作为未来产业发展的主攻方向，对其给予更多的政策扶.持。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">5、2010年12月2日，财政部、科技部、住房和城乡建设部、国家能源局等四部门联合在北京召开会议，对金太阳示范工程和太阳能光电建筑应用示范工程的组织和实施进行动员、部.署，加快推进国内光伏发电规模化应用。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">08：40
+各位早上好！</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">09：10
+上周五大盘呈现横盘震荡整理走势。盘面上权重板块非银行、房地产、石化板块对大盘的震荡走稳起到主要作用，同时题材概念板块的稀土永磁和西-藏板块表现较活跃，对市场人气的维持起到较大作用。&nbsp;</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">09：20
+上周五欧美股市呈现震荡整理走势，涨跌不一。其中道琼斯上涨0.17%报收11382.09点，纳斯达克上涨0.47%报收2591.46点。黄金原油期货大幅飙升，其中原油期货创出近期新高。截至目前黄金期货报收1412.60点，原油期货报收89.31点。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">09：30
+两市较小幅高开，上证综指以2850.38点开盘，高开7.95点，涨幅为0.28%，深成指以12486.32点，高开43.32点，涨幅为0.35%。两市集合竞价成交金额为9.4较前一交易日有一定幅度缩小。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">09：40
+受国际黄金期货大幅上扬重上1400点以上消息刺激，今天盘面上黄金概念股表现强劲，对市场人气激发起到较大作用。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><font color="#000000" face="宋体"><font color="#ff0000"><font color="#ff00ff"><font color="#000000"><font face="宋体"><font color="#000000"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face=
+"宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font
+color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">09：50 机械的<font color=
+"#F00000">江苏宏宝</font>2天2涨停，以及我们11月18日盘中推荐的<font color="#F00000">精功科技</font>强者恒强继续上扬，以及医药的<font color="#F00000">紫光古汉</font>，化工的<font color=
+"#F00000">红星发展</font>，电力的<font color=
+"#F00000">郴电国际</font>纷纷震荡上扬。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></font></font></font></font></font></font></span></p>
+<p>&nbsp;</p>
+<p><font size="3">10：05 权重股表现较好，而小盘股的快速回落对指数上攻形成明显压力，显示短期市场恐惧心理较强，投资者应谨慎操作。</font></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">10：20
+目前上涨个股仅630只，跌的却1800只，涨停的仅1只，跌停的却有3只，市场在权重的企稳下，延续上周<font color=
+"#F000F0"><u>《二八倒戈午后或迎低吸战机！》(2010-12-03)</u></font>文中的二八格局，个股操作难度加大。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">10：40 <font color=
+"#F00000">双汇发展000895四天四涨停，</font>5天累积上涨48%，今日开盘再度涨停，券商、革命传统、银行等金融析块大涨护盘，股指上扬。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><font size="3">10：55 沪指窄幅波动 延续二八分化的趋势&nbsp;
+操作思路上,投资者可针对前期超跌个股进行挖掘,特别是缩量下跌的小盘股和题材股,对超跌的煤炭有色以及具有估值优势的券商股等,也可以进行分批低吸。</font></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">11：10 抗癌药物受市场关注，并带动疫苗、基因医药股活跃，<font color=
+"#F00000">西-藏药业</font>今日逆市上扬。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><font size="3">11：30
+以券商、期货、银、黄金为首的权重股支撑今日大盘指数稳定，但中小盘和创业板的普跌，个股呈弱势普跌格局。市场担忧，谨慎心态严重。早盘收盘收以小阴星，量能不济为666.5亿，早盘跌4.52点。</font></p>
+<p>&nbsp;</p>
+<p><font size="3">13：00
+盘面上看：两市早盘仅仅2家个股涨停，新上市的新股表现一般，资源股冲高回落对市场的杀伤力较大，市场热点散乱，量能再度缩减，投资者心态继续保持谨慎。午后重点关注10日线和60日线的技术作用。</font></p>
+<p>&nbsp;</p>
+<p><font size="3">13：10 软件显示国投中鲁资金不断流入，关注！</font></p>
+<p>&nbsp;</p>
+<p><font size="3">13：55 拥有大规模蓄水的长江电力出现拉升，随着煤炭价格的上涨直接导致煤电成本的大幅提高，此时水电的综合效益得以体现！</font></p>
+<p>&nbsp;</p>
+<p><font size="3">14：10
+市场观望情绪严重，今天成交量继续维持较低水平，两市只有3只个股涨停；市场涨缺乏新的领涨引擎，跌则缺乏持续的做空因素，股指在5日、10日、60日、250日多条均线纠缠处震荡。</font></p>
+<p>&nbsp;</p>
+<p><font size="3"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">14：25&nbsp;
+<strong>快评：</strong>午后，大盘延续横盘震荡整理，金融，石化等权重股积极护盘，中小市值个股仍延续整理行情，尤其创业板指数连跌五日对市场人气有所打击，使得市场交投欲望不强，午后成交量继续萎缩。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">板块上，券商、黄金、保险类个股资金净流入明显，前期反复活跃的中小市值新兴产业类品种如智能电网、信息通信等处于调整前列。盘面上看，两市涨停个股三家，上周五两新股处于跌停板。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000">整体来看，由于市场经过了前期大幅下挫后，短线有个技术修复过程中，在权重股的带动下，市场需要热点有效扩散带动人气回升，伴随着成交量的萎缩市场短线需要做一次方向选择。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">14：40 经过个股的大幅释压，尾盘一小时，大盘反弹，<font color=
+"#F00000"><strong>紫光古汉大涨8%</strong></font>，以及早盘我们推荐的<font color=
+"#F00000">国投中鲁</font>等个股震荡走高，尾盘个别航空股异动走高，如洪都航空、航天长峰、航天晨光等个股。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">10：45 早在<font color=
+"#F000F0"><u>2010-12-2《震荡中寻找两大确定性机会》</u></font>一文中我们就说过“大盘蓝筹迎来机会”继以上周五二八行情，今日券商、期货、银行、保险、黄金、有色等板块表现活跃，广发证券涨停。</font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000" face="宋体"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff0000"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#ff00ff"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color=
+"#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style="FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font face="宋体"><font color="#000000"><span><span><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span><span style=
+"FONT-FAMILY: 'Arial'; COLOR: rgb(240,0,0); FONT-SIZE: 12pt; mso-spacerun: 'yes'"><span><span style="FONT-FAMILY: 'Arial'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><font color="#000000">14：55
+周一大盘可说是有惊无险，在尾盘的逆转之下，市场人气有所回升，近收盘五分钟，涨停个股有5只，地产的中弘地产、农业的华英农业等涨停，个股仍存不少获利机会。<strong>今日大盘站上2850点，预计明日行情值得期待！</strong></font></span></span></span></span></span></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span></font></span></span></span></span></span></font></span></span></span></span></font></span></span></span></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p>———————————————————————————</p>
+<p><span style="DISPLAY: inline" class="admin"><font size="3"><strong><font color="#ff0000">以上观点，仅供参考！如据此操作，风险自担！如若喜欢本博，可以收藏！</font></strong><font color=
+"#ff0000"><strong>更多帮助，欢迎与博主交流、探讨！</strong></font></font></span></p>
+
+
+					</div> 
+					<div class="article-share"> 
+					<!-- Baidu Button BEGIN -->
+						<div class="share-to">
+							<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+								<a class="bds_qzone"></a>
+								<a class="bds_tsina"></a>
+								<a class="bds_tqq"></a>
+								<a class="bds_renren"></a>
+								<a class="bds_t163"></a>
+								<a class="shareCount"></a>
+							</div>
+						</div>
+					<!-- Baidu Button END -->
+                        <a href="javascript:void(0)" class="btn2 btn2_weixin" onclick="qrcode('1352263','5885031112')"><span><i>微信朋友圈</i></span></a>
+                        <a href="javascript:void(0)" class="btn2 btn2_weixin" onclick="longBlog('815268','',1352263)"><span>生成长微博</span></a>  
+                        <div id="div_weixinQRCode"></div>                      
+                   </div> 
+                   <div class="article-statistics">
+                      <em><i>阅读</i>(4675)</em> ┊ <em id="em_myfavorite"><i><a href="javascript:void(0)"  onclick="addFavorite('',1352263)">收藏</a></i>(0)</em> ┊ <em id="blogTotalCommentCount"></em>  
+                   </div> 
+				   <ul class="pgturn" id="ul_blogPreNexMsg">
+				   	  <li></li>
+				      <li></li>
+				   </ul>
+				   <script type="text/javascript">
+				   		var appId=815268;
+				   		var appItemid=1352263;
+				   		var itemTitle='12.6直播';
+				   		var itemUrl='http://blog.jrj.com.cn/5885031112,1352263a.html';
+				   		var appUserid='101026010080446608';
+				   		var appUsername='轩世';
+				   		//var openAllCommentsUrl='http://finance.jrj.com.cn/newscomments.shtml?id=16702488';
+				   </script>
+				    
+				   <div class="article-comment"> 
+                       <div class="md">
+                          <strong class="hd1">
+                              <span class="mh-title bgt01">网友评论</span>
+                              <span class="mh-option mhop_pl"><i>已有<b id="totalPinglunNum">0</b>条评论</i></span>
+                          </strong>
+                          <div class="bd bgf" style="width:680px;">
+                              <div id="editorContaier_Top" class="editorContaier" style="height:110px;"><div id="jrje_reply_Top" style="position:absolute;width:680px;height:100px"><div class="jrje-topbar"><div class="jrje-topbar-title"></div><div class="jrje-topbar-num"><span class="jrje-topbar-num-span">500</span>/500</div></div><div id="atSomeOne" class="jrje_rply" style="display: none;">回复 <span class="f_bl"></span> 的发言</div><div style="width: 678px; height: 62px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-style: none solid solid; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); background-color: rgb(255, 255, 255); background-position: initial initial; background-repeat: initial initial;"><iframe id="jrjIf_editorContaier_Top" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe></div><div class="jrje-toolbar"><div class="jrje-sbtn"><div class="lagin_end_mo"><button class="jrje-sbtn-submit">提交</button><img id="jrje_sbtn_reply_Top" src="http://i0.jrjimg.cn/live/imgbawutext.png"></div></div></div></div></div>
+                              <div class="login">
+                                  <div id="top-login" style="display: none;">
+                                      <form id="top-login-form" target="_top" method="post" name="top-login-form">
+                                          <input type="hidden" name="isVerifyCode">
+                                          <input type="hidden" name="isAddTicket">
+                                          <input type="hidden" name="locationHref">
+                                          <input type="hidden" name="ReturnURL">
+                                          <input type="hidden" name="SPID">
+                                          <label>用户名：<input type="text" maxlength="20" size="12" class="tx" name="LoginID"></label>
+                                          <label>密码：<input type="password" maxlength="20" size="12" class="tx" name="Passwd"></label>
+                                          <input type="button" value="登录" class="jrje-sbtn-submit" id="top-login-form-submit">
+                                          <a id="top-login-form-register" target="_blank">5秒注册</a>
+                                      </form>
+                                  </div>
+                                  <div id="top-login-info" class="top_login_info" style="">
+                                  	
+                                  	
+                                  		您好，金融界网友
+                                  	
+                                  </div>
+                              </div>
+                              <ul id="comment_main" class="listpl">
+                              </ul>
+                              <!-- 分页区 -->
+                              <div id="pagefoot_comment_list" class="pn"></div>
+                              <!-- END 分页区 -->
+                              <!-- 超链区 -->
+                              <!--  
+                              <p id="linkall_comment_list" class="umbpop" style=""><i><a href="http://www.jrj.com.cn" target="_blank">查看全部网友评论</a></i></p>
+                              -->
+                              <!-- END 超链区 -->
+                          </div>
+                        </div>
+						<script src="http://js.jrjimg.cn/text2013/textpages/js/TextPageComt-min.2.1.js"></script>
+                        <script>
+                            //评论模块初始化(如需设置其他配置,参考源码中config)
+                            var A = new JRJ.ui.TxtPgComm({
+                                /*
+                                 * 博主id
+                                 */
+                                'appId': appId,
+                                
+                                /*
+                                 * 博文id
+                                 */
+                                'appItemid': appItemid,
+                        
+                                /*
+                                 * 博文标题
+                                 */
+                                'itemTitle':itemTitle,
+                                
+                                /*
+                                 * 博文url
+                                 */
+                                'itemUrl': itemUrl,
+                                
+                                /*
+                                 * 博主jrjid
+                                 */
+                                'appUserid': appUserid,
+                                
+                                  /*
+                                 * 博主名字
+                                 */
+                                'appUsername': appUsername,
+                                
+                                
+                                'channelDomain': 'blog.comments.jrj.com.cn',
+                                'loginCharset': 'utf8',
+                                /*
+                                 * (重要) "查看全部网友评论"的链接 (若不定义或置空字符串则界面会出现分页组件的调用)
+                                 */
+                                'openAllCommentsUrl': '',
+                    
+                                'pinglunCountCallback': function (pinglunCount, pageNum){
+                                	var aHtml="<i>评论</i>("+pinglunCount+")";
+                                	$("#blogTotalCommentCount").html(aHtml);	
+                                }
+                            });
+                            A.init();
+                        </script>
+                    </div>
+                   
+			</div>
+		</div>
+	</div>
+	<div class="sider">
+		
+<div class="bx userinfo">
+	<p class="tit">
+		<strong>个人资料</strong>
+		
+	</p>
+	<div class="cont">
+		<div class="image">
+			<a href="http://i.jrj.com.cn/5885031112" target="_blank"><img src="http://i5.jrjimg.cn/201106/07/hp/hp_13074121478191_m.jpg" /> </a>
+			<p>
+				<a href="http://i.jrj.com.cn/5885031112" class="bon" target="_blank">轩世</a>
+			</p>
+		</div>
+		<div class="blog-attention">
+			<!--  
+			<a href="javascript:void(0)" onclick="sendJRJMsgI('轩世')" class="btn_msg"><em>发消息</em></a><a href="javascript:void(0)" onclick="addAttention('101026010080446608')" class="btn_att"><em>加关注</em></a>
+			-->
+			<a href="javascript:void(0)" onclick="sendJRJMsgI('轩世')" class="btn_msg"><em>发消息</em></a><a id="btn_att" data-userid="101026010080446608" href="javascript:void(0);" class="btn_att"><em>加关注</em></a>
+		</div>
+		<div class="blog-statistics">
+			<p class="p1">
+				博客等级:<i class="level pngfixer level-9"><em>9</em> </i>
+			</p>
+			<p>
+				博客积分:<i class="num">20035</i>
+			</p>
+			<p>
+				总访问量:<i class="num">6016102</i>
+			</p>
+			<p>
+				文章总数:<i class="num">111</i>
+			</p>
+			<p id="todayClick"></p>
+		</div>
+		<script>
+		var frindsList=[];
+		var isown=1;
+		$(function(){
+			$('#btn_att').bind('click',function(){
+				if(isown==0){
+					window.location.href='/portal/mngr/getMyFriends.action';
+				}else{
+					addAttention($(this).attr('data-userid'));
+				}
+				return false; 
+			});
+			$.each(frindsList,function(i,v){
+				if(v == $('#btn_att').attr('data-userid')){
+					$('#btn_att em').text('已关注');
+					$('#btn_att').unbind('click');
+					return false;				
+				}
+			});
+		});
+		</script>
+	</div>
+</div>
+		<div class="bx hot-blog">
+	<p class="tit">
+		<strong>最热文章</strong>
+	</p>
+	<div class="cont">
+		<ul class="list">
+						<li>
+				<a href="/xycjyzxbk,13907593a.html" target="_blank" title="黄金白银周评，强力推荐">黄金白银周评，强力推荐</a>
+			</li>
+			<li>
+				<a href="/7536294901,13907590a.html" target="_blank" title="鸿海:新规之下“打新”攻略?！">鸿海:新规之下“打新”</a>
+			</li>
+			<li>
+				<a href="/yzjn,13907603a.html" target="_blank" title="关注2100点量能变化">关注2100点量能变化</a>
+			</li>
+			<li>
+				<a href="/7912856629,13907567a.html" target="_blank" title="陈析银；黄金白银单子被套，怎么办？锁单了，怎么解锁？急">陈析银；黄金白银单子被</a>
+			</li>
+			<li>
+				<a href="/7912856629,13907566a.html" target="_blank" title="陈析银：现货黄金白银锁单套单不用怕，陈析银有绝招">陈析银：现货黄金白银锁</a>
+			</li>
+		</ul>
+	</div>
+</div>
+		<script type="text/javascript">
+	$(function() {
+		//直播动态
+		var t = new JRJ.ui.ImageScroll('demo1Con', {
+			autoPlay : false,
+			delay : 10,
+			speed : 40,
+			direction : "v"
+		});
+		setTimeout(function() {
+			t.previous();
+			setTimeout(arguments.callee, 10000);
+		}, 10000);
+	});
+</script>
+<div class="bx live">
+	<p class="tit">
+		<strong>实盘直播</strong>
+	</p>
+	<div class="cont">
+		<div id="demo1">
+			<div id="demo1Con">
+				<ul>
+									<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/2750" target="_blank"><img src="http://i5.jrjimg.cn/201404/04/hp/hp_13965733318111_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/2750" target="_blank">金银店铺二号</a> </b>周三黄金获利6美金。...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:23</span>
+									<span class="hot">人气：<i class="setFc">6</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/2750" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/5221" target="_blank"><img src="http://i5.jrjimg.cn/201404/26/hp/hp_13984478008071_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/5221" target="_blank">百合绽放</a> </b>【互动回复】jzg202说:老...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:22</span>
+									<span class="hot">人气：<i class="setFc">61</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/5221" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/1053" target="_blank"><img src="http://i5.jrjimg.cn/201209/07/hp/hp_13470091610741_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/1053" target="_blank">金融纵横沧海潜龙</a> </b>【互动回复】xjcgn说：呵呵...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:14</span>
+									<span class="hot">人气：<i class="setFc">227</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/1053" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/2907" target="_blank"><img src="http://i5.jrjimg.cn/201306/19/hp/hp_13716298065501_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/2907" target="_blank">周伟成炒股秘籍</a> </b>技术形态看，上证指数打破了此前...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:03</span>
+									<span class="hot">人气：<i class="setFc">293</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/2907" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/5213" target="_blank"><img src="http://i5.jrjimg.cn/201404/16/hp/hp_13976452011641_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/5213" target="_blank">幸运草</a> </b>幸运草独创【百米冲刺特种战法】...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:03</span>
+									<span class="hot">人气：<i class="setFc">33</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/5213" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="innerDiv">
+							<div class="picbox">
+								<div class="pic">
+										<a href="http://zhibo.jrj.com.cn/3912" target="_blank"><img src="http://i5.jrjimg.cn/201401/10/hp/hp_13893565819831_m.jpg" width="25" height="25" alt="pic" /></a>
+								</div>
+								<div class="info">
+									<div class="break">
+										<b><a href="http://zhibo.jrj.com.cn/3912" target="_blank">涨停王者-千机令</a> </b>★★今日服务项目：❶【23日一...
+									</div>
+								</div>
+								<div class="other_toos">
+									<span>06-15 11:00</span>
+									<span class="hot">人气：<i class="setFc">628</i></span>
+									<b><a href="http://zhibo.jrj.com.cn/3912" class="ask" target="_blank">提问</a></b>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>	
+	</div>
+	<script src="http://js.jrjimg.cn/blog0819/js/pop.js"></script>
+	<script src="http://js.jrjimg.cn/blog0819/js/FloatBox.1.1.js?r=8"></script>
+	<script type="text/javascript">
+		var isOwn = 1;
+		var bid = 815268;
+		var aid = 1352263;
+		var username='轩世';
+		var person_url = '5885031112';
+		var usertypeid=39679;
+		_myalbums={};
+		$(document).ready(function(){
+			 $(window).hashchange( function(){
+				    
+					var param=location.hash.replace('#','').split('/');
+					
+					switch (param[0]){
+						case 'albums':
+							albums(isOwn,bid,username);
+							break;
+						case 'album'://photos(isOwn,blogid,albumid,albumname,albumdesc,albumnamecreatetime,photocount,username,albumBrowse,pn)
+							var elementli=$('#album_'+param[1]);
+							if(elementli.length>0){
+								photos(isOwn,bid,param[1],elementli.data('aname'),elementli.data('adesc'),elementli.data('cdate'),elementli.data('pcount'),username,elementli.data('right'),1,elementli.data('flag'));
+							}else if(typeof _myalbums[param[1]]=='undefined'){
+								$.getJSON('portaln/albums.action',{"bid":bid},function(data){
+									if(typeof _myalbums=="undefined"||!_myalbums){_myalbums={}}
+									$.each(data,function(i,item){
+										_myalbums[item.blogAlbum.id]=item.blogAlbum;
+									});
+									photos(isOwn,bid,param[1],_myalbums[param[1]].album_name,_myalbums[param[1]].album_desc,_myalbums[param[1]].create_date,_myalbums[param[1]].photoCount,username,_myalbums[param[1]].browse_right,1,_myalbums[param[1]].flag);
+								});
+							}else{//item.blogAlbum.album_name+"\" data-adesc=\""+item.blogAlbum.album_desc+"\" data-cdate=\""+item.blogAlbum.create_date+"\" data-pcount=\""+item.blogAlbum.photoCount+"\" data-right=\""+item.blogAlbum.browse_right
+								photos(isOwn,bid,param[1],_myalbums[param[1]].album_name,_myalbums[param[1]].album_desc,_myalbums[param[1]].create_date,_myalbums[param[1]].photoCount,username,_myalbums[param[1]].browse_right,1,_myalbums[param[1]].flag);
+							}
+							break;
+						case 'photo':// aPhoto("+isOwn+",'"+username+"','"+item.photo_name+"','"+item.photo_desc+"','"+item.photo_url+"','"+item.upload_date+"',"+item.click_num+","+blogid+","+albumid+","+item.id+","+item.browse_right+")
+							var elementli=$('#photo_'+param[2]);
+							if(elementli.length>0){
+								aPhoto(isOwn,username,elementli.data('pname'),elementli.data('pdesc'),elementli.data('purl'),elementli.data('udate'),elementli.data('click_num'),bid,elementli.data('albumid'),param[1],elementli.data('right'));
+							}else{
+								 $.getJSON('portaln/photo.action',{"bid":bid,"albid":param[1],"pid":param[2]},function(data){
+									 aPhoto(isOwn,username,data.photo_name,data.photo_desc,data.photo_url,data.upload_date,data.click_num,bid,param[1],param[2],data.browse_right);
+								 });
+							}
+							break;
+						default:
+							async_load_taglist(aid,person_url);
+							async_load_blog_category(usertypeid,person_url,bid,isOwn,1);
+							async_load_blogPreNext(bid,person_url,aid);
+					}
+			 });
+			$(window).hashchange();
+			todayClick(bid);
+			//async_load_lastvisitor('101026010080446608');
+			//async_load_left_comments(bid);
+			new BlogFloatBox('http://blog.jrj.com.cn/spPreview/lowerRightCorner.html');
+			adopt();
+		});
+		function adopt(){
+			$.ajax({
+				 type: "get",
+				 dataType: "text", 
+				 url: "/portal/adopt.action",
+				 data: "bid="+bid+"&aid="+aid+"&type=article&tmp="+new Date().getTime(),          
+				 success: function(msg){
+					return;
+				 }
+			})
+		}
+	</script>
+	<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+	<script type="text/javascript" id="bdshell_js"></script>
+	<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+	</script>
+</div>
+
+		    
+<script src="http://js.jrjimg.cn/common/foot/jrj_dcs_tag-min.js"></script>
+<div class="ft">
+	<p>
+		<a href="http://www.jrj.com/map/index.htm">网站导航</a>|
+		<a href="http://www.jrj.com/jrj/index.htm">关于金融界</a>|
+		<a href="http://www.jrj.com.cn/jrj/ad.htm">广告服务</a>|
+		<a href="http://www.jrj.com/jrj/cp.htm">产品与服务</a>|
+		<a href="http://www.jrj.com/jrj/hz.htm">合作伙伴</a>|
+		<a href="http://www.jrj.com/jrj/flsm.htm">法律声明</a>|
+		<a href="http://www.jrj.com/jrj/zhaop.htm">人员招聘</a>|
+		<a href="http://www.jrj.com/jrj/zg.htm">征稿启事</a>|
+		<a href="http://web8.jrj.com.cn/word/">意见征集</a>|
+		<a href="http://www.jrj.com/jrj/lxwm.htm">联系我们</a>|
+		<a href="http://www.chinafinanceonline.com/">About Us</a>
+	</p>
+	<p>
+		Copyright &copy; <script>document.write(new Date().getFullYear());</script> JRJ.COM Inc. All Rights Reserved. 版权声明
+	</p>
+</div>
+
+		</div>
+		<script type="text/javascript">
+			showLogin("thread");
+		</script>
+		<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fce87e49ff6c734871b0e965e50cbc25d' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<!---------------------底部通用导航html-------------------------->
+		<div class="bottom_nav">
+		    <div id="BBar_Main" class="open" style="display:block">
+		    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+		    <div class="left-box">
+		    	<strong>实盘直播</strong>  
+		    </div>
+			<div class="right-box">
+		    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+		    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+		        <b id="BBar_Msg_Tip" class="off"></b>
+		    </div>
+		    <div class="center-box">
+		    	<div class="pab01">
+		    		<div id="stock_scroll" class="scroll">
+		              	<table>
+		                    <tbody>
+			  	  				<tr>
+			  	  					<td id="stock_scroll_content1">
+			  	  					</td>
+			  	  					<td id="stock_scroll_content2"></td>
+			  	  				</tr>
+			  				</tbody>
+		  				</table>
+		            </div>
+		        </div>
+		    </div>
+		    </div>
+		    <div id="BBar_Close_Cont" class="close_fc_new_btn" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+		</div>
+		<div id="popMsgBox" class="mb" style="display:none;">
+		   <div id="popMsgBox_Titlebar" class="mbhd">
+			   <span id="popMsgBox_Title" class="title">系统消息</span>
+			   <b id="popMsgBox_Close" class="option"></b>
+		   </div>
+		   <div id="popMsgBox_Content" class="mnbd">
+		   	  <div class="tit-mb">
+		           <p></p>
+		           <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa">查看</a></p>
+		         </div>
+		   </div>
+		</div>
+		<!---------------------------END 底部通用导航html--------------------------->
+    
+		<!---------------------------   底部通用导航页面js   ---------------------------> 
+		<script>
+		//系统消息提示开关
+		var BBarMsgSwitch = false;
+		</script>
+		<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>
+		<!---------------------------  END 底部通用导航页面js   ------------------------> 
+	</body>
+</html>

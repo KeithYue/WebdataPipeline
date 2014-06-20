@@ -1,0 +1,186 @@
+http://xinpi.stcn.com/zjjgbgshbulletin/bulletinlist_1_1.shtml
+1402803847.27
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>沪市主板_中国资本市场信息披露_证券时报网</title>
+<link rel="stylesheet" href="/style/style.css" />
+<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/index/cy/images/zd.css" />
+<script type="text/javascript" src="/script/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/script/script.js"></script>
+<script type="text/javascript" src="/images/datePicker/WdatePicker.js" defer="defer"></script>
+<script src="https://passport.stcn.com/wsLoginAssis.js" charset="UTF-8" type="text/javascript"></script>
+<script type="text/javascript" >
+	if(typeof(tgtId)!="undefined" && tgtId!=null && tgtId!=""){ 
+		$.post(
+	    '/extra/ajaxLogin.do',
+	    {
+	    	tgtId:tgtId
+	    },
+	    function (data){
+	    	if(data.result == 1){
+	    			//success
+	    	}
+	    },
+	    'json'
+	    );
+	}
+</script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stocksuggest.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/suggestfinance.js" charset="gb2312"></script>
+<script type="text/javascript" src="http://cy.stcn.com/stcn/js/cyzd_question.js?1"></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/css/index/cy/images/cy.know.js" ></script>
+<script type="text/javascript" src="http://img.stcn.com/templates/stcn/css/index/cy/images/script.js" ></script>
+</head>
+
+<body class="doc">
+<div class="ww">
+<div id="w">
+<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
+<div class="wrap">
+	<div class="g-hd">
+	<div class="hgroup">
+	<h1><a href="/">中国资本市场信息披露平台</a></h1>
+	<h2>上市公司，基金，债券，港股，代办转让，监管公告即刻知道</h2>
+</div>
+<div class="code2">
+	<a class="a1" href="#">爱股快信</a>
+	<a class="a2" href="http://wpa.qq.com/msgrd?v=3&uin=2549072838&site=qq&menu=yes">QQ在线服务</a>
+	<a class="a3" href="http://www.stcn.com" target="_blank">证券时报网</a>
+</div>
+<div class="m-navw f-cb">
+	<div class="m-logo"><a  target="_blank" href="http://chinext.stcn.com/">创业板指定信披平台</a></div>
+	<ul class="m-nav">
+		<li class="em2"><a href="/zxallbulletin/bulletinlist_1_1.shtml" target="_blank">最新</a></li>
+		<li class="em4"><a href="/zxshbulletin/bulletinlist_1_1.shtml" target="_blank">沪市主板</a></li>
+		<li class="em4"><a href="/zxszbulletin/bulletinlist_1_1.shtml" target="_blank">深市主板</a></li>
+		<li class="em3"><a href="/zxzxbulletin/bulletinlist_1_1.shtml" target="_blank">中小板</a></li>
+		<li class="em3"><a href="/zxcybulletin/bulletinlist_1_1.shtml" target="_blank">创业板</a></li>
+		<li class="em2"><a href="/jjzmjsl/bulletinlist_1_1.shtml" target="_blank">基金</a></li>
+		<li class="em2"><a href="/zqszzq/bulletinlist_1_1.shtml" target="_blank">债券</a></li>
+		<li class="em2"><a href="/qzszqz/bulletinlist_1_1.shtml" target="_blank">权证</a></li>
+		<li class="em5"><a href="/xgcyb/bulletinlist_1_1.shtml" target="_blank">香港创业板</a></li>
+		<li class="em4"><a href="/xgzb/bulletinlist_1_1.shtml" target="_blank">香港主板</a></li>
+		<li class="em4"><a href="/jgjgzjh/bulletinlist_1_1.shtml" target="_blank">监管机构</a></li>
+		<li class="em3"><a href="/nballbulletin/bulletinlist_1_1.shtml" target="_blank">年报</a></li>
+		<li class="em3"><a href="/bnballbulletin/bulletinlist_1_1.shtml" target="_blank">半年报</a></li>
+		<li class="em2"><a href="/ipoallbulletin/bulletinlist_1_1.shtml" target="_blank">IPO</a></li>
+		<li class="em4"><a href="/gddhallbulletin/bulletinlist_1_1.shtml" target="_blank">股东大会</a></li>
+		<li class="em4"><a href="/gqbdallbulletin/bulletinlist_1_1.shtml" target="_blank">股权变动</a></li>
+		<li class="em3"><a href="/kzzallbulletin/bulletinlist_1_1.shtml" target="_blank">可转债</a></li>
+		<li class="em3"><a href="/pgallbulletin/bulletinlist_1_1.shtml" target="_blank">配股</a></li>
+		<li class="em2"><a href="/zfallbulletin/bulletinlist_1_1.shtml" target="_blank">增发</a></li>
+		<li class="em2"><a href="/fpallbulletin/bulletinlist_1_1.shtml" target="_blank">分配</a></li>
+		<li class="em2"><a href="/jyallbulletin/bulletinlist_1_1.shtml" target="_blank">交易</a></li>
+		<li class="em5"><a href="/bcjgzallbulletin/bulletinlist_1_1.shtml" target="_blank">补充及更正</a></li>
+		<li class="em4"><a href="/dbzr/bulletinlist_2_1.shtml" target="_blank">代办转让</a></li>
+		<li class="em4"><a href="/bjxt/bulletinlist_2_1.shtml" target="_blank">报价系统</a></li>
+		<li class="em3"><a href="/yjballbulletin/bulletinlist_1_1.shtml" target="_blank">一季报</a></li>
+		<li class="em3"><a href="/sjballbulletin/bulletinlist_1_1.shtml" target="_blank">三季报</a></li>
+	</ul>
+</div>
+
+	<!-- include滚动播报rollnews.html -->
+	<div class="scrollw">
+	<h3>滚动播报</h3>
+	<div class="scroll">
+		<ul>
+			<li><a href="http://kuaixun.stcn.com/2014/0224/11193440.shtml" target="_blank" >新股助手四大功能助股民打新</a></li><li><a href="http://xinpi.stcn.com/finalpage/2014-06/13/sh.shtml" target="_blank" >6月13日沪市公告摘要</a></li><li><a href="http://xinpi.stcn.com/finalpage/2014-06/13/cy.shtml" target="_blank" >6月13日创业板公告摘要</a></li><li><a href="http://xinpi.stcn.com/finalpage/2014-06/13/sz.shtml" target="_blank" >6月13日深主板公告摘要</a></li><li><a href="http://kuaixun.stcn.com/2014/0613/11487335.shtml" target="_blank" >6月13日三大证券报证券新闻汇总</a></li><li><a href="http://kuaixun.stcn.com/content/2012-06/14/content_5931766.htm" target="_blank" >看爱股快信—及时洞悉上市公司重大信息</a></li>
+		</ul>
+	</div>
+</div>
+
+	<script type="text/javascript" src="/images/search.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="/images/searchUI.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="/images/SuggestServerAll_2013.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="/images/SuggestServer_2013forMarket.js" charset="UTF-8"></script> 
+</div>
+	<div class="g-bd">
+		<div class="f-cb">
+			<div class="m-tt">
+				<h2 class="m-tt-h">信息披露</h2>
+			</div>
+		</div>
+		<div class="f-cb">
+			<div class="m-tab m-tab1 f-cb">
+				<div class="m-tab-hd m-tab1-hd f-fl"><ul class="m-tab1-nav"><li  > <a href="/zxallbulletin/bulletinlist_1_1.shtml">全部</a></li><li  class="z-crt"  > <a href="/zxshbulletin/bulletinlist_1_1.shtml">沪市</a></li><li  > <a href="/zxszbulletin/bulletinlist_1_1.shtml">深主板</a></li><li  > <a href="/zxzxbulletin/bulletinlist_1_1.shtml">中小板</a></li><li  > <a href="/zxcybulletin/bulletinlist_1_1.shtml">创业板</a></li></ul></div>
+				<div class="m-tab-bd m-tab1-bd f-fr">
+					<div class="m-tab-box z-crt">
+						<div class="m-tab m-tab2 f-cb">
+							<div class="m-tab-hd m-tab2-hd f-fl">
+								<ul class=" m-tab2-nav">
+									<li  > <a href="/zxshbulletin/bulletinlist_1_1.shtml">最新</a></li><li  > <a href="/iposhbulletin/bulletinlist_1_1.shtml">IPO</a></li><li  > <a href="/pgshbulletin/bulletinlist_1_1.shtml">配股</a></li><li  > <a href="/zfshbulletin/bulletinlist_1_1.shtml">增发</a></li><li  > <a href="/kzzshbulletin/bulletinlist_1_1.shtml">可转债</a></li><li  > <a href="/qzxgggshbulletin/bulletinlist_1_1.shtml">权证相关公告</a></li><li  > <a href="/qtjrshbulletin/bulletinlist_1_1.shtml">其他金融</a></li><li  > <a href="/fpshbulletin/bulletinlist_1_1.shtml">分配</a></li><li  > <a href="/xsgssshbulletin/bulletinlist_1_1.shtml">限售股上市</a></li><li  > <a href="/gqbdshbulletin/bulletinlist_1_1.shtml">股权变动</a></li><li  > <a href="/jyshbulletin/bulletinlist_1_1.shtml">交易</a></li><li  > <a href="/gddhshbulletin/bulletinlist_1_1.shtml">股东大会</a></li><li  > <a href="/cqfxyjshbulletin/bulletinlist_1_1.shtml">澄清、风险、业绩报告</a></li><li  > <a href="/qtzdsxshbulletin/bulletinlist_1_1.shtml">其它重大事项</a></li><li  > <a href="/tbclhtsshbulletin/bulletinlist_1_1.shtml">特别处理和退市</a></li><li  > <a href="/bcjgzshbulletin/bulletinlist_1_1.shtml">补充及更正</a></li><li  class="z-crt"  > <a href="/zjjgbgshbulletin/bulletinlist_1_1.shtml">中介机构报告</a></li><li  > <a href="/ssgszdshbulletin/bulletinlist_1_1.shtml">上市公司制度</a></li><li  > <a href="/nbshbulletin/bulletinlist_1_1.shtml">年报</a></li><li  > <a href="/bnbshbulletin/bulletinlist_1_1.shtml">半年报</a></li><li  > <a href="/yjbshbulletin/bulletinlist_1_1.shtml">一季报</a></li><li  > <a href="/sjbshbulletin/bulletinlist_1_1.shtml">三季报</a></li>
+								</ul>
+							</div>
+							<div class="m-tab-bd m-tab2-bd f-fr">
+								<div class="m-tab-box z-crt">
+									<div class="m-list1-th"><span class="s1">代码</span> <span class="s2">简称</span> <span class="s3">标题</span> <span class="s4">时间</span></div><ul class="m-list1 m-list1-nosquare m-list1-hover"><li>   <a href="/finalpage/2014-06/14/PDF64136764.shtml" title="南京新百：北京市中伦律师事务所关于南京新街口百货商店股份有限公司重大资产购买的法律意见书" target="_blank" ><em>600682</em>南京新百：北京市中伦律师事务所关于南京新街口百货商店股份有限公司重大资产购买的法律意...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136765.shtml" title="南京新百：Highland Group Holdings Limited合并盈利预测以及审核报告（截止2015年01月31日的53周）" target="_blank" ><em>600682</em>南京新百：Highland Group Holdings Limited合并盈利预测以及审核报告（截止2015年01月31...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136761.shtml" title="南京新百：华泰联合证券有限责任公司关于南京新街口百货商店股份有限公司重大资产购买之独立财务顾问报告" target="_blank" ><em>600682</em>南京新百：华泰联合证券有限责任公司关于南京新街口百货商店股份有限公司重大资产购买之独...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136762.shtml" title="南京新百：鉴证报告" target="_blank" ><em>600682</em>南京新百：鉴证报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136763.shtml" title="南京新百：股权收购涉及的高地集团控股有限公司股东全部权益价值资产评估报告" target="_blank" ><em>600682</em>南京新百：股权收购涉及的高地集团控股有限公司股东全部权益价值资产评估报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64135792.shtml" title="大连控股：验资报告" target="_blank" ><em>600747</em>大连控股：验资报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136507.shtml" title="金丰投资：绿地控股集团有限公司盈利预测审核报告" target="_blank" ><em>600606</em>金丰投资：绿地控股集团有限公司盈利预测审核报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64135794.shtml" title="大连控股：瑞信方正证券有限责任公司关于大连大显控股股份有限公司非公开发行股票发行过程和认购对象合规性的报告" target="_blank" ><em>600747</em>大连控股：瑞信方正证券有限责任公司关于大连大显控股股份有限公司非公开发行股票发行过程...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136264.shtml" title="国投新集：关于上海新外滩企业发展有限公司转让所持有的安徽刘庄置业有限责任公司股权项目资产评估情况的补充说明" target="_blank" ><em>601918</em>国投新集：关于上海新外滩企业发展有限公司转让所持有的安徽刘庄置业有限责任公司股权项目...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136263.shtml" title="国投新集：上海新外滩企业发展有限公司转让所持有的安徽刘庄置业有限责任公司股权项目评估报告" target="_blank" ><em>601918</em>国投新集：上海新外滩企业发展有限公司转让所持有的安徽刘庄置业有限责任公司股权项目评估...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64135142.shtml" title="国中水务：中国民族证券有限责任公司关于黑龙江国中水务股份有限公司限售股解禁的核查意见" target="_blank" ><em>600187</em>国中水务：中国民族证券有限责任公司关于黑龙江国中水务股份有限公司限售股解禁的核查意见</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136504.shtml" title="金丰投资：绿地控股集团有限公司审计报告" target="_blank" ><em>600606</em>金丰投资：绿地控股集团有限公司审计报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136506.shtml" title="金丰投资：北京市金杜律师事务所关于上海金丰投资股份有限公司资产置换及发行股份购买资产之法律意见书" target="_blank" ><em>600606</em>金丰投资：北京市金杜律师事务所关于上海金丰投资股份有限公司资产置换及发行股份购买资产...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136638.shtml" title="上海医药：审计报告" target="_blank" ><em>601607</em>上海医药：审计报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136510.shtml" title="金丰投资：备考审计报告" target="_blank" ><em>600606</em>金丰投资：备考审计报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136639.shtml" title="上海医药：评估报告" target="_blank" ><em>601607</em>上海医药：评估报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136505.shtml" title="金丰投资：重大资产置换及发行股份购买资产所涉及的置出资产上海金丰投资股份有限公司全部资产和负债价值评估报告" target="_blank" ><em>600606</em>金丰投资：重大资产置换及发行股份购买资产所涉及的置出资产上海金丰投资股份有限公司全部...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136511.shtml" title="金丰投资：重大资产置换及发行股份购买资产所涉及的绿地控股集团有限公司股东全部权益价值评估报告" target="_blank" ><em>600606</em>金丰投资：重大资产置换及发行股份购买资产所涉及的绿地控股集团有限公司股东全部权益价值...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136509.shtml" title="金丰投资：备考盈利预测审核报告" target="_blank" ><em>600606</em>金丰投资：备考盈利预测审核报告</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136503.shtml" title="金丰投资：海通证券股份有限公司关于上海金丰投资股份有限公司重大资产置换及发行股份购买资产暨关联交易之独立财务顾问报告" target="_blank" ><em>600606</em>金丰投资：海通证券股份有限公司关于上海金丰投资股份有限公司重大资产置换及发行股份购买...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64136508.shtml" title="金丰投资：2011年度、2012年度以及2013年度已审财务报表" target="_blank" ><em>600606</em>金丰投资：2011年度、2012年度以及2013年度已审财务报表</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64135793.shtml" title="大连控股：北京市时代九和律师事务所关于大连大显控股股份有限公司非公开发行股票发行过程及发行对象合规性的见证意见" target="_blank" ><em>600747</em>大连控股：北京市时代九和律师事务所关于大连大显控股股份有限公司非公开发行股票发行过程...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64134805.shtml" title="士兰微：东方花旗证券有限公司关于杭州士兰微电子股份有限公司使用部分闲置募集资金暂时补充流动资金的核查意见" target="_blank" ><em>600460</em>士兰微：东方花旗证券有限公司关于杭州士兰微电子股份有限公司使用部分闲置募集资金暂时补...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64135145.shtml" title="方正科技：招商证券股份有限公司关于方正科技集团股份有限公司详式权益变动报告书之财务顾问核查意见" target="_blank" ><em>600601</em>方正科技：招商证券股份有限公司关于方正科技集团股份有限公司详式权益变动报告书之财务顾...</a><span>2014-06-14 00:00</span></li><li>   <a href="/finalpage/2014-06/14/PDF64134827.shtml" title="华贸物流：中银国际证券有限责任公司关于港中旅华贸国际物流股份有限公司使用闲置募集资金暂时补充流动资金事项之核查意见" target="_blank" ><em>603128</em>华贸物流：中银国际证券有限责任公司关于港中旅华贸国际物流股份有限公司使用闲置募集资金...</a><span>2014-06-14 00:00</span></li></ul>
+									<div class="m-tip">提示：仅显示近3个月内的公告，查看历史公告请使用高级检索功能</div>
+									<div class="m-page f-tar"> <a href='/zjjgbgshbulletin/bulletinlist_1_1.shtml'>首页</a> <a href='/zjjgbgshbulletin/bulletinlist_1_1.shtml'>上一页</a> <a href='/zjjgbgshbulletin/bulletinlist_1_2.shtml'>下一页</a> <a href='/zjjgbgshbulletin/bulletinlist_1_15.shtml'>尾页</a><span> 页次：1/15   转到：<input subjectId='text' name='currentPage' class="m-page-num" id='vv'/> <input type='button' name='Submit4' value='GO' class="m-page-go"  onclick='goto("/zjjgbgshbulletin/bulletinlist_1_",15);' /></span> </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="m-help">
+				<a class="pdf-dld" href="http://xinpi.stcn.com/software/FoxitReader431_chs_Setup.exe">PDF阅读器下载</a>
+				<h5>使用说明：</h5>
+				<ul>
+					<li>1.可以单选或组合以上查询条件进行查询。</li>
+					<li>2.证券代码为空则可查询到该时间段内所有证券（公司/基金）的公告。</li>
+					<li>3.查询时间段不能跨年选择，请尽量不要设置过长，以减少查询等待时间。</li>
+					<li>4.如需更精确的查询，可输入关键词或选择公告类型。</li>
+					<li>5.使用快速查询可以查询某证券一年内的所有公告。</li>
+				</ul>
+				<h5>免责说明：</h5>
+				<p>本查询系统竭力保证所提供证券市场信息和服务的准确性和完整性，但并不担保（无论是明示、默示、法定或其他形式）其准确性和完整性。请使用者以指定信息披露媒体披露的公告全文为准。</p>
+			</div>
+		</div>
+	</div>
+	<div class="g-ft">
+		<div class="inner">
+			<div class="m-flink"><h4>友情链接</h4><a target="_blank" href="http://www.mof.gov.cn/mof/" title="财政部">财政部</a><a target="_blank" href="http://www.pbc.gov.cn/" title="中国人民银行">中国人民银行</a><a target="_blank" href="http://www.mofcom.gov.cn/" title="商务部">商务部</a><a target="_blank" href="http://www.stats.gov.cn/" title="国家统计局">国家统计局</a><a target="_blank" href="http://www.miit.gov.cn/n11293472/index.html" title="工信部">工信部</a><a target="_blank" href="http://www.sasac.gov.cn/n1180/index.html" title="国资委">国资委</a><a target="_blank" href="http://www.safe.gov.cn/model_safe/index.html" title="外汇局">外汇局</a><a target="_blank" href="http://www.ndrc.gov.cn/" title="国家发改委">国家发改委</a><a target="_blank" href="http://www.csrc.gov.cn/" title="中国证监会">中国证监会</a><a target="_blank" href="http://www.cbrc.gov.cn/chinese/home/jsp/index.jsp" title="中国银监会">中国银监会</a><a target="_blank" href="http://www.circ.gov.cn/web/site0/" title="中国保监会">中国保监会</a><a target="_blank" href="http://www.szse.cn/" title="深圳证券交易所">深圳证券交易所</a><a target="_blank" href="http://www.sse.com.cn/sseportal/ps/zhs/home.html" title="上海证券交易所">上海证券交易所</a><a target="_blank" href="http://www.sac.net.cn/" title="中国证券业协会">中国证券业协会</a><a target="_blank" href="http://www.cffex.com.cn/" title="中金所">中金所</a><a target="_blank" href="http://www.chinaclear.cn/" title="中登公司">中登公司</a><a target="_blank" href="http://www.cybcn.com/" title="中国创业板市场">中国创业板市场</a></div>
+			<iframe width="980px" scrolling="no" height="160px" frameborder="0" allowtransparency="true" src="http://www.stcn.com/common28/include/footer.html" class="block bc"></iframe>
+		</div>
+	</div>
+</div>
+<div class="ui-showbox-mask fn-hide"></div>
+<div id="box4" class="ui-showbox fn-hide">
+	<div class="ui-showbox-in">
+		<div class="ui-showbox-cnt">
+		</div>
+		<a class="ui-showbox-close" href="#">关闭</a>
+	</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" >
+	function goto(prefix,totalPages){
+		    var p=document.getElementById("vv").value;
+		    var  newPar=/^\d+$/;
+			if(!newPar.test(p)){
+				alert("跳转页数必须为正整数!");
+				document.getElementById("vv").focus();
+				return;
+			}
+			if(p>totalPages){
+				alert("输入的页数不能大于总页数!");
+				document.getElementById("vv").focus();
+				return;
+			}
+			if(p<1)
+			{
+				alert("输入的页数不能小于1!");
+				document.getElementById("vv").focus();
+				return;
+			}
+		    if(isNaN(p))
+		    	alert("请输入有效数字！");
+		    else
+				window.open(prefix+p+'.shtml','_self','');
+		}
+</script>
+</body>
+</html>

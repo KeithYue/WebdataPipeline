@@ -7,6 +7,7 @@ import time
 import ConfigParser
 from content_extractor import ExtractorFactory
 from multiprocessing import Lock, Queue, Process, cpu_count
+from pymongo.errors import DuplicateKeyError
 
 class Worker(Process):
     '''
@@ -38,7 +39,7 @@ class Worker(Process):
                             print 'parser error for %s, continue' % (file_path,)
                     except DuplicateKeyError:
                         print 'document existed, continue'
-                        self.queue.task_done()
+                        # self.queue.task_done()
                         continue # get the next document
                 continue
             else:
@@ -67,7 +68,7 @@ def main():
             num_of_documents += 1
 
     # set up the workers
-    workers = [Worker(Q) for i in range(0, cpu_count())]
+    workers = [Worker(Q) for i in range(0, cpu_count()-2)]
 
     for w in workers:
         w.start()

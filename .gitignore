@@ -58,3 +58,6 @@ data/
 # pyc file
 *.pyc
 
+# the config file
+*.ini
+

@@ -79,13 +79,14 @@ def test():
             task_list.append(file_path)
 
     pool = Pool(cpu_count()-2)
-    pool.map(extract, task_list)
+    results = pool.map(extract, task_list)
     pool.close()
     pool.join()
 
     end_time = time.time()
 
     print 'Have processed %d files in %f seconds' % (len(task_list), end_time-start_time)
+    print 'Successfully parsed %d files' % len([a  for a in results if a])
     return
 
 

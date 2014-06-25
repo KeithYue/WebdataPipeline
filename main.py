@@ -6,7 +6,7 @@ import os
 import time
 import ConfigParser
 from content_extractor import ExtractorFactory
-from multiprocessing import Lock, Queue, Process, cpu_count
+from multiprocessing import Lock, Queue, Process, cpu_count, Pool
 from pymongo.errors import DuplicateKeyError
 
 class Worker(Process):
@@ -46,6 +46,48 @@ class Worker(Process):
                 break
         return
 
+def extract(file_path):
+    '''
+    a single task a worker would perform
+    '''
+    extractor = ExtractorFactory.get_extractor(file_path)
+    extension = os.path.splitext(file_path)[-1]
+    if extractor is not None and extension in ['.txt']: # only parse the txt file
+        print 'Parsing', file_path
+        try:
+            if extractor.parse_document():
+                extractor.insert()
+            else:
+                print 'parser error for %s, continue' % (file_path,)
+                return False
+        except DuplicateKeyError:
+            print 'document existed, continue'
+            # self.queue.task_done()
+    return True
+
+def test():
+    '''
+    using the map method to parse the file
+    instead of the traditional way
+    '''
+    start_time = time.time()
+
+    task_list = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        for filename in filenames:
+            file_path = os.path.join(dirpath, filename)
+            task_list.append(file_path)
+
+    pool = Pool(cpu_count()-2)
+    pool.map(extract, task_list)
+    pool.close()
+    pool.join()
+
+    end_time = time.time()
+
+    print 'Have processed %d files in %f seconds' % (len(task_list), end_time-start_time)
+    return
+
 
 def main():
     '''
@@ -53,11 +95,6 @@ def main():
     '''
     start_time = time.time()
     num_of_documents = 0
-
-    # read the config
-    Config = ConfigParser.ConfigParser()
-    Config.read('./config.ini')
-    root = Config.get('root', 'path')
 
     # insert the files into task Q
     Q = Queue()
@@ -85,6 +122,11 @@ def main():
 
 extractor_lock = Lock()
 
+# read the config
+Config = ConfigParser.ConfigParser()
+Config.read('./config.ini')
+root = Config.get('root', 'path')
+
 if __name__ == '__main__':
-    main()
+    test()
 

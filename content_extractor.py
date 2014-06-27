@@ -85,8 +85,8 @@ class BaseExtractor(ContentExtractor):
 
             document['text'] = extract(html)
             document['tokens'] = tokenize(document['text'])
-        except ValueError:
-            print 'value error'
+        except Exception as e:
+            print e, 'Some error has occured, continue'
             return False
 
         # print document['text']

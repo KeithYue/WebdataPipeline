@@ -83,8 +83,8 @@ class BaseExtractor(ContentExtractor):
 
             html = ''.join(raw[2:]).strip()
 
-            # document['text'] = extract(html)
-            document['tokens'] = tokenize(document['text'])
+            text = extract(html)
+            document['tokens'] = tokenize(text)
         except Exception as e:
             print e, 'Some error has occured, continue'
             return False

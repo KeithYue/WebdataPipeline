@@ -33,6 +33,39 @@ def extract(content):
         soup = BeautifulSoup(content)
         return extractor.extract(soup.get_text())
 
+def parse_time(s):
+    '''
+    try to parse a string into datetime --> datetime.datetime
+
+    s: the time string
+    '''
+    pattern2 = re.compile(r'''
+            ^ # the start of the string
+            (\d+) # the year
+            \D+
+            (\d+) # the month
+            \D+
+            (\d+) # the day
+            \D+
+            (\d+) # the hour
+            \D+
+            (\d+) # the minute
+            \D+
+            (\d+) # the seconds
+            $ # the end of the string
+            ''', re.VERBOSE)
+
+    if re.search(r'^\d+\.\d+$', s):
+        return datetime.datetime.fromtimestamp(float(s))
+
+    elif pattern2.search(s):
+        m = pattern2.search(s)
+        time_list = [int(i) for i in m.groups()]
+        return datetime.datetime(*time_list)
+    else:
+        print 'Parse time error'
+        return None
+
 
 class ContentExtractor():
     '''
@@ -78,7 +111,7 @@ class BaseExtractor(ContentExtractor):
             raw = self.source.readlines()
 
             document['source_url'] = raw[0].strip()
-            document['timestamp'] = datetime.datetime.fromtimestamp(float(raw[1].strip()))
+            document['timestamp'] = parse_time(raw[1].strip())
             document['domain'] = urlparse(document['source_url']).netloc
 
             html = ''.join(raw[2:]).strip()

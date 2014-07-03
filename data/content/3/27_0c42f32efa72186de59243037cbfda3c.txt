@@ -1,243 +1,0 @@
-http://stock.stcn.com/2014/0610/11478957.shtml
-1402802190.7
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="汽车业 库存 恒指 50" />
-<meta name="description" content="" />
-<meta name="author" content="证券时报网" />
-<meta name="Copyright" content="证券时报网版权所有" />
-<title>苏沛丰﹕料恒指下试22500 汽车业受库存困扰_证券时报网</title>
-<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/base.css" />
-<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/common.css" />
-<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/stock.css" />
-<link rel="stylesheet" href="http://img.stcn.com/templates/stcn/css/article/newsFinalPage/newsFinalPage.css" />
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/plugin1.js"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stocksuggest.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/suggestfinance.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/fundsuggest.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/MD5.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stockhq.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/css/article/newsFinalPage/commonPage.js" charset="gb2312"></script>
-<script type="text/javascript" src="http://img.stcn.com/js/config.js"></script>
-<script type="text/javascript" src="http://img.stcn.com/js/lib/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/usercard.js"></script>
-<script type="text/javascript">
-var contentid = 11478957;
-    $(function(){
-    	var $a = $('.wrap1 ol a');
-    	var $ul = $('.wrap1 ul');
-    	$a.each(function(){
-    		var $n = $a.index($(this));
-    		$(this).click(function(){
-    			$(this).addClass('actiev').parent().siblings().find('a').removeClass('actiev');
-    			$ul.eq($n).removeClass('hide').siblings('ul').addClass('hide');
-    		});
-    	});
-    })
-</script>
-<script type="text/javascript" src="http://img.stcn.com/js/fet.js"></script>
-<script type="text/javascript" src="http://img.stcn.com/js/repos.js"></script>
-<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.stcn.com/"})</script>
-<script>
-var _hmt = _hmt || [];
-</script>
-</head>
-<body ><script type="text/javascript" src="http://img.stcn.com/templates/stcn/js/common/stock_v3_091024.js" charset="gb2312"></script>
-<iframe class="block" src="https://passport.stcn.com/login.html" width="100%" height="25px" frameborder="0" scrolling="no"></iframe>
-<div class="wrap bc">
-	<div class="header">
-		<style type="text/css">
-.mainNav { width:978px; height:35px; margin:0 auto; line-height:35px;}
-.mainNav li { position:relative; float:left; margin-left:30px;}
-.mainNav .mainNav_firstLi { margin-left:40px;}
-.mainNav a { color:#000;}
-.mainNav .highlight { color:#f00;}
-</style>
-<ul class="mainNav clearfix">
-    <li class="mainNav_firstLi"><a href="http://www.stcn.com" target="_blank">首页</a></li>
-    <li><a href="http://news.stcn.com/" target="_blank">新闻</a></li>
-    <li><a href="http://stock.stcn.com/" target="_blank">股票</a></li>
-    <li><a href="http://company.stcn.com/" target="_blank">公司</a></li>
-    <li><a href="http://fund.stcn.com/" target="_blank">基金</a></li>
-    <li><a href="http://research.stcn.com/" target="_blank">研报</a></li>
-    <li><a href="http://future.stcn.com/" target="_blank">期货</a></li>
-    <li><a href="http://data.stcn.com/" target="_blank">数据</a></li>
-    <li><a href="http://kuaixun.stcn.com/kuaixun.shtml" target="_blank">快讯</a></li>
-    <li><a href="http://zt.stcn.com/index.shtml" target="_blank">专题</a></li>
-    <li><a href="http://wq.stcn.com/" target="_blank">维权</a></li>
-    <li><a href="http://cy.stcn.com/" target="_blank" >财苑社区</a></li>
-    <li><a href="http://m.stcn.com/" target="_blank" >移动终端</a></li>
-    <li><a href="http://xinpi.stcn.com/" target="_blank" class="highlight">信披平台</a></li>
-    <li><a href="http://epaper.stcn.com/" target="_blank">电子报</a></li>
-    <li><a href="http://rs.stcn.com/rsIndexAction.do?method=initIndex" target="_blank">路演</a></li>
-</ul><!--网站文章头部公共区块-->
-		<div class="logo clearfix">
-			<div class="fl">
-				<a class="stcnLogo1 fl" href="javascript:">证券时报网</a>
-				<div class="cromb fl"><a href="http://www.stcn.com/">首页</a>   			  &gt; <a href="http://stock.stcn.com/" target="_blank">股票</a>
-			  			  &gt; <a href="http://stock.stcn.com/ganggu/" target="_blank">港股</a>
-			  </div>
-			</div>
-                    <div class="search fr">
-                              <select onchange="changeViewInputs(this.value, 0);" id="typeSelect_0">
-                                <option value="1" selected="selected">股票</option>
-                                <option value="2">基金 </option>
-                                <option value="3">新闻</option>
-                              </select>
-                              <input type="text" class="inpTxt" id="suggestInput_0" onKeyDown="javascript:if(event.keyCode==13){ toSearch(); }" 
-                    		  onclick="if(this.value=='新闻内容')this.value=''" value="代码/名称/拼音" >
-                              <input class='inpBtn' type='button' value='查询' id='suggestMain_input_submit_0' onclick='toSearch();' >
-                              <div style="display: none;">
-                                <form id="newssearchform" name="newssearchform" method="get" target="_blank" action="http://newsearch.stcn.com/fly/search.jsp">
-                                  <input id="searchText" name="searchText" type="hidden" value="" >
-                                </form>
-                              </div>
-                              <script language="javascript" type="text/javascript">
-                    		      changeViewInputs("1", 0);
-                    	      </script>
-                            </div>
-			
-		</div>
-	</div>
-	<div class="content clearfix">
-		<div class="main fl">
-			<div class="txt">
-				<div class="txt_hd">
-					<h1>苏沛丰﹕料恒指下试22500 汽车业受库存困扰</h1>
-					<div class="info">2014-06-10 12:05   				<span>来源：腾讯财经</span>
-                					<span class="FZ"><span class="fl fz">字号：</span><span class="setFZ setFZ12" rel="txt_bd">12</span> <span class="setFZ setFZ14" rel="txt_bd">14</span></span>
-					</div>
-				</div>
-                                                                                                 			<div class="txt_bd lh24 fz14" id="ctrlfscont">
-				&nbsp;&nbsp;&nbsp;&nbsp;央行再度扩大定向降准范围和IPO即将落地，这些因素又会如何影响港股市场的未来表现呢？今早恒指延续昨日上涨格局，高开88点，报23206点，盘中高开后随即跳水，对于后市，招银国际证券研究部策略师苏沛丰认为﹕政策方面其实没有什么惊喜的，央行定向降准之前有预期，今天高开之后没有再向上的动力。而恒指在23000点上方不断出现获利回吐，23500有大的阻力。如果没有更加大的利好消息，短期难以冲破这个阻力，继续在上落区间徘徊。恒指短期应该受到沽压比较大的澳门博彩股拖累，今天也是受这个板块拖累，所以出现跳水局面。恒指短期有机会回调到移动平均线密集区22400-22500点水平先做整固，再看有没有新的利好消息，才能推动恒指向上。</p><p>20140610苏沛丰：料恒指下试22500点</p><p>时长：3'57''</p><p>播放：0</p><p>来源：腾讯视频</p><p>20140610苏沛丰：料恒指下试22500点</p><p>取消自动播放相关专辑</p><p>点击此处安装播放视频需要的flash插件</p><p>推荐视频：韩国潜水员水下踢球与沙丁鱼共舞</p><p>收起视频</p><p>相关视频</p><p>20140610苏沛丰：料恒指下试22500点</p><p>140609天下财经-下午版_001</p><p>播放：376</p><p>视频荐股：20140609<SPAN id=stock_sh600030><A class=keyword href="http://cy.stcn.com/S/SH600030" target=_blank>中信证券</A></SPAN><SPAN id=quote_sh600030></SPAN><SCRIPT language=JavaScript>show_quote("600030","sh","中信证券","stock");</SCRIPT>(06030.HK)</p><p>播放：34</p><p>140516天下财经-下午版_001</p><p>播放：738</p><p>20140328视频荐股：<SPAN id=stock_sh601288><A class=keyword href="http://cy.stcn.com/S/SH601288" target=_blank>农业银行</A></SPAN><SPAN id=quote_sh601288></SPAN><SCRIPT language=JavaScript>show_quote("601288","sh","农业银行","stock");</SCRIPT>(01288.HK)</p><p>播放：102</p><p>140529尾市盘点_001</p><p>播放：88</p><p>140317公司与行业_001</p><p>播放：1024</p><p>140603经济法眼_001</p><p>播放：52</p><p>大盘小盘跷跷板</p><p>播放：78</p><p>140514天生我财_001</p><p>播放：375</p><p>140210谈股论金_001</p><p>播放：2440</p><p>140103谈股论金_001</p><p>播放：3567</p><p>140430天生我财_001</p><p>播放：465</p><p>140304公司与行业_001</p><p>播放：597</p><p>140109公司与行业_001</p><p>播放：554</p><p>131219天下财经-午间版_001</p><p>播放：2658</p><p>140103今日证券_001</p><p>播放：434</p><p>140313今日证券_001</p><p>播放：232</p><p>140312今日证券_001</p><p>播放：245</p><p>131231天下财经-下午版_001</p><p>播放：1552</p><p>20140306施俊威:乌克兰局势对港股影响少黄金ETF中海油料受惠</p><p>播放：727</p><p>140123公司与行业_001</p><p>播放：525</p><p>20140129视频荐股：光大国际(00257-HK)</p><p>播放：93</p><p>140409今日证券_001</p><p>播放：202</p><p>140224谈股论金_001</p><p>播放：1891</p><p>苏沛丰指，另外这次央行扩大定向降准的消息惠及到包括汽车金融领域，当中汽车金融是唯一的亮点了。不过，汽车业要看个别公司的发展。因为今年以来，它们的销售跟业绩不太一样，比如<SPAN id=stock_sh601633><A class=keyword href="http://cy.stcn.com/S/SH601633" target=_blank>长城汽车</A></SPAN><SPAN id=quote_sh601633></SPAN><SCRIPT language=JavaScript>show_quote("601633","sh","长城汽车","stock");</SCRIPT>销售出现下滑，新的汽车没有成功的推出，股价方面应该继续看空。不过，另一方面，<SPAN id=stock_sh600006><A class=keyword href="http://cy.stcn.com/S/SH600006" target=_blank>东风汽车</A></SPAN><SPAN id=quote_sh600006></SPAN><SCRIPT language=JavaScript>show_quote("600006","sh","东风汽车","stock");</SCRIPT>首季业绩不错，还有旗下也有汽车金融的业务。股价已经升到阻力位了，过去一年在9块多到13.5元区间波动。昨天受首季度好的业绩推动，在上落区间顶部13块多，看来短期要先行整固。投资者先等股价健康回调后，再吸纳。			</div>
-                                                                                                                   <div id=div_biaoti style="DISPLAY: none"> <input id="biaoti" name="biaoti" type="hidden" value="苏沛丰﹕料恒指下试22500 汽车业受库存困扰"></div>
-		       <div class="txt_ft pb15 clearfix">
-					<div class="fl"> <a href="javascript:window.print();" class="a1">打印</a> <a onclick="AddFavorite()" href="javascript:void(0);" class="a2">收藏</a> <a onclick="copyToClipBoard();" href="javascript:void(0);" class="a3">转发</a> <a onclick="javascript:window.close(); return false;" href="javascript:void(0);" class="a4">关闭页面</a> </div>
-					<div class="fr">
-						<div>
-						<div class="shareto_toolbox">
-						<a href="#" class="shareto_button_compact">分享到</a>
-			
-			               <span class="shareto_separator" style="overflow:hidden; zoom:1;">|</span>
-						 <a class="shareto_button_cystcn"></a> 
-                                                 <a class="shareto_button_tstcn"></a> 
-                                                 <a class="shareto_button_tqq"></a> 
-                                                 <a class="shareto_button_tsina"></a> 
-                                                 <a class="shareto_button_thexun"></a> 
-                                                 <a class="shareto_button_tsohu"></a>
-						</div>
-						</div>
-						<script src="http://www.stcn.com/common/js/shareto/sjs/shareto_button.js" type="text/javascript"></script>
-					</div>
-				</div>
-			</div>
-			<div class="relate bort">
-				<h2 class="fz14">相关新闻</h2>
-				<ul class="x_titleList pt10 pb10 lh24 fz14">
-                                                                                   <!---->
-
-                                         <li><a href="http://kuaixun.stcn.com/2014/0610/11479252.shtml">截至5月底35城商品房库存再创新高 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://stock.stcn.com/2014/0610/11479099.shtml">恒指半日升91点 濠赌逆市下跌内银走强 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://stock.stcn.com/2014/0610/11479040.shtml">恒指半日涨0.39%报23209点 博彩股逆市走弱 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://kuaixun.stcn.com/2014/0610/11478797.shtml">期指主力合约报2150.0 涨1.09% </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://stock.stcn.com/2014/0610/11478287.shtml">恒指高开0.38%报23206点 电力股领涨蓝筹 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://kuaixun.stcn.com/2014/0610/11478066.shtml">豆粕主力合约报3500.0 涨1.21% </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://www.stcn.com/2014/0610/11477465.shtml">五粮液联姻京东：定制酒开路 3年目标50亿 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://www.stcn.com/2014/0610/11477348.shtml">天创时尚库存高企 行业描述与同行迥异 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://www.stcn.com/2014/0610/11477208.shtml">港元汇率转强 恒指重返23000 </a><span >2014-06-10</span></li>
-						                                            <!---->
-
-                                         <li><a href="http://www.stcn.com/2014/0610/11477183.shtml">“融资骗贷”让铜隐性库存显形 铜价承压 </a><span >2014-06-10</span></li>
-						 	
-
-
-				</ul>
-
-                       <input id="yinti" name="yinti" type="hidden" value=""> 
-			</div>
-			<div class="relate2 pt15 pb15 bort" id="stock_cookes" style="display:none;">
-				<div class="relate2_a fl">
-					<h3 class="fz14">本文涉及个股 </h3>
-					<div class="relate2_a fl">
-						<div class="img" id="img"></div>
-					</div>
-				</div>
-                        <div class="relate2_b fl" id="zjdp"> </div>
-                        <div class="relate2_c" id="zxyb"> </div>
-                        
-			<!-- </div>-->	  
-		</div>  
-                        <div class="caiyuan_tuijian">
-                           <script type="text/javascript">function faceError(imgObj){	var errorSrc = 'http://cy.stcn.com/images/noavatar.gif';	imgObj.src = errorSrc;}$(function(){	var expertsdataGroups = [[{"uid":163309,"nickname":"fay_fey","username":"163309","face":"http://cy.stcn.com/./images/face/0/13/163309_s.jpg"},{"uid":160697,"nickname":"滕泰","username":"160697","face":"http://cy.stcn.com/./images/face/4/48/160697_s.jpg"},{"uid":164759,"nickname":"捷天投资李旭州","username":"jtlxz","face":"http://cy.stcn.com/./images/face/0/82/164759_s.jpg"},{"uid":167251,"nickname":"向松祚","username":"167251","face":"http://cy.stcn.com/./images/face/d/12/167251_s.jpg"},{"uid":160107,"nickname":"何小二","username":"160107","face":"http://cy.stcn.com/./images/face/4/82/160107_s.jpg"},{"uid":163693,"nickname":"刘晓杰","username":"163693","face":"http://cy.stcn.com/./images/face/3/93/163693_s.jpg"},{"uid":165033,"nickname":"刘俊海教授","username":"165033","face":"http://cy.stcn.com/./images/face/d/29/165033_s.jpg"},{"uid":162409,"nickname":"老滑头投资","username":"162409","face":"http://cy.stcn.com/./images/face/9/75/162409_s.jpg"},{"uid":159915,"nickname":"郑虹","username":"159915","face":"http://cy.stcn.com/./images/face/5/15/159915_s.jpg"},{"uid":162409,"nickname":"老滑头投资","username":"162409","face":"http://cy.stcn.com/./images/face/9/75/162409_s.jpg"},{"uid":157809,"nickname":"晏瑛","username":"157809","face":"http://cy.stcn.com/./images/face/2/32/157809_s.jpg"},{"uid":163927,"nickname":"王毅敏","username":"163927","face":"http://cy.stcn.com/./images/face/5/2/163927_s.jpg"},{"uid":162878,"nickname":"梁万章","username":"162878","face":"http://cy.stcn.com/./images/face/c/64/162878_s.jpg"},{"uid":161838,"nickname":"恒泰证券吴海荣","username":"161838","face":"http://cy.stcn.com/./images/face/4/78/161838_s.jpg"},{"uid":162660,"nickname":"章晓杰","username":"lztd","face":"http://cy.stcn.com/./images/face/1/52/162660_s.jpg"},{"uid":160711,"nickname":"成成","username":"160711","face":"http://cy.stcn.com/./images/face/4/60/160711_s.jpg"},{"uid":160168,"nickname":"王臣阳","username":"160168","face":"http://cy.stcn.com/./images/face/d/73/160168_s.jpg"},{"uid":159816,"nickname":"龙头力哥","username":"159816","face":"http://cy.stcn.com/./images/face/9/45/159816_s.jpg"}],[{"uid":162283,"nickname":"永安期货许思达","username":"yafco_star","face":"http://cy.stcn.com/./images/face/8/17/162283_s.jpg"},{"uid":208819,"nickname":"邹晓春","username":"zxch6911","face":"http://cy.stcn.com/./images/face/a/50/208819_s.jpg"},{"uid":163874,"nickname":"谢逸枫","username":"xieyifeng","face":"http://cy.stcn.com/./images/face/3/10/163874_s.jpg"},{"uid":161886,"nickname":"张春林","username":"161886","face":"http://cy.stcn.com/./images/face/b/5/161886_s.jpg"},{"uid":159110,"nickname":"汪立亭","username":"159110","face":"http://cy.stcn.com/./images/face/5/26/159110_s.jpg"},{"uid":164010,"nickname":"董广阳","username":"164010","face":"http://cy.stcn.com/./images/face/f/14/164010_s.jpg"},{"uid":161386,"nickname":"雷雨","username":"hiton56","face":"http://cy.stcn.com/./images/face/7/23/161386_s.jpg"},{"uid":158106,"nickname":"皮海洲","username":"158106","face":"http://cy.stcn.com/./images/face/2/98/158106_s.jpg"},{"uid":209033,"nickname":"姚宗君","username":"209033","face":"http://cy.stcn.com/./images/face/f/35/209033_s.jpg"},{"uid":164712,"nickname":"丘仁杰","username":"164712","face":"http://cy.stcn.com/./images/face/c/1/164712_s.jpg"},{"uid":163039,"nickname":"千手捕蝶","username":"anan1098","face":"http://cy.stcn.com/./images/face/5/21/163039_s.jpg"},{"uid":164892,"nickname":"杨德龙","username":"164892","face":"http://cy.stcn.com/./images/face/b/80/164892_s.jpg"},{"uid":161780,"nickname":"半支烟","username":"161780","face":"http://cy.stcn.com/./images/face/c/14/161780_s.jpg"},{"uid":161869,"nickname":"李海成86","username":"161869","face":"http://cy.stcn.com/./images/face/5/61/161869_s.jpg"},{"uid":164040,"nickname":"股海王道","username":"164040","face":"http://cy.stcn.com/./images/face/9/15/164040_s.jpg"},{"uid":162349,"nickname":"—储—","username":"162349","face":"http://cy.stcn.com/./images/face/0/78/162349_s.jpg"},{"uid":158234,"nickname":"刘洋","username":"158234","face":"http://cy.stcn.com/./images/face/c/18/158234_s.jpg"},{"uid":157878,"nickname":"马罗斯","username":"157878","face":"http://cy.stcn.com/./images/face/b/67/157878_s.jpg"}],[{"uid":159677,"nickname":"赵清思","username":"159677","face":"http://cy.stcn.com/./images/face/9/0/159677_s.jpg"},{"uid":159255,"nickname":"李伟峰","username":"159255","face":"http://cy.stcn.com/./images/face/4/21/159255_s.jpg"},{"uid":160127,"nickname":"大摩投资","username":"160127","face":"http://cy.stcn.com/./images/face/1/44/160127_s.jpg"},{"uid":161632,"nickname":"飞狐投资","username":"161632","face":"http://cy.stcn.com/./images/face/8/13/161632_s.jpg"},{"uid":157906,"nickname":"刘利刚","username":"157906","face":"http://cy.stcn.com/./images/face/9/39/157906_s.jpg"},{"uid":160689,"nickname":"范剑平","username":"160689","face":"http://cy.stcn.com/./images/face/3/86/160689_s.jpg"},{"uid":158130,"nickname":"张楠","username":"raymant","face":"http://cy.stcn.com/./images/face/8/34/158130_s.jpg"},{"uid":157873,"nickname":"罗涛","username":"157873","face":"http://cy.stcn.com/./images/face/2/2/157873_s.jpg"},{"uid":158140,"nickname":"陶金峰","username":"158140","face":"http://cy.stcn.com/./images/face/b/97/158140_s.jpg"},{"uid":162290,"nickname":"宗贵升","username":"zongguisheng","face":"http://cy.stcn.com/./images/face/d/45/162290_s.jpg"},{"uid":162743,"nickname":"蔡媛","username":"162743","face":"http://cy.stcn.com/./images/face/9/21/162743_s.jpg"},{"uid":163428,"nickname":"吴国平","username":"163428","face":"http://cy.stcn.com/./images/face/f/63/163428_s.jpg"},{"uid":162865,"nickname":"经易期货魏亚楠","username":"162865","face":"http://cy.stcn.com/./images/face/d/82/162865_s.jpg"},{"uid":163926,"nickname":"袁一峰","username":"163926","face":"http://cy.stcn.com/./images/face/2/44/163926_s.jpg"},{"uid":159098,"nickname":"安阳","username":"159098","face":"http://cy.stcn.com/./images/face/4/79/159098_s.jpg"},{"uid":163690,"nickname":"無極","username":"163690","face":"http://cy.stcn.com/./images/face/c/0/163690_s.jpg"},{"uid":159929,"nickname":"股乐","username":"159929","face":"http://cy.stcn.com/./images/face/e/80/159929_s.jpg"},{"uid":160665,"nickname":"国泰君安期货","username":"160665","face":"http://cy.stcn.com/./images/face/a/79/160665_s.jpg"}]];	var cyexpertsgroupIndex = 0;	var cyexpertsgroupLength = expertsdataGroups.length;	$("#cy_change_experts").bind('click', function(){		cyexpertsgroupIndex++;		if(cyexpertsgroupLength<=cyexpertsgroupIndex){			cyexpertsgroupIndex = 0;		}		var expertsdata = expertsdataGroups[cyexpertsgroupIndex];		var len = expertsdata.length;		var showcontent = "";		for(var i = 0;i<len;i++){		    showcontent = showcontent + "<li>";			    showcontent = showcontent + "<a href=\"http://cy.stcn.com/index.php?mod="+expertsdata[i].username+"\" target=\"_blank\" class=\"imagelink\"><img onmouseout=\"UserCard.hide();\" onmouseover=\"UserCard.show({uid:"+expertsdata[i].uid+"});\" src=\""+expertsdata[i].face+"\" onerror=\"javascript:faceError(this);\" /><div class=\"input_box\"><input name=\"uids\" id=\"uids\"  type=\"checkbox\" checked=\"checked\" value=\""+expertsdata[i].uid+"\" /></div></a>";			    showcontent = showcontent + "<span><a href=\"http://cy.stcn.com/index.php?mod="+expertsdata[i].username+"\" target=\"_blank\" class=\"nick\">"+expertsdata[i].nickname+"</a></span>";			    showcontent = showcontent + "</li>";		}		$("#person_list_recommend").html(showcontent);	});		$("#cyyjgz").bind('click', function(){		var aa=document.getElementsByName("uids");		var uids = "";		for(var i=0;i<aa.length;i++) {			if(aa[i].checked){				if(uids==""){					uids = aa[i].value;				}else{					uids = uids+","+aa[i].value;				}			}		}		if(uids!=""){			$("#cyyjgz").attr("disabled",true);			$.getJSON("http://cy.stcn.com/interface.php?mod=commentapi&code=yjgz&uids="+uids+"&callback=?",				function(data){					if(data.ret==0){						alert("关注成功");					}else if(data.ret==999){						$("#welcome_speech").html("<a name=\"cypinrenlogin\" href='javascript:openLoginPromptBox(\"\",\"\",\"\",\"\");'>登录</a>（请登录发言，并遵守相关规定）<a href=\"http://cy.stcn.com/index.php?mod=member\" target=\"_blank\">注册财苑社区</a>");						$("#cyyjgzloginspan").html("<a name=\"cyyjgzlogin\" href='javascript:openYjgzLoginPromptBox(\"\");'>登录</a>");						$("#cyyjgzregspan").html("<a href=\"http://cy.stcn.com/index.php?mod=member\" target=\"_blank\">注册财苑社区</a>");						alert("请先登录");						window.location.hash="cyyjgzlogin";					}else{						alert(data.msg);					}					$("#cyyjgz").attr("disabled",false);			}); 		}			});		function yjgzchecklogin(){		$.getJSON("http://cy.stcn.com/interface.php?mod=commentApi&code=islogin&callback=?",			function(data){				if(data.ret==1){					$("#welcome_speech").html(data.nickname+"，欢迎留言！");					$("#cyyjgzloginspan").html("");					$("#cyyjgzregspan").html("");									}else{					$("#welcome_speech").html("<a name=\"cypinrenlogin\" href='javascript:openLoginPromptBox(\"\",\"\",\"\",\"\");'>登录</a>（请登录发言，并遵守相关规定）<a href=\"http://cy.stcn.com/index.php?mod=member\" target=\"_blank\">注册财苑社区</a>");					$("#cyyjgzloginspan").html("<a name=\"cyyjgzlogin\" href='javascript:openYjgzLoginPromptBox(\"\");'>登录</a>");					$("#cyyjgzregspan").html("<a href=\"http://cy.stcn.com/index.php?mod=member\" target=\"_blank\">注册财苑社区</a>");					window.location.hash="cyyjgzlogin";				}		}); 	}		function openYjgzLoginPromptBox(uids){		var iHeight=370;		var iWidth=620;		var yjgzlogin = window.open("http://cy.stcn.com/interface.php?mod=commentapi&code=loginPromptBox&acttype=yjgz&uids="+uids, "yjgzlogin", "height="+iHeight+", width="+iWidth+", top="+(window.screen.availHeight-30-iHeight)/2+", left="+(window.screen.availWidth-10-iWidth)/2+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no"); 		window.setTimeout(_yjgzIfWindowClosed(yjgzlogin),500);	}	window.openYjgzLoginPromptBox = openYjgzLoginPromptBox;		function _yjgzIfWindowClosed(newWin)	{		return function()		{			yjgzIfWindowClosed(newWin);		}	} 	function yjgzIfWindowClosed(newWin)	{		try{			if ( newWin.closed == true)			{				yjgzchecklogin();			}else{				window.setTimeout(_yjgzIfWindowClosed(newWin),500);			}		}catch(e){			yjgzchecklogin();		}	}});	</script><div class="cy_tit">	<h2 class="fl">财苑推荐</h2><a href="javascript:void(0);" id="cy_change_experts">换一组</a></div><ul class="cy_list" id="person_list_recommend">	<li><a href="http://cy.stcn.com/index.php?mod=163309" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:163309});" src="http://cy.stcn.com/./images/face/0/13/163309_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="163309" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=163309" target="_blank" class="nick">fay_fey</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=160697" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:160697});" src="http://cy.stcn.com/./images/face/4/48/160697_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="160697" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=160697" target="_blank" class="nick">滕泰</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=jtlxz" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:164759});" src="http://cy.stcn.com/./images/face/0/82/164759_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="164759" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=jtlxz" target="_blank" class="nick">捷天投资李旭州</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=167251" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:167251});" src="http://cy.stcn.com/./images/face/d/12/167251_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="167251" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=167251" target="_blank" class="nick">向松祚</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=160107" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:160107});" src="http://cy.stcn.com/./images/face/4/82/160107_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="160107" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=160107" target="_blank" class="nick">何小二</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=163693" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:163693});" src="http://cy.stcn.com/./images/face/3/93/163693_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="163693" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=163693" target="_blank" class="nick">刘晓杰</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=165033" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:165033});" src="http://cy.stcn.com/./images/face/d/29/165033_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="165033" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=165033" target="_blank" class="nick">刘俊海教授</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=162409" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:162409});" src="http://cy.stcn.com/./images/face/9/75/162409_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="162409" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=162409" target="_blank" class="nick">老滑头投资</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=159915" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:159915});" src="http://cy.stcn.com/./images/face/5/15/159915_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="159915" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=159915" target="_blank" class="nick">郑虹</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=162409" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:162409});" src="http://cy.stcn.com/./images/face/9/75/162409_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="162409" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=162409" target="_blank" class="nick">老滑头投资</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=157809" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:157809});" src="http://cy.stcn.com/./images/face/2/32/157809_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="157809" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=157809" target="_blank" class="nick">晏瑛</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=163927" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:163927});" src="http://cy.stcn.com/./images/face/5/2/163927_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="163927" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=163927" target="_blank" class="nick">王毅敏</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=162878" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:162878});" src="http://cy.stcn.com/./images/face/c/64/162878_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="162878" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=162878" target="_blank" class="nick">梁万章</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=161838" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:161838});" src="http://cy.stcn.com/./images/face/4/78/161838_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="161838" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=161838" target="_blank" class="nick">恒泰证券吴海荣</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=lztd" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:162660});" src="http://cy.stcn.com/./images/face/1/52/162660_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="162660" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=lztd" target="_blank" class="nick">章晓杰</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=160711" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:160711});" src="http://cy.stcn.com/./images/face/4/60/160711_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="160711" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=160711" target="_blank" class="nick">成成</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=160168" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:160168});" src="http://cy.stcn.com/./images/face/d/73/160168_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="160168" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=160168" target="_blank" class="nick">王臣阳</a></span></li><li><a href="http://cy.stcn.com/index.php?mod=159816" target="_blank" class="imagelink"><img onmouseout="UserCard.hide();" onmouseover="UserCard.show({uid:159816});" src="http://cy.stcn.com/./images/face/9/45/159816_s.jpg" onerror="javascript:faceError(this);" /><div class="input_box"><input name="uids" id="uids"  type="checkbox" checked="checked" value="159816" /></div></a><span><a href="http://cy.stcn.com/index.php?mod=159816" target="_blank" class="nick">龙头力哥</a></span></li></ul><div class="cy_bt">	<div class="btbox" id="cyyjgzdiv">		<span id="cyyjgzloginspan" class="cy_yjgzlogin"></span><button class="gz_bg" id="cyyjgz">一键关注</button><span id="cyyjgzregspan"></span>	</div></div><!--一键关注-->
-                        </div>
-			<div class="other pt15 pb15 bort">
-				<p class="p1 c999">如果您对本网有任何意见或建议，请到交流平台反馈。<a href="javascript:">【反馈意见】</a></p>
-				<p class="p2 pt20 lh22 fz14 ti2 c666">证券时报网声明：此消息系转载自本网合作媒体，证券时报网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。文章内容仅供参考，不构成投资建议。投资者据此操作，风险自担。</p>
-			</div></div>
-	        <div class="side fr">
-                      <div class="n-slide">
-      <ul  class="n-slide-img">
-                  <li>            <a href="http://www.stcn.com/2014/0614/11489980.shtml" target="_blank" title="世界杯魔咒失效 大盘剑指年线目标"><img src="http://upload.stcn.com/2014/0614/thumb_275_185_1402712467441.jpg" /><span>世界杯魔咒失效 大盘剑指年线目标</span> <b></b></a></a>
-                      </li>
-                  <li>            <a href="http://www.stcn.com/2014/0613/11486595.shtml" target="_blank" title="中诚信托再陷“诚至金开”兑付危机"><img src="http://upload.stcn.com/2014/0613/1402619104802.png" /><span>中诚信托再陷“诚至金开”兑付危机</span> <b></b></a></a>
-                      </li>
-                  <li>            <a href="http://stock.stcn.com/2014/0614/11490092.shtml" target="_blank" title="半导体照明行业渐进黄金发展期"><img src="http://upload.stcn.com/2014/0614/thumb_275_185_1402714617550.jpg" /><span>半导体照明行业渐进黄金发展期</span> <b></b></a></a>
-                      </li>
-                  <li>            <a href="http://www.stcn.com/2014/0613/11487018.shtml" target="_blank" title="同兴药业拒绝与广药集团续约"><img src="http://upload.stcn.com/2014/0613/1402617837736.jpg" /><span>同兴药业拒绝与广药集团续约</span> <b></b></a></a>
-                      </li>
-                </ul>
-	<div class="n-slide-nav">
-	    <span class="on">1</span> <span class="">2</span> <span class="">3</span> <span class="">4</span>
-	</div>
-</div>
-                      <div class="x_tabW tab1 bb10">
-        <div class="x_tabNavW">
-          <ol class="x_tabNav">
-            <li><a href="#nolink" class="active"><span>操盘必读</span></a></li>
-            <li><a href="#nolink" class=""><span>数据大全</span></a></li>
-          </ol>
-        </div>
-        <div class="x_tabBoxW">
-          <div class="x_tabBox">
-            <dl class="clearfix">
-              <dt class="dt1">必读</dt>
-              <dd><a target="_blank" href="http://news.stcn.com/cjtt/1.shtml">财经头条</a></dd>
-              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/notice.jsp">今日提示</a></dd>
-              <dd><a target="_blank" href="http://dty.stcn.com/baibaobox/issueNewStocke.jsp">新股提示</a></dd>
-              <dd><a target="_blank" href="http://data.stcn.com/fundBondData.shtml">基金发行</a></dd>
-              <dd><a target="_blank" href="http://research.stcn.com/chbg/1.shtml">券商晨报</a></dd>
-              <dd><a target="_blank" href="http://info.stcn.com/finance.jsp?isyugao=1">业绩预报</a></dd>
-              <dd><a target="_blank" href="http://data.stcn.com/macroData.shtml">宏观数据</a></dd>
-              <dt class="dt2">公告</dt>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/allabstract/abstractlist_1.shtml">公告摘要</a></dd>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/">紧急公告</a></dd>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/jjzx/otherbulletin1.shtml">基金</a></dd>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/zxshbulletin/bulletinlist_1_1.shtml">沪市</a></dd>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/zxszbulletin/bulletinlist_1_1.shtml">深主板</a></dd>
-              <dd><a target="_blank" href="http://xinpi.stcn.com/zxzxbulletin/bulletinlist_1_1.shtml">中小板</a></dd>
-              <dd><a target="_blank" href="http://chinext.stcn.com/">创 业 板</a></dd>
-              <dt class="dt3">数据</dt>
-              <dd><a target="_blank" href="http://data.stcn.com/fivedataInfo.shtml">每笔成交</a></dd>
-              <dd><a target="_blank" href="http://data.stcn.com/statics/dataBlockTrade.htm">大宗交易</a></dd>
-              <dd><a target="_blank" href="http://info.stcn.com/companydata/guGaiLiftTheBan.jsp">解禁一览</a></dd>
-              <dd><a target="_blank" href="http://zt.stcn.com/rongzrq2010.shtml">融资融券</a></dd>
-              <dd><a ta

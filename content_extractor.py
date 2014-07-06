@@ -4,6 +4,7 @@ import json
 import ConfigParser
 import re
 import urllib
+import urllib2
 import extractor
 import time
 import datetime
@@ -16,6 +17,7 @@ from urlparse import urlparse
 from db import db
 from os.path import join, getsize
 from pymongo.errors import DuplicateKeyError
+from goose_extractor import extract_content
 
 # init the config file
 Config = ConfigParser.ConfigParser()
@@ -29,9 +31,12 @@ def extract(content):
     if content is None:
         return None
     else:
-        content = extractor.remove_js_css(content)
-        soup = BeautifulSoup(content)
-        return extractor.extract(soup.get_text())
+        # content = extractor.remove_js_css(content)
+        # soup = BeautifulSoup(content)
+        # return extractor.extract(soup.get_text())
+        c = extract_content(content)
+        # print c
+        return c
 
 def parse_time(s):
     '''
@@ -118,6 +123,7 @@ class BaseExtractor(ContentExtractor):
 
             text = extract(html)
             document['tokens'] = tokenize(text)
+            print document['tokens']
         except Exception as e:
             print e, 'Some error has occured, continue'
             return False
@@ -315,15 +321,12 @@ def main():
     print 'Have processed %d files in %f seconds' % (count, end_time-start_time)
     return
 
-def test(input_file = '/data/ywangby/workspace/pingan/data/content/1/11_0a00aef62518d03e196292b91a2f7df4.txt'):
-    ne= NewsExtractor(input_file)
-    ne.parse_document()
-    print ne
-    return
+def test():
+    '''
+    test the content extractor
+    '''
+    document = urllib2.urlopen('http://news.163.com/09/1109/02/5NL6V0VB000120GU.html').read()
+    print extract(document)
 
 if __name__ == '__main__':
     test()
-    # if len(sys.argv)>1:
-    #     test(sys.argv[1])
-    # else:
-    #     test()

@@ -79,6 +79,7 @@ class ContentExtractor():
     '''
     def __init__(self, file_path):
         self.source = open(file_path, 'r')
+        # print file_path
         return
 
     def __str__(self):
@@ -103,6 +104,7 @@ class BaseExtractor(ContentExtractor):
     '''
     def __init__(self, file_path):
         ContentExtractor.__init__(self, file_path)
+        self.file_path = file_path
         return
 
     def __str__(self):
@@ -115,6 +117,8 @@ class BaseExtractor(ContentExtractor):
             document = {}
             raw = self.source.readlines()
 
+            document['src_file'] = self.file_path
+
             document['source_url'] = raw[0].strip()
             document['timestamp'] = parse_time(raw[1].strip())
             document['domain'] = urlparse(document['source_url']).netloc
@@ -123,7 +127,7 @@ class BaseExtractor(ContentExtractor):
 
             text = extract(html)
             document['tokens'] = tokenize(text)
-            print document['tokens']
+            # print document['tokens']
         except Exception as e:
             print e, 'Some error has occured, continue'
             return False

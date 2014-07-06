@@ -1,3 +1,7 @@
 BeautifulSoup4
 jieba
 pymongo
+Pillow
+lxml
+cssselect
+nltk

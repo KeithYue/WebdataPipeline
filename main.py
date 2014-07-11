@@ -57,13 +57,15 @@ def extract(file_path):
         try:
             if extractor.parse_document():
                 extractor.insert()
+                return True
             else:
-                print 'parser error for %s, continue' % (file_path,)
+                print 'Failed to parse %s, continue' % (file_path,)
                 return False
         except DuplicateKeyError:
             print 'document existed, continue'
-            # self.queue.task_done()
-    return True
+            return False
+    else:
+        return False
 
 def test():
     '''
@@ -86,7 +88,7 @@ def test():
     end_time = time.time()
 
     print 'Have processed %d files in %f seconds' % (len(task_list), end_time-start_time)
-    print 'Successfully parsed %d files' % len([a  for a in results if a])
+    print 'Successfully parsed %d new files' % len([a  for a in results if a])
     return
 
 

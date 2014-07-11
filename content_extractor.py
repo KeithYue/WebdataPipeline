@@ -112,7 +112,20 @@ class BaseExtractor(ContentExtractor):
         s = '/'.join(tokens)
         return s
 
+    def is_parsed(self):
+        '''
+        whether this file has been parsed before --> True or False
+        '''
+        if self.collection.find_one({'src_file': self.file_path}):
+            return True
+        else:
+            return False
+
     def parse_document(self):
+        if self.is_parsed():
+            print 'This file has been parsed, next!'
+            return False
+
         try:
             document = {}
             raw = self.source.readlines()
@@ -129,7 +142,7 @@ class BaseExtractor(ContentExtractor):
             document['tokens'] = tokenize(text)
             # print document['tokens']
         except Exception as e:
-            print e, 'Some error has occured, continue'
+            # print e, 'Some error has occured, continue'
             return False
 
         # print document['text']
@@ -144,7 +157,7 @@ class BaseExtractor(ContentExtractor):
         verify whether the document is a corrected one
         '''
         if len(document['tokens']) == 0:
-            print 'Invalid document...'
+            print 'Invalid document..., there is no tokens and content in this page'
             return False
         else:
             print 'Valid document...'
@@ -159,25 +172,6 @@ class BlogExtractor(BaseExtractor):
         BaseExtractor.__init__(self, file_path)
         self.collection = db.blog
         return
-
-    # def parse_document(self):
-    #     article = {}
-    #     raw = self.source.readlines()
-    #     surl, time_str, rurl = raw[0:3]
-    #     time_str = time_str[0:time_str.find('.')]
-    #     article['source_url'] = surl.strip()
-    #     article['ref_url'] = rurl.strip()
-    #     article['domain'] = urlparse(article['source_url']).netloc
-    #     html = ''.join(raw[3:])
-    #     article['text'] = extract(html)
-    #     article['tokens'] = tokenize(article['text'])
-    #     article['timestamp'] = datetime.datetime(*time.strptime(time_str.strip(), '%Y-%m-%d %H:%M:%S')[0:6])
-    #     self.article = article
-    #     return True
-
-    # def insert(self):
-    #     print 'inserting', self.collection.insert(self.article)
-    #     return
 
 class NewsExtractor(BaseExtractor):
     def __init__(self, file_path):

@@ -122,10 +122,6 @@ class BaseExtractor(ContentExtractor):
             return False
 
     def parse_document(self):
-        if self.is_parsed():
-            print 'This file has been parsed, next!'
-            return False
-
         try:
             document = {}
             raw = self.source.readlines()
@@ -139,6 +135,7 @@ class BaseExtractor(ContentExtractor):
             html = ''.join(raw[2:]).strip()
 
             text = extract(html)
+            document['text'] = text
             document['tokens'] = tokenize(text)
             # print document['tokens']
         except Exception as e:
@@ -166,6 +163,11 @@ class BaseExtractor(ContentExtractor):
     def insert(self):
         print 'inserting', self.collection.insert(self.document)
         return
+
+    def update(self):
+        self.collection.update({'src_file': self.file_path}, self.document, True)
+        return
+
 
 class BlogExtractor(BaseExtractor):
     def __init__(self, file_path):

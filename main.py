@@ -54,6 +54,10 @@ def extract(file_path):
     extension = os.path.splitext(file_path)[-1]
     if extractor is not None and extension in ['.txt']: # only parse the txt file
         print 'Parsing', file_path
+
+        if extractor.is_parsed():
+            print 'This file has been parse '
+            return False
         try:
             if extractor.parse_document():
                 extractor.insert()
@@ -67,7 +71,23 @@ def extract(file_path):
     else:
         return False
 
-def test():
+def upsert(file_path):
+    '''
+    update the files in current directory
+    '''
+    extractor = ExtractorFactory.get_extractor(file_path)
+    extension = os.path.splitext(file_path)[-1]
+    if extractor is not None and extension in ['.txt']: # only parse the txt file
+        print 'Parsing', file_path
+        if extractor.parse_document():
+            extractor.update()
+            return True
+        else:
+            return False
+    else:
+        return False
+
+def test(func):
     '''
     using the map method to parse the file
     instead of the traditional way
@@ -81,7 +101,7 @@ def test():
             task_list.append(file_path)
 
     pool = Pool(cpu_count()-2)
-    results = pool.map(extract, task_list)
+    results = pool.map(func, task_list)
     pool.close()
     pool.join()
 
@@ -131,5 +151,5 @@ Config.read('./config.ini')
 root = Config.get('root', 'path')
 
 if __name__ == '__main__':
-    test()
+    test(upsert)
 

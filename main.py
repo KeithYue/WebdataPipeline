@@ -5,7 +5,8 @@
 import os
 import time
 import ConfigParser
-from content_extractor import ExtractorFactory
+import logging
+from content_extractor import ExtractorFactory, BaseExtractor
 from multiprocessing import Lock, Queue, Process, cpu_count, Pool
 from pymongo.errors import DuplicateKeyError
 
@@ -49,43 +50,28 @@ class Worker(Process):
 def extract(file_path):
     '''
     a single task a worker would perform
+    return a tuple(whehter the parsing is successful, whether there is now document has been added)
     '''
     extractor = ExtractorFactory.get_extractor(file_path)
     extension = os.path.splitext(file_path)[-1]
     if extractor is not None and extension in ['.txt']: # only parse the txt file
         print 'Parsing', file_path
 
-        if extractor.is_parsed():
-            print 'This file has been parse '
-            return False
+        # if extractor.is_parsed():
+        #     print 'This file has been parse '
+        #     return False
         try:
             if extractor.parse_document():
-                extractor.insert()
-                return True
+                inc = extractor.update(ignore_parsed=True)
+                return True, inc
             else:
-                print 'Failed to parse %s, continue' % (file_path,)
-                return False
+                logging.error('Failed to parse %s, continue' % (file_path,))
+                return False, 0
         except DuplicateKeyError:
-            print 'document existed, continue'
-            return False
+            logging.error('document existed, continue...')
+            return False, 0
     else:
-        return False
-
-def upsert(file_path):
-    '''
-    update the files in current directory
-    '''
-    extractor = ExtractorFactory.get_extractor(file_path)
-    extension = os.path.splitext(file_path)[-1]
-    if extractor is not None and extension in ['.txt']: # only parse the txt file
-        print 'Parsing', file_path
-        if extractor.parse_document():
-            extractor.update()
-            return True
-        else:
-            return False
-    else:
-        return False
+        return False, 0
 
 def test(func):
     '''
@@ -107,8 +93,9 @@ def test(func):
 
     end_time = time.time()
 
-    print 'Have processed %d files in %f seconds' % (len(task_list), end_time-start_time)
-    print 'Successfully parsed %d new files' % len([a  for a in results if a])
+    logging.info('Have processed %d files in %f seconds' % (len(task_list), end_time-start_time))
+    logging.info('Successfully parsed %d new files' % len([ r for r in results if r[0] is True]))
+    logging.info('There are %d documents has been added to the databse' % sum([r[1] for r in results]))
     return
 
 
@@ -151,5 +138,7 @@ Config.read('./config.ini')
 root = Config.get('root', 'path')
 
 if __name__ == '__main__':
-    test(upsert)
+    # set up the logging system
+    logging.basicConfig(level=logging.DEBUG)
+    test(extract)
 

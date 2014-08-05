@@ -10,6 +10,7 @@ import time
 import datetime
 import codecs
 import sys
+import logging
 from pprint import pprint
 from text_seg import tokenize
 from bs4 import BeautifulSoup
@@ -137,6 +138,7 @@ class BaseExtractor(ContentExtractor):
             text = extract(html)
             document['text'] = text
             document['tokens'] = tokenize(text)
+            document['new_attr'] = 1
             # print document['tokens']
         except Exception as e:
             # print e, 'Some error has occured, continue'
@@ -164,9 +166,27 @@ class BaseExtractor(ContentExtractor):
         print 'inserting', self.collection.insert(self.document)
         return
 
-    def update(self):
-        self.collection.update({'src_file': self.file_path}, self.document, True)
-        return
+    def update(self, ignore_parsed=True):
+        '''
+        store the document in the database
+
+        ignore_parsed: whether update all documents
+            true: ignore if the document exists in the database
+            false: update all the document
+
+        return 1 when a document has been added
+        return 0 when no document has been added
+        '''
+        if ignore_parsed:
+            if self.is_parsed():
+                logging.info('Document exists, next...')
+                return 0
+            else:
+                self.collection.update({'src_file': self.file_path}, self.document, True)
+                return 1
+        else:
+            self.collection.update({'src_file': self.file_path}, self.document, True)
+            return 1
 
 
 class BlogExtractor(BaseExtractor):
@@ -233,7 +253,7 @@ class WeiboExtractor(ContentExtractor):
             else:
                 weibo['retweet'] = 0
         except ValueError:
-            print 'value error'
+            logging.error('value error')
             return False
 
 

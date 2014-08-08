@@ -12,7 +12,7 @@ import codecs
 import sys
 import logging
 from pprint import pprint
-from text_seg import tokenize
+from text_seg import tokenize, print_tokens
 from bs4 import BeautifulSoup
 from urlparse import urlparse
 from db import db
@@ -38,6 +38,26 @@ def extract(content):
         c = extract_content(content)
         # print c
         return c
+
+def udpate_weibodata():
+    '''
+    the weibo data is a little bit different, weibo data is already in the database
+    '''
+    for weibo in db.weibo_data.find({'tokens': {
+        '$exists': 0
+        }}):
+        try:
+            tokens = tokenize(weibo['value']['content'])
+            logging.info('updating the weibo %s' % weibo['value']['mid'])
+            weibo['text'] = weibo['value']['content']
+            weibo['tokens'] = tokens
+            weibo['timestamp'] = datetime.datetime.fromtimestamp(weibo['value']['created_at'])
+            # update the document
+            db.weibo.update({'_id': weibo['_id']}, weibo)
+        except Exception as e:
+            logging.error('updating failure, continue...')
+            continue
+    return True
 
 def parse_time(s):
     '''
@@ -345,8 +365,10 @@ def test():
     '''
     test the content extractor
     '''
-    document = urllib2.urlopen('http://news.163.com/09/1109/02/5NL6V0VB000120GU.html').read()
-    print extract(document)
+    # document = urllib2.urlopen('http://news.163.com/09/1109/02/5NL6V0VB000120GU.html').read()
+    # print extract(document)
+    udpate_weibodata()
 
 if __name__ == '__main__':
+    logging.basicConfig(level=logging.DEBUG)
     test()

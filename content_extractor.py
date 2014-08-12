@@ -55,7 +55,7 @@ def udpate_weibodata():
             weibo['timestamp'] = datetime.datetime.fromtimestamp(weibo['value']['created_at'])
             # update the document
             db.weibo_data.update({'_id': weibo['_id']}, weibo)
-            a = raw_input()
+            # a = raw_input()
         except Exception as e:
             logging.error('updating failure, continue...')
             continue

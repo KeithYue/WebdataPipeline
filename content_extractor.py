@@ -57,6 +57,7 @@ def udpate_weibodata():
             db.weibo_data.update({'_id': weibo['_id']}, weibo)
             # a = raw_input()
         except Exception as e:
+            logging.error(e)
             logging.error('updating failure, continue...')
             continue
     return True

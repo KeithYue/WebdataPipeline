@@ -48,12 +48,14 @@ def udpate_weibodata():
         }}):
         try:
             tokens = tokenize(weibo['value']['content'])
-            logging.info('updating the weibo %s' % weibo['value']['mid'])
+            logging.info(weibo['_id'])
+            # logging.info('updating the weibo %s' % weibo['value']['mid'])
             weibo['text'] = weibo['value']['content']
             weibo['tokens'] = tokens
             weibo['timestamp'] = datetime.datetime.fromtimestamp(weibo['value']['created_at'])
             # update the document
-            db.weibo.update({'_id': weibo['_id']}, weibo)
+            db.weibo_data.update({'_id': weibo['_id']}, weibo)
+            a = raw_input()
         except Exception as e:
             logging.error('updating failure, continue...')
             continue

@@ -53,9 +53,11 @@ def udpate_weibodata():
             weibo['text'] = weibo['value']['content']
             weibo['tokens'] = tokens
             weibo['timestamp'] = datetime.datetime.fromtimestamp(float(weibo['value']['created_at']))
-            # update the document
-            db.weibo_data.update({'_id': weibo['_id']}, weibo)
-            # a = raw_input()
+            # remove the _id key to remove the dulplicate key error
+            del weibo['_id']
+            # update the document to the weibo collection, not the original weibo_data collection
+            # print(weibo)
+            db.weibo.update({'key': weibo['key']}, weibo, True) # use upsert to insert the document
         except Exception as e:
             logging.error(e)
             logging.error('updating failure, press enter to continue...')

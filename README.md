@@ -1,7 +1,15 @@
 WebdataPipeline
 ===============
 
-construct pipeline for different forms of web data such as weibo, bbs, news, blog. Including spider, content extraction, tokenize
+该工具主要用来解析原始的爬虫数据文件，功能包括：
+* 从原始html中提取正文
+* 对正文进行分词
+* 将解析出来的格式存入mongodb数据库
+* 目前数据源有博客，新闻和微博
+
+### 使用方法
+1. `python main.py` 用来解析txt文本文件(不包括微博数据)
+2. `python parse_weibo.py` 用来解析在weibo_data collection里面的微博数据, 并将数据放入weibo collection中。
 
 ### Dependencies
 

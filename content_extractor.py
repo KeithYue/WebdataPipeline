@@ -39,29 +39,33 @@ def extract(content):
         # print c
         return c
 
-def udpate_weibodata():
+def update_weibodata():
     '''
     the weibo data is a little bit different, weibo data is already in the database
     '''
-    for weibo in db.weibo_data.find({'tokens': {
-        '$exists': 0
-        }}):
-        try:
-            tokens = tokenize(weibo['value']['content'])
-            logging.info(weibo['_id'])
-            # logging.info('updating the weibo %s' % weibo['value']['mid'])
-            weibo['text'] = weibo['value']['content']
-            weibo['tokens'] = tokens
-            weibo['timestamp'] = datetime.datetime.fromtimestamp(float(weibo['value']['created_at']))
-            # remove the _id key to remove the dulplicate key error
-            del weibo['_id']
-            # update the document to the weibo collection, not the original weibo_data collection
-            # print(weibo)
-            db.weibo.update({'key': weibo['key']}, weibo, True) # use upsert to insert the document
-        except Exception as e:
-            logging.error(e)
-            logging.error('updating failure, press enter to continue...')
-            continue
+    try:
+        cursor = db.weibo_data.find({'tokens': {
+            '$exists': 0
+            }}, timeout=False)
+        for weibo in cursor:
+            try:
+                tokens = tokenize(weibo['value']['content'])
+                logging.info(weibo['_id'])
+                # logging.info('updating the weibo %s' % weibo['value']['mid'])
+                weibo['text'] = weibo['value']['content']
+                weibo['tokens'] = tokens
+                weibo['timestamp'] = datetime.datetime.fromtimestamp(float(weibo['value']['created_at']))
+                # remove the _id key to remove the dulplicate key error
+                del weibo['_id']
+                # update the document to the weibo collection, not the original weibo_data collection
+                # print(weibo)
+                db.weibo.update({'key': weibo['key']}, weibo, True) # use upsert to insert the document
+            except Exception as e:
+                logging.error(e)
+                logging.error('updating failure, press enter to continue...')
+                continue
+    finally:
+        cursor.close()
     return True
 
 def parse_time(s):
@@ -372,7 +376,7 @@ def test():
     '''
     # document = urllib2.urlopen('http://news.163.com/09/1109/02/5NL6V0VB000120GU.html').read()
     # print extract(document)
-    udpate_weibodata()
+    update_weibodata()
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)

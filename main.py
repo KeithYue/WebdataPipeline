@@ -6,7 +6,7 @@ import os
 import time
 import ConfigParser
 import logging
-from content_extractor import ExtractorFactory, BaseExtractor, udpate_weibodata
+from content_extractor import ExtractorFactory, BaseExtractor, update_socialmedial
 from multiprocessing import Lock, Queue, Process, cpu_count, Pool
 from pymongo.errors import DuplicateKeyError
 

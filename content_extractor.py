@@ -39,12 +39,14 @@ def extract(content):
         # print c
         return c
 
-def update_weibodata():
+def update_socialmedial(src, dist):
     '''
+    para src: the source collection name, string.
+    para dist: the destination collection name, string.
     the weibo data is a little bit different, weibo data is already in the database
     '''
     try:
-        cursor = db.weibo_data.find({'tokens': {
+        cursor = db[src].find({'tokens': {
             '$exists': 0
             }}, timeout=False)
         cursor.batch_size(100)
@@ -55,16 +57,16 @@ def update_weibodata():
                     text = '\n'.join([text, comment['comment']])
                 # logging.info(text)
                 tokens = tokenize(text)
-                logging.info(weibo['_id'])
+                logging.info('Parsing {} collection with the document id {}'.format(src, weibo['_id']))
                 # logging.info('updating the weibo %s' % weibo['value']['mid'])
                 weibo['text'] = text
                 weibo['tokens'] = tokens
                 weibo['timestamp'] = datetime.datetime.fromtimestamp(float(weibo['value']['created_at']))
                 # remove the _id key to remove the dulplicate key error
                 del weibo['_id']
-                # update the document to the weibo collection, not the original weibo_data collection
+                # update the document to the weibo collection, not the original src collection
                 # print(weibo)
-                db.weibo.update({'key': weibo['key']}, weibo, True) # use upsert to insert the document
+                db[dist].update({'key': weibo['key']}, weibo, True) # use upsert to insert the document
             except Exception as e:
                 logging.error(e)
                 logging.error('updating failure, press enter to continue...')
@@ -385,4 +387,4 @@ def test():
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
-    test()
+    # test()

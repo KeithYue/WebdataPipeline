@@ -47,12 +47,17 @@ def update_weibodata():
         cursor = db.weibo_data.find({'tokens': {
             '$exists': 0
             }}, timeout=False)
+        cursor.batch_size(100)
         for weibo in cursor:
             try:
-                tokens = tokenize(weibo['value']['content'])
+                text = weibo['value']['content']
+                for comment in weibo['value']['comment_comment']:
+                    text = '\n'.join([text, comment['comment']])
+                # logging.info(text)
+                tokens = tokenize(text)
                 logging.info(weibo['_id'])
                 # logging.info('updating the weibo %s' % weibo['value']['mid'])
-                weibo['text'] = weibo['value']['content']
+                weibo['text'] = text
                 weibo['tokens'] = tokens
                 weibo['timestamp'] = datetime.datetime.fromtimestamp(float(weibo['value']['created_at']))
                 # remove the _id key to remove the dulplicate key error

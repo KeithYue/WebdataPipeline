@@ -10,6 +10,7 @@ WebdataPipeline
 ### 使用方法
 1. `python main.py` 用来解析txt文本文件(不包括微博数据)
 2. `python parse_weibo.py` 用来解析在weibo_data collection里面的微博数据, 并将数据放入weibo collection中。
+3. `python parse_bbs.py` 用来解析在bbs_dadta collection中的bbs数据， 并将数据放在bbs collection中。
 
 ### Dependencies
 
